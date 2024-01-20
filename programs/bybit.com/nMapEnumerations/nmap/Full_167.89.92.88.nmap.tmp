@@ -1,0 +1,2558 @@
+Starting Nmap 7.93 ( https://nmap.org ) at 2023-11-15 00:37 IST
+Initiating Ping Scan at 00:37
+Scanning 167.89.92.88 [4 ports]
+Completed Ping Scan at 00:37, 0.27s elapsed (1 total hosts)
+Initiating System DNS resolution of 1 host. at 00:37
+Completed System DNS resolution of 1 host. at 00:37, 0.14s elapsed
+Initiating SYN Stealth Scan at 00:37
+Scanning o1.ptr7130.bybit.com (167.89.92.88) [65535 ports]
+Stats: 0:00:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.02% done
+Stats: 0:00:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.03% done
+Stats: 0:00:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.05% done
+Stats: 0:00:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.07% done
+Stats: 0:00:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.09% done
+Stats: 0:00:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.11% done
+Stats: 0:00:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.13% done
+Stats: 0:00:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.14% done
+Stats: 0:00:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.17% done
+Stats: 0:00:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.18% done
+Stats: 0:00:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.21% done
+Stats: 0:00:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.22% done
+Stats: 0:00:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.24% done
+Stats: 0:00:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.26% done
+Stats: 0:00:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.28% done
+Stats: 0:00:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.30% done
+Stats: 0:00:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.32% done
+Stats: 0:00:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.34% done
+Stats: 0:00:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.36% done
+Stats: 0:01:01 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.38% done
+Stats: 0:01:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.40% done
+Stats: 0:01:07 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.42% done
+Stats: 0:01:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.43% done
+Stats: 0:01:13 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.46% done
+Stats: 0:01:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.47% done
+Stats: 0:01:19 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.50% done
+Stats: 0:01:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.51% done
+Stats: 0:01:25 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.53% done
+Stats: 0:01:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.55% done
+Stats: 0:01:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.57% done
+Stats: 0:01:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.59% done
+Stats: 0:01:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.61% done
+Stats: 0:01:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.63% done
+Stats: 0:01:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.65% done
+Stats: 0:01:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.66% done
+Stats: 0:01:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.69% done
+Stats: 0:01:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.70% done
+Stats: 0:01:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.72% done
+Stats: 0:01:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.74% done
+Stats: 0:02:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.76% done
+Stats: 0:02:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.78% done
+Stats: 0:02:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.80% done
+Stats: 0:02:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.82% done
+Stats: 0:02:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.84% done
+Stats: 0:02:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.85% done
+Stats: 0:02:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.88% done
+Stats: 0:02:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.89% done
+Stats: 0:02:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.92% done
+Stats: 0:02:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.93% done
+Stats: 0:02:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.95% done
+Stats: 0:02:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.97% done
+Stats: 0:02:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.99% done
+Stats: 0:02:40 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.01% done; ETC: 04:58 (4:18:30 remaining)
+Stats: 0:02:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.03% done; ETC: 04:59 (4:19:26 remaining)
+Stats: 0:02:46 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.05% done; ETC: 04:58 (4:18:26 remaining)
+Stats: 0:02:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.07% done; ETC: 04:59 (4:19:20 remaining)
+Stats: 0:02:52 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.09% done; ETC: 04:58 (4:18:22 remaining)
+Stats: 0:02:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.11% done; ETC: 04:59 (4:19:14 remaining)
+Stats: 0:02:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.13% done; ETC: 04:58 (4:18:18 remaining)
+Stats: 0:03:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.14% done; ETC: 04:59 (4:19:08 remaining)
+Stats: 0:03:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.17% done; ETC: 04:58 (4:18:14 remaining)
+Stats: 0:03:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.18% done; ETC: 04:59 (4:19:02 remaining)
+Stats: 0:03:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.21% done; ETC: 04:58 (4:18:10 remaining)
+Stats: 0:03:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.22% done; ETC: 04:59 (4:18:56 remaining)
+Stats: 0:03:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.24% done; ETC: 04:58 (4:18:05 remaining)
+Stats: 0:03:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.26% done; ETC: 04:59 (4:18:50 remaining)
+Stats: 0:03:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.28% done; ETC: 04:58 (4:18:01 remaining)
+Stats: 0:03:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.30% done; ETC: 04:59 (4:18:44 remaining)
+Stats: 0:03:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.32% done; ETC: 04:58 (4:17:56 remaining)
+Stats: 0:03:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.34% done; ETC: 04:57 (4:17:25 remaining)
+Stats: 0:03:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.36% done; ETC: 04:58 (4:17:51 remaining)
+Stats: 0:03:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.37% done; ETC: 04:57 (4:17:21 remaining)
+Stats: 0:03:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.40% done; ETC: 04:58 (4:17:46 remaining)
+Stats: 0:03:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.41% done; ETC: 04:58 (4:17:17 remaining)
+Stats: 0:03:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.43% done; ETC: 04:58 (4:17:42 remaining)
+Stats: 0:03:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.45% done; ETC: 04:58 (4:17:12 remaining)
+Stats: 0:03:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.47% done; ETC: 04:58 (4:17:37 remaining)
+Stats: 0:03:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.49% done; ETC: 04:58 (4:17:08 remaining)
+Stats: 0:03:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.51% done; ETC: 04:58 (4:17:32 remaining)
+Stats: 0:04:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.53% done; ETC: 04:57 (4:16:56 remaining)
+Stats: 0:04:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.55% done; ETC: 04:58 (4:17:27 remaining)
+Stats: 0:04:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.56% done; ETC: 04:57 (4:16:52 remaining)
+Stats: 0:04:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.59% done; ETC: 04:58 (4:17:22 remaining)
+Stats: 0:04:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.60% done; ETC: 04:57 (4:16:40 remaining)
+Stats: 0:04:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.63% done; ETC: 04:58 (4:17:16 remaining)
+Stats: 0:04:19 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.65% done; ETC: 04:57 (4:16:38 remaining)
+Stats: 0:04:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.66% done; ETC: 04:58 (4:17:11 remaining)
+Stats: 0:04:25 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.69% done; ETC: 04:57 (4:16:33 remaining)
+Stats: 0:04:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.70% done; ETC: 04:58 (4:17:06 remaining)
+Stats: 0:04:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.72% done; ETC: 04:58 (4:16:29 remaining)
+Stats: 0:04:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.74% done; ETC: 04:58 (4:17:01 remaining)
+Stats: 0:04:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.76% done; ETC: 04:58 (4:16:24 remaining)
+Stats: 0:04:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.78% done; ETC: 04:58 (4:16:56 remaining)
+Stats: 0:04:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.80% done; ETC: 04:58 (4:16:20 remaining)
+Stats: 0:04:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.82% done; ETC: 04:58 (4:16:50 remaining)
+Stats: 0:04:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.84% done; ETC: 04:58 (4:16:15 remaining)
+Stats: 0:04:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.85% done; ETC: 04:58 (4:16:45 remaining)
+Stats: 0:04:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.88% done; ETC: 04:58 (4:16:10 remaining)
+Stats: 0:04:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.89% done; ETC: 04:58 (4:16:40 remaining)
+Stats: 0:05:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.92% done; ETC: 04:58 (4:16:06 remaining)
+Stats: 0:05:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.93% done; ETC: 04:57 (4:15:44 remaining)
+Stats: 0:05:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.95% done; ETC: 04:58 (4:16:01 remaining)
+Stats: 0:05:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.97% done; ETC: 04:57 (4:15:39 remaining)
+Stats: 0:05:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.99% done; ETC: 04:58 (4:15:56 remaining)
+Stats: 0:05:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.01% done; ETC: 04:57 (4:15:35 remaining)
+Stats: 0:05:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.03% done; ETC: 04:58 (4:15:51 remaining)
+Stats: 0:05:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.04% done; ETC: 04:57 (4:15:30 remaining)
+Stats: 0:05:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.07% done; ETC: 04:58 (4:15:46 remaining)
+Stats: 0:05:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.08% done; ETC: 04:57 (4:15:26 remaining)
+Stats: 0:05:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.11% done; ETC: 04:58 (4:15:41 remaining)
+Stats: 0:05:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.12% done; ETC: 04:57 (4:15:15 remaining)
+Stats: 0:05:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.14% done; ETC: 04:58 (4:15:36 remaining)
+Stats: 0:05:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.16% done; ETC: 04:57 (4:15:05 remaining)
+Stats: 0:05:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.18% done; ETC: 04:58 (4:15:31 remaining)
+Stats: 0:05:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.20% done; ETC: 04:57 (4:15:01 remaining)
+Stats: 0:05:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.22% done; ETC: 04:58 (4:15:26 remaining)
+Stats: 0:05:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.24% done; ETC: 04:57 (4:14:51 remaining)
+Stats: 0:05:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.26% done; ETC: 04:58 (4:15:21 remaining)
+Stats: 0:05:58 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.28% done; ETC: 04:57 (4:14:52 remaining)
+Stats: 0:06:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.30% done; ETC: 04:58 (4:15:16 remaining)
+Stats: 0:06:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.32% done; ETC: 04:57 (4:14:48 remaining)
+Stats: 0:06:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.33% done; ETC: 04:58 (4:15:11 remaining)
+Stats: 0:06:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.36% done; ETC: 04:57 (4:14:43 remaining)
+Stats: 0:06:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.37% done; ETC: 04:58 (4:15:06 remaining)
+Stats: 0:06:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.40% done; ETC: 04:57 (4:14:38 remaining)
+Stats: 0:06:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.41% done; ETC: 04:58 (4:15:01 remaining)
+Stats: 0:06:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.43% done; ETC: 04:57 (4:14:33 remaining)
+Stats: 0:06:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.45% done; ETC: 04:58 (4:14:55 remaining)
+Stats: 0:06:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.47% done; ETC: 04:57 (4:14:29 remaining)
+Stats: 0:06:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.49% done; ETC: 04:58 (4:14:50 remaining)
+Stats: 0:06:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.51% done; ETC: 04:57 (4:14:24 remaining)
+Stats: 0:06:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.53% done; ETC: 04:57 (4:14:06 remaining)
+Stats: 0:06:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.55% done; ETC: 04:58 (4:14:19 remaining)
+Stats: 0:06:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.56% done; ETC: 04:57 (4:14:02 remaining)
+Stats: 0:06:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.59% done; ETC: 04:58 (4:14:14 remaining)
+Stats: 0:06:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.60% done; ETC: 04:57 (4:13:57 remaining)
+Stats: 0:06:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.62% done; ETC: 04:58 (4:14:09 remaining)
+Stats: 0:06:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.64% done; ETC: 04:57 (4:13:52 remaining)
+Stats: 0:06:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.66% done; ETC: 04:58 (4:14:04 remaining)
+Stats: 0:07:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.68% done; ETC: 04:57 (4:13:43 remaining)
+Stats: 0:07:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.70% done; ETC: 04:58 (4:13:59 remaining)
+Stats: 0:07:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.72% done; ETC: 04:57 (4:13:38 remaining)
+Stats: 0:07:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.74% done; ETC: 04:58 (4:13:54 remaining)
+Stats: 0:07:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.76% done; ETC: 04:57 (4:13:29 remaining)
+Stats: 0:07:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.78% done; ETC: 04:58 (4:13:49 remaining)
+Stats: 0:07:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.79% done; ETC: 04:57 (4:13:24 remaining)
+Stats: 0:07:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.82% done; ETC: 04:58 (4:13:43 remaining)
+Stats: 0:07:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.83% done; ETC: 04:57 (4:13:15 remaining)
+Stats: 0:07:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.85% done; ETC: 04:58 (4:13:38 remaining)
+Stats: 0:07:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.87% done; ETC: 04:57 (4:12:54 remaining)
+Stats: 0:07:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.89% done; ETC: 04:58 (4:13:33 remaining)
+Stats: 0:07:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.91% done; ETC: 04:57 (4:13:10 remaining)
+Stats: 0:07:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.93% done; ETC: 04:58 (4:13:28 remaining)
+Stats: 0:07:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.95% done; ETC: 04:57 (4:13:05 remaining)
+Stats: 0:07:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.97% done; ETC: 04:58 (4:13:23 remaining)
+Stats: 0:07:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.99% done; ETC: 04:57 (4:13:00 remaining)
+Stats: 0:07:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.01% done; ETC: 04:58 (4:13:18 remaining)
+Stats: 0:07:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.03% done; ETC: 04:57 (4:12:55 remaining)
+Stats: 0:07:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.04% done; ETC: 04:58 (4:13:12 remaining)
+Stats: 0:08:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.07% done; ETC: 04:57 (4:12:50 remaining)
+Stats: 0:08:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.08% done; ETC: 04:57 (4:12:36 remaining)
+Stats: 0:08:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.11% done; ETC: 04:57 (4:12:45 remaining)
+Stats: 0:08:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.12% done; ETC: 04:57 (4:12:31 remaining)
+Stats: 0:08:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.14% done; ETC: 04:57 (4:12:40 remaining)
+Stats: 0:08:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.16% done; ETC: 04:57 (4:12:26 remaining)
+Stats: 0:08:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.18% done; ETC: 04:57 (4:12:35 remaining)
+Stats: 0:08:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.20% done; ETC: 04:57 (4:12:21 remaining)
+Stats: 0:08:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.22% done; ETC: 04:57 (4:12:30 remaining)
+Stats: 0:08:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.23% done; ETC: 04:57 (4:12:16 remaining)
+Stats: 0:08:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.26% done; ETC: 04:57 (4:12:25 remaining)
+Stats: 0:08:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.27% done; ETC: 04:57 (4:12:07 remaining)
+Stats: 0:08:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.30% done; ETC: 04:57 (4:12:20 remaining)
+Stats: 0:08:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.31% done; ETC: 04:57 (4:12:02 remaining)
+Stats: 0:08:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.33% done; ETC: 04:57 (4:12:14 remaining)
+Stats: 0:08:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.35% done; ETC: 04:57 (4:11:54 remaining)
+Stats: 0:08:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.37% done; ETC: 04:57 (4:12:09 remaining)
+Stats: 0:08:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.39% done; ETC: 04:57 (4:11:49 remaining)
+Stats: 0:08:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.41% done; ETC: 04:58 (4:12:04 remaining)
+Stats: 0:08:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.43% done; ETC: 04:57 (4:11:40 remaining)
+Stats: 0:09:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.45% done; ETC: 04:58 (4:11:59 remaining)
+Stats: 0:09:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.47% done; ETC: 04:57 (4:11:32 remaining)
+Stats: 0:09:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.49% done; ETC: 04:58 (4:11:54 remaining)
+Stats: 0:09:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.51% done; ETC: 04:57 (4:11:13 remaining)
+Stats: 0:09:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.52% done; ETC: 04:58 (4:11:48 remaining)
+Stats: 0:09:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.55% done; ETC: 04:57 (4:11:29 remaining)
+Stats: 0:09:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.56% done; ETC: 04:58 (4:11:43 remaining)
+Stats: 0:09:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.59% done; ETC: 04:57 (4:11:24 remaining)
+Stats: 0:09:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.60% done; ETC: 04:58 (4:11:38 remaining)
+Stats: 0:09:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.62% done; ETC: 04:57 (4:11:19 remaining)
+Stats: 0:09:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.64% done; ETC: 04:58 (4:11:32 remaining)
+Stats: 0:09:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.66% done; ETC: 04:57 (4:11:13 remaining)
+Stats: 0:09:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.68% done; ETC: 04:57 (4:11:01 remaining)
+Stats: 0:09:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.70% done; ETC: 04:57 (4:11:08 remaining)
+Stats: 0:09:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.72% done; ETC: 04:57 (4:10:56 remaining)
+Stats: 0:09:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.74% done; ETC: 04:57 (4:11:03 remaining)
+Stats: 0:09:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.75% done; ETC: 04:57 (4:10:51 remaining)
+Stats: 0:09:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.78% done; ETC: 04:57 (4:10:58 remaining)
+Stats: 0:09:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.79% done; ETC: 04:57 (4:10:46 remaining)
+Stats: 0:09:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.81% done; ETC: 04:57 (4:10:53 remaining)
+Stats: 0:10:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.83% done; ETC: 04:57 (4:10:41 remaining)
+Stats: 0:10:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.85% done; ETC: 04:57 (4:10:48 remaining)
+Stats: 0:10:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.87% done; ETC: 04:57 (4:10:32 remaining)
+Stats: 0:10:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.89% done; ETC: 04:57 (4:10:42 remaining)
+Stats: 0:10:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.91% done; ETC: 04:57 (4:10:24 remaining)
+Stats: 0:10:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.93% done; ETC: 04:57 (4:10:37 remaining)
+Stats: 0:10:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.95% done; ETC: 04:57 (4:10:19 remaining)
+Stats: 0:10:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.97% done; ETC: 04:57 (4:10:32 remaining)
+Stats: 0:10:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.98% done; ETC: 04:57 (4:10:11 remaining)
+Stats: 0:10:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.01% done; ETC: 04:57 (4:10:27 remaining)
+Stats: 0:10:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.02% done; ETC: 04:57 (4:10:06 remaining)
+Stats: 0:10:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.04% done; ETC: 04:57 (4:10:21 remaining)
+Stats: 0:10:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.06% done; ETC: 04:57 (4:09:58 remaining)
+Stats: 0:10:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.08% done; ETC: 04:57 (4:10:16 remaining)
+Stats: 0:10:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.10% done; ETC: 04:57 (4:09:53 remaining)
+Stats: 0:10:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.12% done; ETC: 04:57 (4:10:11 remaining)
+Stats: 0:10:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.14% done; ETC: 04:57 (4:09:36 remaining)
+Stats: 0:10:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.16% done; ETC: 04:57 (4:10:05 remaining)
+Stats: 0:10:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.18% done; ETC: 04:57 (4:09:48 remaining)
+Stats: 0:10:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.20% done; ETC: 04:57 (4:10:00 remaining)
+Stats: 0:11:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.22% done; ETC: 04:57 (4:09:43 remaining)
+Stats: 0:11:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.23% done; ETC: 04:58 (4:09:55 remaining)
+Stats: 0:11:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.26% done; ETC: 04:57 (4:09:38 remaining)
+Stats: 0:11:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.27% done; ETC: 04:57 (4:09:27 remaining)
+Stats: 0:11:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.30% done; ETC: 04:57 (4:09:33 remaining)
+Stats: 0:11:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.31% done; ETC: 04:57 (4:09:22 remaining)
+Stats: 0:11:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.33% done; ETC: 04:57 (4:09:27 remaining)
+Stats: 0:11:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.35% done; ETC: 04:57 (4:09:16 remaining)
+Stats: 0:11:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.37% done; ETC: 04:57 (4:09:22 remaining)
+Stats: 0:11:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.39% done; ETC: 04:57 (4:09:11 remaining)
+Stats: 0:11:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.41% done; ETC: 04:57 (4:09:17 remaining)
+Stats: 0:11:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.43% done; ETC: 04:57 (4:09:03 remaining)
+Stats: 0:11:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.45% done; ETC: 04:57 (4:09:11 remaining)
+Stats: 0:11:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.46% done; ETC: 04:57 (4:08:58 remaining)
+Stats: 0:11:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.49% done; ETC: 04:57 (4:09:06 remaining)
+Stats: 0:11:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.50% done; ETC: 04:57 (4:08:50 remaining)
+Stats: 0:11:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.52% done; ETC: 04:57 (4:09:01 remaining)
+Stats: 0:11:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.54% done; ETC: 04:57 (4:08:45 remaining)
+Stats: 0:11:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.56% done; ETC: 04:57 (4:08:55 remaining)
+Stats: 0:11:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.58% done; ETC: 04:57 (4:08:37 remaining)
+Stats: 0:12:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.60% done; ETC: 04:57 (4:08:50 remaining)
+Stats: 0:12:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.62% done; ETC: 04:57 (4:08:32 remaining)
+Stats: 0:12:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.64% done; ETC: 04:57 (4:08:45 remaining)
+Stats: 0:12:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.66% done; ETC: 04:57 (4:08:24 remaining)
+Stats: 0:12:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.68% done; ETC: 04:57 (4:08:39 remaining)
+Stats: 0:12:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.70% done; ETC: 04:57 (4:08:19 remaining)
+Stats: 0:12:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.72% done; ETC: 04:57 (4:08:34 remaining)
+Stats: 0:12:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.73% done; ETC: 04:57 (4:08:11 remaining)
+Stats: 0:12:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.75% done; ETC: 04:57 (4:08:29 remaining)
+Stats: 0:12:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.77% done; ETC: 04:57 (4:08:06 remaining)
+Stats: 0:12:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.79% done; ETC: 04:57 (4:08:23 remaining)
+Stats: 0:12:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.81% done; ETC: 04:57 (4:08:08 remaining)
+Stats: 0:12:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.83% done; ETC: 04:57 (4:07:58 remaining)
+Stats: 0:12:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.85% done; ETC: 04:57 (4:08:03 remaining)
+Stats: 0:12:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.87% done; ETC: 04:57 (4:07:53 remaining)
+Stats: 0:12:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.89% done; ETC: 04:57 (4:07:58 remaining)
+Stats: 0:12:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.91% done; ETC: 04:57 (4:07:48 remaining)
+Stats: 0:12:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.93% done; ETC: 04:57 (4:07:52 remaining)
+Stats: 0:12:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.94% done; ETC: 04:57 (4:07:42 remaining)
+Stats: 0:12:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.97% done; ETC: 04:57 (4:07:47 remaining)
+Stats: 0:13:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.98% done; ETC: 04:57 (4:07:35 remaining)
+Stats: 0:13:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.00% done; ETC: 04:57 (4:07:41 remaining)
+Stats: 0:13:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.02% done; ETC: 04:57 (4:07:29 remaining)
+Stats: 0:13:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.04% done; ETC: 04:57 (4:07:36 remaining)
+Stats: 0:13:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.06% done; ETC: 04:57 (4:07:24 remaining)
+Stats: 0:13:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.08% done; ETC: 04:57 (4:07:31 remaining)
+Stats: 0:13:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.10% done; ETC: 04:57 (4:07:16 remaining)
+Stats: 0:13:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.12% done; ETC: 04:57 (4:07:25 remaining)
+Stats: 0:13:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.14% done; ETC: 04:57 (4:07:11 remaining)
+Stats: 0:13:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.16% done; ETC: 04:57 (4:07:20 remaining)
+Stats: 0:13:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.18% done; ETC: 04:57 (4:07:04 remaining)
+Stats: 0:13:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.20% done; ETC: 04:57 (4:07:15 remaining)
+Stats: 0:13:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.21% done; ETC: 04:57 (4:06:58 remaining)
+Stats: 0:13:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.23% done; ETC: 04:57 (4:07:09 remaining)
+Stats: 0:13:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.25% done; ETC: 04:57 (4:06:51 remaining)
+Stats: 0:13:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.27% done; ETC: 04:57 (4:07:04 remaining)
+Stats: 0:13:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.29% done; ETC: 04:57 (4:06:45 remaining)
+Stats: 0:13:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.31% done; ETC: 04:57 (4:06:58 remaining)
+Stats: 0:13:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.33% done; ETC: 04:57 (4:06:38 remaining)
+Stats: 0:13:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.35% done; ETC: 04:57 (4:06:53 remaining)
+Stats: 0:14:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.37% done; ETC: 04:57 (4:06:33 remaining)
+Stats: 0:14:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.39% done; ETC: 04:57 (4:06:30 remaining)
+Stats: 0:14:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.41% done; ETC: 04:57 (4:06:25 remaining)
+Stats: 0:14:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.42% done; ETC: 04:57 (4:06:25 remaining)
+Stats: 0:14:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.45% done; ETC: 04:57 (4:06:15 remaining)
+Stats: 0:14:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.46% done; ETC: 04:57 (4:06:19 remaining)
+Stats: 0:14:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.49% done; ETC: 04:57 (4:06:23 remaining)
+Stats: 0:14:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.50% done; ETC: 04:57 (4:06:14 remaining)
+Stats: 0:14:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.52% done; ETC: 04:57 (4:06:18 remaining)
+Stats: 0:14:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.54% done; ETC: 04:57 (4:06:09 remaining)
+Stats: 0:14:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.56% done; ETC: 04:57 (4:06:12 remaining)
+Stats: 0:14:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.58% done; ETC: 04:57 (4:06:01 remaining)
+Stats: 0:14:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.60% done; ETC: 04:57 (4:06:07 remaining)
+Stats: 0:14:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.62% done; ETC: 04:57 (4:05:56 remaining)
+Stats: 0:14:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.64% done; ETC: 04:57 (4:06:01 remaining)
+Stats: 0:14:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.65% done; ETC: 04:57 (4:05:48 remaining)
+Stats: 0:14:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.68% done; ETC: 04:57 (4:05:56 remaining)
+Stats: 0:14:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.69% done; ETC: 04:57 (4:05:43 remaining)
+Stats: 0:14:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.71% done; ETC: 04:57 (4:05:50 remaining)
+Stats: 0:14:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.73% done; ETC: 04:57 (4:05:35 remaining)
+Stats: 0:15:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.75% done; ETC: 04:57 (4:05:45 remaining)
+Stats: 0:15:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.77% done; ETC: 04:57 (4:05:30 remaining)
+Stats: 0:15:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.79% done; ETC: 04:57 (4:05:40 remaining)
+Stats: 0:15:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.81% done; ETC: 04:57 (4:05:23 remaining)
+Stats: 0:15:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.83% done; ETC: 04:57 (4:05:34 remaining)
+Stats: 0:15:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.85% done; ETC: 04:57 (4:05:17 remaining)
+Stats: 0:15:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.87% done; ETC: 04:57 (4:05:29 remaining)
+Stats: 0:15:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.89% done; ETC: 04:57 (4:05:10 remaining)
+Stats: 0:15:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.91% done; ETC: 04:57 (4:05:23 remaining)
+Stats: 0:15:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.92% done; ETC: 04:57 (4:05:04 remaining)
+Stats: 0:15:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.94% done; ETC: 04:57 (4:05:02 remaining)
+Stats: 0:15:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.96% done; ETC: 04:57 (4:04:57 remaining)
+Stats: 0:15:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.98% done; ETC: 04:57 (4:04:56 remaining)
+Stats: 0:15:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.00% done; ETC: 04:57 (4:04:52 remaining)
+Stats: 0:15:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.02% done; ETC: 04:57 (4:04:51 remaining)
+Stats: 0:15:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.04% done; ETC: 04:57 (4:04:42 remaining)
+Stats: 0:15:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.06% done; ETC: 04:57 (4:04:46 remaining)
+Stats: 0:15:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.08% done; ETC: 04:57 (4:04:37 remaining)
+Stats: 0:15:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.10% done; ETC: 04:57 (4:04:40 remaining)
+Stats: 0:15:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.12% done; ETC: 04:57 (4:04:43 remaining)
+Stats: 0:16:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.13% done; ETC: 04:57 (4:04:33 remaining)
+Stats: 0:16:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.16% done; ETC: 04:57 (4:04:38 remaining)
+Stats: 0:16:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.17% done; ETC: 04:57 (4:04:27 remaining)
+Stats: 0:16:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.20% done; ETC: 04:57 (4:04:32 remaining)
+Stats: 0:16:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.21% done; ETC: 04:57 (4:04:20 remaining)
+Stats: 0:16:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.23% done; ETC: 04:57 (4:04:27 remaining)
+Stats: 0:16:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.25% done; ETC: 04:57 (4:04:15 remaining)
+Stats: 0:16:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.27% done; ETC: 04:57 (4:04:21 remaining)
+Stats: 0:16:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.29% done; ETC: 04:57 (4:04:07 remaining)
+Stats: 0:16:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.31% done; ETC: 04:57 (4:04:16 remaining)
+Stats: 0:16:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.33% done; ETC: 04:57 (4:04:02 remaining)
+Stats: 0:16:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.35% done; ETC: 04:57 (4:04:10 remaining)
+Stats: 0:16:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.37% done; ETC: 04:57 (4:03:55 remaining)
+Stats: 0:16:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.39% done; ETC: 04:57 (4:04:05 remaining)
+Stats: 0:16:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.40% done; ETC: 04:57 (4:03:49 remaining)
+Stats: 0:16:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.42% done; ETC: 04:57 (4:03:59 remaining)
+Stats: 0:16:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.44% done; ETC: 04:57 (4:03:44 remaining)
+Stats: 0:16:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.46% done; ETC: 04:57 (4:03:54 remaining)
+Stats: 0:16:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.48% done; ETC: 04:57 (4:03:37 remaining)
+Stats: 0:16:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.50% done; ETC: 04:57 (4:03:34 remaining)
+Stats: 0:17:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.52% done; ETC: 04:57 (4:03:31 remaining)
+Stats: 0:17:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.54% done; ETC: 04:57 (4:03:29 remaining)
+Stats: 0:17:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.56% done; ETC: 04:57 (4:03:24 remaining)
+Stats: 0:17:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.58% done; ETC: 04:57 (4:03:23 remaining)
+Stats: 0:17:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.60% done; ETC: 04:57 (4:03:19 remaining)
+Stats: 0:17:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.61% done; ETC: 04:57 (4:03:18 remaining)
+Stats: 0:17:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.64% done; ETC: 04:57 (4:03:11 remaining)
+Stats: 0:17:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.65% done; ETC: 04:57 (4:03:12 remaining)
+Stats: 0:17:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.67% done; ETC: 04:57 (4:03:04 remaining)
+Stats: 0:17:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.69% done; ETC: 04:57 (4:03:05 remaining)
+Stats: 0:17:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.71% done; ETC: 04:57 (4:02:57 remaining)
+Stats: 0:17:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.73% done; ETC: 04:57 (4:03:00 remaining)
+Stats: 0:17:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.75% done; ETC: 04:57 (4:03:04 remaining)
+Stats: 0:17:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.77% done; ETC: 04:57 (4:02:52 remaining)
+Stats: 0:17:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.79% done; ETC: 04:57 (4:02:58 remaining)
+Stats: 0:17:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.81% done; ETC: 04:57 (4:02:47 remaining)
+Stats: 0:17:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.83% done; ETC: 04:57 (4:02:53 remaining)
+Stats: 0:17:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.85% done; ETC: 04:57 (4:02:40 remaining)
+Stats: 0:17:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.87% done; ETC: 04:57 (4:02:47 remaining)
+Stats: 0:17:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.88% done; ETC: 04:57 (4:02:34 remaining)
+Stats: 0:18:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.90% done; ETC: 04:57 (4:02:42 remaining)
+Stats: 0:18:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.92% done; ETC: 04:57 (4:02:27 remaining)
+Stats: 0:18:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.94% done; ETC: 04:57 (4:02:36 remaining)
+Stats: 0:18:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.96% done; ETC: 04:57 (4:02:22 remaining)
+Stats: 0:18:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.98% done; ETC: 04:57 (4:02:30 remaining)
+Stats: 0:18:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.00% done; ETC: 04:57 (4:02:14 remaining)
+Stats: 0:18:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.02% done; ETC: 04:57 (4:02:25 remaining)
+Stats: 0:18:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.04% done; ETC: 04:57 (4:02:09 remaining)
+Stats: 0:18:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.06% done; ETC: 04:57 (4:02:06 remaining)
+Stats: 0:18:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.08% done; ETC: 04:57 (4:02:03 remaining)
+Stats: 0:18:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.10% done; ETC: 04:57 (4:02:01 remaining)
+Stats: 0:18:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.12% done; ETC: 04:57 (4:01:56 remaining)
+Stats: 0:18:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.13% done; ETC: 04:57 (4:01:55 remaining)
+Stats: 0:18:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.15% done; ETC: 04:57 (4:01:51 remaining)
+Stats: 0:18:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.17% done; ETC: 04:57 (4:01:50 remaining)
+Stats: 0:18:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.19% done; ETC: 04:57 (4:01:44 remaining)
+Stats: 0:18:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.21% done; ETC: 04:57 (4:01:43 remaining)
+Stats: 0:18:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.23% done; ETC: 04:57 (4:01:38 remaining)
+Stats: 0:18:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.25% done; ETC: 04:57 (4:01:37 remaining)
+Stats: 0:18:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.27% done; ETC: 04:57 (4:01:31 remaining)
+Stats: 0:19:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.29% done; ETC: 04:57 (4:01:32 remaining)
+Stats: 0:19:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.31% done; ETC: 04:57 (4:01:26 remaining)
+Stats: 0:19:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.33% done; ETC: 04:57 (4:01:25 remaining)
+Stats: 0:19:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.35% done; ETC: 04:57 (4:01:30 remaining)
+Stats: 0:19:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.36% done; ETC: 04:57 (4:01:19 remaining)
+Stats: 0:19:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.39% done; ETC: 04:57 (4:01:24 remaining)
+Stats: 0:19:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.40% done; ETC: 04:57 (4:01:12 remaining)
+Stats: 0:19:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.42% done; ETC: 04:57 (4:01:18 remaining)
+Stats: 0:19:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.44% done; ETC: 04:57 (4:01:06 remaining)
+Stats: 0:19:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.46% done; ETC: 04:57 (4:01:13 remaining)
+Stats: 0:19:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.48% done; ETC: 04:57 (4:00:59 remaining)
+Stats: 0:19:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.50% done; ETC: 04:57 (4:01:07 remaining)
+Stats: 0:19:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.52% done; ETC: 04:57 (4:00:54 remaining)
+Stats: 0:19:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.54% done; ETC: 04:57 (4:01:02 remaining)
+Stats: 0:19:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.56% done; ETC: 04:57 (4:00:48 remaining)
+Stats: 0:19:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.58% done; ETC: 04:57 (4:00:56 remaining)
+Stats: 0:19:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.60% done; ETC: 04:57 (4:00:41 remaining)
+Stats: 0:19:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.61% done; ETC: 04:57 (4:00:39 remaining)
+Stats: 0:19:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.63% done; ETC: 04:57 (4:00:36 remaining)
+Stats: 0:19:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.65% done; ETC: 04:57 (4:00:33 remaining)
+Stats: 0:20:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.67% done; ETC: 04:57 (4:00:29 remaining)
+Stats: 0:20:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.69% done; ETC: 04:57 (4:00:28 remaining)
+Stats: 0:20:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.71% done; ETC: 04:57 (4:00:23 remaining)
+Stats: 0:20:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.73% done; ETC: 04:57 (4:00:22 remaining)
+Stats: 0:20:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.75% done; ETC: 04:57 (4:00:16 remaining)
+Stats: 0:20:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.77% done; ETC: 04:57 (4:00:15 remaining)
+Stats: 0:20:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.79% done; ETC: 04:57 (4:00:11 remaining)
+Stats: 0:20:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.81% done; ETC: 04:57 (4:00:09 remaining)
+Stats: 0:20:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.83% done; ETC: 04:57 (4:00:04 remaining)
+Stats: 0:20:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.84% done; ETC: 04:57 (4:00:04 remaining)
+Stats: 0:20:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.86% done; ETC: 04:57 (3:59:58 remaining)
+Stats: 0:20:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.88% done; ETC: 04:57 (3:59:57 remaining)
+Stats: 0:20:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.90% done; ETC: 04:57 (3:59:51 remaining)
+Stats: 0:20:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.92% done; ETC: 04:57 (3:59:51 remaining)
+Stats: 0:20:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.94% done; ETC: 04:57 (3:59:46 remaining)
+Stats: 0:20:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.96% done; ETC: 04:57 (3:59:44 remaining)
+Stats: 0:20:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.98% done; ETC: 04:57 (3:59:50 remaining)
+Stats: 0:20:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.00% done; ETC: 04:57 (3:59:39 remaining)
+Stats: 0:20:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.02% done; ETC: 04:57 (3:59:45 remaining)
+Stats: 0:20:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.04% done; ETC: 04:57 (3:59:32 remaining)
+Stats: 0:21:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.06% done; ETC: 04:57 (3:59:39 remaining)
+Stats: 0:21:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.08% done; ETC: 04:57 (3:59:26 remaining)
+Stats: 0:21:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.09% done; ETC: 04:57 (3:59:33 remaining)
+Stats: 0:21:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.11% done; ETC: 04:57 (3:59:19 remaining)
+Stats: 0:21:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.13% done; ETC: 04:57 (3:59:28 remaining)
+Stats: 0:21:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.15% done; ETC: 04:57 (3:59:14 remaining)
+Stats: 0:21:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.17% done; ETC: 04:57 (3:59:11 remaining)
+Stats: 0:21:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.19% done; ETC: 04:57 (3:59:08 remaining)
+Stats: 0:21:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.21% done; ETC: 04:57 (3:59:06 remaining)
+Stats: 0:21:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.23% done; ETC: 04:57 (3:59:01 remaining)
+Stats: 0:21:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.25% done; ETC: 04:57 (3:59:00 remaining)
+Stats: 0:21:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.27% done; ETC: 04:57 (3:58:56 remaining)
+Stats: 0:21:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.29% done; ETC: 04:57 (3:58:54 remaining)
+Stats: 0:21:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.31% done; ETC: 04:57 (3:58:49 remaining)
+Stats: 0:21:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.32% done; ETC: 04:57 (3:58:47 remaining)
+Stats: 0:21:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.34% done; ETC: 04:57 (3:58:43 remaining)
+Stats: 0:21:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.36% done; ETC: 04:57 (3:58:42 remaining)
+Stats: 0:21:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.38% done; ETC: 04:57 (3:58:36 remaining)
+Stats: 0:21:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.40% done; ETC: 04:57 (3:58:35 remaining)
+Stats: 0:21:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.42% done; ETC: 04:57 (3:58:31 remaining)
+Stats: 0:22:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.44% done; ETC: 04:57 (3:58:29 remaining)
+Stats: 0:22:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.46% done; ETC: 04:57 (3:58:24 remaining)
+Stats: 0:22:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.48% done; ETC: 04:57 (3:58:24 remaining)
+Stats: 0:22:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.50% done; ETC: 04:57 (3:58:18 remaining)
+Stats: 0:22:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.52% done; ETC: 04:57 (3:58:17 remaining)
+Stats: 0:22:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.54% done; ETC: 04:57 (3:58:22 remaining)
+Stats: 0:22:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.55% done; ETC: 04:57 (3:58:11 remaining)
+Stats: 0:22:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.58% done; ETC: 04:57 (3:58:16 remaining)
+Stats: 0:22:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.59% done; ETC: 04:57 (3:58:04 remaining)
+Stats: 0:22:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.61% done; ETC: 04:57 (3:58:11 remaining)
+Stats: 0:22:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.63% done; ETC: 04:57 (3:57:59 remaining)
+Stats: 0:22:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.65% done; ETC: 04:57 (3:58:05 remaining)
+Stats: 0:22:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.67% done; ETC: 04:57 (3:57:52 remaining)
+Stats: 0:22:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.69% done; ETC: 04:57 (3:57:49 remaining)
+Stats: 0:22:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.71% done; ETC: 04:57 (3:57:46 remaining)
+Stats: 0:22:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.73% done; ETC: 04:57 (3:57:44 remaining)
+Stats: 0:22:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.75% done; ETC: 04:57 (3:57:39 remaining)
+Stats: 0:22:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.77% done; ETC: 04:57 (3:57:38 remaining)
+Stats: 0:22:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.79% done; ETC: 04:57 (3:57:34 remaining)
+Stats: 0:22:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.80% done; ETC: 04:57 (3:57:32 remaining)
+Stats: 0:23:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.82% done; ETC: 04:57 (3:57:28 remaining)
+Stats: 0:23:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.84% done; ETC: 04:57 (3:57:27 remaining)
+Stats: 0:23:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.86% done; ETC: 04:57 (3:57:21 remaining)
+Stats: 0:23:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.88% done; ETC: 04:57 (3:57:20 remaining)
+Stats: 0:23:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.90% done; ETC: 04:57 (3:57:16 remaining)
+Stats: 0:23:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.92% done; ETC: 04:57 (3:57:14 remaining)
+Stats: 0:23:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.94% done; ETC: 04:57 (3:57:09 remaining)
+Stats: 0:23:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.96% done; ETC: 04:57 (3:57:07 remaining)
+Stats: 0:23:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.98% done; ETC: 04:57 (3:57:03 remaining)
+Stats: 0:23:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.00% done; ETC: 04:57 (3:57:02 remaining)
+Stats: 0:23:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.02% done; ETC: 04:57 (3:56:56 remaining)
+Stats: 0:23:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.04% done; ETC: 04:57 (3:56:55 remaining)
+Stats: 0:23:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.06% done; ETC: 04:57 (3:56:51 remaining)
+Stats: 0:23:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.07% done; ETC: 04:57 (3:56:49 remaining)
+Stats: 0:23:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.09% done; ETC: 04:57 (3:56:54 remaining)
+Stats: 0:23:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.11% done; ETC: 04:57 (3:56:43 remaining)
+Stats: 0:23:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.13% done; ETC: 04:57 (3:56:48 remaining)
+Stats: 0:23:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.15% done; ETC: 04:57 (3:56:37 remaining)
+Stats: 0:23:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.17% done; ETC: 04:57 (3:56:43 remaining)
+Stats: 0:23:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.19% done; ETC: 04:57 (3:56:31 remaining)
+Stats: 0:24:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.21% done; ETC: 04:57 (3:56:37 remaining)
+Stats: 0:24:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.23% done; ETC: 04:57 (3:56:25 remaining)
+Stats: 0:24:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.25% done; ETC: 04:57 (3:56:22 remaining)
+Stats: 0:24:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.27% done; ETC: 04:57 (3:56:19 remaining)
+Stats: 0:24:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.29% done; ETC: 04:57 (3:56:16 remaining)
+Stats: 0:24:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.30% done; ETC: 04:57 (3:56:12 remaining)
+Stats: 0:24:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.32% done; ETC: 04:57 (3:56:11 remaining)
+Stats: 0:24:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.34% done; ETC: 04:57 (3:56:07 remaining)
+Stats: 0:24:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.36% done; ETC: 04:57 (3:56:05 remaining)
+Stats: 0:24:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.38% done; ETC: 04:57 (3:56:00 remaining)
+Stats: 0:24:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.40% done; ETC: 04:57 (3:55:58 remaining)
+Stats: 0:24:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.42% done; ETC: 04:57 (3:55:54 remaining)
+Stats: 0:24:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.44% done; ETC: 04:57 (3:55:53 remaining)
+Stats: 0:24:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.46% done; ETC: 04:57 (3:55:47 remaining)
+Stats: 0:24:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.48% done; ETC: 04:57 (3:55:46 remaining)
+Stats: 0:24:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.50% done; ETC: 04:57 (3:55:42 remaining)
+Stats: 0:24:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.52% done; ETC: 04:57 (3:55:40 remaining)
+Stats: 0:24:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.54% done; ETC: 04:57 (3:55:36 remaining)
+Stats: 0:24:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.55% done; ETC: 04:57 (3:55:34 remaining)
+Stats: 0:24:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.57% done; ETC: 04:57 (3:55:29 remaining)
+Stats: 0:25:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.59% done; ETC: 04:57 (3:55:28 remaining)
+Stats: 0:25:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.61% done; ETC: 04:57 (3:55:24 remaining)
+Stats: 0:25:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.63% done; ETC: 04:57 (3:55:22 remaining)
+Stats: 0:25:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.65% done; ETC: 04:57 (3:55:26 remaining)
+Stats: 0:25:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.67% done; ETC: 04:57 (3:55:15 remaining)
+Stats: 0:25:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.69% done; ETC: 04:57 (3:55:21 remaining)
+Stats: 0:25:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.71% done; ETC: 04:57 (3:55:10 remaining)
+Stats: 0:25:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.73% done; ETC: 04:57 (3:55:15 remaining)
+Stats: 0:25:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.75% done; ETC: 04:57 (3:55:04 remaining)
+Stats: 0:25:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.77% done; ETC: 04:57 (3:55:09 remaining)
+Stats: 0:25:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.78% done; ETC: 04:57 (3:54:57 remaining)
+Stats: 0:25:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.80% done; ETC: 04:57 (3:54:54 remaining)
+Stats: 0:25:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.82% done; ETC: 04:57 (3:54:52 remaining)
+Stats: 0:25:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.84% done; ETC: 04:57 (3:54:49 remaining)
+Stats: 0:25:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.86% done; ETC: 04:57 (3:54:45 remaining)
+Stats: 0:25:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.88% done; ETC: 04:57 (3:54:43 remaining)
+Stats: 0:25:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.90% done; ETC: 04:57 (3:54:39 remaining)
+Stats: 0:25:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.92% done; ETC: 04:57 (3:54:38 remaining)
+Stats: 0:25:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.94% done; ETC: 04:57 (3:54:32 remaining)
+Stats: 0:25:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.96% done; ETC: 04:57 (3:54:31 remaining)
+Stats: 0:26:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.98% done; ETC: 04:57 (3:54:27 remaining)
+Stats: 0:26:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.00% done; ETC: 04:57 (3:54:25 remaining)
+Stats: 0:26:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.02% done; ETC: 04:57 (3:54:20 remaining)
+Stats: 0:26:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.03% done; ETC: 04:57 (3:54:18 remaining)
+Stats: 0:26:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.05% done; ETC: 04:57 (3:54:14 remaining)
+Stats: 0:26:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.07% done; ETC: 04:57 (3:54:13 remaining)
+Stats: 0:26:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.09% done; ETC: 04:57 (3:54:08 remaining)
+Stats: 0:26:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.11% done; ETC: 04:57 (3:54:06 remaining)
+Stats: 0:26:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.13% done; ETC: 04:57 (3:54:02 remaining)
+Stats: 0:26:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.15% done; ETC: 04:57 (3:54:00 remaining)
+Stats: 0:26:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.17% done; ETC: 04:57 (3:54:04 remaining)
+Stats: 0:26:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.19% done; ETC: 04:57 (3:53:55 remaining)
+Stats: 0:26:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.21% done; ETC: 04:57 (3:53:58 remaining)
+Stats: 0:26:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.23% done; ETC: 04:57 (3:53:48 remaining)
+Stats: 0:26:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.25% done; ETC: 04:57 (3:53:53 remaining)
+Stats: 0:26:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.26% done; ETC: 04:57 (3:53:42 remaining)
+Stats: 0:26:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.28% done; ETC: 04:57 (3:53:47 remaining)
+Stats: 0:26:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.30% done; ETC: 04:57 (3:53:36 remaining)
+Stats: 0:26:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.32% done; ETC: 04:57 (3:53:41 remaining)
+Stats: 0:26:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.34% done; ETC: 04:57 (3:53:30 remaining)
+Stats: 0:27:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.36% done; ETC: 04:57 (3:53:27 remaining)
+Stats: 0:27:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.38% done; ETC: 04:57 (3:53:23 remaining)
+Stats: 0:27:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.40% done; ETC: 04:57 (3:53:21 remaining)
+Stats: 0:27:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.42% done; ETC: 04:57 (3:53:18 remaining)
+Stats: 0:27:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.44% done; ETC: 04:57 (3:53:16 remaining)
+Stats: 0:27:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.46% done; ETC: 04:57 (3:53:11 remaining)
+Stats: 0:27:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.48% done; ETC: 04:57 (3:53:10 remaining)
+Stats: 0:27:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.50% done; ETC: 04:57 (3:53:05 remaining)
+Stats: 0:27:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.51% done; ETC: 04:57 (3:53:03 remaining)
+Stats: 0:27:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.53% done; ETC: 04:57 (3:52:59 remaining)
+Stats: 0:27:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.55% done; ETC: 04:57 (3:52:58 remaining)
+Stats: 0:27:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.57% done; ETC: 04:57 (3:52:53 remaining)
+Stats: 0:27:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.59% done; ETC: 04:57 (3:52:51 remaining)
+Stats: 0:27:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.61% done; ETC: 04:57 (3:52:47 remaining)
+Stats: 0:27:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.63% done; ETC: 04:57 (3:52:45 remaining)
+Stats: 0:27:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.65% done; ETC: 04:57 (3:52:40 remaining)
+Stats: 0:27:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.67% done; ETC: 04:57 (3:52:39 remaining)
+Stats: 0:27:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.69% done; ETC: 04:57 (3:52:35 remaining)
+Stats: 0:27:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.71% done; ETC: 04:57 (3:52:33 remaining)
+Stats: 0:27:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.73% done; ETC: 04:57 (3:52:36 remaining)
+Stats: 0:28:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.75% done; ETC: 04:57 (3:52:26 remaining)
+Stats: 0:28:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.77% done; ETC: 04:57 (3:52:31 remaining)
+Stats: 0:28:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.78% done; ETC: 04:57 (3:52:21 remaining)
+Stats: 0:28:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.80% done; ETC: 04:57 (3:52:25 remaining)
+Stats: 0:28:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.82% done; ETC: 04:57 (3:52:15 remaining)
+Stats: 0:28:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.84% done; ETC: 04:57 (3:52:19 remaining)
+Stats: 0:28:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.86% done; ETC: 04:57 (3:52:08 remaining)
+Stats: 0:28:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.88% done; ETC: 04:57 (3:52:05 remaining)
+Stats: 0:28:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.90% done; ETC: 04:57 (3:52:03 remaining)
+Stats: 0:28:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.92% done; ETC: 04:57 (3:52:00 remaining)
+Stats: 0:28:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.94% done; ETC: 04:57 (3:51:56 remaining)
+Stats: 0:28:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.96% done; ETC: 04:57 (3:51:54 remaining)
+Stats: 0:28:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.98% done; ETC: 04:57 (3:51:50 remaining)
+Stats: 0:28:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.99% done; ETC: 04:57 (3:51:49 remaining)
+Stats: 0:28:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.01% done; ETC: 04:57 (3:51:44 remaining)
+Stats: 0:28:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.03% done; ETC: 04:57 (3:51:43 remaining)
+Stats: 0:28:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.05% done; ETC: 04:57 (3:51:38 remaining)
+Stats: 0:28:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.07% done; ETC: 04:57 (3:51:36 remaining)
+Stats: 0:28:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.09% done; ETC: 04:57 (3:51:31 remaining)
+Stats: 0:28:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.11% done; ETC: 04:57 (3:51:31 remaining)
+Stats: 0:29:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.13% done; ETC: 04:57 (3:51:26 remaining)
+Stats: 0:29:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.15% done; ETC: 04:57 (3:51:24 remaining)
+Stats: 0:29:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.17% done; ETC: 04:57 (3:51:19 remaining)
+Stats: 0:29:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.19% done; ETC: 04:57 (3:51:18 remaining)
+Stats: 0:29:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.21% done; ETC: 04:57 (3:51:13 remaining)
+Stats: 0:29:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.23% done; ETC: 04:57 (3:51:11 remaining)
+Stats: 0:29:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.25% done; ETC: 04:57 (3:51:14 remaining)
+Stats: 0:29:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.26% done; ETC: 04:57 (3:51:06 remaining)
+Stats: 0:29:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.28% done; ETC: 04:57 (3:51:09 remaining)
+Stats: 0:29:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.30% done; ETC: 04:57 (3:50:59 remaining)
+Stats: 0:29:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.32% done; ETC: 04:57 (3:51:03 remaining)
+Stats: 0:29:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.34% done; ETC: 04:57 (3:50:53 remaining)
+Stats: 0:29:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.36% done; ETC: 04:57 (3:50:57 remaining)
+Stats: 0:29:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.38% done; ETC: 04:57 (3:50:47 remaining)
+Stats: 0:29:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.40% done; ETC: 04:57 (3:50:52 remaining)
+Stats: 0:29:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.42% done; ETC: 04:57 (3:50:41 remaining)
+Stats: 0:29:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.44% done; ETC: 04:57 (3:50:38 remaining)
+Stats: 0:29:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.46% done; ETC: 04:57 (3:50:34 remaining)
+Stats: 0:29:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.47% done; ETC: 04:57 (3:50:33 remaining)
+Stats: 0:29:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.49% done; ETC: 04:57 (3:50:29 remaining)
+Stats: 0:30:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.51% done; ETC: 04:57 (3:50:27 remaining)
+Stats: 0:30:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.53% done; ETC: 04:57 (3:50:23 remaining)
+Stats: 0:30:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.55% done; ETC: 04:57 (3:50:21 remaining)
+Stats: 0:30:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.57% done; ETC: 04:57 (3:50:16 remaining)
+Stats: 0:30:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.59% done; ETC: 04:57 (3:50:16 remaining)
+Stats: 0:30:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.61% done; ETC: 04:57 (3:50:11 remaining)
+Stats: 0:30:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.63% done; ETC: 04:57 (3:50:09 remaining)
+Stats: 0:30:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.65% done; ETC: 04:57 (3:50:04 remaining)
+Stats: 0:30:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.67% done; ETC: 04:57 (3:50:03 remaining)
+Stats: 0:30:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.69% done; ETC: 04:57 (3:49:58 remaining)
+Stats: 0:30:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.71% done; ETC: 04:57 (3:49:57 remaining)
+Stats: 0:30:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.73% done; ETC: 04:57 (3:49:52 remaining)
+Stats: 0:30:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.74% done; ETC: 04:57 (3:49:51 remaining)
+Stats: 0:30:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.76% done; ETC: 04:57 (3:49:46 remaining)
+Stats: 0:30:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.78% done; ETC: 04:57 (3:49:44 remaining)
+Stats: 0:30:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.80% done; ETC: 04:57 (3:49:47 remaining)
+Stats: 0:30:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.82% done; ETC: 04:57 (3:49:39 remaining)
+Stats: 0:30:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.84% done; ETC: 04:57 (3:49:41 remaining)
+Stats: 0:30:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.86% done; ETC: 04:57 (3:49:32 remaining)
+Stats: 0:30:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.88% done; ETC: 04:57 (3:49:35 remaining)
+Stats: 0:31:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.90% done; ETC: 04:57 (3:49:26 remaining)
+Stats: 0:31:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.92% done; ETC: 04:57 (3:49:30 remaining)
+Stats: 0:31:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.94% done; ETC: 04:57 (3:49:20 remaining)
+Stats: 0:31:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.96% done; ETC: 04:57 (3:49:24 remaining)
+Stats: 0:31:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.97% done; ETC: 04:57 (3:49:14 remaining)
+Stats: 0:31:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.99% done; ETC: 04:57 (3:49:11 remaining)
+Stats: 0:31:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.01% done; ETC: 04:57 (3:49:07 remaining)
+Stats: 0:31:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.03% done; ETC: 04:57 (3:49:05 remaining)
+Stats: 0:31:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.05% done; ETC: 04:57 (3:49:02 remaining)
+Stats: 0:31:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.07% done; ETC: 04:57 (3:49:00 remaining)
+Stats: 0:31:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.09% done; ETC: 04:57 (3:48:56 remaining)
+Stats: 0:31:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.11% done; ETC: 04:57 (3:48:54 remaining)
+Stats: 0:31:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.13% done; ETC: 04:57 (3:48:49 remaining)
+Stats: 0:31:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.15% done; ETC: 04:57 (3:48:47 remaining)
+Stats: 0:31:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.17% done; ETC: 04:57 (3:48:44 remaining)
+Stats: 0:31:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.19% done; ETC: 04:57 (3:48:42 remaining)
+Stats: 0:31:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.21% done; ETC: 04:57 (3:48:37 remaining)
+Stats: 0:31:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.22% done; ETC: 04:57 (3:48:36 remaining)
+Stats: 0:31:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.24% done; ETC: 04:57 (3:48:31 remaining)
+Stats: 0:31:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.26% done; ETC: 04:57 (3:48:29 remaining)
+Stats: 0:32:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.28% done; ETC: 04:57 (3:48:25 remaining)
+Stats: 0:32:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.30% done; ETC: 04:57 (3:48:24 remaining)
+Stats: 0:32:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.32% done; ETC: 04:57 (3:48:19 remaining)
+Stats: 0:32:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.34% done; ETC: 04:57 (3:48:17 remaining)
+Stats: 0:32:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.36% done; ETC: 04:57 (3:48:19 remaining)
+Stats: 0:32:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.38% done; ETC: 04:57 (3:48:11 remaining)
+Stats: 0:32:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.40% done; ETC: 04:57 (3:48:14 remaining)
+Stats: 0:32:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.42% done; ETC: 04:57 (3:48:05 remaining)
+Stats: 0:32:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.44% done; ETC: 04:57 (3:48:08 remaining)
+Stats: 0:32:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.45% done; ETC: 04:57 (3:47:59 remaining)
+Stats: 0:32:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.47% done; ETC: 04:57 (3:48:02 remaining)
+Stats: 0:32:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.49% done; ETC: 04:57 (3:47:53 remaining)
+Stats: 0:32:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.51% done; ETC: 04:57 (3:47:56 remaining)
+Stats: 0:32:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.53% done; ETC: 04:57 (3:47:47 remaining)
+Stats: 0:32:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.55% done; ETC: 04:57 (3:47:44 remaining)
+Stats: 0:32:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.57% done; ETC: 04:57 (3:47:41 remaining)
+Stats: 0:32:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.59% done; ETC: 04:57 (3:47:38 remaining)
+Stats: 0:32:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.61% done; ETC: 04:57 (3:47:34 remaining)
+Stats: 0:32:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.63% done; ETC: 04:57 (3:47:32 remaining)
+Stats: 0:32:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.65% done; ETC: 04:57 (3:47:29 remaining)
+Stats: 0:33:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.66% done; ETC: 04:57 (3:47:27 remaining)
+Stats: 0:33:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.68% done; ETC: 04:57 (3:47:23 remaining)
+Stats: 0:33:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.70% done; ETC: 04:57 (3:47:20 remaining)
+Stats: 0:33:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.72% done; ETC: 04:57 (3:47:16 remaining)
+Stats: 0:33:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.74% done; ETC: 04:57 (3:47:14 remaining)
+Stats: 0:33:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.76% done; ETC: 04:57 (3:47:11 remaining)
+Stats: 0:33:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.78% done; ETC: 04:57 (3:47:09 remaining)
+Stats: 0:33:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.80% done; ETC: 04:57 (3:47:04 remaining)
+Stats: 0:33:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.82% done; ETC: 04:57 (3:47:02 remaining)
+Stats: 0:33:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.84% done; ETC: 04:57 (3:46:58 remaining)
+Stats: 0:33:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.86% done; ETC: 04:57 (3:46:56 remaining)
+Stats: 0:33:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.88% done; ETC: 04:57 (3:46:52 remaining)
+Stats: 0:33:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.90% done; ETC: 04:57 (3:46:50 remaining)
+Stats: 0:33:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.92% done; ETC: 04:57 (3:46:46 remaining)
+Stats: 0:33:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.93% done; ETC: 04:57 (3:46:44 remaining)
+Stats: 0:33:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.95% done; ETC: 04:57 (3:46:46 remaining)
+Stats: 0:33:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.97% done; ETC: 04:57 (3:46:38 remaining)
+Stats: 0:33:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.99% done; ETC: 04:57 (3:46:40 remaining)
+Stats: 0:33:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.01% done; ETC: 04:57 (3:46:32 remaining)
+Stats: 0:33:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.03% done; ETC: 04:57 (3:46:35 remaining)
+Stats: 0:34:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.05% done; ETC: 04:57 (3:46:26 remaining)
+Stats: 0:34:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.07% done; ETC: 04:57 (3:46:22 remaining)
+Stats: 0:34:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.09% done; ETC: 04:57 (3:46:19 remaining)
+Stats: 0:34:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.11% done; ETC: 04:57 (3:46:17 remaining)
+Stats: 0:34:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.13% done; ETC: 04:57 (3:46:14 remaining)
+Stats: 0:34:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.15% done; ETC: 04:57 (3:46:11 remaining)
+Stats: 0:34:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.16% done; ETC: 04:57 (3:46:08 remaining)
+Stats: 0:34:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.18% done; ETC: 04:57 (3:46:05 remaining)
+Stats: 0:34:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.20% done; ETC: 04:57 (3:46:01 remaining)
+Stats: 0:34:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.22% done; ETC: 04:57 (3:46:00 remaining)
+Stats: 0:34:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.24% done; ETC: 04:57 (3:45:56 remaining)
+Stats: 0:34:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.26% done; ETC: 04:57 (3:45:53 remaining)
+Stats: 0:34:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.28% done; ETC: 04:57 (3:45:49 remaining)
+Stats: 0:34:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.30% done; ETC: 04:57 (3:45:47 remaining)
+Stats: 0:34:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.32% done; ETC: 04:57 (3:45:43 remaining)
+Stats: 0:34:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.34% done; ETC: 04:57 (3:45:41 remaining)
+Stats: 0:34:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.36% done; ETC: 04:57 (3:45:37 remaining)
+Stats: 0:34:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.38% done; ETC: 04:57 (3:45:35 remaining)
+Stats: 0:34:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.40% done; ETC: 04:57 (3:45:31 remaining)
+Stats: 0:34:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.41% done; ETC: 04:57 (3:45:29 remaining)
+Stats: 0:35:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.43% done; ETC: 04:57 (3:45:25 remaining)
+Stats: 0:35:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.45% done; ETC: 04:57 (3:45:23 remaining)
+Stats: 0:35:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.47% done; ETC: 04:57 (3:45:19 remaining)
+Stats: 0:35:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.49% done; ETC: 04:57 (3:45:17 remaining)
+Stats: 0:35:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.51% done; ETC: 04:57 (3:45:13 remaining)
+Stats: 0:35:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.53% done; ETC: 04:57 (3:45:10 remaining)
+Stats: 0:35:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.55% done; ETC: 04:57 (3:45:13 remaining)
+Stats: 0:35:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.57% done; ETC: 04:57 (3:45:05 remaining)
+Stats: 0:35:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.59% done; ETC: 04:57 (3:45:07 remaining)
+Stats: 0:35:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.61% done; ETC: 04:57 (3:44:59 remaining)
+Stats: 0:35:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.63% done; ETC: 04:57 (3:44:55 remaining)
+Stats: 0:35:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.65% done; ETC: 04:57 (3:44:52 remaining)
+Stats: 0:35:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.66% done; ETC: 04:57 (3:44:49 remaining)
+Stats: 0:35:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.68% done; ETC: 04:57 (3:44:47 remaining)
+Stats: 0:35:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.70% done; ETC: 04:57 (3:44:44 remaining)
+Stats: 0:35:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.72% done; ETC: 04:57 (3:44:40 remaining)
+Stats: 0:35:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.74% done; ETC: 04:57 (3:44:38 remaining)
+Stats: 0:35:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.76% done; ETC: 04:57 (3:44:34 remaining)
+Stats: 0:35:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.78% done; ETC: 04:57 (3:44:31 remaining)
+Stats: 0:35:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.80% done; ETC: 04:57 (3:44:28 remaining)
+Stats: 0:36:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.82% done; ETC: 04:57 (3:44:26 remaining)
+Stats: 0:36:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.84% done; ETC: 04:57 (3:44:22 remaining)
+Stats: 0:36:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.86% done; ETC: 04:57 (3:44:19 remaining)
+Stats: 0:36:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.88% done; ETC: 04:57 (3:44:16 remaining)
+Stats: 0:36:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.89% done; ETC: 04:57 (3:44:13 remaining)
+Stats: 0:36:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.91% done; ETC: 04:57 (3:44:10 remaining)
+Stats: 0:36:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.93% done; ETC: 04:57 (3:44:08 remaining)
+Stats: 0:36:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.95% done; ETC: 04:57 (3:44:04 remaining)
+Stats: 0:36:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.97% done; ETC: 04:57 (3:44:01 remaining)
+Stats: 0:36:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.99% done; ETC: 04:57 (3:43:57 remaining)
+Stats: 0:36:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.01% done; ETC: 04:57 (3:43:55 remaining)
+Stats: 0:36:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.03% done; ETC: 04:57 (3:43:52 remaining)
+Stats: 0:36:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.05% done; ETC: 04:57 (3:43:49 remaining)
+Stats: 0:36:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.07% done; ETC: 04:57 (3:43:51 remaining)
+Stats: 0:36:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.09% done; ETC: 04:57 (3:43:43 remaining)
+Stats: 0:36:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.11% done; ETC: 04:57 (3:43:46 remaining)
+Stats: 0:36:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.13% done; ETC: 04:57 (3:43:37 remaining)
+Stats: 0:36:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.15% done; ETC: 04:57 (3:43:34 remaining)
+Stats: 0:36:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.16% done; ETC: 04:57 (3:43:31 remaining)
+Stats: 0:36:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.18% done; ETC: 04:57 (3:43:28 remaining)
+Stats: 0:37:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.20% done; ETC: 04:57 (3:43:25 remaining)
+Stats: 0:37:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.22% done; ETC: 04:57 (3:43:22 remaining)
+Stats: 0:37:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.24% done; ETC: 04:57 (3:43:19 remaining)
+Stats: 0:37:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.26% done; ETC: 04:57 (3:43:17 remaining)
+Stats: 0:37:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.28% done; ETC: 04:57 (3:43:13 remaining)
+Stats: 0:37:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.30% done; ETC: 04:57 (3:43:10 remaining)
+Stats: 0:37:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.32% done; ETC: 04:57 (3:43:07 remaining)
+Stats: 0:37:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.34% done; ETC: 04:57 (3:43:04 remaining)
+Stats: 0:37:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.36% done; ETC: 04:57 (3:43:01 remaining)
+Stats: 0:37:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.37% done; ETC: 04:57 (3:42:59 remaining)
+Stats: 0:37:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.39% done; ETC: 04:57 (3:42:55 remaining)
+Stats: 0:37:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.41% done; ETC: 04:57 (3:42:52 remaining)
+Stats: 0:37:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.43% done; ETC: 04:57 (3:42:48 remaining)
+Stats: 0:37:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.45% done; ETC: 04:57 (3:42:46 remaining)
+Stats: 0:37:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.47% done; ETC: 04:57 (3:42:43 remaining)
+Stats: 0:37:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.49% done; ETC: 04:57 (3:42:41 remaining)
+Stats: 0:37:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.51% done; ETC: 04:57 (3:42:36 remaining)
+Stats: 0:37:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.53% done; ETC: 04:57 (3:42:34 remaining)
+Stats: 0:37:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.55% done; ETC: 04:57 (3:42:30 remaining)
+Stats: 0:37:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.57% done; ETC: 04:57 (3:42:28 remaining)
+Stats: 0:38:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.59% done; ETC: 04:57 (3:42:25 remaining)
+Stats: 0:38:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.61% done; ETC: 04:57 (3:42:22 remaining)
+Stats: 0:38:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.63% done; ETC: 04:57 (3:42:24 remaining)
+Stats: 0:38:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.64% done; ETC: 04:57 (3:42:16 remaining)
+Stats: 0:38:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.66% done; ETC: 04:57 (3:42:18 remaining)
+Stats: 0:38:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.68% done; ETC: 04:57 (3:42:10 remaining)
+Stats: 0:38:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.70% done; ETC: 04:57 (3:42:07 remaining)
+Stats: 0:38:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.72% done; ETC: 04:57 (3:42:04 remaining)
+Stats: 0:38:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.74% done; ETC: 04:57 (3:42:01 remaining)
+Stats: 0:38:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.76% done; ETC: 04:57 (3:41:58 remaining)
+Stats: 0:38:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.78% done; ETC: 04:57 (3:41:55 remaining)
+Stats: 0:38:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.80% done; ETC: 04:57 (3:41:52 remaining)
+Stats: 0:38:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.82% done; ETC: 04:57 (3:41:49 remaining)
+Stats: 0:38:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.84% done; ETC: 04:57 (3:41:46 remaining)
+Stats: 0:38:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.86% done; ETC: 04:57 (3:41:43 remaining)
+Stats: 0:38:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.88% done; ETC: 04:57 (3:41:39 remaining)
+Stats: 0:38:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.89% done; ETC: 04:57 (3:41:37 remaining)
+Stats: 0:38:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.91% done; ETC: 04:57 (3:41:34 remaining)
+Stats: 0:38:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.93% done; ETC: 04:57 (3:41:31 remaining)
+Stats: 0:38:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.95% done; ETC: 04:57 (3:41:28 remaining)
+Stats: 0:39:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.97% done; ETC: 04:57 (3:41:25 remaining)
+Stats: 0:39:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.99% done; ETC: 04:57 (3:41:21 remaining)
+Stats: 0:39:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.01% done; ETC: 04:57 (3:41:19 remaining)
+Stats: 0:39:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.03% done; ETC: 04:57 (3:41:16 remaining)
+Stats: 0:39:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.05% done; ETC: 04:57 (3:41:13 remaining)
+Stats: 0:39:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.07% done; ETC: 04:57 (3:41:09 remaining)
+Stats: 0:39:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.09% done; ETC: 04:57 (3:41:07 remaining)
+Stats: 0:39:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.11% done; ETC: 04:57 (3:41:03 remaining)
+Stats: 0:39:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.12% done; ETC: 04:57 (3:41:00 remaining)
+Stats: 0:39:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.14% done; ETC: 04:57 (3:40:58 remaining)
+Stats: 0:39:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.16% done; ETC: 04:57 (3:40:55 remaining)
+Stats: 0:39:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.18% done; ETC: 04:57 (3:40:57 remaining)
+Stats: 0:39:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.20% done; ETC: 04:57 (3:40:49 remaining)
+Stats: 0:39:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.22% done; ETC: 04:57 (3:40:45 remaining)
+Stats: 0:39:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.24% done; ETC: 04:57 (3:40:42 remaining)
+Stats: 0:39:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.26% done; ETC: 04:57 (3:40:40 remaining)
+Stats: 0:39:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.28% done; ETC: 04:57 (3:40:37 remaining)
+Stats: 0:39:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.30% done; ETC: 04:57 (3:40:34 remaining)
+Stats: 0:39:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.32% done; ETC: 04:57 (3:40:30 remaining)
+Stats: 0:39:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.34% done; ETC: 04:57 (3:40:28 remaining)
+Stats: 0:40:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.36% done; ETC: 04:57 (3:40:24 remaining)
+Stats: 0:40:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.37% done; ETC: 04:57 (3:40:22 remaining)
+Stats: 0:40:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.39% done; ETC: 04:57 (3:40:19 remaining)
+Stats: 0:40:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.41% done; ETC: 04:57 (3:40:16 remaining)
+Stats: 0:40:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.43% done; ETC: 04:57 (3:40:12 remaining)
+Stats: 0:40:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.45% done; ETC: 04:57 (3:40:10 remaining)
+Stats: 0:40:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.47% done; ETC: 04:57 (3:40:06 remaining)
+Stats: 0:40:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.49% done; ETC: 04:57 (3:40:04 remaining)
+Stats: 0:40:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.51% done; ETC: 04:57 (3:40:00 remaining)
+Stats: 0:40:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.53% done; ETC: 04:57 (3:39:58 remaining)
+Stats: 0:40:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.55% done; ETC: 04:57 (3:39:54 remaining)
+Stats: 0:40:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.57% done; ETC: 04:57 (3:39:51 remaining)
+Stats: 0:40:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.59% done; ETC: 04:57 (3:39:48 remaining)
+Stats: 0:40:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.60% done; ETC: 04:57 (3:39:46 remaining)
+Stats: 0:40:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.62% done; ETC: 04:57 (3:39:42 remaining)
+Stats: 0:40:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.64% done; ETC: 04:57 (3:39:40 remaining)
+Stats: 0:40:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.66% done; ETC: 04:57 (3:39:36 remaining)
+Stats: 0:40:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.68% done; ETC: 04:57 (3:39:33 remaining)
+Stats: 0:40:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.70% done; ETC: 04:57 (3:39:35 remaining)
+Stats: 0:40:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.72% done; ETC: 04:57 (3:39:28 remaining)
+Stats: 0:41:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.74% done; ETC: 04:57 (3:39:29 remaining)
+Stats: 0:41:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.76% done; ETC: 04:57 (3:39:21 remaining)
+Stats: 0:41:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.78% done; ETC: 04:57 (3:39:18 remaining)
+Stats: 0:41:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.80% done; ETC: 04:57 (3:39:15 remaining)
+Stats: 0:41:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.82% done; ETC: 04:57 (3:39:12 remaining)
+Stats: 0:41:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.84% done; ETC: 04:57 (3:39:10 remaining)
+Stats: 0:41:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.85% done; ETC: 04:57 (3:39:07 remaining)
+Stats: 0:41:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.87% done; ETC: 04:57 (3:39:03 remaining)
+Stats: 0:41:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.89% done; ETC: 04:57 (3:39:01 remaining)
+Stats: 0:41:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.91% done; ETC: 04:57 (3:38:57 remaining)
+Stats: 0:41:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.93% done; ETC: 04:57 (3:38:54 remaining)
+Stats: 0:41:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.95% done; ETC: 04:57 (3:38:51 remaining)
+Stats: 0:41:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.97% done; ETC: 04:57 (3:38:49 remaining)
+Stats: 0:41:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.99% done; ETC: 04:57 (3:38:45 remaining)
+Stats: 0:41:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.01% done; ETC: 04:57 (3:38:42 remaining)
+Stats: 0:41:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.03% done; ETC: 04:57 (3:38:39 remaining)
+Stats: 0:41:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.05% done; ETC: 04:57 (3:38:36 remaining)
+Stats: 0:41:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.07% done; ETC: 04:57 (3:38:33 remaining)
+Stats: 0:41:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.08% done; ETC: 04:57 (3:38:31 remaining)
+Stats: 0:41:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.10% done; ETC: 04:57 (3:38:27 remaining)
+Stats: 0:42:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.12% done; ETC: 04:57 (3:38:24 remaining)
+Stats: 0:42:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.14% done; ETC: 04:57 (3:38:21 remaining)
+Stats: 0:42:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.16% done; ETC: 04:57 (3:38:18 remaining)
+Stats: 0:42:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.18% done; ETC: 04:57 (3:38:15 remaining)
+Stats: 0:42:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.20% done; ETC: 04:57 (3:38:12 remaining)
+Stats: 0:42:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.22% done; ETC: 04:57 (3:38:09 remaining)
+Stats: 0:42:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.24% done; ETC: 04:57 (3:38:06 remaining)
+Stats: 0:42:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.26% done; ETC: 04:57 (3:38:08 remaining)
+Stats: 0:42:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.28% done; ETC: 04:57 (3:38:00 remaining)
+Stats: 0:42:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.30% done; ETC: 04:57 (3:37:57 remaining)
+Stats: 0:42:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.32% done; ETC: 04:57 (3:37:54 remaining)
+Stats: 0:42:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.33% done; ETC: 04:57 (3:37:51 remaining)
+Stats: 0:42:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.35% done; ETC: 04:57 (3:37:48 remaining)
+Stats: 0:42:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.37% done; ETC: 04:57 (3:37:45 remaining)
+Stats: 0:42:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.39% done; ETC: 04:57 (3:37:42 remaining)
+Stats: 0:42:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.41% done; ETC: 04:57 (3:37:40 remaining)
+Stats: 0:42:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.43% done; ETC: 04:57 (3:37:36 remaining)
+Stats: 0:42:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.45% done; ETC: 04:57 (3:37:33 remaining)
+Stats: 0:42:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.47% done; ETC: 04:57 (3:37:30 remaining)
+Stats: 0:42:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.49% done; ETC: 04:57 (3:37:27 remaining)
+Stats: 0:43:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.51% done; ETC: 04:57 (3:37:24 remaining)
+Stats: 0:43:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.53% done; ETC: 04:57 (3:37:22 remaining)
+Stats: 0:43:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.55% done; ETC: 04:57 (3:37:18 remaining)
+Stats: 0:43:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.57% done; ETC: 04:57 (3:37:15 remaining)
+Stats: 0:43:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.59% done; ETC: 04:57 (3:37:12 remaining)
+Stats: 0:43:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.60% done; ETC: 04:57 (3:37:09 remaining)
+Stats: 0:43:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.62% done; ETC: 04:57 (3:37:06 remaining)
+Stats: 0:43:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.64% done; ETC: 04:57 (3:37:03 remaining)
+Stats: 0:43:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.66% done; ETC: 04:57 (3:37:00 remaining)
+Stats: 0:43:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.68% done; ETC: 04:57 (3:36:57 remaining)
+Stats: 0:43:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.70% done; ETC: 04:57 (3:36:54 remaining)
+Stats: 0:43:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.72% done; ETC: 04:57 (3:36:51 remaining)
+Stats: 0:43:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.74% done; ETC: 04:57 (3:36:48 remaining)
+Stats: 0:43:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.76% done; ETC: 04:57 (3:36:45 remaining)
+Stats: 0:43:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.78% done; ETC: 04:57 (3:36:46 remaining)
+Stats: 0:43:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.80% done; ETC: 04:57 (3:36:39 remaining)
+Stats: 0:43:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.82% done; ETC: 04:57 (3:36:36 remaining)
+Stats: 0:43:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.83% done; ETC: 04:57 (3:36:33 remaining)
+Stats: 0:43:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.85% done; ETC: 04:57 (3:36:30 remaining)
+Stats: 0:43:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.87% done; ETC: 04:57 (3:36:27 remaining)
+Stats: 0:44:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.89% done; ETC: 04:57 (3:36:24 remaining)
+Stats: 0:44:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.91% done; ETC: 04:57 (3:36:21 remaining)
+Stats: 0:44:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.93% done; ETC: 04:57 (3:36:18 remaining)
+Stats: 0:44:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.95% done; ETC: 04:57 (3:36:15 remaining)
+Stats: 0:44:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.97% done; ETC: 04:57 (3:36:12 remaining)
+Stats: 0:44:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.99% done; ETC: 04:57 (3:36:09 remaining)
+Stats: 0:44:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.01% done; ETC: 04:57 (3:36:06 remaining)
+Stats: 0:44:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.03% done; ETC: 04:57 (3:36:02 remaining)
+Stats: 0:44:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.05% done; ETC: 04:57 (3:36:00 remaining)
+Stats: 0:44:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.06% done; ETC: 04:57 (3:35:57 remaining)
+Stats: 0:44:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.08% done; ETC: 04:57 (3:35:54 remaining)
+Stats: 0:44:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.10% done; ETC: 04:57 (3:35:51 remaining)
+Stats: 0:44:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.12% done; ETC: 04:57 (3:35:48 remaining)
+Stats: 0:44:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.14% done; ETC: 04:57 (3:35:44 remaining)
+Stats: 0:44:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.16% done; ETC: 04:57 (3:35:42 remaining)
+Stats: 0:44:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.18% done; ETC: 04:57 (3:35:39 remaining)
+Stats: 0:44:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.20% done; ETC: 04:57 (3:35:36 remaining)
+Stats: 0:44:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.22% done; ETC: 04:57 (3:35:32 remaining)
+Stats: 0:44:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.24% done; ETC: 04:57 (3:35:30 remaining)
+Stats: 0:44:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.26% done; ETC: 04:57 (3:35:26 remaining)
+Stats: 0:45:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.28% done; ETC: 04:57 (3:35:24 remaining)
+Stats: 0:45:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.30% done; ETC: 04:57 (3:35:25 remaining)
+Stats: 0:45:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.31% done; ETC: 04:57 (3:35:18 remaining)
+Stats: 0:45:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.33% done; ETC: 04:57 (3:35:19 remaining)
+Stats: 0:45:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.35% done; ETC: 04:57 (3:35:12 remaining)
+Stats: 0:45:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.37% done; ETC: 04:57 (3:35:08 remaining)
+Stats: 0:45:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.39% done; ETC: 04:57 (3:35:06 remaining)
+Stats: 0:45:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.41% done; ETC: 04:57 (3:35:03 remaining)
+Stats: 0:45:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.43% done; ETC: 04:57 (3:35:00 remaining)
+Stats: 0:45:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.45% done; ETC: 04:57 (3:34:57 remaining)
+Stats: 0:45:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.47% done; ETC: 04:57 (3:34:53 remaining)
+Stats: 0:45:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.49% done; ETC: 04:57 (3:34:51 remaining)
+Stats: 0:45:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.51% done; ETC: 04:57 (3:34:48 remaining)
+Stats: 0:45:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.53% done; ETC: 04:57 (3:34:45 remaining)
+Stats: 0:45:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.54% done; ETC: 04:57 (3:34:42 remaining)
+Stats: 0:45:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.56% done; ETC: 04:57 (3:34:39 remaining)
+Stats: 0:45:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.58% done; ETC: 04:57 (3:34:35 remaining)
+Stats: 0:45:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.60% done; ETC: 04:57 (3:34:33 remaining)
+Stats: 0:45:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.62% done; ETC: 04:57 (3:34:30 remaining)
+Stats: 0:45:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.64% done; ETC: 04:57 (3:34:27 remaining)
+Stats: 0:46:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.66% done; ETC: 04:57 (3:34:23 remaining)
+Stats: 0:46:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.68% done; ETC: 04:57 (3:34:21 remaining)
+Stats: 0:46:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.70% done; ETC: 04:57 (3:34:17 remaining)
+Stats: 0:46:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.72% done; ETC: 04:57 (3:34:15 remaining)
+Stats: 0:46:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.74% done; ETC: 04:57 (3:34:11 remaining)
+Stats: 0:46:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.76% done; ETC: 04:57 (3:34:09 remaining)
+Stats: 0:46:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.78% done; ETC: 04:57 (3:34:05 remaining)
+Stats: 0:46:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.80% done; ETC: 04:57 (3:34:02 remaining)
+Stats: 0:46:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.81% done; ETC: 04:57 (3:33:59 remaining)
+Stats: 0:46:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.83% done; ETC: 04:57 (3:33:57 remaining)
+Stats: 0:46:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.85% done; ETC: 04:57 (3:33:58 remaining)
+Stats: 0:46:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.87% done; ETC: 04:57 (3:33:51 remaining)
+Stats: 0:46:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.89% done; ETC: 04:57 (3:33:47 remaining)
+Stats: 0:46:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.91% done; ETC: 04:57 (3:33:44 remaining)
+Stats: 0:46:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.93% done; ETC: 04:57 (3:33:41 remaining)
+Stats: 0:46:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.95% done; ETC: 04:57 (3:33:39 remaining)
+Stats: 0:46:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.97% done; ETC: 04:57 (3:33:36 remaining)
+Stats: 0:46:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.99% done; ETC: 04:57 (3:33:32 remaining)
+Stats: 0:46:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.01% done; ETC: 04:57 (3:33:30 remaining)
+Stats: 0:46:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.03% done; ETC: 04:57 (3:33:26 remaining)
+Stats: 0:47:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.04% done; ETC: 04:57 (3:33:23 remaining)
+Stats: 0:47:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.06% done; ETC: 04:57 (3:33:21 remaining)
+Stats: 0:47:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.08% done; ETC: 04:57 (3:33:18 remaining)
+Stats: 0:47:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.10% done; ETC: 04:57 (3:33:14 remaining)
+Stats: 0:47:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.12% done; ETC: 04:57 (3:33:12 remaining)
+Stats: 0:47:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.14% done; ETC: 04:57 (3:33:08 remaining)
+Stats: 0:47:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.16% done; ETC: 04:57 (3:33:05 remaining)
+Stats: 0:47:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.18% done; ETC: 04:57 (3:33:03 remaining)
+Stats: 0:47:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.20% done; ETC: 04:57 (3:33:00 remaining)
+Stats: 0:47:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.22% done; ETC: 04:57 (3:32:56 remaining)
+Stats: 0:47:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.24% done; ETC: 04:57 (3:32:53 remaining)
+Stats: 0:47:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.26% done; ETC: 04:57 (3:32:50 remaining)
+Stats: 0:47:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.27% done; ETC: 04:57 (3:32:47 remaining)
+Stats: 0:47:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.29% done; ETC: 04:57 (3:32:44 remaining)
+Stats: 0:47:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.31% done; ETC: 04:57 (3:32:42 remaining)
+Stats: 0:47:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.33% done; ETC: 04:57 (3:32:38 remaining)
+Stats: 0:47:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.35% done; ETC: 04:57 (3:32:35 remaining)
+Stats: 0:47:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.37% done; ETC: 04:57 (3:32:36 remaining)
+Stats: 0:47:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.39% done; ETC: 04:57 (3:32:29 remaining)
+Stats: 0:47:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.41% done; ETC: 04:57 (3:32:26 remaining)
+Stats: 0:48:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.43% done; ETC: 04:57 (3:32:24 remaining)
+Stats: 0:48:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.45% done; ETC: 04:57 (3:32:20 remaining)
+Stats: 0:48:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.47% done; ETC: 04:57 (3:32:17 remaining)
+Stats: 0:48:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.49% done; ETC: 04:57 (3:32:14 remaining)
+Stats: 0:48:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.51% done; ETC: 04:57 (3:32:11 remaining)
+Stats: 0:48:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.52% done; ETC: 04:57 (3:32:09 remaining)
+Stats: 0:48:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.54% done; ETC: 04:57 (3:32:05 remaining)
+Stats: 0:48:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.56% done; ETC: 04:57 (3:32:03 remaining)
+Stats: 0:48:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.58% done; ETC: 04:57 (3:31:59 remaining)
+Stats: 0:48:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.60% done; ETC: 04:57 (3:31:56 remaining)
+Stats: 0:48:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.62% done; ETC: 04:57 (3:31:53 remaining)
+Stats: 0:48:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.64% done; ETC: 04:57 (3:31:51 remaining)
+Stats: 0:48:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.66% done; ETC: 04:57 (3:31:47 remaining)
+Stats: 0:48:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.68% done; ETC: 04:57 (3:31:44 remaining)
+Stats: 0:48:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.70% done; ETC: 04:57 (3:31:41 remaining)
+Stats: 0:48:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.72% done; ETC: 04:57 (3:31:38 remaining)
+Stats: 0:48:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.74% done; ETC: 04:57 (3:31:35 remaining)
+Stats: 0:48:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.75% done; ETC: 04:57 (3:31:33 remaining)
+Stats: 0:48:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.77% done; ETC: 04:57 (3:31:29 remaining)
+Stats: 0:48:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.79% done; ETC: 04:57 (3:31:26 remaining)
+Stats: 0:49:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.81% done; ETC: 04:57 (3:31:23 remaining)
+Stats: 0:49:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.83% done; ETC: 04:57 (3:31:20 remaining)
+Stats: 0:49:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.85% done; ETC: 04:57 (3:31:17 remaining)
+Stats: 0:49:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.87% done; ETC: 04:57 (3:31:14 remaining)
+Stats: 0:49:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.89% done; ETC: 04:57 (3:31:11 remaining)
+Stats: 0:49:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.91% done; ETC: 04:57 (3:31:08 remaining)
+Stats: 0:49:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.93% done; ETC: 04:57 (3:31:09 remaining)
+Stats: 0:49:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.95% done; ETC: 04:57 (3:31:02 remaining)
+Stats: 0:49:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.97% done; ETC: 04:57 (3:30:59 remaining)
+Stats: 0:49:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.99% done; ETC: 04:57 (3:30:56 remaining)
+Stats: 0:49:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.01% done; ETC: 04:57 (3:30:53 remaining)
+Stats: 0:49:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.02% done; ETC: 04:57 (3:30:50 remaining)
+Stats: 0:49:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.04% done; ETC: 04:57 (3:30:47 remaining)
+Stats: 0:49:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.06% done; ETC: 04:57 (3:30:44 remaining)
+Stats: 0:49:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.08% done; ETC: 04:57 (3:30:42 remaining)
+Stats: 0:49:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.10% done; ETC: 04:57 (3:30:38 remaining)
+Stats: 0:49:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.12% done; ETC: 04:57 (3:30:35 remaining)
+Stats: 0:49:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.14% done; ETC: 04:57 (3:30:32 remaining)
+Stats: 0:49:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.16% done; ETC: 04:57 (3:30:29 remaining)
+Stats: 0:49:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.18% done; ETC: 04:57 (3:30:26 remaining)
+Stats: 0:50:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.20% done; ETC: 04:57 (3:30:24 remaining)
+Stats: 0:50:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.22% done; ETC: 04:57 (3:30:20 remaining)
+Stats: 0:50:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.24% done; ETC: 04:57 (3:30:17 remaining)
+Stats: 0:50:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.26% done; ETC: 04:57 (3:30:14 remaining)
+Stats: 0:50:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.27% done; ETC: 04:57 (3:30:11 remaining)
+Stats: 0:50:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.29% done; ETC: 04:57 (3:30:08 remaining)
+Stats: 0:50:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.31% done; ETC: 04:57 (3:30:05 remaining)
+Stats: 0:50:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.33% done; ETC: 04:57 (3:30:02 remaining)
+Stats: 0:50:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.35% done; ETC: 04:57 (3:29:59 remaining)
+Stats: 0:50:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.37% done; ETC: 04:57 (3:29:56 remaining)
+Stats: 0:50:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.39% done; ETC: 04:57 (3:29:53 remaining)
+Stats: 0:50:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.41% done; ETC: 04:57 (3:29:50 remaining)
+Stats: 0:50:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.43% done; ETC: 04:57 (3:29:47 remaining)
+Stats: 0:50:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.45% done; ETC: 04:57 (3:29:48 remaining)
+Stats: 0:50:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.47% done; ETC: 04:57 (3:29:41 remaining)
+Stats: 0:50:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.49% done; ETC: 04:57 (3:29:38 remaining)
+Stats: 0:50:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.50% done; ETC: 04:57 (3:29:35 remaining)
+Stats: 0:50:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.52% done; ETC: 04:57 (3:29:32 remaining)
+Stats: 0:50:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.54% done; ETC: 04:57 (3:29:29 remaining)
+Stats: 0:50:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.56% done; ETC: 04:57 (3:29:26 remaining)
+Stats: 0:51:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.58% done; ETC: 04:57 (3:29:23 remaining)
+Stats: 0:51:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.60% done; ETC: 04:57 (3:29:20 remaining)
+Stats: 0:51:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.62% done; ETC: 04:57 (3:29:17 remaining)
+Stats: 0:51:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.64% done; ETC: 04:57 (3:29:14 remaining)
+Stats: 0:51:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.66% done; ETC: 04:57 (3:29:11 remaining)
+Stats: 0:51:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.68% done; ETC: 04:57 (3:29:08 remaining)
+Stats: 0:51:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.70% done; ETC: 04:57 (3:29:05 remaining)
+Stats: 0:51:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.72% done; ETC: 04:57 (3:29:02 remaining)
+Stats: 0:51:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.74% done; ETC: 04:57 (3:28:59 remaining)
+Stats: 0:51:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.75% done; ETC: 04:57 (3:28:56 remaining)
+Stats: 0:51:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.77% done; ETC: 04:57 (3:28:53 remaining)
+Stats: 0:51:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.79% done; ETC: 04:57 (3:28:50 remaining)
+Stats: 0:51:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.81% done; ETC: 04:57 (3:28:47 remaining)
+Stats: 0:51:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.83% done; ETC: 04:57 (3:28:44 remaining)
+Stats: 0:51:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.85% done; ETC: 04:57 (3:28:41 remaining)
+Stats: 0:51:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.87% done; ETC: 04:57 (3:28:38 remaining)
+Stats: 0:51:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.89% done; ETC: 04:57 (3:28:34 remaining)
+Stats: 0:51:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.91% done; ETC: 04:57 (3:28:32 remaining)
+Stats: 0:51:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.93% done; ETC: 04:57 (3:28:29 remaining)
+Stats: 0:51:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.95% done; ETC: 04:57 (3:28:26 remaining)
+Stats: 0:52:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.97% done; ETC: 04:57 (3:28:23 remaining)
+Stats: 0:52:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.98% done; ETC: 04:57 (3:28:20 remaining)
+Stats: 0:52:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.00% done; ETC: 04:57 (3:28:16 remaining)
+Stats: 0:52:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.02% done; ETC: 04:57 (3:28:14 remaining)
+Stats: 0:52:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.04% done; ETC: 04:57 (3:28:11 remaining)
+Stats: 0:52:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.06% done; ETC: 04:57 (3:28:08 remaining)
+Stats: 0:52:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.08% done; ETC: 04:57 (3:28:05 remaining)
+Stats: 0:52:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.10% done; ETC: 04:57 (3:28:02 remaining)
+Stats: 0:52:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.12% done; ETC: 04:57 (3:27:59 remaining)
+Stats: 0:52:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.14% done; ETC: 04:57 (3:27:56 remaining)
+Stats: 0:52:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.16% done; ETC: 04:57 (3:27:53 remaining)
+Stats: 0:52:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.18% done; ETC: 04:57 (3:27:50 remaining)
+Stats: 0:52:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.20% done; ETC: 04:57 (3:27:47 remaining)
+Stats: 0:52:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.22% done; ETC: 04:57 (3:27:44 remaining)
+Stats: 0:52:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.23% done; ETC: 04:57 (3:27:41 remaining)
+Stats: 0:52:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.25% done; ETC: 04:57 (3:27:38 remaining)
+Stats: 0:52:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.27% done; ETC: 04:57 (3:27:35 remaining)
+Stats: 0:52:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.29% done; ETC: 04:57 (3:27:32 remaining)
+Stats: 0:52:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.31% done; ETC: 04:57 (3:27:29 remaining)
+Stats: 0:52:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.33% done; ETC: 04:57 (3:27:25 remaining)
+Stats: 0:53:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.35% done; ETC: 04:57 (3:27:23 remaining)
+Stats: 0:53:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.37% done; ETC: 04:57 (3:27:20 remaining)
+Stats: 0:53:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.39% done; ETC: 04:57 (3:27:17 remaining)
+Stats: 0:53:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.41% done; ETC: 04:57 (3:27:14 remaining)
+Stats: 0:53:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.43% done; ETC: 04:57 (3:27:11 remaining)
+Stats: 0:53:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.45% done; ETC: 04:57 (3:27:07 remaining)
+Stats: 0:53:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.47% done; ETC: 04:57 (3:27:04 remaining)
+Stats: 0:53:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.48% done; ETC: 04:57 (3:27:02 remaining)
+Stats: 0:53:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.50% done; ETC: 04:57 (3:26:59 remaining)
+Stats: 0:53:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.52% done; ETC: 04:57 (3:26:59 remaining)
+Stats: 0:53:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.54% done; ETC: 04:57 (3:26:53 remaining)
+Stats: 0:53:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.56% done; ETC: 04:57 (3:26:49 remaining)
+Stats: 0:53:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.58% done; ETC: 04:57 (3:26:47 remaining)
+Stats: 0:53:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.60% done; ETC: 04:57 (3:26:44 remaining)
+Stats: 0:53:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.62% done; ETC: 04:57 (3:26:41 remaining)
+Stats: 0:53:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.64% done; ETC: 04:57 (3:26:38 remaining)
+Stats: 0:53:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.66% done; ETC: 04:57 (3:26:35 remaining)
+Stats: 0:53:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.68% done; ETC: 04:57 (3:26:32 remaining)
+Stats: 0:53:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.70% done; ETC: 04:57 (3:26:29 remaining)
+Stats: 0:53:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.71% done; ETC: 04:57 (3:26:26 remaining)
+Stats: 0:54:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.73% done; ETC: 04:57 (3:26:23 remaining)
+Stats: 0:54:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.75% done; ETC: 04:57 (3:26:20 remaining)
+Stats: 0:54:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.77% done; ETC: 04:57 (3:26:16 remaining)
+Stats: 0:54:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.79% done; ETC: 04:57 (3:26:14 remaining)
+Stats: 0:54:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.81% done; ETC: 04:57 (3:26:11 remaining)
+Stats: 0:54:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.83% done; ETC: 04:57 (3:26:08 remaining)
+Stats: 0:54:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.85% done; ETC: 04:57 (3:26:05 remaining)
+Stats: 0:54:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.87% done; ETC: 04:57 (3:26:02 remaining)
+Stats: 0:54:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.89% done; ETC: 04:57 (3:25:58 remaining)
+Stats: 0:54:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.91% done; ETC: 04:57 (3:25:55 remaining)
+Stats: 0:54:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.93% done; ETC: 04:57 (3:25:53 remaining)
+Stats: 0:54:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.95% done; ETC: 04:57 (3:25:50 remaining)
+Stats: 0:54:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.97% done; ETC: 04:57 (3:25:46 remaining)
+Stats: 0:54:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.98% done; ETC: 04:57 (3:25:43 remaining)
+Stats: 0:54:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.00% done; ETC: 04:57 (3:25:40 remaining)
+Stats: 0:54:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.02% done; ETC: 04:57 (3:25:37 remaining)
+Stats: 0:54:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.04% done; ETC: 04:57 (3:25:35 remaining)
+Stats: 0:54:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.06% done; ETC: 04:57 (3:25:32 remaining)
+Stats: 0:54:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.08% done; ETC: 04:57 (3:25:28 remaining)
+Stats: 0:54:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.10% done; ETC: 04:57 (3:25:25 remaining)
+Stats: 0:55:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.12% done; ETC: 04:57 (3:25:22 remaining)
+Stats: 0:55:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.14% done; ETC: 04:57 (3:25:19 remaining)
+Stats: 0:55:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.16% done; ETC: 04:57 (3:25:17 remaining)
+Stats: 0:55:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.18% done; ETC: 04:57 (3:25:14 remaining)
+Stats: 0:55:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.19% done; ETC: 04:57 (3:25:11 remaining)
+Stats: 0:55:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.21% done; ETC: 04:57 (3:25:07 remaining)
+Stats: 0:55:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.23% done; ETC: 04:57 (3:25:04 remaining)
+Stats: 0:55:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.25% done; ETC: 04:57 (3:25:01 remaining)
+Stats: 0:55:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.27% done; ETC: 04:57 (3:24:59 remaining)
+Stats: 0:55:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.29% done; ETC: 04:57 (3:24:55 remaining)
+Stats: 0:55:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.31% done; ETC: 04:57 (3:24:53 remaining)
+Stats: 0:55:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.33% done; ETC: 04:57 (3:24:49 remaining)
+Stats: 0:55:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.35% done; ETC: 04:57 (3:24:46 remaining)
+Stats: 0:55:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.37% done; ETC: 04:57 (3:24:44 remaining)
+Stats: 0:55:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.39% done; ETC: 04:57 (3:24:41 remaining)
+Stats: 0:55:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.41% done; ETC: 04:57 (3:24:37 remaining)
+Stats: 0:55:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.43% done; ETC: 04:57 (3:24:34 remaining)
+Stats: 0:55:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.45% done; ETC: 04:57 (3:24:31 remaining)
+Stats: 0:55:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.46% done; ETC: 04:57 (3:24:28 remaining)
+Stats: 0:55:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.48% done; ETC: 04:57 (3:24:26 remaining)
+Stats: 0:56:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.50% done; ETC: 04:57 (3:24:23 remaining)
+Stats: 0:56:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.52% done; ETC: 04:57 (3:24:19 remaining)
+Stats: 0:56:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.54% done; ETC: 04:57 (3:24:16 remaining)
+Stats: 0:56:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.56% done; ETC: 04:57 (3:24:13 remaining)
+Stats: 0:56:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.58% done; ETC: 04:57 (3:24:10 remaining)
+Stats: 0:56:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.60% done; ETC: 04:57 (3:24:07 remaining)
+Stats: 0:56:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.62% done; ETC: 04:57 (3:24:05 remaining)
+Stats: 0:56:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.64% done; ETC: 04:57 (3:24:01 remaining)
+Stats: 0:56:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.66% done; ETC: 04:57 (3:23:58 remaining)
+Stats: 0:56:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.68% done; ETC: 04:57 (3:23:55 remaining)
+Stats: 0:56:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.69% done; ETC: 04:57 (3:23:52 remaining)
+Stats: 0:56:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.71% done; ETC: 04:57 (3:23:50 remaining)
+Stats: 0:56:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.73% done; ETC: 04:57 (3:23:46 remaining)
+Stats: 0:56:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.75% done; ETC: 04:57 (3:23:43 remaining)
+Stats: 0:56:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.77% done; ETC: 04:57 (3:23:40 remaining)
+Stats: 0:56:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.79% done; ETC: 04:57 (3:23:37 remaining)
+Stats: 0:56:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.81% done; ETC: 04:57 (3:23:34 remaining)
+Stats: 0:56:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.83% done; ETC: 04:57 (3:23:32 remaining)
+Stats: 0:56:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.85% done; ETC: 04:57 (3:23:28 remaining)
+Stats: 0:56:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.87% done; ETC: 04:57 (3:23:25 remaining)
+Stats: 0:57:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.89% done; ETC: 04:57 (3:23:22 remaining)
+Stats: 0:57:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.91% done; ETC: 04:57 (3:23:19 remaining)
+Stats: 0:57:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.93% done; ETC: 04:57 (3:23:16 remaining)
+Stats: 0:57:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.94% done; ETC: 04:57 (3:23:14 remaining)
+Stats: 0:57:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.96% done; ETC: 04:57 (3:23:10 remaining)
+Stats: 0:57:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 21.98% done; ETC: 04:57 (3:23:07 remaining)
+Stats: 0:57:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.00% done; ETC: 04:57 (3:23:04 remaining)
+Stats: 0:57:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.02% done; ETC: 04:57 (3:23:01 remaining)
+Stats: 0:57:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.04% done; ETC: 04:57 (3:22:58 remaining)
+Stats: 0:57:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.06% done; ETC: 04:57 (3:22:55 remaining)
+Stats: 0:57:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.08% done; ETC: 04:57 (3:22:52 remaining)
+Stats: 0:57:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.10% done; ETC: 04:57 (3:22:49 remaining)
+Stats: 0:57:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.12% done; ETC: 04:57 (3:22:49 remaining)
+Stats: 0:57:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.14% done; ETC: 04:57 (3:22:43 remaining)
+Stats: 0:57:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.16% done; ETC: 04:57 (3:22:40 remaining)
+Stats: 0:57:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.18% done; ETC: 04:57 (3:22:37 remaining)
+Stats: 0:57:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.19% done; ETC: 04:57 (3:22:34 remaining)
+Stats: 0:57:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.21% done; ETC: 04:57 (3:22:31 remaining)
+Stats: 0:57:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.23% done; ETC: 04:57 (3:22:28 remaining)
+Stats: 0:57:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.25% done; ETC: 04:57 (3:22:25 remaining)
+Stats: 0:58:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.27% done; ETC: 04:57 (3:22:23 remaining)
+Stats: 0:58:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.29% done; ETC: 04:57 (3:22:19 remaining)
+Stats: 0:58:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.31% done; ETC: 04:57 (3:22:16 remaining)
+Stats: 0:58:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.33% done; ETC: 04:57 (3:22:13 remaining)
+Stats: 0:58:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.35% done; ETC: 04:57 (3:22:10 remaining)
+Stats: 0:58:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.37% done; ETC: 04:57 (3:22:07 remaining)
+Stats: 0:58:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.39% done; ETC: 04:57 (3:22:04 remaining)
+Stats: 0:58:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.41% done; ETC: 04:57 (3:22:01 remaining)
+Stats: 0:58:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.42% done; ETC: 04:57 (3:21:58 remaining)
+Stats: 0:58:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.44% done; ETC: 04:57 (3:21:55 remaining)
+Stats: 0:58:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.46% done; ETC: 04:57 (3:21:52 remaining)
+Stats: 0:58:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.48% done; ETC: 04:57 (3:21:49 remaining)
+Stats: 0:58:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.50% done; ETC: 04:57 (3:21:46 remaining)
+Stats: 0:58:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.52% done; ETC: 04:57 (3:21:43 remaining)
+Stats: 0:58:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.54% done; ETC: 04:57 (3:21:40 remaining)
+Stats: 0:58:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.56% done; ETC: 04:57 (3:21:37 remaining)
+Stats: 0:58:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.58% done; ETC: 04:57 (3:21:34 remaining)
+Stats: 0:58:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.60% done; ETC: 04:57 (3:21:31 remaining)
+Stats: 0:58:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.62% done; ETC: 04:57 (3:21:28 remaining)
+Stats: 0:58:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.64% done; ETC: 04:57 (3:21:25 remaining)
+Stats: 0:59:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.66% done; ETC: 04:57 (3:21:22 remaining)
+Stats: 0:59:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.67% done; ETC: 04:57 (3:21:19 remaining)
+Stats: 0:59:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.69% done; ETC: 04:57 (3:21:16 remaining)
+Stats: 0:59:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.71% done; ETC: 04:57 (3:21:13 remaining)
+Stats: 0:59:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.73% done; ETC: 04:57 (3:21:10 remaining)
+Stats: 0:59:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.75% done; ETC: 04:57 (3:21:07 remaining)
+Stats: 0:59:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.77% done; ETC: 04:57 (3:21:04 remaining)
+Stats: 0:59:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.79% done; ETC: 04:57 (3:21:01 remaining)
+Stats: 0:59:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.81% done; ETC: 04:57 (3:20:58 remaining)
+Stats: 0:59:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.83% done; ETC: 04:57 (3:20:55 remaining)
+Stats: 0:59:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.85% done; ETC: 04:57 (3:20:52 remaining)
+Stats: 0:59:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.87% done; ETC: 04:57 (3:20:49 remaining)
+Stats: 0:59:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.89% done; ETC: 04:57 (3:20:46 remaining)
+Stats: 0:59:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.90% done; ETC: 04:57 (3:20:43 remaining)
+Stats: 0:59:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.92% done; ETC: 04:57 (3:20:40 remaining)
+Stats: 0:59:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.94% done; ETC: 04:57 (3:20:37 remaining)
+Stats: 0:59:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.96% done; ETC: 04:57 (3:20:34 remaining)
+Stats: 0:59:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.98% done; ETC: 04:57 (3:20:31 remaining)
+Stats: 0:59:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.00% done; ETC: 04:57 (3:20:28 remaining)
+Stats: 0:59:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.02% done; ETC: 04:57 (3:20:25 remaining)
+Stats: 1:00:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.04% done; ETC: 04:57 (3:20:22 remaining)
+Stats: 1:00:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.06% done; ETC: 04:57 (3:20:19 remaining)
+Stats: 1:00:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.08% done; ETC: 04:57 (3:20:16 remaining)
+Stats: 1:00:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.10% done; ETC: 04:57 (3:20:13 remaining)
+Stats: 1:00:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.12% done; ETC: 04:57 (3:20:10 remaining)
+Stats: 1:00:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.14% done; ETC: 04:57 (3:20:07 remaining)
+Stats: 1:00:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.15% done; ETC: 04:57 (3:20:04 remaining)
+Stats: 1:00:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.17% done; ETC: 04:57 (3:20:01 remaining)
+Stats: 1:00:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.19% done; ETC: 04:57 (3:19:58 remaining)
+Stats: 1:00:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.21% done; ETC: 04:57 (3:19:55 remaining)
+Stats: 1:00:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.23% done; ETC: 04:57 (3:19:52 remaining)
+Stats: 1:00:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.25% done; ETC: 04:57 (3:19:49 remaining)
+Stats: 1:00:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.27% done; ETC: 04:57 (3:19:46 remaining)
+Stats: 1:00:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.29% done; ETC: 04:57 (3:19:43 remaining)
+Stats: 1:00:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.31% done; ETC: 04:57 (3:19:40 remaining)
+Stats: 1:00:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.33% done; ETC: 04:57 (3:19:37 remaining)
+Stats: 1:00:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.35% done; ETC: 04:57 (3:19:34 remaining)
+Stats: 1:00:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.37% done; ETC: 04:57 (3:19:31 remaining)
+Stats: 1:00:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.39% done; ETC: 04:57 (3:19:28 remaining)
+Stats: 1:00:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.40% done; ETC: 04:57 (3:19:25 remaining)
+Stats: 1:01:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.42% done; ETC: 04:57 (3:19:22 remaining)
+Stats: 1:01:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.44% done; ETC: 04:57 (3:19:19 remaining)
+Stats: 1:01:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.46% done; ETC: 04:57 (3:19:16 remaining)
+Stats: 1:01:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.48% done; ETC: 04:57 (3:19:13 remaining)
+Stats: 1:01:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.50% done; ETC: 04:57 (3:19:10 remaining)
+Stats: 1:01:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.52% done; ETC: 04:57 (3:19:07 remaining)
+Stats: 1:01:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.54% done; ETC: 04:57 (3:19:04 remaining)
+Stats: 1:01:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.56% done; ETC: 04:57 (3:19:01 remaining)
+Stats: 1:01:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.58% done; ETC: 04:57 (3:18:58 remaining)
+Stats: 1:01:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.60% done; ETC: 04:57 (3:18:55 remaining)
+Stats: 1:01:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.62% done; ETC: 04:57 (3:18:52 remaining)
+Stats: 1:01:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.64% done; ETC: 04:57 (3:18:49 remaining)
+Stats: 1:01:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.65% done; ETC: 04:57 (3:18:46 remaining)
+Stats: 1:01:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.67% done; ETC: 04:57 (3:18:43 remaining)
+Stats: 1:01:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.69% done; ETC: 04:57 (3:18:40 remaining)
+Stats: 1:01:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.71% done; ETC: 04:57 (3:18:36 remaining)
+Stats: 1:01:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.73% done; ETC: 04:57 (3:18:34 remaining)
+Stats: 1:01:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.75% done; ETC: 04:57 (3:18:31 remaining)
+Stats: 1:01:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.77% done; ETC: 04:57 (3:18:28 remaining)
+Stats: 1:01:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.79% done; ETC: 04:57 (3:18:25 remaining)
+Stats: 1:02:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.81% done; ETC: 04:57 (3:18:22 remaining)
+Stats: 1:02:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.83% done; ETC: 04:57 (3:18:19 remaining)
+Stats: 1:02:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.85% done; ETC: 04:57 (3:18:16 remaining)
+Stats: 1:02:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.87% done; ETC: 04:57 (3:18:13 remaining)
+Stats: 1:02:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.88% done; ETC: 04:57 (3:18:10 remaining)
+Stats: 1:02:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.90% done; ETC: 04:57 (3:18:07 remaining)
+Stats: 1:02:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.92% done; ETC: 04:57 (3:18:04 remaining)
+Stats: 1:02:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.94% done; ETC: 04:57 (3:18:01 remaining)
+Stats: 1:02:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.96% done; ETC: 04:57 (3:17:58 remaining)
+Stats: 1:02:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 23.98% done; ETC: 04:57 (3:17:55 remaining)
+Stats: 1:02:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.00% done; ETC: 04:57 (3:17:52 remaining)
+Stats: 1:02:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.02% done; ETC: 04:57 (3:17:49 remaining)
+Stats: 1:02:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.04% done; ETC: 04:57 (3:17:46 remaining)
+Stats: 1:02:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.06% done; ETC: 04:57 (3:17:43 remaining)
+Stats: 1:02:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.08% done; ETC: 04:57 (3:17:40 remaining)
+Stats: 1:02:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.10% done; ETC: 04:57 (3:17:37 remaining)
+Stats: 1:02:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.12% done; ETC: 04:57 (3:17:34 remaining)
+Stats: 1:02:51 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.13% done; ETC: 04:57 (3:17:31 remaining)
+Stats: 1:02:54 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.15% done; ETC: 04:57 (3:17:27 remaining)
+Stats: 1:02:57 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.17% done; ETC: 04:57 (3:17:25 remaining)
+Stats: 1:03:00 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.19% done; ETC: 04:57 (3:17:22 remaining)
+Stats: 1:03:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.21% done; ETC: 04:57 (3:17:19 remaining)
+Stats: 1:03:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.23% done; ETC: 04:57 (3:17:16 remaining)
+Stats: 1:03:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.25% done; ETC: 04:57 (3:17:13 remaining)
+Stats: 1:03:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.27% done; ETC: 04:57 (3:17:09 remaining)
+Stats: 1:03:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.29% done; ETC: 04:57 (3:17:07 remaining)
+Stats: 1:03:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.31% done; ETC: 04:57 (3:17:04 remaining)
+Stats: 1:03:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.33% done; ETC: 04:57 (3:17:01 remaining)
+Stats: 1:03:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.35% done; ETC: 04:57 (3:16:58 remaining)
+Stats: 1:03:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.36% done; ETC: 04:57 (3:16:55 remaining)
+Stats: 1:03:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.38% done; ETC: 04:57 (3:16:52 remaining)
+Stats: 1:03:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.40% done; ETC: 04:57 (3:16:49 remaining)
+sendto in send_ip_packet_sd: sendto(4, packet, 44, 0, 167.89.92.88, 16) => Network is unreachable
+Offending packet: TCP 192.168.29.17:43787 > 167.89.92.88:37247 S ttl=38 id=25152 iplen=44  seq=444195069 win=1024 <mss 1460>
+Stats: 1:03:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.42% done; ETC: 04:57 (3:16:46 remaining)
+sendto in send_ip_packet_sd: sendto(4, packet, 44, 0, 167.89.92.88, 16) => Network is unreachable
+Offending packet: TCP 192.168.29.17:43787 > 167.89.92.88:34374 S ttl=55 id=31044 iplen=44  seq=444195069 win=1024 <mss 1460>
+Error from pcap_next_ex: The interface went down
+

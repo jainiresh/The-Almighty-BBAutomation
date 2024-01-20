@@ -1,0 +1,7 @@
+academic-teams.umple.org
+cruise.umple.org
+umple.org
+www.umple.org
+try.umple.org
+manual.umple.org
+jenkins.umple.org

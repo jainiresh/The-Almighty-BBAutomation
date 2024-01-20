@@ -1,0 +1,12 @@
+# Nmap 7.93 scan initiated Wed Nov  8 01:32:01 2023 as: /usr/bin/nmap -T4 --max-retries 1 --max-scan-delay 20 --open -oN nmap/Port_104.18.43.204.nmap --system-dns --stats-every 1s 104.18.43.204
+Nmap scan report for 104.18.43.204
+Host is up (0.010s latency).
+Not shown: 996 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+# Nmap done at Wed Nov  8 01:32:06 2023 -- 1 IP address (1 host up) scanned in 4.59 seconds

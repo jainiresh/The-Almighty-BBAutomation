@@ -1,0 +1,10 @@
+beta.genians.com
+cc50.genians.com
+invoice.genians.com
+journey.genians.com
+my.genians.com
+status.genians.com
+status-service.genians.com
+status-web.genians.com
+survey.genians.com
+www.genians.com

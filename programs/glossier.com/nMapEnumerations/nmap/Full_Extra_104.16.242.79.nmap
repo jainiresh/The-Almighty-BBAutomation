@@ -1,0 +1,77 @@
+# Nmap 7.93 scan initiated Thu Nov  9 17:18:26 2023 as: /usr/bin/nmap -sCV -p80,443,2052,2053,2082,2083,2086,2087,2095,2096,8080,8443,8880 --open -oN nmap/Full_Extra_104.16.242.79.nmap --system-dns --stats-every 2s 104.16.242.79
+Nmap scan report for 104.16.242.79
+Host is up (0.027s latency).
+
+PORT     STATE SERVICE  VERSION
+80/tcp   open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+443/tcp  open  ssl/http Cloudflare http proxy
+|_ssl-date: TLS randomness does not represent time
+|_http-server-header: cloudflare
+| ssl-cert: Subject: commonName=glossier.com/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:glossier.com, DNS:*.email-data.glossier.com, DNS:*.email-data.staging.glossier.com, DNS:*.glossier.com
+| Not valid before: 2023-09-11T00:00:00
+|_Not valid after:  2024-09-10T23:59:59
+|_http-title: 403 Forbidden
+2052/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2053/tcp open  ssl/http nginx
+|_ssl-date: TLS randomness does not represent time
+|_http-server-header: cloudflare
+|_http-title: 403 Forbidden
+| ssl-cert: Subject: commonName=glossier.com/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:glossier.com, DNS:*.email-data.glossier.com, DNS:*.email-data.staging.glossier.com, DNS:*.glossier.com
+| Not valid before: 2023-09-11T00:00:00
+|_Not valid after:  2024-09-10T23:59:59
+2082/tcp open  http     Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+2083/tcp open  ssl/http nginx
+|_http-title: 403 Forbidden
+|_ssl-date: TLS randomness does not represent time
+|_http-server-header: cloudflare
+| ssl-cert: Subject: commonName=glossier.com/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:glossier.com, DNS:*.email-data.glossier.com, DNS:*.email-data.staging.glossier.com, DNS:*.glossier.com
+| Not valid before: 2023-09-11T00:00:00
+|_Not valid after:  2024-09-10T23:59:59
+2086/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2087/tcp open  ssl/http nginx
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=glossier.com/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:glossier.com, DNS:*.email-data.glossier.com, DNS:*.email-data.staging.glossier.com, DNS:*.glossier.com
+| Not valid before: 2023-09-11T00:00:00
+|_Not valid after:  2024-09-10T23:59:59
+|_http-server-header: cloudflare
+|_http-title: 403 Forbidden
+2095/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2096/tcp open  ssl/http nginx
+|_ssl-date: TLS randomness does not represent time
+|_http-title: 403 Forbidden
+| ssl-cert: Subject: commonName=glossier.com/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:glossier.com, DNS:*.email-data.glossier.com, DNS:*.email-data.staging.glossier.com, DNS:*.glossier.com
+| Not valid before: 2023-09-11T00:00:00
+|_Not valid after:  2024-09-10T23:59:59
+|_http-server-header: cloudflare
+8080/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+8443/tcp open  ssl/http Cloudflare http proxy
+|_http-title: 403 Forbidden
+|_ssl-date: TLS randomness does not represent time
+|_http-server-header: cloudflare
+| ssl-cert: Subject: commonName=glossier.com/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:glossier.com, DNS:*.email-data.glossier.com, DNS:*.email-data.staging.glossier.com, DNS:*.glossier.com
+| Not valid before: 2023-09-11T00:00:00
+|_Not valid after:  2024-09-10T23:59:59
+8880/tcp open  http     Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Nov  9 17:18:47 2023 -- 1 IP address (1 host up) scanned in 21.11 seconds

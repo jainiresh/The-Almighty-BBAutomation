@@ -1,0 +1,15 @@
+htsg-storegateway-sg.heytap.com
+htsg-payapi-sg.heytap.com
+rydeen-qpon-gl.heytap.com
+qpon.heytap.com
+htsg-storeapi-sg.heytap.com
+heytap.com
+heytap.com
+*.heytap.com.cn
+heytap.com.cn
+www.heytap.com
+heytap.com
+aem.heytap.com
+payment.heytap.com
+heytap.com
+www.heytap.com

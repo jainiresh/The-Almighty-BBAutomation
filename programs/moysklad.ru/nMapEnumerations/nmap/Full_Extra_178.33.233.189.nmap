@@ -1,0 +1,116 @@
+# Nmap 7.93 scan initiated Wed Dec  6 14:01:31 2023 as: /usr/bin/nmap -sCV -p22,80,111,2377,5432,7946,24007 --open -oN nmap/Full_Extra_178.33.233.189.nmap --system-dns --stats-every 2s 178.33.233.189
+Nmap scan report for ns375727.ip-178-33-233.eu (178.33.233.189)
+Host is up (0.15s latency).
+
+PORT      STATE SERVICE    VERSION
+22/tcp    open  ssh        OpenSSH 7.6p1 Ubuntu 4ubuntu0.5 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 86d4c16432d090f163715e756d7500ca (RSA)
+|   256 36e66dca6a6648f2a65294ab8a502622 (ECDSA)
+|_  256 246031ce4b2d7a3274fe77b87d5c5ecc (ED25519)
+80/tcp    open  http       nginx 1.17.6
+|_http-server-header: nginx/1.17.6
+|_http-title: 503 Service Temporarily Unavailable
+111/tcp   open  rpcbind    2-4 (RPC #100000)
+| rpcinfo: 
+|   program version    port/proto  service
+|   100000  2,3,4        111/tcp   rpcbind
+|   100000  2,3,4        111/udp   rpcbind
+|   100000  3,4          111/tcp6  rpcbind
+|_  100000  3,4          111/udp6  rpcbind
+2377/tcp  open  ssl/swarm?
+| ssl-cert: Subject: commonName=ur3mxpc2ibs6z8tmyo1ogx4ml/organizationName=2u0ydzqc3v1lbs9t9p8shbzu8
+| Subject Alternative Name: DNS:swarm-manager, DNS:ur3mxpc2ibs6z8tmyo1ogx4ml, DNS:swarm-ca
+| Not valid before: 2023-11-21T20:08:00
+|_Not valid after:  2024-02-19T21:08:00
+5432/tcp  open  postgresql PostgreSQL DB 12.0 - 12.2
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=ns375727.ip-178-33-233.eu
+| Subject Alternative Name: DNS:ns375727.ip-178-33-233.eu
+| Not valid before: 2020-03-09T08:15:59
+|_Not valid after:  2030-03-07T08:15:59
+7946/tcp  open  unknown
+| fingerprint-strings: 
+|   DNSVersionBindReqTCP: 
+|     \xc5
+|     \xa1
+|     dS-v
+|   GenericLines: 
+|     <9eV
+|     `|"#
+|     {GG{
+|     \x0bi
+|     @k#f
+|   GetRequest: 
+|     loop
+|   HTTPOptions: 
+|     [:yc
+|   RPCCheck: 
+|     ?@[$
+|     P$CnTG
+|   RTSPRequest: 
+|_    ~hHPq
+24007/tcp open  rpcbind
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port2377-TCP:V=7.93%T=SSL%I=7%D=12/6%Time=65703176%P=x86_64-pc-linux-gn
+SF:u%r(NULL,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(GenericLines,F,"\0\
+SF:0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(GetRequest,F,"\0\0\x06\x04\0\0\0\0
+SF:\0\0\x05\0\0@\0")%r(HTTPOptions,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0"
+SF:)%r(RTSPRequest,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(RPCCheck,F,"
+SF:\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(DNSVersionBindReqTCP,F,"\0\0\x0
+SF:6\x04\0\0\0\0\0\0\x05\0\0@\0")%r(DNSStatusRequestTCP,F,"\0\0\x06\x04\0\
+SF:0\0\0\0\0\x05\0\0@\0")%r(Help,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%
+SF:r(SSLSessionReq,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(TerminalServ
+SF:erCookie,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(TLSSessionReq,F,"\0
+SF:\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(Kerberos,F,"\0\0\x06\x04\0\0\0\0\
+SF:0\0\x05\0\0@\0")%r(SMBProgNeg,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%
+SF:r(X11Probe,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(FourOhFourRequest
+SF:,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(LPDString,F,"\0\0\x06\x04\0
+SF:\0\0\0\0\0\x05\0\0@\0")%r(LDAPSearchReq,F,"\0\0\x06\x04\0\0\0\0\0\0\x05
+SF:\0\0@\0")%r(LDAPBindReq,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(SIPO
+SF:ptions,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(LANDesk-RC,F,"\0\0\x0
+SF:6\x04\0\0\0\0\0\0\x05\0\0@\0")%r(TerminalServer,F,"\0\0\x06\x04\0\0\0\0
+SF:\0\0\x05\0\0@\0")%r(NCP,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(Note
+SF:sRPC,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(JavaRMI,F,"\0\0\x06\x04
+SF:\0\0\0\0\0\0\x05\0\0@\0")%r(WMSRequest,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\
+SF:0\0@\0")%r(oracle-tns,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(ms-sql
+SF:-s,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0")%r(afp,F,"\0\0\x06\x04\0\0\0
+SF:\0\0\0\x05\0\0@\0")%r(giop,F,"\0\0\x06\x04\0\0\0\0\0\0\x05\0\0@\0");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port7946-TCP:V=7.93%I=7%D=12/6%Time=6570316A%P=x86_64-pc-linux-gnu%r(Ge
+SF:nericLines,75,"\n\0\0\0p\x01ww\xff\xe9\[\xb7\xa3\xf2\xdc\\h\xe84\xf8=\x
+SF:e4l\x8b\xa9'\x9f\n\x84\x9b\x92\?1\xa0<9eV\xe0\x01\xc2\x85W\x80`\|\"#\x1
+SF:4\xc8\xb4=\xd2\xd0\xd9\x87\xdf\xea\x7f{GG{\x01\xeb\xfa\x8a\xf9\xe5\t%\x
+SF:f6Ox\xfe\xab\x89t\x95\xa4:lj\x1c=#\xd8\x9b:\x89RnN\xfdt\t\\\x0bi\x9b\xc
+SF:7\xd8@k#f\x07\x16\$v\x03\x18\t\xa6\xaf\x802")%r(GetRequest,75,"\n\0\0\0
+SF:p\x01W\xe8\x9a\xaa\x19\xdeK\xbe\x15\xdb`\xb5Q\xc1\xf5\x1f\x1f-\x03U\x1a
+SF:\x8e\x147\x9a\x13\xaa\xe7\xfa\xc8\x0c#U\x1f\xbfr\x9c\xeb\xbf\x88\xb8loo
+SF:p\x07\rU\xd6=\xf3\x1f1\xe4D\x7f\xef1p\x1d\"\x83\x20\x04\"\x821\x92\xb7\
+SF:x85%\xa7\xe0\xee'\xe6\xbb\n\xdd\"g\xd1A!\xe4\xb8\x0b\xf9\xbc\x05\xbaFW\
+SF:x1a\x84iSZ\0\x19\xd6Q`\x9c\xdc\xa8n\)=\x8du")%r(HTTPOptions,75,"\n\0\0\
+SF:0p\x01\xf6\xce\x96\xc8\xa2\x1e\x8e\?\xaa\xe4\(\xbc\xf6\xc1\xfc\x16\xfa\
+SF:x1eb\x10\xd4\x95\xfa\xef\x07F\xf2M\xcf\xc4&rR\x7f\xc4d\xaa\xe8\x06\x86\
+SF:x81d\xb8\.U\xd0\xe3j1\xe6\0\x20\x93\xd4\xd6od\xd2Q\x1b\x16\xae7<\xc5N\x
+SF:bb\x1a\x1f\xadC\xee\x8ao\]\xfb\xbbj2\)\x122\x08c\x83\x9eK\xdd\xab\xef\x
+SF:ef\xac\xab\x8bD\xfa\xc6\xe2\[:yc\xf8\x10\x03\xae\t:\xb5\xe1\x17")%r(RTS
+SF:PRequest,75,"\n\0\0\0p\x01O@\x12\x13T\xb9\xd6%A\xb34\x08\xd7\x81s_\xc3d
+SF:\xa8\xc9\xf9\(\x1c4\xbc\xd7\xbf\x8b\x8f\x9a\xd4\xa3_\x8bL\x1a\x85\xba\x
+SF:b7\x7f{K\x96\xbd\x1f\x1c\x95/~X\xf2O<\xee\xad\xd1\x8dr\xc0\x02~hHPq\xb8
+SF:\xdf\x87\x87\x80\x9d\x13:t\"\xeehz\x85\x9f\x13\xd8\xaes\xd0\x9d\xa8\x93
+SF:\.R\x0fA\x1b\xa7!\x81\x02\xf2>\xa2\xc1}\xf6\xf4R\x03\x159\xef\xcb\xdb")
+SF:%r(RPCCheck,75,"\n\0\0\0p\x01E\x9c\xa8x\xc89\x0ew\xcaf\x9f\n\xe9\xcc\x8
+SF:4\x8b\x9e\x95/7_\xcf\xf0\+\x11s\x11\xde\xbap\xd0\xf7E\?c\xa0\xb8\x0f\xd
+SF:c\xd3\x99\xf8n\xf7\xb0\xa6\x88\xf2\xc7\xbf\?@\[\$\xb1\x8a/\x9fX\(\xb44\
+SF:xa3f\xa9\)\x91I\xbc\xde\x1f\x03\x91S\xf8\)\x8c\x85\xc0\]h\xb7~\xc05\xbe
+SF:\x7fP\$CnTG\xd5\xc7\xd9\x9c\xa9\xdfs\xd1\xe5\xbeA\x0b\xde\xffJ\x9ey\xb7
+SF:")%r(DNSVersionBindReqTCP,75,"\n\0\0\0p\x01\xa4-\[\xcb\?\xa2\xd0\x01\xa
+SF:2\x0ea\xa6\xe3Z\xf2\xb3\xc4\xcd\xaa\xff\xccj\xd5\xe5_\x15\xa2Mo\xe2\x8e
+SF:/\xcc\\\xc5\xbeHve\xd7\x15\x8eO\xb9\xb0\xee\x95\xb4\xc8\x8a\xd0\x061\x9
+SF:4\xab\x9a3\xd5\xb5\xf2\x9aq\xfe\x99\\\xa1\x08s\xb1-\x8aw\xb3\x9d\(\xd46
+SF:\xb7dS-v\x03W\xd8\xdbWZ7\x96\xbd\t\xe7\x9c\x86\x9aLA\xec\x10\x96\x0c\xf
+SF:0\rU\x94\xd4\xe1\xe5\xecr");
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Dec  6 14:04:28 2023 -- 1 IP address (1 host up) scanned in 177.76 seconds

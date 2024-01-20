@@ -1,0 +1,19 @@
+# Nmap 7.93 scan initiated Thu Nov 23 23:46:55 2023 as: /usr/bin/nmap -sCV -p80,443 --open -oN nmap/Full_Extra_167.89.123.54.nmap --system-dns --stats-every 2s 167.89.123.54
+Nmap scan report for o16789123x54.outbound-mail.sendgrid.net (167.89.123.54)
+Host is up (0.36s latency).
+
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     nginx
+|_http-title: 404 Not Found
+443/tcp open  ssl/http nginx
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=*.sendgrid.net
+| Subject Alternative Name: DNS:*.sendgrid.net, DNS:sendgrid.net
+| Not valid before: 2022-12-14T18:12:57
+|_Not valid after:  2024-01-15T17:57:31
+|_http-title: 404 Not Found
+| tls-nextprotoneg: 
+|_  http/1.1
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Nov 23 23:47:26 2023 -- 1 IP address (1 host up) scanned in 30.19 seconds

@@ -1,0 +1,10 @@
+Hey team,
+
+I am a professional web application pentester, having secured more than 75+ websites, and have hunted down vulnerabilities.
+I have found a serious web application vulnerability on one of the asset of "makeup.com.ua" .
+
+May i know where should i report my vulnerability finding, to which email address ? according to the bug bounty policy.
+
+If this email is unclear to you, then i would highly recommend this to be forwarded to the Security team of makeup.com.ua , or the CTO of the organization.
+
+You can check out my profile at "https://www.linkedin.com/in/jainiresh/" !

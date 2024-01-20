@@ -1,0 +1,779 @@
+<html class="s-js  not-loaded"><head>
+        <meta charset="UTF-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>            Zorginstelling Laurens –
+            Laurens
+</title>
+
+        <!--
+        Copyright (c) Zicht online 2024 All rights reserved
+        Developed by : Zicht online
+        Contact      : info@zicht.nl
+        -->
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <link rel="stylesheet" href="/assets/main.css?97c43438e142745998cbf2f848d6078aff6400bb">
+
+                    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ef4135">
+    <meta name="facebook-domain-verification" content="s97ruyjjnrsmsns4ij4n3twai7zwc1">
+
+                        <meta name="description" content="Duizenden ouderen in Rotterdam en omstreken vertrouwen dagelijks op de zorg van ruim 6.000 betrokken zorgprofessionals van Laurens.">            <meta property="og:url" content="https://laurens.nl/">
+            <meta property="og:locale" content="nl_NL">
+            <meta property="og:title" content="Zorginstelling Laurens">            <meta property="og:image" content="https://laurens.nl/media/cache/open_graph/media/plaatwerk/wonen_met_zorg_35_huiskamer_verzorgende.jpg">            <meta property="og:description" content="Duizenden ouderen in Rotterdam en omstreken vertrouwen dagelijks op de zorg van ruim 6.000 betrokken zorgprofessionals van Laurens. Uw vragen, wensen en mogelijkheden staan centraal in ons werk. Dat werk doen we niet alleen, maar samen met de mensen om u heen en andere zorgverleners zoals uw huisarts, specialist of behandelaar.">                        
+        <script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-2454986.js?sv=7"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-2DK6YCED8R&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TJRZFG"></script><script>
+            'use strict';
+            var html = document.getElementsByTagName('html')[0];
+            html.className = html.className.replace('s-no-js', 's-js');
+        </script>
+
+            
+
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;key=AIzaSyBsCEr3RGqInGC9imSxUdq-WuBJj3asd4c"></script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TJRZFG');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://static.dialogflow.com/common/messenger/webcomponentsjs/2.1.3/custom-elements-es5-adapter.js"></script><script src="https://static.dialogflow.com/common/messenger/webcomponentsjs/2.1.3/webcomponents-loader.js"></script><script src="https://beta.enjoj-test.nl/enjoj-dates/js/app.6bad4b5a.js" type="text/javascript"></script><script src="https://beta.enjoj-test.nl/enjoj-dates/js/chunk-vendors.1edbc93e.js" type="text/javascript"></script><link href="https://beta.enjoj-test.nl/enjoj-dates/css/app.e611e1ca.css" type="text/css" rel="stylesheet"><link href="https://beta.enjoj-test.nl/enjoj-dates/css/chunk-vendors.e8bd2510.css" type="text/css" rel="stylesheet"><style type="text/css">:root{--df-messenger-bot-message:#fff;--df-messenger-button-titlebar-color:#42a5f5;--df-messenger-button-titlebar-font-color:#fff;--df-messenger-chat-background-color:#fafafa;--df-messenger-font-color:rgba(0,0,0,.87);--df-messenger-input-box-color:#fff;--df-messenger-input-font-color:rgba(0,0,0,.87);--df-messenger-input-placeholder-font-color:#757575;--df-messenger-minimized-chat-close-icon-color:rgba(0,0,0,.87);--df-messenger-send-icon:#42a5f5;--df-messenger-user-message:#ddd;--df-messenger-chip-color:#fff;--df-messenger-chip-border-color:#e0e0e0}</style><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"></head>
+
+    <body class="    u-bg--grey--spring-wood
+">
+            <!-- Google Tag Manager (noscript) -->
+    
+    <!-- End Google Tag Manager (noscript) -->
+
+        
+
+
+
+
+    
+                        
+
+
+    
+
+        
+
+    
+
+
+
+    
+
+
+    
+
+                        
+            
+    
+            
+
+            
+
+    
+    <script type="template/javascript" id="info-tpl">
+        <div class="o-grid__col  o-grid__col--12@xs  o-grid__col--4@md  u-br--3@md  u-bg--white  u-box-shadow--1  u-margin--l-auto  u-margin--r3@md  u-margin--t3@md  u-pointer-events--all">
+            <div class="u-padding--4">
+                <h2 class="u-size--5  u-red--pomegranate"><%= marker.get('title') %></h2>
+                <p class="u-size--8">
+                    <%= marker.get('street') %> <%= marker.get('houseNumber') %><br>
+                    <%= marker.get('zipCode') %> <%= marker.get('city') %><br>
+                    <% if (marker.get('telephone')) { %>
+                        <br>Telefoon: <%= marker.get('telephone') %>
+                    <% } %>
+                    <% if (marker.get('fax')) { %>
+                        <br>Fax: <%= marker.get('fax') %>
+                    <% } %>
+                    <% if (marker.get('extra')) { %>
+                        <br><%= marker.get('extra') %><br>
+                    <% } %>
+                </p>
+                <% if (marker.get('link_url') && marker.get('link_text')) { %>
+                    <p class="u-size--8">
+                        <a class="u-red--pomegranate" href="<%= marker.get('link_url') %>"><%= marker.get('link_text') %></a>
+                    </p>
+                <% } %>
+            </div>
+        </div>
+    </script>
+
+    <script type="template/javascript" id="marker-tpl">
+                
+    <?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="46px" height="58px" viewBox="0 0 46 58" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--ui/pin  u-red--pomegranate" aria-hidden="true" role="img">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-647.000000, -3115.000000)" fill="currentColor">
+            <path d="M670.024775,3115 C657.343744,3115 647,3125.39104 647,3138.18002 C647,3139.72868 647.149189,3141.27735 647.447566,3142.77606 C647.447566,3142.87597 647.497295,3142.97588 647.497295,3143.12575 C650.033502,3154.56589 667.886405,3171.75108 668.632348,3172.45047 C669.030185,3172.85013 669.52748,3173 670.024775,3173 C670.522071,3173 671.019366,3172.80017 671.417203,3172.45047 C672.163146,3171.70112 689.91659,3154.56589 692.452797,3143.37554 C692.452797,3143.27562 692.502526,3143.17571 692.502526,3143.0758 C692.850633,3141.47717 692.999821,3139.8286 692.999821,3138.18002 C693.049551,3125.39104 682.705807,3115 670.024775,3115 L670.024775,3115 Z M688.524163,3142.32644 L688.524163,3142.47631 C686.634441,3150.76916 674.251786,3163.85788 670.024775,3168.10422 C665.797765,3163.85788 653.365381,3150.76916 651.475658,3142.27649 C651.475658,3142.17657 651.475658,3142.12661 651.425929,3142.0267 C651.177281,3140.72782 651.028092,3139.42894 651.028092,3138.13006 C651.028092,3127.6391 659.531843,3119.04651 669.975046,3119.04651 C680.418249,3119.04651 688.971729,3127.58915 688.971729,3138.13006 C688.971729,3139.57881 688.82254,3140.97761 688.524163,3142.32644 L688.524163,3142.32644 Z M670.024775,3128.03876 C665.748035,3128.03876 662.316697,3131.53575 662.316697,3135.78208 C662.316697,3140.02842 665.797765,3143.52541 670.024775,3143.52541 C674.251786,3143.52541 677.732854,3140.07838 677.732854,3135.78208 C677.732854,3131.48579 674.301516,3128.03876 670.024775,3128.03876 Z M670.024775,3139.4789 C667.985864,3139.4789 666.34479,3137.83032 666.34479,3135.78208 C666.34479,3133.73385 667.985864,3132.08527 670.024775,3132.08527 C672.063686,3132.08527 673.704761,3133.73385 673.704761,3135.78208 C673.704761,3137.83032 672.063686,3139.4789 670.024775,3139.4789 Z"/>
+        </g>
+    </g>
+</svg>
+
+
+    </script>
+
+    <script src="https://beta.enjoj-test.nl/enjoj-dates/injector.js"></script>
+
+    <script src="/js/vendor.min.js?97c43438e142745998cbf2f848d6078aff6400bb"></script>
+    <script src="/assets/main.min.js?97c43438e142745998cbf2f848d6078aff6400bb"></script>
+    <script src="/assets/polyfills.min.js?97c43438e142745998cbf2f848d6078aff6400bb"></script>
+    
+<div class="c-layout  u-relative  u-width--100  u-height--m100  u-of--hidden  js-hamburger--container"><div><div class="u-fixed  u-z--1  u-top--0  u-left--0  u-flex--items--center  u-flex--justify--center  u-width--100  u-height--m100  u-bg--red--pomegranate  u-hidden  u-hidden@md  js-hamburger--menu"><div class="u-absolute  u-top--0  u-right--0  u-z--1 u-margin--t3  u-padding--3  u-pointer  u-white  u-size--2  u-lh--1  js-hamburger--close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32px" height="32px"><path fill="currentColor" d="M18.1,16l7.4-7.4c0.7-0.7,0.8-1.7,0.2-2.3c-0.6-0.6-1.6-0.5-2.3,0.2L16,13.9L8.6,6.5C7.9,5.8,6.8,5.7,6.3,6.3S5.8,7.9,6.5,8.6l7.4,7.4l-7.4,7.4c-0.7,0.7-0.8,1.7-0.2,2.3c0.6,0.6,1.6,0.5,2.3-0.2l7.4-7.4l7.4,7.4c0.7,0.7,1.7,0.8,2.3,0.2s0.5-1.6-0.2-2.3L18.1,16z"></path></svg></div><nav class="u-flex  u-flex--justify--center   js-hamburger--target" data-component="navigation--main">
+    <ol class="o-list-reset  u-flex  u-flex--column  u-flex--row@lg">
+                                
+<li class="o-list-reset__item  u-bs--b-solid  u-bw--b3  u-bc--transparent" data-component="navigation--main-item">
+    <a class="u-block  u-margin--t2  u-no-underline  u-no-decoration  u-white  u-padding--y2  u-text--center  u-padding--y4@lg  u-black@lg" href="/thuiszorg">
+        Thuiszorg
+    </a>
+</li>    
+
+                                        <li class="o-list-reset__item  u-hidden  u-block@lg" aria-hidden="true">
+                    <span class="u-inline-block  u-margin--x4  u-margin--t5  u-bc--red--pomegranate  u-bs--r-solid  u-bw--r2">&nbsp;</span>
+                </li>
+                                            
+<li class="o-list-reset__item  u-bs--b-solid  u-bw--b3  u-bc--transparent" data-component="navigation--main-item">
+    <a class="u-block  u-margin--t2  u-no-underline  u-no-decoration  u-white  u-padding--y2  u-text--center  u-padding--y4@lg  u-black@lg" href="/locaties/overzicht">
+        Zorg op locatie
+    </a>
+</li>    
+
+                                        <li class="o-list-reset__item  u-hidden  u-block@lg" aria-hidden="true">
+                    <span class="u-inline-block  u-margin--x4  u-margin--t5  u-bc--red--pomegranate  u-bs--r-solid  u-bw--r2">&nbsp;</span>
+                </li>
+                                            
+<li class="o-list-reset__item  u-bs--b-solid  u-bw--b3  u-bc--transparent" data-component="navigation--main-item">
+    <a class="u-block  u-margin--t2  u-no-underline  u-no-decoration  u-white  u-padding--y2  u-text--center  u-padding--y4@lg  u-black@lg" href="/verwijzers">
+        Verwijzers
+    </a>
+</li>    
+
+                                        <li class="o-list-reset__item  u-hidden  u-block@lg" aria-hidden="true">
+                    <span class="u-inline-block  u-margin--x4  u-margin--t5  u-bc--red--pomegranate  u-bs--r-solid  u-bw--r2">&nbsp;</span>
+                </li>
+                                            
+<li class="o-list-reset__item  u-bs--b-solid  u-bw--b3  u-bc--transparent  u-hidden@lg" data-component="navigation--main-item">
+    <a class="u-block  u-margin--t2  u-no-underline  u-no-decoration  u-white  u-padding--y2  u-text--center  u-padding--y4@lg  u-black@lg" href="/zoekresultaten">
+        Zoeken
+    </a>
+</li>    
+
+                                    </ol>
+</nav></div><div class="js-hamburger--content"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJRZFG"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><header class="u-relative  u-bg--white@lg  u-box-shadow--2@lg">
+    <div class="o-grid  o-grid--fixed  o-grid--flex-content  u-hidden@lg">
+        <div class="o-grid__row  u-relative">
+            <div class="o-grid__col  o-grid__col--12@xs  u-padding--y3  u-margin--t2  u-margin--t1@lg  u-absolute@lg  u-left--0@lg  u-top--0@lg">
+                <div class="u-flex  u-flex--items--center">
+                                
+
+    <a class="u-inline-block  u-no-underline  u-no-decoration" href="/zorginstelling-laurens">
+
+    <figure class="u-margin--0">
+                
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53 53" width="53px" height="53px" preserveAspectRatio="xMidYMid meet" class="">
+    <path class="u-fill--green--aqua-deep" d="M27.1,53.1C11.2,43.4-1.1,20,8.4,5.2C12-0.3,18.8-1.2,23.6,1.7c5.7,3.5,7.5,11.2,2.2,19.4         C20,29.9,18.4,37.2,27.1,53.1"></path>
+    <path class="u-fill--red--pomegranate" d="M27,52.9c13.5-6.6,25.2-24.5,18.6-37c-2.5-4.7-7.8-6-11.9-4c-4.8,2.3-6.9,8.5-3.2,15.4         C34.5,34.8,35.2,40.8,27,52.9"></path>
+</svg>
+
+
+    </figure>
+
+    </a>
+    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="u-flex  u-flex--justify--end">
+        <div class="u-hidden  u-flex@lg">
+                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                
+                            
+
+<nav class="u-flex  u-flex--justify--center   js-hamburger--target" data-component="navigation--main">
+    <ol class="o-list-reset  u-flex  u-flex--column  u-flex--row@lg">
+                                
+<li class="o-list-reset__item  u-bs--b-solid  u-bw--b3  u-bc--transparent" data-component="navigation--main-item">
+    <a class="u-block  u-margin--t2  u-no-underline  u-no-decoration  u-white  u-padding--y2  u-text--center  u-padding--y4@lg  u-black@lg" href="/thuiszorg">
+        Thuiszorg
+    </a>
+</li>    
+
+                                        <li class="o-list-reset__item  u-hidden  u-block@lg" aria-hidden="true">
+                    <span class="u-inline-block  u-margin--x4  u-margin--t5  u-bc--red--pomegranate  u-bs--r-solid  u-bw--r2">&nbsp;</span>
+                </li>
+                                            
+<li class="o-list-reset__item  u-bs--b-solid  u-bw--b3  u-bc--transparent" data-component="navigation--main-item">
+    <a class="u-block  u-margin--t2  u-no-underline  u-no-decoration  u-white  u-padding--y2  u-text--center  u-padding--y4@lg  u-black@lg" href="/locaties/overzicht">
+        Zorg op locatie
+    </a>
+</li>    
+
+                                        <li class="o-list-reset__item  u-hidden  u-block@lg" aria-hidden="true">
+                    <span class="u-inline-block  u-margin--x4  u-margin--t5  u-bc--red--pomegranate  u-bs--r-solid  u-bw--r2">&nbsp;</span>
+                </li>
+                                            
+<li class="o-list-reset__item  u-bs--b-solid  u-bw--b3  u-bc--transparent" data-component="navigation--main-item">
+    <a class="u-block  u-margin--t2  u-no-underline  u-no-decoration  u-white  u-padding--y2  u-text--center  u-padding--y4@lg  u-black@lg" href="/verwijzers">
+        Verwijzers
+    </a>
+</li>    
+
+                                        <li class="o-list-reset__item  u-hidden  u-block@lg" aria-hidden="true">
+                    <span class="u-inline-block  u-margin--x4  u-margin--t5  u-bc--red--pomegranate  u-bs--r-solid  u-bw--r2">&nbsp;</span>
+                </li>
+                                            
+<li class="o-list-reset__item  u-bs--b-solid  u-bw--b3  u-bc--transparent  u-hidden@lg" data-component="navigation--main-item">
+    <a class="u-block  u-margin--t2  u-no-underline  u-no-decoration  u-white  u-padding--y2  u-text--center  u-padding--y4@lg  u-black@lg" href="/zoekresultaten">
+        Zoeken
+    </a>
+</li>    
+
+                                    </ol>
+</nav>    
+            
+            <a class="u-hidden  u-block@lg  u-flex--self--center  u-margin--t2  u-margin--r4  u-black  js-search-trigger" data-overlay=".js-search-overlay" href="/zoekresultaten">
+                        
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32px" height="32px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--magnifier" aria-hidden="true" role="img">
+    <path fill="currentColor" d="M13.2,23c2.4,0,4.5-0.8,6.2-2.3l7.5,7.5c0.2,0.2,0.4,0.3,0.6,0.3c0.2,0,0.5-0.1,0.6-0.3c0.3-0.3,0.3-0.9,0-1.3  l-7.5-7.5c1.4-1.7,2.3-3.9,2.3-6.2c0-5.4-4.4-9.7-9.7-9.7c-5.3,0-9.7,4.4-9.7,9.7C3.5,18.6,7.9,23,13.2,23L13.2,23z M13.2,5.3  c4.4,0,8,3.6,8,8c0,4.4-3.6,8-8,8s-8-3.6-8-8S8.8,5.3,13.2,5.3L13.2,5.3z"></path>
+</svg>
+
+
+            </a>
+        </div>
+
+        <div class="u-absolute  u-top--0  u-right--0  u-margin--t3  u-box-shadow--1  u-hidden@lg"><div class="u-flex"><a class="u-block  u-padding--3  u-bg--red--pomegranate  u-white  u-pointer  js-callus"><!--?xml version="1.0"?--><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32px" height="32px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--telephone  u-block" aria-hidden="true" role="img"><path fill="currentColor" d="M27.3,4.7c-3-3-7-4.7-11.3-4.7S7.7,1.7,4.7,4.7c-3,3-4.7,7-4.7,11.3s1.7,8.3,4.7,11.3c3,3,7,4.7,11.3,4.7  c2.5,0,4.7-0.5,6.5-1.3c1.7-0.8,2.9-2,3.5-3.3c0.7-1.6,0.3-3.2-1-4.5l0,0c0,0,0,0,0.1-0.1c0.9-1,0.9-2.2,0-3.2l-2.3-2.3  c-0.4-0.5-1-0.7-1.6-0.7s-1.1,0.2-1.6,0.7l-1.2,1.2c-0.1,0-0.1-0.1-0.2-0.1c-0.1-0.1-0.3-0.1-0.4-0.2c-1.2-0.8-2.3-1.8-3.3-3  c-0.5-0.6-0.8-1.1-1-1.6c0.3-0.3,0.6-0.6,0.8-0.8c0.1-0.1,0.2-0.2,0.3-0.3c1-1,1-2.2,0-3.2l-1.1-1.1c-0.1-0.1-0.3-0.3-0.4-0.4  c-0.3-0.3-0.5-0.5-0.8-0.8c-0.4-0.4-1-0.7-1.5-0.7c-0.6,0-1.1,0.2-1.6,0.7c0,0,0,0,0,0L7.9,8.3c-0.6,0.6-0.9,1.3-1,2.1  c-0.1,1.3,0.3,2.4,0.5,3.2c0.7,1.8,1.7,3.5,3.2,5.3c1.8,2.2,4,3.9,6.6,5.1c1,0.5,2.3,1,3.7,1.1c0.1,0,0.2,0,0.3,0  c1,0,1.9-0.4,2.6-1.1c0,0,0,0,0,0c0,0,0-0.1,0.1-0.1l0,0c0.8,0.8,1.1,1.8,0.7,2.8c-0.8,1.8-3.7,3.6-8.6,3.6C8,30.4,1.6,24,1.6,16  S8,1.6,16,1.6c8,0,14.4,6.5,14.4,14.4c0,1.3-0.2,2.6-0.5,3.8c-0.1,0.4,0.1,0.9,0.6,1c0.4,0.1,0.9-0.1,1-0.6c0.4-1.4,0.6-2.8,0.6-4.3  C32,11.7,30.3,7.7,27.3,4.7L27.3,4.7z M22.6,23c-0.4,0.4-0.8,0.6-1.4,0.6c-0.1,0-0.1,0-0.2,0c-1.2-0.1-2.3-0.5-3.1-0.9  c-2.3-1.1-4.3-2.7-6-4.7c-1.4-1.7-2.3-3.2-2.9-4.9c-0.4-1-0.5-1.8-0.5-2.5c0-0.4,0.2-0.8,0.5-1.1L10.4,8c0.1-0.1,0.3-0.2,0.5-0.2  c0.2,0,0.3,0.1,0.4,0.2c0,0,0,0,0,0c0.3,0.2,0.5,0.5,0.7,0.7c0.1,0.1,0.3,0.3,0.4,0.4l1.1,1.1c0.3,0.3,0.3,0.6,0,1  c-0.1,0.1-0.2,0.2-0.4,0.4c-0.3,0.3-0.7,0.7-1,1c0,0,0,0,0,0c-0.5,0.5-0.3,1-0.3,1.2c0,0,0,0,0,0.1c0.3,0.7,0.7,1.4,1.4,2.2l0,0  c1.2,1.4,2.4,2.5,3.7,3.4c0.2,0.1,0.4,0.2,0.5,0.3c0.1,0.1,0.3,0.1,0.4,0.2c0,0,0,0,0.1,0c0.2,0.1,0.3,0.1,0.5,0.1  c0.3,0,0.6-0.1,0.8-0.4l1.4-1.4c0.1-0.1,0.3-0.2,0.5-0.2c0.2,0,0.3,0.1,0.4,0.2c0,0,0,0,0,0l2.3,2.3c0.3,0.3,0.3,0.6,0,1l0,0  c-0.2,0.2-0.3,0.3-0.5,0.5C23.1,22.4,22.9,22.7,22.6,23L22.6,23z"></path></svg></a><div class="u-flex--self--center  u-padding--3  u-bg--white  u-pointer  js-hamburger--trigger"><!--?xml version="1.0"?--><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32px" height="32px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--three-lines  u-block" aria-hidden="true" role="img"><g fill="currentColor"><path d="M26.2,8.5H5.8C5,8.5,4.3,7.8,4.3,7S5,5.5,5.8,5.5h20.3c0.8,0,1.5,0.7,1.5,1.5S27,8.5,26.2,8.5z"></path><path d="M26.2,17.5H5.8c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5h20.3c0.8,0,1.5,0.7,1.5,1.5S27,17.5,26.2,17.5z"></path><path d="M26.2,26.5H5.8c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5h20.3c0.8,0,1.5,0.7,1.5,1.5S27,26.5,26.2,26.5z"></path></g></svg></div></div></div>
+        <div class="u-relative  u-flex@lg">
+            <div class="u-width--100  u-height--100  u-hidden  u-flex@lg  u-pointer  js-callus">
+                            
+
+<div class="u-padding--x4  u-padding--y3  u-no-underline  u-no-decoration  u-flex  u-flex--items--center  u-bg--red--pomegranate  u-white  u-box-shadow--1" data-component="call-out">
+            <div class="u-flex  u-flex--justify--center  u-flex--items--center  u-width--37p  u-height--37p  u-margin--r4  u-white">
+                    
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32px" height="32px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--telephone" aria-hidden="true" role="img">
+	<path fill="currentColor" d="M27.3,4.7c-3-3-7-4.7-11.3-4.7S7.7,1.7,4.7,4.7c-3,3-4.7,7-4.7,11.3s1.7,8.3,4.7,11.3c3,3,7,4.7,11.3,4.7  c2.5,0,4.7-0.5,6.5-1.3c1.7-0.8,2.9-2,3.5-3.3c0.7-1.6,0.3-3.2-1-4.5l0,0c0,0,0,0,0.1-0.1c0.9-1,0.9-2.2,0-3.2l-2.3-2.3  c-0.4-0.5-1-0.7-1.6-0.7s-1.1,0.2-1.6,0.7l-1.2,1.2c-0.1,0-0.1-0.1-0.2-0.1c-0.1-0.1-0.3-0.1-0.4-0.2c-1.2-0.8-2.3-1.8-3.3-3  c-0.5-0.6-0.8-1.1-1-1.6c0.3-0.3,0.6-0.6,0.8-0.8c0.1-0.1,0.2-0.2,0.3-0.3c1-1,1-2.2,0-3.2l-1.1-1.1c-0.1-0.1-0.3-0.3-0.4-0.4  c-0.3-0.3-0.5-0.5-0.8-0.8c-0.4-0.4-1-0.7-1.5-0.7c-0.6,0-1.1,0.2-1.6,0.7c0,0,0,0,0,0L7.9,8.3c-0.6,0.6-0.9,1.3-1,2.1  c-0.1,1.3,0.3,2.4,0.5,3.2c0.7,1.8,1.7,3.5,3.2,5.3c1.8,2.2,4,3.9,6.6,5.1c1,0.5,2.3,1,3.7,1.1c0.1,0,0.2,0,0.3,0  c1,0,1.9-0.4,2.6-1.1c0,0,0,0,0,0c0,0,0-0.1,0.1-0.1l0,0c0.8,0.8,1.1,1.8,0.7,2.8c-0.8,1.8-3.7,3.6-8.6,3.6C8,30.4,1.6,24,1.6,16  S8,1.6,16,1.6c8,0,14.4,6.5,14.4,14.4c0,1.3-0.2,2.6-0.5,3.8c-0.1,0.4,0.1,0.9,0.6,1c0.4,0.1,0.9-0.1,1-0.6c0.4-1.4,0.6-2.8,0.6-4.3  C32,11.7,30.3,7.7,27.3,4.7L27.3,4.7z M22.6,23c-0.4,0.4-0.8,0.6-1.4,0.6c-0.1,0-0.1,0-0.2,0c-1.2-0.1-2.3-0.5-3.1-0.9  c-2.3-1.1-4.3-2.7-6-4.7c-1.4-1.7-2.3-3.2-2.9-4.9c-0.4-1-0.5-1.8-0.5-2.5c0-0.4,0.2-0.8,0.5-1.1L10.4,8c0.1-0.1,0.3-0.2,0.5-0.2  c0.2,0,0.3,0.1,0.4,0.2c0,0,0,0,0,0c0.3,0.2,0.5,0.5,0.7,0.7c0.1,0.1,0.3,0.3,0.4,0.4l1.1,1.1c0.3,0.3,0.3,0.6,0,1  c-0.1,0.1-0.2,0.2-0.4,0.4c-0.3,0.3-0.7,0.7-1,1c0,0,0,0,0,0c-0.5,0.5-0.3,1-0.3,1.2c0,0,0,0,0,0.1c0.3,0.7,0.7,1.4,1.4,2.2l0,0  c1.2,1.4,2.4,2.5,3.7,3.4c0.2,0.1,0.4,0.2,0.5,0.3c0.1,0.1,0.3,0.1,0.4,0.2c0,0,0,0,0.1,0c0.2,0.1,0.3,0.1,0.5,0.1  c0.3,0,0.6-0.1,0.8-0.4l1.4-1.4c0.1-0.1,0.3-0.2,0.5-0.2c0.2,0,0.3,0.1,0.4,0.2c0,0,0,0,0,0l2.3,2.3c0.3,0.3,0.3,0.6,0,1l0,0  c-0.2,0.2-0.3,0.3-0.5,0.5C23.1,22.4,22.9,22.7,22.6,23L22.6,23z"></path>
+</svg>
+
+
+        </div>
+    
+    <div class="u-lh--2">
+        
+                    <span class="u-block  u-margin-r1">Bel ons</span>
+            </div>
+</div>    
+            </div>
+
+            <div class="u-hidden  u-absolute   u-z--1  u-right--0  u-width--100@lg  u-top--1n  u-top--100@lg  js-callus-popup">
+                            
+
+<a class="u-padding--x4  u-padding--y3  u-no-underline  u-no-decoration  u-flex  u-flex--items--center  u-bg--white  u-black  u-box-shadow--1  u-bs--b-solid  u-bw--1" href="tel:010 33 23 000" data-component="call-out">
+    
+    <div class="u-lh--2">
+                    <span class="u-block  u-size--7">Nieuwe klanten en zorgvragen:</span>
+        
+                    <span class="u-block  u-red--pomegranate  u-ws--nowrap">010 33 23 000</span>
+            </div>
+</a>    
+                            
+
+<a class="u-padding--x4  u-padding--y3  u-no-underline  u-no-decoration  u-flex  u-flex--items--center  u-bg--white  u-black  u-box-shadow--1" href="tel:" data-component="call-out">
+    
+    <div class="u-lh--2">
+        
+            </div>
+</a>    
+            </div>
+        </div>
+    </div>
+</header><div class="u-relative  u-width--100  u-margin--b3  u-margin--b6@md" data-component="header--logo">
+    <div class="u-hidden  u-block@lg  u-width--100  u-top--0  u-margin--b2  u-margin--b5@sm  u-absolute@sm">
+        <div class="o-grid  o-grid--fixed">
+            <div class="o-grid__row">
+                <div class="o-grid__col  o-grid__col--12@xs  o-grid__col--8@lg  o-grid__col--6@xl  u-padding--t6">
+                                
+
+
+    <figure class="u-margin--0">
+                
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87 80" width="150px" height="150px" preserveAspectRatio="xMidYMid meet" class="">
+    <path class="u-fill--green--aqua-deep" d="M44.3,53.2C28.4,43.5,16.1,20.1,25.6,5.3C29.2-0.2,36-1.1,40.8,1.8C46.5,5.3,48.3,13,43,21.2C37.2,30,35.6,37.3,44.3,53.2"></path>
+    <path class="u-fill--red--pomegranate" d="M44.2,53c13.5-6.6,25.2-24.5,18.6-37c-2.5-4.7-7.8-6-11.9-4c-4.8,2.3-6.9,8.5-3.2,15.4C51.7,34.9,52.4,40.9,44.2,53"></path>
+    <g class="u-fill--green--aqua-deep">
+        <path id="Fill-6" d="M0.8,59.2c-0.3,0-0.4,0.2-0.4,0.4v1.1c0,0.3,0.2,0.4,0.4,0.4h1.6v13.3c0,1,0,3.2,0.4,4.1             C3.2,79.5,4.3,80,5.6,80c1,0,2.5-0.4,2.5-0.8L8,79l0,0l-0.4-1c0-0.1-0.1-0.2-0.3-0.2L7,77.8c-0.3,0.1-0.7,0.3-1.1,0.3             c-0.8,0-1-0.8-1-0.9c-0.1-0.3-0.1-1.7-0.1-2.6V59.7c0-0.3-0.1-0.5-0.5-0.5H0.8z"></path>
+        <path id="Fill-8" d="M21.1,77.7h-1.3c-0.2-0.7-0.3-1-0.3-2.7v-5.4c0-2.7-1.5-4-4.4-4c-1.7,0-4.5,0.8-4.5,1.4l0.1,0.4             c0,0,0.4,1,0.4,1c0,0.1,0.2,0.2,0.3,0.2l0.5-0.2c0.6-0.3,1.6-0.7,3-0.7c2,0,2.4,0.9,2.4,2.4v0.9h0c-1.8,0.1-7.4,0.2-7.4,5             c0,2.5,1.4,4.1,3.8,4.1c2.2,0,3.5-1.3,4-1.8c0.2,0.5,0.4,1.4,1.1,1.4h2.4c0.3,0,0.4-0.2,0.4-0.4v-1.1             C21.6,77.8,21.4,77.7,21.1,77.7L21.1,77.7z M17.2,76.4c0,0-0.1,0.1-0.1,0.1c-0.6,0.5-1.7,1.6-3,1.6c-1.3,0-1.9-1.2-1.9-2.3             c0-2.8,3.7-2.9,5-2.9h0V76.4z"></path>
+        <path id="Fill-10" d="M30.4,65.9c-0.3,0-0.4,0.2-0.4,0.4v1.1c0,0.3,0.2,0.4,0.4,0.4H32v8.8c-0.8,0.6-2.1,1.3-3.1,1.3             c-1.5,0-2.2-0.7-2.2-2.2v-9.4c0-0.3-0.2-0.4-0.4-0.4h-3.4c-0.3,0-0.4,0.2-0.4,0.4v1.1c0,0.3,0.2,0.4,0.4,0.4h1.5v7.9             c0,2.1,0.3,4.3,4.2,4.3c1.7,0,3.2-1.1,3.9-1.6c0,0.1,0.1,0.2,0.1,0.2c0.2,0.4,0.4,1,1.1,1H36c0.3,0,0.4-0.2,0.4-0.4v-1.1             c0-0.3-0.2-0.4-0.4-0.4h-1.5c0-0.1-0.2-1.7-0.2-1.7v-9.7c0-0.3-0.2-0.4-0.4-0.4H30.4z"></path>
+        <path id="Fill-12" d="M42.8,67.4c0,0-0.1,0.2-0.3,0.3c-0.1-0.6-0.4-1.9-1.2-1.9h-2.5c-0.3,0-0.4,0.2-0.4,0.4v1.1             c0,0.3,0.2,0.4,0.4,0.4h1.4c0.2,0.6,0.3,1.2,0.3,1.7v8.2H39c-0.3,0-0.4,0.2-0.4,0.4v1.1c0,0.3,0.2,0.4,0.4,0.4h5.5             c0.3,0,0.4-0.2,0.4-0.4v-1.1c0-0.3-0.2-0.4-0.4-0.4h-1.7v-7.8c0,0,0.4-0.4,0.4-0.4c0.6-0.7,1.4-1.7,2.1-1.7c0.3,0,0.5,0.1,0.7,0.2             l0.2,0.1c0.2,0,0.2-0.1,0.2-0.2c0,0,0.7-1.6,0.7-1.6l0.1-0.2c0-0.4-0.9-0.6-1.5-0.6C44.4,65.5,43.5,66.6,42.8,67.4"></path>
+        <path id="Fill-14" d="M59.4,72.6c0-4.7-1.8-7.1-5.2-7.1c-3.4,0-5.7,2.9-5.7,7.3c0,4.5,2.3,7.2,6.1,7.3c2,0,4.6-1.1,4.6-1.6L59,78.3             l0-0.1L58.5,77c-0.1-0.1-0.1-0.2-0.3-0.2l-0.4,0.2c-0.6,0.3-1.7,1-3.1,1c-3.5,0-3.8-3.7-3.8-4.6h8C59.4,73.3,59.4,73,59.4,72.6             L59.4,72.6z M51,71.3c0-0.6,0.2-3.9,3.1-3.9c2.6,0,2.8,3.1,2.8,3.9H51z"></path>
+        <path id="Fill-16" d="M65.7,67.3C65.7,67.3,65.7,67.2,65.7,67.3c-0.1-0.6-0.3-1.5-0.9-1.5h-2.8c-0.3,0-0.4,0.2-0.4,0.4v1.1             c0,0.3,0.2,0.4,0.4,0.4h1.5c0,0.1,0,0.2,0,0.2l0.1,1.5v8.2h-1.5c-0.3,0-0.4,0.2-0.4,0.4v1.1c0,0.3,0.2,0.4,0.4,0.4h5.4             c0.3,0,0.4-0.2,0.4-0.4v-1.1c0-0.3-0.2-0.4-0.4-0.4H66v-8.5c0.8-0.7,1.9-1.6,3.6-1.6c1.2,0,1.7,0.7,1.7,2.2v9.4             c0,0.3,0.2,0.4,0.4,0.4h3.4c0.3,0,0.4-0.2,0.4-0.4v-1.1c0-0.3-0.2-0.4-0.4-0.4h-1.5v-7.9c0-2.1-0.3-4.3-3.5-4.3             C68.1,65.5,66.7,66.6,65.7,67.3"></path>
+        <path id="Fill-18" d="M78,69.5c0,2.4,1.9,3.3,3.6,4.1c1.4,0.7,2.6,1.2,2.6,2.5c0,1.4-1.2,1.9-2.2,1.9c-1,0-1.9-0.3-2.3-0.5             c0,0-0.1,0-0.1,0v-1.6c0-0.3-0.1-0.4-0.4-0.4H78c-0.3,0-0.4,0.1-0.4,0.4v2.6c0,0.7,2.9,1.5,4.4,1.5c2.3,0,4.6-1.3,4.6-4.1             c0-2.5-1.9-3.3-3.6-4.1c-1.4-0.6-2.7-1.2-2.7-2.6c0-1.1,0.7-1.8,2-1.8c0.8,0,1.5,0.2,1.7,0.3v1.5c0,0.3,0.2,0.4,0.4,0.4h1.2             c0.3,0,0.4-0.2,0.4-0.4v-2.5c0-0.2,0-0.4-0.4-0.5c-0.7-0.4-2.4-0.9-3.4-0.9C79.8,65.5,78,67.2,78,69.5"></path>
+    </g>
+</svg>
+
+
+    </figure>
+
+    
+                </div>
+            </div>
+        </div>
+    </div>
+
+            <figure>
+            <img class="u-block  u-width--100" src="https://laurens.nl/media/cache/page_header/media/plaatwerk/wonen_met_zorg_20_activiteit.jpg" alt="">
+        </figure>
+    </div><section class="u-margin--b4  u-margin--t224p-n@md">
+        <div class="o-grid  o-grid--fixed">
+            <div class="o-grid__row">
+
+                <div class="o-grid__col  o-grid__col--12@xs  o-grid__col--6@md  o-grid__col--8@lg  u-flex--self--end  u-margin--b4  u-margin--b0@md">
+                    <div class="u-padding--4  u-padding--t5@md  u-padding--b3@md  u-padding--x6@md  u-white  u-bg--red--pomegranate  u-br--3  u-box-shadow--1">
+                        <h2 class="c-copy--h1  u-margin--b0">Welkom bij Laurens</h2>
+
+                                                    <div class="c-copy--introduction  s-cms-content">
+                                <p>Duizenden ouderen in Rotterdam en omstreken vertrouwen dagelijks op de zorg van ruim 6.000 betrokken zorgprofessionals van Laurens. Uw vragen, wensen en mogelijkheden staan centraal in ons werk. Dat werk doen we niet alleen, maar samen met de mensen om u heen en andere zorgverleners zoals uw huisarts, specialist of behandelaar.</p>
+                            </div>
+                                            </div>
+                </div>
+
+                                    <div class="o-grid__col  o-grid__col--12@xs  o-grid__col--6@md  o-grid__col--4@lg  u-flex--self--end">
+                                                                
+
+
+<article class="u-width--100  u-bg--green--aqua-deep  u-bc--grey--alto  u-bs--b-solid  u-bw--b1  u-br--t3  u-br--r3" data-component="card--minimal">
+    <a class="u-width--100  u-flex  u-block  u-no-underline  u-no-decoration  u-flex--column  u-padding--x5  u-padding--y3" href="/thuiszorg">
+                            <h3 class="u-size--6  u-weight--400  u-lh--1  u-white">Ik zoek</h3>
+        
+        <div class="u-flex  u-flex--auto  ">
+                            <h2 class="u-flex--auto  u-weight--700  u-flex--self--center  u-officina  u-margin--r2  u-lh--2  u-size--3  u-white">meer over langer thuis wonen</h2>
+            
+                                    
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="16px" height="16px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--chevron--right  u-block  u-flex--self--center  u-no-flex  u-white" aria-hidden="true" role="img">
+<path fill="currentColor" d="M23.6,14.8L13.1,3.6C12.7,3.2,12.3,3,11.9,3c-0.6,0-1,0.2-1.4,0.6c-0.6,0.8-0.6,1.8,0,2.6l9.2,9.8  l-9.2,9.8c-0.7,0.7-0.7,1.9,0,2.6c0.8,0.7,1.8,0.7,2.4,0l10.4-11.2c0.4-0.4,0.6-0.8,0.6-1.2C24,15.5,23.9,15.2,23.6,14.8z"></path>
+</svg>
+
+
+                    </div>
+
+    </a>
+</article>
+    
+                                                                
+
+
+<article class="u-width--100  u-bg--white  u-bc--grey--alto  u-bs--b-solid  u-bw--b1" data-component="card--minimal">
+    <a class="u-width--100  u-flex  u-block  u-no-underline  u-no-decoration  u-flex--column  u-padding--x5  u-padding--y3" href="/revalidatie">
+                            <h3 class="u-size--6  u-weight--400  u-lh--1  u-black">Ik zoek</h3>
+        
+        <div class="u-flex  u-flex--auto  ">
+                            <h2 class="u-flex--auto  u-weight--700  u-flex--self--center  u-officina  u-margin--r2  u-lh--2  u-size--3  u-red--pomegranate">meer over herstellen/revalideren</h2>
+            
+                                    
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="16px" height="16px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--chevron--right  u-block  u-flex--self--center  u-no-flex  u-red--pomegranate" aria-hidden="true" role="img">
+<path fill="currentColor" d="M23.6,14.8L13.1,3.6C12.7,3.2,12.3,3,11.9,3c-0.6,0-1,0.2-1.4,0.6c-0.6,0.8-0.6,1.8,0,2.6l9.2,9.8  l-9.2,9.8c-0.7,0.7-0.7,1.9,0,2.6c0.8,0.7,1.8,0.7,2.4,0l10.4-11.2c0.4-0.4,0.6-0.8,0.6-1.2C24,15.5,23.9,15.2,23.6,14.8z"></path>
+</svg>
+
+
+                    </div>
+
+    </a>
+</article>
+    
+                                                                
+
+
+<article class="u-width--100  u-bg--white  u-bc--grey--alto  u-bs--b-solid  u-bw--b1" data-component="card--minimal">
+    <a class="u-width--100  u-flex  u-block  u-no-underline  u-no-decoration  u-flex--column  u-padding--x5  u-padding--y3" href="/wonen-met-zorg-1">
+                            <h3 class="u-size--6  u-weight--400  u-lh--1  u-black">Ik zoek</h3>
+        
+        <div class="u-flex  u-flex--auto  ">
+                            <h2 class="u-flex--auto  u-weight--700  u-flex--self--center  u-officina  u-margin--r2  u-lh--2  u-size--3  u-red--pomegranate">een verpleeghuis</h2>
+            
+                                    
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="16px" height="16px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--chevron--right  u-block  u-flex--self--center  u-no-flex  u-red--pomegranate" aria-hidden="true" role="img">
+<path fill="currentColor" d="M23.6,14.8L13.1,3.6C12.7,3.2,12.3,3,11.9,3c-0.6,0-1,0.2-1.4,0.6c-0.6,0.8-0.6,1.8,0,2.6l9.2,9.8  l-9.2,9.8c-0.7,0.7-0.7,1.9,0,2.6c0.8,0.7,1.8,0.7,2.4,0l10.4-11.2c0.4-0.4,0.6-0.8,0.6-1.2C24,15.5,23.9,15.2,23.6,14.8z"></path>
+</svg>
+
+
+                    </div>
+
+    </a>
+</article>
+    
+                                                                
+
+
+<article class="u-width--100  u-bg--white  u-br--b3  u-br--l3  u-box-shadow--1" data-component="card--minimal">
+    <a class="u-width--100  u-flex  u-block  u-no-underline  u-no-decoration  u-flex--column  u-padding--x5  u-padding--y3" href="/zorg-in-de-laatste-levensfase">
+                            <h3 class="u-size--6  u-weight--400  u-lh--1  u-black">Ik zoek</h3>
+        
+        <div class="u-flex  u-flex--auto  ">
+                            <h2 class="u-flex--auto  u-weight--700  u-flex--self--center  u-officina  u-margin--r2  u-lh--2  u-size--3  u-red--pomegranate">meer over zorg in de laatste levensfase</h2>
+            
+                                    
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="16px" height="16px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--chevron--right  u-block  u-flex--self--center  u-no-flex  u-red--pomegranate" aria-hidden="true" role="img">
+<path fill="currentColor" d="M23.6,14.8L13.1,3.6C12.7,3.2,12.3,3,11.9,3c-0.6,0-1,0.2-1.4,0.6c-0.6,0.8-0.6,1.8,0,2.6l9.2,9.8  l-9.2,9.8c-0.7,0.7-0.7,1.9,0,2.6c0.8,0.7,1.8,0.7,2.4,0l10.4-11.2c0.4-0.4,0.6-0.8,0.6-1.2C24,15.5,23.9,15.2,23.6,14.8z"></path>
+</svg>
+
+
+                    </div>
+
+    </a>
+</article>
+    
+                                            </div>
+                
+            </div>
+        </div>
+    </section><div class="o-grid  o-grid--fixed  o-grid--flex-content">
+    <div class="o-grid__row">
+
+            <div class="o-grid__col  o-grid__col--12@xs  o-grid__col--6@md  o-grid__col--4@lg">
+            
+    <div class="u-flex@lg  u-flex--column@lg  u-width--100">
+        <div class="u-flex@lg  u-flex--auto@lg">
+                        
+
+
+<article class="u-flex  u-width--100  u-br--3  u-box-shadow--1  u-margin--b4  u-bg--white  u-flex--items--center" data-component="card--basic">
+    <a class="u-width--100  has-hover-propagation  u-flex  u-flex--column  u-block  u-no-underline  u-no-decoration  u-black" href="/verhalen">
+
+    
+    <div class="u-flex--auto  u-padding--4">
+        
+                    <p class="u-size--6">Medewerkers en klanten vertellen...</p>
+        
+                    <h2 class="u-officina  u-margin--b0  u-red--pomegranate">De verhalen van Laurens</h2>
+        
+        
+        
+            </div>
+
+    
+</a>
+</article>
+    
+        </div>
+
+        <div class="u-flex@lg  u-flex--auto@lg">
+                        
+
+
+<article class="u-flex  u-width--100  u-br--3  u-box-shadow--1  u-margin--b4  u-bg--green--aqua-deep  u-flex--items--center" data-component="card--basic">
+    <a class="u-width--100  has-hover-propagation  u-flex  u-flex--column  u-block  u-no-underline  u-no-decoration  u-black" href="https://laurens.nl/clientportaal">
+
+    
+    <div class="u-flex--auto  u-padding--4">
+        
+                    <p class="u-white  u-size--6">Online toegang tot uw zorgdossier</p>
+        
+                    <h2 class="u-officina  u-margin--b0  u-white">Cliëntportaal</h2>
+        
+        
+        
+            </div>
+
+    
+</a>
+</article>
+    
+        </div>
+    </div>
+        </div>
+            <div class="o-grid__col  o-grid__col--12@xs  o-grid__col--6@md  o-grid__col--4@lg">
+            
+
+
+                
+
+
+<article class="u-flex  u-width--100  u-br--3  u-box-shadow--1  u-margin--b4  u-relative  u-bg--white" data-component="card--basic">
+    <a class="u-width--100  has-hover-propagation  u-flex  u-flex--column  u-block  u-no-underline  u-no-decoration  u-black" href="/laurens-oranjehoeck">
+
+            <figure class="u-no-flex">             <picture>
+                                    <source srcset="https://laurens.nl/media/cache/overview_locations_image_md/media/2017_10_26_de_oranjehoeck.jpg" media="(min-width: 780px)">
+                
+                <img class="u-block  u-br--t3  u-br--r3" srcset="https://laurens.nl/media/cache/overview_locations_image/media/2017_10_26_de_oranjehoeck.jpg" alt="">             </picture>
+        </figure>
+    
+    <div class="u-flex--auto  u-padding--4">
+                    <div class="u-size--8  u-padding--y1  u-padding--x4  u-bg--red--pomegranate  u-white  u-absolute  u-left--0  u-top--0  u-margin--t4  u-br--r2  u-br--b2">
+                Locatie
+            </div>
+        
+                    <p class="u-grey--jumbo  u-size--8">Verpleeghuis</p>
+        
+                    <h2 class="u-officina  u-margin--b0  u-red--pomegranate">Oranjehoeck</h2>
+        
+        
+        
+            </div>
+
+    
+</a>
+</article>
+    
+        </div>
+            <div class="o-grid__col  o-grid__col--12@xs  o-grid__col--6@md  o-grid__col--4@lg">
+            
+    <div class="u-flex@lg  u-flex--column@lg  u-width--100">
+        <div class="u-flex@lg  u-flex--auto@lg">
+                        
+
+
+<article class="u-flex  u-width--100  u-br--3  u-box-shadow--1  u-margin--b4  u-bg--white  u-flex--items--center" data-component="card--basic">
+    <a class="u-width--100  has-hover-propagation  u-flex  u-flex--column  u-block  u-no-underline  u-no-decoration  u-black" href="https://laurens.nl/nieuws">
+
+    
+    <div class="u-flex--auto  u-padding--4">
+        
+                    <p class="u-size--6">Bekijk hier het laatste nieuws</p>
+        
+                    <h2 class="u-officina  u-margin--b0  u-red--pomegranate">Nieuws</h2>
+        
+        
+        
+            </div>
+
+    
+</a>
+</article>
+    
+        </div>
+
+        <div class="u-flex@lg  u-flex--auto@lg">
+                        
+
+
+<article class="u-flex  u-width--100  u-br--3  u-box-shadow--1  u-margin--b4  u-bg--green--aqua-deep  u-flex--items--center" data-component="card--basic">
+    <a class="u-width--100  has-hover-propagation  u-flex  u-flex--column  u-block  u-no-underline  u-no-decoration  u-black" href="https://werkenbij.laurens.nl/">
+
+    
+    <div class="u-flex--auto  u-padding--4">
+        
+                    <p class="u-white  u-size--6">Werken, leren, groeien, shinen!</p>
+        
+                    <h2 class="u-officina  u-margin--b0  u-white">Werken bij Laurens</h2>
+        
+        
+        
+            </div>
+
+    
+</a>
+</article>
+    
+        </div>
+    </div>
+        </div>
+            </div>
+</div><footer>
+    <div class="u-bg--white  u-padding--y6">
+        <div class="o-grid  o-grid--fixed">
+            <div class="o-grid__row  u-margin--b4">
+                                    <div class="o-grid__col  o-grid__col--12@xs o-grid__col--6@sm  o-grid__col--3@lg">
+                        <div class="u-margin--b3  s-cms-content  s-cms-content--footer">
+                            <h4 class="c-copy--h4">Zorg</h4>
+<p><a href="/alzheimercafe-1">Alzheimercafé</a><br><a href="/buurtpas" target="_blank" rel="noopener">Buurtpas</a><br><a href="/dementie">Dementiezorg</a><a href="/thuiszorg"><br></a><a href="/revalidatie">Revalidatie en herstelzorg<br></a><a href="/thuiszorg">Thuiszorg</a><a href="/wonen-met-zorg-1"><br></a><a href="/nieuws/dagbesteding-in-een-huiselijke-omgeving">Dagbesteding</a><a href="/wonen-met-zorg-1"><br>Wonen met zorg<br></a><a href="/locaties/overzicht">Locatieoverzicht<br></a><a href="/vind-uw-zorgaanbieder">WMO zorgaanbod</a><br><a href="/eerstelijns-behandeling">Eerstelijns behandeling</a></p>
+                        </div>
+                    </div>
+                                    <div class="o-grid__col  o-grid__col--12@xs o-grid__col--6@sm  o-grid__col--3@lg">
+                        <div class="u-margin--b3  s-cms-content  s-cms-content--footer">
+                            <h4 class="c-copy--h4">Organisatie</h4>
+<p><a href="/welkom-bij-laurens">Over Laurens<br></a><a href="/nieuws">Nieuws<br></a><a href="/publicaties">Publicaties<br></a><a href="/organisatie-en-beleid-1">Organisatiestructuur<br></a><a href="/beleid">Beleid<br></a><a href="/kwaliteit">Kwaliteit<br></a><a href="/wetenschappelijk-onderzoek">Wetenschappelijk onderzoek</a><a href="/vrienden-van-laurens-1"><br></a><a href="https://laurens.ambassadorship.io/homebase/hartvoordezorg/website-laurens/introduction/1" target="_blank" rel="noopener">Hart voor de zorg? Word ambassadeur!</a><br><a href="/vrienden-van-laurens-1">Vriendenstichtingen</a>&nbsp;<br><a href="/dignus">Dignus | Vriend van Laurens</a></p>
+<p>&nbsp;</p>
+                        </div>
+                    </div>
+                                    <div class="o-grid__col  o-grid__col--12@xs o-grid__col--6@sm  o-grid__col--3@lg">
+                        <div class="u-margin--b3  s-cms-content  s-cms-content--footer">
+                            <h4 class="c-copy--h4">Werken bij</h4>
+<p><a href="https://werkenbij.laurens.nl/">Vacatures<br></a><a href="https://vrijwilligers.laurens.nl/">Vrijwilligers<br></a><a href="/vraag-en-antwoord-over-werken-bij-laurens">Veelgestelde vragen</a><br><br></p>
+<h4 class="c-copy--h4">Medewerkers</h4>
+<p><a href="https://83678.afasinsite.nl/">Toegang: mijnLaurens <br>(alleen voor medewerkers)</a></p>
+<p>&nbsp;</p>
+                        </div>
+                    </div>
+                                    <div class="o-grid__col  o-grid__col--12@xs o-grid__col--6@sm  o-grid__col--3@lg">
+                        <div class="u-margin--b3  s-cms-content  s-cms-content--footer">
+                            <h4 class="c-copy--h4">Voor cliënten</h4>
+<p><a href="/clientportaal" target="_blank" rel="noopener">Cliëntportaal</a><br><a href="/praktische-informatie">Praktische informatie</a><br><a href="/compliment">Tip of compliment?</a><br><a href="/niet-tevreden">Niet tevreden? Vertel het ons<br></a></p>
+<h4 class="c-copy--h4"><br>Contact</h4>
+<p><a href="/contact-met-laurens">Contact met&nbsp;ons<br></a></p>
+<h4 class="c-copy--h4"><br>Colofon</h4>
+<p><a href="/privacyverklaring" rel="nofollow">Privacyverklaring</a><br><a href="/media/responsible_disclosure.pdf" target="_blank" rel="noopener">Responsible disclosure</a><br><a href="/disclaimer" rel="nofollow">Disclaimer</a></p>
+                        </div>
+                    </div>
+                            </div>
+
+            <div class="o-grid__row">
+                <div class="o-grid__col  o-grid__col--12@xs  o-grid__col--9@lg  u-margin--b3  u-padding--t2">
+                                
+
+    <a class="u-inline-block  u-no-underline  u-no-decoration" href="/zorginstelling-laurens">
+
+    <figure class="u-margin--0">
+                
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87 80" width="80px" height="87px" preserveAspectRatio="xMidYMid meet" class="">
+    <path class="u-fill--green--aqua-deep" d="M44.3,53.2C28.4,43.5,16.1,20.1,25.6,5.3C29.2-0.2,36-1.1,40.8,1.8C46.5,5.3,48.3,13,43,21.2C37.2,30,35.6,37.3,44.3,53.2"></path>
+    <path class="u-fill--red--pomegranate" d="M44.2,53c13.5-6.6,25.2-24.5,18.6-37c-2.5-4.7-7.8-6-11.9-4c-4.8,2.3-6.9,8.5-3.2,15.4C51.7,34.9,52.4,40.9,44.2,53"></path>
+    <g class="u-fill--green--aqua-deep">
+        <path id="Fill-6" d="M0.8,59.2c-0.3,0-0.4,0.2-0.4,0.4v1.1c0,0.3,0.2,0.4,0.4,0.4h1.6v13.3c0,1,0,3.2,0.4,4.1             C3.2,79.5,4.3,80,5.6,80c1,0,2.5-0.4,2.5-0.8L8,79l0,0l-0.4-1c0-0.1-0.1-0.2-0.3-0.2L7,77.8c-0.3,0.1-0.7,0.3-1.1,0.3             c-0.8,0-1-0.8-1-0.9c-0.1-0.3-0.1-1.7-0.1-2.6V59.7c0-0.3-0.1-0.5-0.5-0.5H0.8z"></path>
+        <path id="Fill-8" d="M21.1,77.7h-1.3c-0.2-0.7-0.3-1-0.3-2.7v-5.4c0-2.7-1.5-4-4.4-4c-1.7,0-4.5,0.8-4.5,1.4l0.1,0.4             c0,0,0.4,1,0.4,1c0,0.1,0.2,0.2,0.3,0.2l0.5-0.2c0.6-0.3,1.6-0.7,3-0.7c2,0,2.4,0.9,2.4,2.4v0.9h0c-1.8,0.1-7.4,0.2-7.4,5             c0,2.5,1.4,4.1,3.8,4.1c2.2,0,3.5-1.3,4-1.8c0.2,0.5,0.4,1.4,1.1,1.4h2.4c0.3,0,0.4-0.2,0.4-0.4v-1.1             C21.6,77.8,21.4,77.7,21.1,77.7L21.1,77.7z M17.2,76.4c0,0-0.1,0.1-0.1,0.1c-0.6,0.5-1.7,1.6-3,1.6c-1.3,0-1.9-1.2-1.9-2.3             c0-2.8,3.7-2.9,5-2.9h0V76.4z"></path>
+        <path id="Fill-10" d="M30.4,65.9c-0.3,0-0.4,0.2-0.4,0.4v1.1c0,0.3,0.2,0.4,0.4,0.4H32v8.8c-0.8,0.6-2.1,1.3-3.1,1.3             c-1.5,0-2.2-0.7-2.2-2.2v-9.4c0-0.3-0.2-0.4-0.4-0.4h-3.4c-0.3,0-0.4,0.2-0.4,0.4v1.1c0,0.3,0.2,0.4,0.4,0.4h1.5v7.9             c0,2.1,0.3,4.3,4.2,4.3c1.7,0,3.2-1.1,3.9-1.6c0,0.1,0.1,0.2,0.1,0.2c0.2,0.4,0.4,1,1.1,1H36c0.3,0,0.4-0.2,0.4-0.4v-1.1             c0-0.3-0.2-0.4-0.4-0.4h-1.5c0-0.1-0.2-1.7-0.2-1.7v-9.7c0-0.3-0.2-0.4-0.4-0.4H30.4z"></path>
+        <path id="Fill-12" d="M42.8,67.4c0,0-0.1,0.2-0.3,0.3c-0.1-0.6-0.4-1.9-1.2-1.9h-2.5c-0.3,0-0.4,0.2-0.4,0.4v1.1             c0,0.3,0.2,0.4,0.4,0.4h1.4c0.2,0.6,0.3,1.2,0.3,1.7v8.2H39c-0.3,0-0.4,0.2-0.4,0.4v1.1c0,0.3,0.2,0.4,0.4,0.4h5.5             c0.3,0,0.4-0.2,0.4-0.4v-1.1c0-0.3-0.2-0.4-0.4-0.4h-1.7v-7.8c0,0,0.4-0.4,0.4-0.4c0.6-0.7,1.4-1.7,2.1-1.7c0.3,0,0.5,0.1,0.7,0.2             l0.2,0.1c0.2,0,0.2-0.1,0.2-0.2c0,0,0.7-1.6,0.7-1.6l0.1-0.2c0-0.4-0.9-0.6-1.5-0.6C44.4,65.5,43.5,66.6,42.8,67.4"></path>
+        <path id="Fill-14" d="M59.4,72.6c0-4.7-1.8-7.1-5.2-7.1c-3.4,0-5.7,2.9-5.7,7.3c0,4.5,2.3,7.2,6.1,7.3c2,0,4.6-1.1,4.6-1.6L59,78.3             l0-0.1L58.5,77c-0.1-0.1-0.1-0.2-0.3-0.2l-0.4,0.2c-0.6,0.3-1.7,1-3.1,1c-3.5,0-3.8-3.7-3.8-4.6h8C59.4,73.3,59.4,73,59.4,72.6             L59.4,72.6z M51,71.3c0-0.6,0.2-3.9,3.1-3.9c2.6,0,2.8,3.1,2.8,3.9H51z"></path>
+        <path id="Fill-16" d="M65.7,67.3C65.7,67.3,65.7,67.2,65.7,67.3c-0.1-0.6-0.3-1.5-0.9-1.5h-2.8c-0.3,0-0.4,0.2-0.4,0.4v1.1             c0,0.3,0.2,0.4,0.4,0.4h1.5c0,0.1,0,0.2,0,0.2l0.1,1.5v8.2h-1.5c-0.3,0-0.4,0.2-0.4,0.4v1.1c0,0.3,0.2,0.4,0.4,0.4h5.4             c0.3,0,0.4-0.2,0.4-0.4v-1.1c0-0.3-0.2-0.4-0.4-0.4H66v-8.5c0.8-0.7,1.9-1.6,3.6-1.6c1.2,0,1.7,0.7,1.7,2.2v9.4             c0,0.3,0.2,0.4,0.4,0.4h3.4c0.3,0,0.4-0.2,0.4-0.4v-1.1c0-0.3-0.2-0.4-0.4-0.4h-1.5v-7.9c0-2.1-0.3-4.3-3.5-4.3             C68.1,65.5,66.7,66.6,65.7,67.3"></path>
+        <path id="Fill-18" d="M78,69.5c0,2.4,1.9,3.3,3.6,4.1c1.4,0.7,2.6,1.2,2.6,2.5c0,1.4-1.2,1.9-2.2,1.9c-1,0-1.9-0.3-2.3-0.5             c0,0-0.1,0-0.1,0v-1.6c0-0.3-0.1-0.4-0.4-0.4H78c-0.3,0-0.4,0.1-0.4,0.4v2.6c0,0.7,2.9,1.5,4.4,1.5c2.3,0,4.6-1.3,4.6-4.1             c0-2.5-1.9-3.3-3.6-4.1c-1.4-0.6-2.7-1.2-2.7-2.6c0-1.1,0.7-1.8,2-1.8c0.8,0,1.5,0.2,1.7,0.3v1.5c0,0.3,0.2,0.4,0.4,0.4h1.2             c0.3,0,0.4-0.2,0.4-0.4v-2.5c0-0.2,0-0.4-0.4-0.5c-0.7-0.4-2.4-0.9-3.4-0.9C79.8,65.5,78,67.2,78,69.5"></path>
+    </g>
+</svg>
+
+
+    </figure>
+
+    </a>
+    
+                </div>
+
+                <div class="o-grid__col  o-grid__col--12@xs  o-grid__col--3@lg">
+                    <h3 class="c-copy--h3  u-margin--b4">Volg ons op</h3>
+
+                    
+                                                        
+
+    <a class="o-button  js-popup  u-margin--r2  u-black--80  u-bs--solid  u-bw--2  u-circle  u-bc--black  u-padding--1" href="https://nl-nl.facebook.com/LaurensZorg/" data-component="button--icon-only">
+
+                
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32px" height="32px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--facebook  u-block" aria-hidden="true" role="img">
+	<path fill="currentColor" d="M17.8,27.5h-4.9V16h-2.4v-4h2.4V9.7c0-3.2,1.4-5.2,5.3-5.2h3.3v4h-2c-1.5,0-1.6,0.6-1.6,1.6l0,2h3.7l-0.4,4h-3.3  L17.8,27.5L17.8,27.5z"></path>
+</svg>
+
+
+    </a>
+    
+                                                        
+
+    <a class="o-button  js-popup  u-margin--r2  u-black--80  u-bs--solid  u-bw--2  u-circle  u-bc--black  u-padding--1" href="https://twitter.com/laurenszorg" data-component="button--icon-only">
+
+                
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32px" height="32px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--twitter  u-block" aria-hidden="true" role="img">
+	<path fill="currentColor" d="M24.5,10.8c0.9-0.6,1.6-1.5,1.9-2.5c-0.8,0.5-1.8,0.9-2.7,1.1C22.9,8.6,21.8,8,20.5,8c-2.4,0-4.3,2-4.3,4.5  c0,0.4,0,0.7,0.1,1c-3.6-0.2-6.8-2-8.9-4.7c-0.4,0.7-0.6,1.5-0.6,2.3c0,1.6,0.8,3,1.9,3.8c-0.7,0-1.4-0.2-2-0.6v0.1  c0,2.2,1.5,4,3.5,4.5C9.9,18.9,9.6,19,9.2,19c-0.3,0-0.5,0-0.8-0.1c0.5,1.8,2.1,3.1,4,3.2C10.9,23.3,9,24,7,24c-0.3,0-0.7,0-1-0.1  c1.9,1.3,4.2,2,6.6,2c7.9,0,12.3-6.9,12.3-12.9c0-0.2,0-0.4,0-0.6c0.8-0.6,1.6-1.4,2.1-2.4C26.2,10.5,25.4,10.7,24.5,10.8z"></path>
+</svg>
+
+
+    </a>
+    
+                                                        
+
+    <a class="o-button  js-popup  u-margin--r2  u-black--80  u-bs--solid  u-bw--2  u-circle  u-bc--black  u-padding--1" href="https://nl.linkedin.com/company/laurens" data-component="button--icon-only">
+
+                
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32px" height="32px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--linkedin  u-block" aria-hidden="true" role="img">
+	<path fill="currentColor" d="M6.5,12.4h3.9V26H6.5V12.4z M8.4,10.7L8.4,10.7c-1.4,0-2.4-1-2.4-2.4C6,7,6.9,6,8.4,6c1.4,0,2.3,1,2.4,2.4  C10.7,9.7,9.8,10.7,8.4,10.7L8.4,10.7z M26,26h-4.4v-7c0-1.8-0.7-3.1-2.2-3.1c-1.2,0-1.8,0.8-2.1,1.7c-0.1,0.3-0.1,0.7-0.1,1.1V26  h-4.4c0,0,0.1-12.5,0-13.6h4.4v2.1c0.3-0.9,1.7-2.3,3.9-2.3c2.8,0,4.9,2,4.9,6.2V26L26,26z"></path>
+</svg>
+
+
+    </a>
+    
+                                                        
+
+    <a class="o-button  js-popup  u-margin--r2  u-black--80  u-bs--solid  u-bw--2  u-circle  u-bc--black  u-padding--1" href="https://www.instagram.com/Laurenszorg" data-component="button--icon-only">
+
+                
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32px" height="32px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--instagram  u-block" aria-hidden="true" role="img">
+    <g fill="currentColor">
+        <path d="M16,6.3c3.2,0,3.5,0,4.8,0.1C22,6.4,22.6,6.6,23,6.7c0.6,0.2,0.9,0.5,1.4,0.9C24.8,8.1,25,8.4,25.3,9             c0.2,0.4,0.4,1,0.4,2.2c0.1,1.3,0.1,1.6,0.1,4.8s0,3.5-0.1,4.8c-0.1,1.2-0.2,1.8-0.4,2.2c-0.2,0.6-0.5,0.9-0.9,1.4             c-0.4,0.4-0.8,0.7-1.4,0.9c-0.4,0.2-1,0.4-2.2,0.4c-1.3,0.1-1.6,0.1-4.8,0.1s-3.5,0-4.8-0.1C10,25.6,9.4,25.4,9,25.3             c-0.6-0.2-0.9-0.5-1.4-0.9C7.2,23.9,7,23.6,6.7,23c-0.2-0.4-0.4-1-0.4-2.2c-0.1-1.3-0.1-1.6-0.1-4.8s0-3.5,0.1-4.8             C6.4,10,6.6,9.4,6.7,9C7,8.4,7.2,8.1,7.6,7.6C8.1,7.2,8.4,7,9,6.7c0.4-0.2,1-0.4,2.2-0.4C12.5,6.3,12.8,6.3,16,6.3 M16,4.1             c-3.2,0-3.6,0-4.9,0.1C9.8,4.3,9,4.5,8.2,4.8C7.4,5.1,6.8,5.5,6.1,6.1C5.5,6.8,5.1,7.4,4.8,8.2C4.5,9,4.3,9.8,4.2,11.1             c-0.1,1.3-0.1,1.7-0.1,4.9c0,3.2,0,3.6,0.1,4.9c0.1,1.3,0.3,2.1,0.6,2.9c0.3,0.8,0.7,1.4,1.4,2.1c0.7,0.7,1.3,1.1,2.1,1.4             c0.8,0.3,1.6,0.5,2.9,0.6c1.3,0.1,1.7,0.1,4.9,0.1s3.6,0,4.9-0.1c1.3-0.1,2.1-0.3,2.9-0.6c0.8-0.3,1.4-0.7,2.1-1.4             c0.7-0.7,1.1-1.3,1.4-2.1c0.3-0.8,0.5-1.6,0.6-2.9c0.1-1.3,0.1-1.7,0.1-4.9s0-3.6-0.1-4.9c-0.1-1.3-0.3-2.1-0.6-2.9             c-0.3-0.8-0.7-1.4-1.4-2.1c-0.7-0.7-1.3-1.1-2.1-1.4c-0.8-0.3-1.6-0.5-2.9-0.6C19.6,4.1,19.2,4.1,16,4.1L16,4.1z"></path>
+        <path d="M16,9.9c-3.4,0-6.1,2.7-6.1,6.1s2.7,6.1,6.1,6.1s6.1-2.7,6.1-6.1S19.4,9.9,16,9.9z M16,20c-2.2,0-4-1.8-4-4             c0-2.2,1.8-4,4-4c2.2,0,4,1.8,4,4C20,18.2,18.2,20,16,20z"></path>
+        <circle cx="22.3" cy="9.7" r="1.4"></circle>
+    </g>
+</svg>
+
+
+    </a>
+    
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="u-bg--red--pomegranate  u-padding--y5">
+        <div class="o-grid  o-grid--fixed">
+            <div class="o-grid__row">
+                <div class="o-grid__col  o-grid__col--12@xs  u-text--right@md">
+                    <h2 class="u-officina  u-margin--b0  u-white">Welkom bij Laurens</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer><div class="c-overlay  u-hidden  js-search-overlay" data-component="overlay">
+            <span class="c-overlay__close  u-absolute  u-black  u-padding--1  js-close">×</span>
+        <div class="c-overlay__container  u-width--100">
+            <h2 class="c-copy--h2">Zoeken</h2>
+
+    <form action="/zoekresultaten" method="get">
+        <fieldset class="u-bw--0">
+            <div class="c-searchbox u-flex u-width--75 u-width--50@md">
+                <label class="u-flex--auto">
+                    <input class="c-input--text  u-width--100  u-bc--grey--alto  u-bw--1  u-bs--solid" name="keywords" autocomplete="off" value="" placeholder="Zoek naar.." type="text">
+                </label>
+                <label>
+                                
+
+    <button class="o-button  u-margin--r2  u-bg--red--pomegranate  u-white  u-br--3  u-bw--0  u-padding--2" href="" data-component="button--icon-only" type="submit">
+
+                
+    <!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32px" height="32px" preserveAspectRatio="xMidYMid meet" class="c-icon  c-icon--magnifier  u-block" aria-hidden="true" role="img">
+    <path fill="currentColor" d="M13.2,23c2.4,0,4.5-0.8,6.2-2.3l7.5,7.5c0.2,0.2,0.4,0.3,0.6,0.3c0.2,0,0.5-0.1,0.6-0.3c0.3-0.3,0.3-0.9,0-1.3  l-7.5-7.5c1.4-1.7,2.3-3.9,2.3-6.2c0-5.4-4.4-9.7-9.7-9.7c-5.3,0-9.7,4.4-9.7,9.7C3.5,18.6,7.9,23,13.2,23L13.2,23z M13.2,5.3  c4.4,0,8,3.6,8,8c0,4.4-3.6,8-8,8s-8-3.6-8-8S8.8,5.3,13.2,5.3L13.2,5.3z"></path>
+</svg>
+
+
+    </button>
+    
+                </label>
+            </div>
+        </fieldset>
+    </form>
+
+    </div>
+</div></div></div></div><script type="text/javascript" id="" src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<script type="text/javascript" id="">var df=document.createElement("df-messenger");df.setAttribute("intent","WELCOME");df.setAttribute("chat-icon","https://iili.io/5a8C6N.png");df.setAttribute("chat-title","Laurens Wegwijzer");df.setAttribute("agent-id","06706e49-07cf-4c23-998f-b1303a8f5daa");df.setAttribute("language-code","nl");document.body.appendChild(df);</script><df-messenger intent="WELCOME" chat-icon="https://iili.io/5a8C6N.png" chat-title="Laurens Wegwijzer" agent-id="06706e49-07cf-4c23-998f-b1303a8f5daa" language-code="nl" session-id="dfMessenger-73046000" api-uri="https://dialogflow.cloud.google.com/v1/integrations/messenger/webhook"></df-messenger>
+<style>
+  df-messenger {
+    --df-messenger-bot-message: #FFFFFF;
+    --df-messenger-button-titlebar-color: #004D43;
+    --df-messenger-chat-background-color: #FDFCFB;
+    --df-messenger-font-color: BLACK;
+    --df-messenger-input-box-color: #E5E5E5;
+    --df-messenger-input-placeholder-font-color: #E5E5E5;
+    --df-messenger-send-icon: #E5E5E5;
+    --df-messenger-user-message: #E5E5E5;
+  }  
+</style>
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/messenger-internal.min.js?v=4"></script></body></html>

@@ -1,0 +1,270 @@
+<html class="theme-auto" lang="en-US"><head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Snel.com Git</title>
+	<link rel="manifest" href="data:application/json;base64,eyJuYW1lIjoiU25lbC5jb20gR2l0Iiwic2hvcnRfbmFtZSI6IlNuZWwuY29tIEdpdCIsInN0YXJ0X3VybCI6Imh0dHBzOi8vZ2l0LnNuZWwuY29tLyIsImljb25zIjpbeyJzcmMiOiJodHRwczovL2dpdC5zbmVsLmNvbS9hc3NldHMvaW1nL2xvZ28ucG5nIiwidHlwZSI6ImltYWdlL3BuZyIsInNpemVzIjoiNTEyeDUxMiJ9LHsic3JjIjoiaHR0cHM6Ly9naXQuc25lbC5jb20vYXNzZXRzL2ltZy9sb2dvLnN2ZyIsInR5cGUiOiJpbWFnZS9zdmcreG1sIiwic2l6ZXMiOiI1MTJ4NTEyIn1dfQ==">
+	<meta name="author" content="Gitea - Git with a cup of tea">
+	<meta name="description" content="Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go">
+	<meta name="keywords" content="go,git,self-hosted,gitea">
+	<meta name="referrer" content="no-referrer">
+
+
+	<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+	<link rel="alternate icon" href="/assets/img/favicon.png" type="image/png">
+	
+<script>
+	
+	window.addEventListener('error', function(e) {window._globalHandlerErrors=window._globalHandlerErrors||[]; window._globalHandlerErrors.push(e);});
+	window.addEventListener('unhandledrejection', function(e) {window._globalHandlerErrors=window._globalHandlerErrors||[]; window._globalHandlerErrors.push(e);});
+	window.config = {
+		appUrl: 'https:\/\/git.snel.com\/',
+		appSubUrl: '',
+		assetVersionEncoded: encodeURIComponent('1.21.1'), 
+		assetUrlPrefix: '\/assets',
+		runModeIsProd:  true ,
+		customEmojis: {"codeberg":":codeberg:","git":":git:","gitea":":gitea:","github":":github:","gitlab":":gitlab:","gogs":":gogs:"},
+		csrfToken: '52RAl2c_Oft1C9YvNrHXvd7dTFs6MTcwNTMzNTg0NDkzMzUwNjQ4MA',
+		pageData: {},
+		notificationSettings: {"EventSourceUpdateTime":10000,"MaxTimeout":60000,"MinTimeout":10000,"TimeoutStep":10000}, 
+		enableTimeTracking:  true ,
+		
+		mermaidMaxSourceCharacters:  5000 ,
+		
+		i18n: {
+			copy_success: "Copied!",
+			copy_error: "Copy failed",
+			error_occurred: "An error occurred",
+			network_error: "Network error",
+			remove_label_str: "Remove item \"%s\"",
+			modal_confirm: "Confirm",
+			modal_cancel: "Cancel",
+		},
+	};
+	
+	window.config.pageData = window.config.pageData || {};
+</script>
+<script src="/assets/js/webcomponents.js?v=1.21.1"></script>
+
+	<noscript>
+		<style>
+			.dropdown:hover > .menu { display: block; }
+			.ui.secondary.menu .dropdown.item > .menu { margin-top: 0; }
+		</style>
+	</noscript>
+	
+	<meta property="og:title" content="Snel.com Git">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="/assets/img/logo.png">
+	<meta property="og:url" content="https://git.snel.com/">
+	<meta property="og:description" content="Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go">
+
+<meta property="og:site_name" content="Snel.com Git">
+
+	<link rel="stylesheet" href="/assets/css/index.css?v=1.21.1">
+
+	<link rel="stylesheet" href="/assets/css/theme-auto.css?v=1.21.1">
+
+
+	
+</head>
+<body>
+	
+	
+
+	<div class="full height">
+		<noscript>This website requires JavaScript.</noscript>
+
+		
+
+		
+			
+
+
+<nav id="navbar" aria-label="Navigation Bar">
+	<div class="navbar-left ui secondary menu">
+		
+		<a class="item" id="navbar-logo" href="/" aria-label="Home">
+			<img src="/assets/img/logo.svg" alt="Logo" aria-hidden="true" width="30" height="30">
+		</a>
+
+		
+		<div class="ui secondary menu item navbar-mobile-right">
+			
+			<button class="item gt-w-auto ui icon mini button gt-p-3 gt-m-0" id="navbar-expand-toggle"><svg viewBox="0 0 16 16" class="svg octicon-three-bars" aria-hidden="true" width="16" height="16"><path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z"></path></svg></button>
+		</div>
+
+		
+		
+			<a class="item" href="/explore/repos">Explore</a>
+		
+
+		
+
+		
+			<a class="item" target="_blank" rel="noopener noreferrer" href="https://docs.gitea.com">Help</a>
+		
+	</div>
+
+	
+	<div class="navbar-right ui secondary menu">
+		
+			
+			<a class="item" rel="nofollow" href="/user/login?redirect_to=%2f">
+				<svg viewBox="0 0 16 16" class="svg octicon-sign-in" aria-hidden="true" width="16" height="16"><path d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 0 1 0 1.5h-2.5a.25.25 0 0 0-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 0 1.5h-2.5A1.75 1.75 0 0 1 2 13.25Zm6.56 4.5h5.69a.75.75 0 0 1 0 1.5H8.56l1.97 1.97a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L6.22 8.53a.75.75 0 0 1 0-1.06l3.25-3.25a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734Z"></path></svg> Sign In
+			</a>
+		
+	</div>
+</nav>
+
+		
+
+
+
+<div role="main" aria-label="Home" class="page-content home">
+	<div class="gt-mb-5 gt-px-5">
+		<div class="center">
+			<img class="logo" src="/assets/img/logo.svg" alt="Logo" width="220" height="220">
+			<div class="hero">
+				<h1 class="ui icon header title">
+					Snel.com Git
+				</h1>
+				<h2>A painless, self-hosted Git service</h2>
+			</div>
+		</div>
+	</div>
+	<div class="ui stackable middle very relaxed page grid">
+		<div class="eight wide center column">
+			<h1 class="hero ui icon header">
+				<svg viewBox="0 0 16 16" class="svg octicon-flame" aria-hidden="true" width="16" height="16"><path d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.56 1.425-3.286.376-.308.862 0 1.035.454C4.46 8.487 5.581 8.419 6 8c.282-.282.341-.811-.003-1.5C4.34 3.187 7.035.75 8.77.146c.39-.137.726.194.763.607ZM7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 0 1-1.436-.874A3.198 3.198 0 0 0 3 10c0 2.53 2.164 4.5 4.998 4.5Z"></path></svg> Easy to install
+			</h1>
+			<p class="large">
+				Simply <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.gitea.com/installation/install-from-binary">run the binary</a> for your platform, ship it with <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/go-gitea/gitea/tree/master/docker">Docker</a>, or get it <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.gitea.com/installation/install-from-package">packaged</a>.
+			</p>
+		</div>
+		<div class="eight wide center column">
+			<h1 class="hero ui icon header">
+				<svg viewBox="0 0 16 16" class="svg octicon-device-desktop" aria-hidden="true" width="16" height="16"><path d="M14.25 1c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.752.752 0 0 1 11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5C0 1.784.784 1 1.75 1ZM1.75 2.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25ZM9.018 12H6.982a5.72 5.72 0 0 1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5Z"></path></svg> Cross-platform
+			</h1>
+			<p class="large">
+				Gitea runs anywhere <a target="_blank" rel="noopener noreferrer nofollow" href="http://golang.org/">Go</a> can compile for: Windows, macOS, Linux, ARM, etc. Choose the one you love!
+			</p>
+		</div>
+	</div>
+	<div class="ui stackable middle very relaxed page grid">
+		<div class="eight wide center column">
+			<h1 class="hero ui icon header">
+				<svg viewBox="0 0 16 16" class="svg octicon-rocket" aria-hidden="true" width="16" height="16"><path d="M14.064 0h.186C15.216 0 16 .784 16 1.75v.186a8.752 8.752 0 0 1-2.564 6.186l-.458.459c-.314.314-.641.616-.979.904v3.207c0 .608-.315 1.172-.833 1.49l-2.774 1.707a.749.749 0 0 1-1.11-.418l-.954-3.102a1.214 1.214 0 0 1-.145-.125L3.754 9.816a1.218 1.218 0 0 1-.124-.145L.528 8.717a.749.749 0 0 1-.418-1.11l1.71-2.774A1.748 1.748 0 0 1 3.31 4h3.204c.288-.338.59-.665.904-.979l.459-.458A8.749 8.749 0 0 1 14.064 0ZM8.938 3.623h-.002l-.458.458c-.76.76-1.437 1.598-2.02 2.5l-1.5 2.317 2.143 2.143 2.317-1.5c.902-.583 1.74-1.26 2.499-2.02l.459-.458a7.25 7.25 0 0 0 2.123-5.127V1.75a.25.25 0 0 0-.25-.25h-.186a7.249 7.249 0 0 0-5.125 2.123ZM3.56 14.56c-.732.732-2.334 1.045-3.005 1.148a.234.234 0 0 1-.201-.064.234.234 0 0 1-.064-.201c.103-.671.416-2.273 1.15-3.003a1.502 1.502 0 1 1 2.12 2.12Zm6.94-3.935c-.088.06-.177.118-.266.175l-2.35 1.521.548 1.783 1.949-1.2a.25.25 0 0 0 .119-.213ZM3.678 8.116 5.2 5.766c.058-.09.117-.178.176-.266H3.309a.25.25 0 0 0-.213.119l-1.2 1.95ZM12 5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg> Lightweight
+			</h1>
+			<p class="large">
+				Gitea has low minimal requirements and can run on an inexpensive Raspberry Pi. Save your machine energy!
+			</p>
+		</div>
+		<div class="eight wide center column">
+			<h1 class="hero ui icon header">
+				<svg viewBox="0 0 16 16" class="svg octicon-code" aria-hidden="true" width="16" height="16"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg> Open Source
+			</h1>
+			<p class="large">
+				Go get <a target="_blank" rel="noopener noreferrer nofollow" href="https://code.gitea.io/gitea">code.gitea.io/gitea</a>! Join us by <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/go-gitea/gitea">contributing</a> to make this project even better. Don't be shy to be a contributor!
+			</p>
+		</div>
+	</div>
+</div>
+
+
+	
+
+	</div>
+
+	
+
+	<footer class="page-footer" role="group" aria-label="Footer">
+	<div class="left-links" role="contentinfo" aria-label="About Software">
+		<a target="_blank" rel="noopener noreferrer" href="https://about.gitea.com">Powered by Gitea</a>
+		
+			Version:
+			
+				1.21.1
+			
+		
+		
+			Page: <strong>2ms</strong>
+			Template: <strong>2ms</strong>
+		
+	</div>
+	<div class="right-links" role="group" aria-label="Links">
+		<div class="ui dropdown upward language" tabindex="0" role="menu" aria-haspopup="" aria-controls="_aria_auto_id_0" aria-expanded="false">
+			<span class="flex-text-inline"><svg viewBox="0 0 16 16" class="svg octicon-globe" aria-hidden="true" width="14" height="14"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"></path></svg> English</span>
+			<div class="menu language-menu" tabindex="-1" id="_aria_auto_id_0" role="">
+				
+					<a data-url="/?lang=id-ID" class="item " id="_aria_auto_id_1" role="menuitem" tabindex="-1" lang="id-ID">Bahasa Indonesia</a>
+				
+					<a data-url="/?lang=de-DE" class="item " id="_aria_auto_id_2" role="menuitem" tabindex="-1" lang="de-DE">Deutsch</a>
+				
+					<a data-url="/?lang=en-US" class="item active selected" id="_aria_auto_id_3" role="menuitem" tabindex="-1" lang="en-US">English</a>
+				
+					<a data-url="/?lang=es-ES" class="item " id="_aria_auto_id_4" role="menuitem" tabindex="-1" lang="es-ES">Español</a>
+				
+					<a data-url="/?lang=fr-FR" class="item " id="_aria_auto_id_5" role="menuitem" tabindex="-1" lang="fr-FR">Français</a>
+				
+					<a data-url="/?lang=it-IT" class="item " id="_aria_auto_id_6" role="menuitem" tabindex="-1" lang="it-IT">Italiano</a>
+				
+					<a data-url="/?lang=lv-LV" class="item " id="_aria_auto_id_7" role="menuitem" tabindex="-1" lang="lv-LV">Latviešu</a>
+				
+					<a data-url="/?lang=hu-HU" class="item " id="_aria_auto_id_8" role="menuitem" tabindex="-1" lang="hu-HU">Magyar nyelv</a>
+				
+					<a data-url="/?lang=nl-NL" class="item " id="_aria_auto_id_9" role="menuitem" tabindex="-1" lang="nl-NL">Nederlands</a>
+				
+					<a data-url="/?lang=pl-PL" class="item " id="_aria_auto_id_10" role="menuitem" tabindex="-1" lang="pl-PL">Polski</a>
+				
+					<a data-url="/?lang=pt-PT" class="item " id="_aria_auto_id_11" role="menuitem" tabindex="-1" lang="pt-PT">Português de Portugal</a>
+				
+					<a data-url="/?lang=pt-BR" class="item " id="_aria_auto_id_12" role="menuitem" tabindex="-1" lang="pt-BR">Português do Brasil</a>
+				
+					<a data-url="/?lang=fi-FI" class="item " id="_aria_auto_id_13" role="menuitem" tabindex="-1" lang="fi-FI">Suomi</a>
+				
+					<a data-url="/?lang=sv-SE" class="item " id="_aria_auto_id_14" role="menuitem" tabindex="-1" lang="sv-SE">Svenska</a>
+				
+					<a data-url="/?lang=tr-TR" class="item " id="_aria_auto_id_15" role="menuitem" tabindex="-1" lang="tr-TR">Türkçe</a>
+				
+					<a data-url="/?lang=cs-CZ" class="item " id="_aria_auto_id_16" role="menuitem" tabindex="-1" lang="cs-CZ">Čeština</a>
+				
+					<a data-url="/?lang=el-GR" class="item " id="_aria_auto_id_17" role="menuitem" tabindex="-1" lang="el-GR">Ελληνικά</a>
+				
+					<a data-url="/?lang=bg-BG" class="item " id="_aria_auto_id_18" role="menuitem" tabindex="-1" lang="bg-BG">Български</a>
+				
+					<a data-url="/?lang=ru-RU" class="item " id="_aria_auto_id_19" role="menuitem" tabindex="-1" lang="ru-RU">Русский</a>
+				
+					<a data-url="/?lang=uk-UA" class="item " id="_aria_auto_id_20" role="menuitem" tabindex="-1" lang="uk-UA">Українська</a>
+				
+					<a data-url="/?lang=fa-IR" class="item " id="_aria_auto_id_21" role="menuitem" tabindex="-1" lang="fa-IR">فارسی</a>
+				
+					<a data-url="/?lang=ml-IN" class="item " id="_aria_auto_id_22" role="menuitem" tabindex="-1" lang="ml-IN">മലയാളം</a>
+				
+					<a data-url="/?lang=ja-JP" class="item " id="_aria_auto_id_23" role="menuitem" tabindex="-1" lang="ja-JP">日本語</a>
+				
+					<a data-url="/?lang=zh-CN" class="item " id="_aria_auto_id_24" role="menuitem" tabindex="-1" lang="zh-CN">简体中文</a>
+				
+					<a data-url="/?lang=zh-TW" class="item " id="_aria_auto_id_25" role="menuitem" tabindex="-1" lang="zh-TW">繁體中文（台灣）</a>
+				
+					<a data-url="/?lang=zh-HK" class="item " id="_aria_auto_id_26" role="menuitem" tabindex="-1" lang="zh-HK">繁體中文（香港）</a>
+				
+					<a data-url="/?lang=ko-KR" class="item " id="_aria_auto_id_27" role="menuitem" tabindex="-1" lang="ko-KR">한국어</a>
+				
+			</div>
+		</div>
+		<a href="/assets/licenses.txt">Licenses</a>
+		<a href="/api/swagger">API</a>
+		
+	</div>
+</footer>
+
+
+
+
+	<script src="/assets/js/index.js?v=1.21.1" onerror="alert('Failed to load asset files from ' + this.src + '. Please make sure the asset files can be accessed.')"></script>
+
+	
+	
+
+
+
+</body></html>

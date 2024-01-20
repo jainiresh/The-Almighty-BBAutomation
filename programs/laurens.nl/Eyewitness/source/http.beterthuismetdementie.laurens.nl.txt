@@ -1,0 +1,952 @@
+<html lang="nl-NL"><head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="/wp-content/uploads/Favicon-beterthuisdementie-96p.png" sizes="any">
+                <link rel="apple-touch-icon" href="/wp-content/uploads/Favicon-beterthuisdementie-180p.png">
+                <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home - Beter thuis met dementie</title>
+	<link rel="canonical" href="https://beterthuismetdementie.laurens.nl/">
+	<meta property="og:locale" content="nl_NL">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Home - Beter thuis met dementie">
+	<meta property="og:description" content="Beter thuis met dementie Praktische cursussen om beter om te gaan met dementie Beter thuis met dementie Praktische cursussen om beter om te gaan met dementie Deze website is bedoeld voor partners en kinderen van thuiswonende ouderen met dementie.&nbsp;Mensen met dementie en hun partners krijgen te maken met veel veranderingen. Het is vaak niet makkelijk […]">
+	<meta property="og:url" content="https://beterthuismetdementie.laurens.nl/">
+	<meta property="og:site_name" content="Beter thuis met dementie">
+	<meta property="article:modified_time" content="2023-11-02T11:00:56+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://beterthuismetdementie.laurens.nl/","url":"https://beterthuismetdementie.laurens.nl/","name":"Home - Beter thuis met dementie","isPartOf":{"@id":"https://beterthuismetdementie.laurens.nl/#website"},"datePublished":"2013-11-16T00:00:00+00:00","dateModified":"2023-11-02T11:00:56+00:00","breadcrumb":{"@id":"https://beterthuismetdementie.laurens.nl/#breadcrumb"},"inLanguage":"nl-NL","potentialAction":[{"@type":"ReadAction","target":["https://beterthuismetdementie.laurens.nl/"]}]},{"@type":"BreadcrumbList","@id":"https://beterthuismetdementie.laurens.nl/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://beterthuismetdementie.laurens.nl/#website","url":"https://beterthuismetdementie.laurens.nl/","name":"Beter thuis met dementie","description":"Laurens praktische informatie over dementie","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://beterthuismetdementie.laurens.nl/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"nl-NL"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Beter thuis met dementie » feed" href="http://beterthuismetdementie.laurens.nl/feed/">
+<link rel="alternate" type="application/rss+xml" title="Beter thuis met dementie » reactiesfeed" href="http://beterthuismetdementie.laurens.nl/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/beterthuismetdementie.laurens.nl\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="http://beterthuismetdementie.laurens.nl/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="http://beterthuismetdementie.laurens.nl/wp-content/themes/yootheme-beter/css/theme.1.css?ver=1696406527" rel="stylesheet">
+<link href="http://beterthuismetdementie.laurens.nl/wp-content/themes/yootheme/css/theme.update.css?ver=4.2.6" rel="stylesheet">
+<link href="http://beterthuismetdementie.laurens.nl/wp-content/themes/yootheme-beter/css/custom.css?ver=4.2.6" rel="stylesheet">
+<link rel="https://api.w.org/" href="http://beterthuismetdementie.laurens.nl/wp-json/"><link rel="alternate" type="application/json" href="http://beterthuismetdementie.laurens.nl/wp-json/wp/v2/pages/25"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://beterthuismetdementie.laurens.nl/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.2">
+<link rel="shortlink" href="http://beterthuismetdementie.laurens.nl/">
+<link rel="alternate" type="application/json+oembed" href="http://beterthuismetdementie.laurens.nl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbeterthuismetdementie.laurens.nl%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://beterthuismetdementie.laurens.nl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbeterthuismetdementie.laurens.nl%2F&amp;format=xml">
+<script src="http://beterthuismetdementie.laurens.nl/wp-content/themes/yootheme/packages/theme-analytics/app/analytics.min.js?ver=4.2.6" defer=""></script>
+<script src="http://beterthuismetdementie.laurens.nl/wp-content/themes/yootheme/packages/theme-cookie/app/cookie.min.js?ver=4.2.6" defer=""></script>
+<script src="http://beterthuismetdementie.laurens.nl/wp-content/themes/yootheme/vendor/assets/uikit/dist/js/uikit.min.js?ver=4.2.6"></script>
+<script src="http://beterthuismetdementie.laurens.nl/wp-content/themes/yootheme/vendor/assets/uikit/dist/js/uikit-icons-copper-hill.min.js?ver=4.2.6"></script>
+<script src="http://beterthuismetdementie.laurens.nl/wp-content/themes/yootheme/js/theme.js?ver=4.2.6"></script>
+<script>window.yootheme ||= {}; var $theme = yootheme.theme = {"i18n":{"close":{"label":"Close"},"totop":{"label":"Back to top"},"marker":{"label":"Open"},"navbarToggleIcon":{"label":"Open menu"},"paginationPrevious":{"label":"Previous page"},"paginationNext":{"label":"Next page"},"searchIcon":{"toggle":"Open Search","submit":"Submit Search"},"slider":{"next":"Next slide","previous":"Previous slide","slideX":"Slide %s","slideLabel":"%s of %s"},"slideshow":{"next":"Next slide","previous":"Previous slide","slideX":"Slide %s","slideLabel":"%s of %s"},"lightboxPanel":{"next":"Next slide","previous":"Previous slide","slideLabel":"%s of %s","close":"Close"}},"google_analytics":"UA-8731280-1","google_analytics_anonymize":"","cookie":{"mode":"consent","template":"<div class=\"tm-cookie-banner uk-section uk-section-xsmall uk-section-muted uk-position-bottom uk-position-fixed\">\n        <div class=\"uk-container uk-container-expand uk-text-center\">\n\n            <p>Door deze website te gebruiken, gaat u akkoord met het gebruik van cookies zoals beschreven in onze <a href=\"https:\/\/beterthuismetdementie.laurens.nl\/privacyverklaring\/\">Privacyverklaring<\/a>.<\/p>\n                            <button type=\"button\" class=\"js-accept uk-button uk-button-secondary uk-margin-small-left\" data-uk-toggle=\"target: !.uk-section; animation: true\">Ja, graag<\/button>\n            \n                        <button type=\"button\" class=\"js-reject uk-button uk-button-primary uk-margin-small-left\" data-uk-toggle=\"target: !.uk-section; animation: true\">Nee, bedankt<\/button>\n            \n        <\/div>\n    <\/div>","position":"bottom"}};</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-8731280-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-8731280-1');
+</script>		<style type="text/css" id="wp-custom-css">
+			#widget-text-1 {
+	background-color:#ef4135;
+	color:#fff;
+}
+
+.uk-border-rounded {
+    border-radius: .75rem;
+}		</style>
+		    </head>
+    <body class="home page-template-default page page-id-25 ">
+        
+        <div class="uk-hidden-visually uk-notification uk-notification-top-left uk-width-auto">
+            <div class="uk-notification-message">
+                <a href="#tm-main">Skip to main content</a>
+            </div>
+        </div>
+    
+                <div class="tm-page-container uk-clearfix">
+
+            
+            
+        
+                
+
+
+<header class="tm-header-mobile uk-hidden@m" uk-header="">
+
+
+        <div uk-sticky="" show-on-up="" animation="uk-animation-slide-top" cls-active="uk-navbar-sticky" sel-target=".uk-navbar-container" class="uk-sticky">
+    
+        <div class="uk-navbar-container">
+
+            <div class="uk-container uk-container-expand">
+                <nav class="uk-navbar" uk-navbar="{&quot;container&quot;:&quot;.tm-header-mobile > [uk-sticky]&quot;,&quot;boundary&quot;:&quot;.tm-header-mobile .uk-navbar-container&quot;}">
+
+                                        <div class="uk-navbar-left">
+
+                                                    <a href="http://beterthuismetdementie.laurens.nl/" aria-label="Terug naar de homepage" class="uk-logo uk-navbar-item">
+    <img alt="Beter thuis met dementie" loading="eager" src="/wp-content/uploads/beterthuismetdementie_logo_liggend-2023_tekst_outline.svg" width="250" height="56"></a>                        
+                        
+                    </div>
+                    
+                    
+                                        <div class="uk-navbar-right">
+
+                                                                            
+                        <a uk-toggle="" href="#tm-dialog-mobile" class="uk-navbar-toggle" role="button" aria-label="Open menu">
+
+        
+        <div uk-navbar-toggle-icon="" class="uk-icon uk-navbar-toggle-icon"><svg width="20" height="20" viewBox="0 0 20 20"><style>.uk-navbar-toggle-animate svg&gt;[class*="line-"]{transition:0.2s ease-in-out;transition-property:transform, opacity,;transform-origin:center;opacity:1}.uk-navbar-toggle svg&gt;.line-3{opacity:0}.uk-navbar-toggle-animate[aria-expanded="true"] svg&gt;.line-3{opacity:1}.uk-navbar-toggle-animate[aria-expanded="true"] svg&gt;.line-2{transform:rotate(45deg)}.uk-navbar-toggle-animate[aria-expanded="true"] svg&gt;.line-3{transform:rotate(-45deg)}.uk-navbar-toggle-animate[aria-expanded="true"] svg&gt;.line-1,.uk-navbar-toggle-animate[aria-expanded="true"] svg&gt;.line-4{opacity:0}.uk-navbar-toggle-animate[aria-expanded="true"] svg&gt;.line-1{transform:translateY(6px) scaleX(0)}.uk-navbar-toggle-animate[aria-expanded="true"] svg&gt;.line-4{transform:translateY(-6px) scaleX(0)}</style><rect class="line-1" y="2" width="20" height="1"></rect><rect class="line-2" y="9" width="20" height="1"></rect><rect class="line-3" y="9" width="20" height="1"></rect><rect class="line-4" y="16" width="20" height="1"></rect></svg></div>
+
+        
+    </a>
+                    </div>
+                    
+                </nav>
+            </div>
+
+        </div>
+
+        </div>
+    
+
+
+
+        <div id="tm-dialog-mobile" uk-offcanvas="container: true; overlay: true" mode="slide" flip="" class="uk-offcanvas">
+        <div class="uk-offcanvas-bar uk-flex uk-flex-column" role="dialog" aria-modal="true">
+
+                        <button class="uk-offcanvas-close uk-close-large uk-icon uk-close" type="button" uk-close="" uk-toggle="cls: uk-close-large; mode: media; media: @s" aria-label="Close"><svg width="20" height="20" viewBox="0 0 20 20"><line fill="none" stroke="#000" stroke-width="1.4" x1="1" y1="1" x2="19" y2="19"></line><line fill="none" stroke="#000" stroke-width="1.4" x1="19" y1="1" x2="1" y2="19"></line></svg></button>
+            
+                        <div class="uk-margin-auto-bottom">
+                
+<div class="uk-grid uk-child-width-1-1 uk-grid-stack" uk-grid="">    <div>
+<div class="uk-panel widget widget_nav_menu" id="nav_menu-2">
+
+    
+    
+<ul class="uk-nav uk-nav-primary uk-nav-accordion" uk-nav="targets: > .js-accordion">
+    
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href="http://beterthuismetdementie.laurens.nl/cursus/"> Cursussen <span uk-nav-parent-icon="" class="uk-icon uk-nav-parent-icon"><svg width="18" height="18" viewBox="0 0 18 18"><polyline points=".987 4.993 9 13.007 17.013 4.993" fill="none" stroke="#000" stroke-width="2"></polyline></svg></span></a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/cursusweek/"> Cursusweek</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/avondcursus/"> Avondcursus</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/familiecursus/"> Familiecursus</a></li></ul></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href="http://beterthuismetdementie.laurens.nl/over-dementie/"> Over dementie <span uk-nav-parent-icon="" class="uk-icon uk-nav-parent-icon"><svg width="18" height="18" viewBox="0 0 18 18"><polyline points=".987 4.993 9 13.007 17.013 4.993" fill="none" stroke="#000" stroke-width="2"></polyline></svg></span></a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/wat-kunt-u-doen/"> Wat kunt u doen?</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/veelgestelde-vragen/"> Veelgestelde vragen</a></li></ul></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children js-accordion uk-parent"><a href="" id="uk-nav-9-title-0" role="button" aria-controls="uk-nav-9-content-0" aria-expanded="false" aria-disabled="false"> Over ons <span uk-nav-parent-icon="" class="uk-icon uk-nav-parent-icon"><svg width="18" height="18" viewBox="0 0 18 18"><polyline points=".987 4.993 9 13.007 17.013 4.993" fill="none" stroke="#000" stroke-width="2"></polyline></svg></span></a>
+	<ul class="uk-nav-sub" id="uk-nav-9-content-0" role="region" aria-labelledby="uk-nav-9-title-0" hidden="">
+
+		<li class="menu-item menu-item-type-post_type menu-item-object-page" role="presentation"><a href="http://beterthuismetdementie.laurens.nl/team/"> Team</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page" role="presentation"><a href="http://beterthuismetdementie.laurens.nl/onderzoek-2/"> Onderzoek</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page" role="presentation"><a href="http://beterthuismetdementie.laurens.nl/ervaringen/"> Ervaringen</a></li></ul></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/nieuws/"> Nieuws</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/contact-2/"> Contact</a></li></ul>
+
+</div>
+</div>    <div>
+<div class="uk-panel widget widget_search" id="search-3">
+
+    
+    
+
+    <form id="search-0" action="http://beterthuismetdementie.laurens.nl" method="get" role="search" class="uk-search uk-search-default uk-width-1-1"><span uk-search-icon="" class="uk-icon uk-search-icon"><svg width="20" height="20" viewBox="0 0 20 20"><circle fill="none" stroke="#000" stroke-width="1.1" cx="9" cy="9" r="7"></circle><path fill="none" stroke="#000" stroke-width="1.1" d="M14,14 L18,18 L14,14 Z"></path></svg></span><input name="s" placeholder="Zoeken" required="" aria-label="Zoeken" type="search" class="uk-search-input"></form>
+
+
+
+
+
+
+</div>
+</div></div>            </div>
+            
+            
+        </div>
+    </div>
+    
+    
+    
+
+</header>
+
+
+
+<div class="tm-toolbar tm-toolbar-default uk-visible@m">
+    <div class="uk-container uk-flex uk-flex-middle tm-page-width">
+
+        
+                <div class="uk-margin-auto-left">
+            <div class="uk-grid-medium uk-child-width-auto uk-flex-middle uk-grid uk-grid-stack" uk-grid="margin: uk-margin-small-top">
+                <div class="uk-first-column">
+<div class="uk-panel widget widget_builderwidget" id="builderwidget-3">
+
+    
+    <style class="uk-margin-remove-adjacent">#builderwidget-3\#0 .toolbardiv { padding-left:20px; float:right; margin:0; } #builderwidget-3\#0 p { margin:0; padding:0; } #builderwidget-3\#0 .toolbardiv p a { color:#333; } #builderwidget-3\#0 .toolbardiv p a:hover { color:#df3557; } </style><div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-grid-item-match uk-flex-middle uk-dark uk-width-1-1">
+    
+        
+            
+            
+                        <div class="uk-panel uk-width-1-1">            
+                
+                    <div class="uk-panel uk-margin" id="builderwidget-3#0"><div class="toolbardiv">
+<p><a href="https://werkenbij.laurens.nl/" target="_blank" rel="noopener">Werken bij Laurens <img src="/wp-content/uploads/link-blanc.svg" width="16" height="16"></a></p>
+</div>
+<div class="toolbardiv">
+<p><a href="tel:06 22 49 48 30/">Bel 06 22 49 48 30</a></p>
+</div></div>
+                
+                        </div>            
+        
+    
+</div></div>
+</div>
+</div>            </div>
+        </div>
+        
+    </div>
+</div>
+
+<header class="tm-header uk-visible@m" uk-header="">
+
+
+
+        <div uk-sticky="" media="@m" show-on-up="" animation="uk-animation-slide-top" cls-active="uk-navbar-sticky" sel-target=".uk-navbar-container" class="uk-sticky">
+    
+        <div class="uk-navbar-container">
+
+            <div class="uk-container tm-page-width">
+                <nav class="uk-navbar" uk-navbar="{&quot;align&quot;:&quot;left&quot;,&quot;container&quot;:&quot;.tm-header > [uk-sticky]&quot;,&quot;boundary&quot;:&quot;.tm-header .uk-navbar-container&quot;}">
+
+                                        <div class="uk-navbar-left">
+
+                                                    <a href="http://beterthuismetdementie.laurens.nl/" aria-label="Terug naar de homepage" class="uk-logo uk-navbar-item">
+    <img alt="Beter thuis met dementie" loading="eager" src="/wp-content/uploads/beterthuismetdementie_logo_liggend-2023_tekst_outline.svg" width="450" height="102"></a>                        
+                        
+                        
+                    </div>
+                    
+                    
+                                        <div class="uk-navbar-right">
+
+                                                    
+<ul class="uk-navbar-nav">
+    
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href="http://beterthuismetdementie.laurens.nl/cursus/" role="button" aria-haspopup="true"> Cursussen <span uk-navbar-parent-icon="" class="uk-icon uk-navbar-parent-icon"><svg width="12" height="12" viewBox="0 0 12 12"><polyline fill="none" stroke="#000" stroke-width="1" points="1 3.5 6 8.5 11 3.5"></polyline></svg></span></a>
+	<div class="uk-navbar-dropdown uk-drop"><div><ul class="uk-nav uk-navbar-dropdown-nav">
+
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/cursusweek/"> Cursusweek</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/avondcursus/"> Avondcursus</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/familiecursus/"> Familiecursus</a></li></ul></div></div></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href="http://beterthuismetdementie.laurens.nl/over-dementie/" role="button" aria-haspopup="true"> Over dementie <span uk-navbar-parent-icon="" class="uk-icon uk-navbar-parent-icon"><svg width="12" height="12" viewBox="0 0 12 12"><polyline fill="none" stroke="#000" stroke-width="1" points="1 3.5 6 8.5 11 3.5"></polyline></svg></span></a>
+	<div class="uk-navbar-dropdown uk-drop"><div><ul class="uk-nav uk-navbar-dropdown-nav">
+
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/wat-kunt-u-doen/"> Wat kunt u doen?</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/veelgestelde-vragen/"> Veelgestelde vragen</a></li></ul></div></div></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uk-parent"><a role="button" tabindex="0" aria-haspopup="true"> Over ons <span uk-navbar-parent-icon="" class="uk-icon uk-navbar-parent-icon"><svg width="12" height="12" viewBox="0 0 12 12"><polyline fill="none" stroke="#000" stroke-width="1" points="1 3.5 6 8.5 11 3.5"></polyline></svg></span></a>
+	<div class="uk-navbar-dropdown uk-drop" mode="click" pos="bottom-left"><div><ul class="uk-nav uk-navbar-dropdown-nav">
+
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/team/"> Team</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/onderzoek-2/"> Onderzoek</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/ervaringen/"> Ervaringen</a></li></ul></div></div></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/nieuws/"> Nieuws</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://beterthuismetdementie.laurens.nl/contact-2/"> Contact</a></li></ul>
+                        
+                                                    
+<div class="uk-navbar-item widget widget_text" id="text-1">
+
+    
+    			<div class="uk-panel textwidget"></div>
+		
+</div>
+                        
+                    </div>
+                    
+                </nav>
+            </div>
+
+        </div>
+
+        </div><div class="uk-sticky-placeholder" style="height: 101.617px; width: 1354px; margin: 0px;" hidden=""></div>
+    
+
+
+
+
+
+
+
+</header>
+
+        
+        <div class="tm-page uk-margin-auto">
+
+            
+            
+            <main id="tm-main">
+
+                <!-- Builder #page --><style class="uk-margin-remove-adjacent">@media (max-width: 1500px){ #page\#0 { padding:40px; } } @media (max-width: 1200px){ #page\#0 { padding:30px; } } @media (max-width: 960px){ #page\#0 { padding:20px; } } @media (max-width: 640px){ #page\#0 { padding:15px; } } #page\#1 .roundedred{ background-color:rgba(237, 173, 173, 0.4); width: calc(100vw / 3.5); height:675px; border-radius:.75rem; margin-bottom:4rem; background-blend-mode: multiply; } @media (max-width: 1500px){ #page\#1 .roundedred{ width: calc(100vw / 3); height:500px; border-radius:0 .75rem .75rem 0; margin-bottom:5rem; } } @media (max-width: 1280px){ #page\#1 .roundedred{ margin-bottom:5rem; } } @media (max-width: 1024px){ #page\#1 .roundedred{ width: calc(100vw / 2); height:350px; margin-bottom:5rem; } } @media (max-width: 768px){ #page\#1 .roundedred{ width: calc(100vw / 2); height:150px; margin-bottom:-0.5rem; } } @media (max-width: 720px){ } @media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) { #page\#1 .roundedred{ width: calc(100vw / 2); height:200px; margin-bottom:1rem; } } @media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape) { #page\#1 .roundedred{ width: calc(100vw / 2); height:300px; margin-bottom:5rem; } } #page\#2 .roundedblue{ background-color:rgba(129, 217, 215, 0.4); width: calc(100vw / 3.5); height:720px; border-radius:.75rem; margin-bottom:-2rem; margin-left:12rem; background-blend-mode: multiply; } @media (max-width: 1500px){ #page\#2 .roundedblue{ width: calc(100vw / 2.5); height:580px; margin-bottom:-1rem; } } @media (max-width: 1280px){ #page\#2 .roundedblue{ width: calc(100vw / 2.75); height:500px; margin-top:8rem; } } @media (max-width: 1024px){ #page\#2 .roundedblue{ width:calc(100vw / 1.5); height:350px; margin-left:4rem; margin-bottom:-1rem; } } @media (max-width: 768px){ #page\#2 .roundedblue{ width:calc(100vw / 1.5); height:100px; margin-bottom:-1rem; margin-left:2rem; } } @media (max-width: 720px){ #page\#2 .roundedblue{ width:calc(100vw / 1.75); height:160px; margin-bottom:0.5rem; margin-left:2rem; } } @media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) { #page\#2 .roundedblue{ width:calc(100vw / 1.5); height:150px; margin-top:6rem; margin-left:2rem; } } @media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape) { #page\#2 .roundedblue{ width:calc(100vw / 2); height:350px; margin-bottom:-1rem; margin-left:3rem; } } #page\#3 .roundedwhite{ background-color:#ffffff; padding:1.5rem; border-radius:.75rem; margin-bottom:6rem; margin-left:5rem; width:350px; } #page\#3 h2 { margin-bottom:10px; line-height:1.1; } #page\#3 .roundedwhite p{ margin: 0; padding:0; line-height:1.4; } @media (max-width: 1500px){ #page\#3 .roundedwhite{ margin-bottom:8rem; margin-left:8rem; width:350px; } } @media (min-width: 1280px){ } @media (max-width: 1024px){ #page\#3 .roundedwhite{ margin-bottom:6rem; margin-left:5rem; width:350px; } } @media (max-width: 768px){ #page\#3 .roundedwhite{ margin-bottom:-6rem; margin-left:1rem; width:250px; } } @media (max-width: 720px){ #page\#3 .roundedwhite{ padding:1rem; margin-bottom:3rem; margin-left:2rem; width:350px; } } @media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape) { #page\#3 .roundedwhite{ padding:1rem; margin-bottom:4rem; margin-left:5rem; width:450px; } } #page\#4 .roundedwhite{ background-color:#ffffff; padding:1.5rem; border-radius:.75rem; } #page\#4 h2 { margin-bottom:10px; line-height:1.1; } #page\#4 .roundedwhite p{ margin: 0; padding:0; line-height:1.4; } #page\#5 .uk-card-default{ border-radius:.75rem; } #page\#6 .uk-card-default{ border-radius:.75rem; } #page\#7 > [class*='uk-background-'] { min-height: 50vh; } #page\#8 .uk-card-default { background-color: rgba(245, 245, 245); color: #333; } #page\#8 .el-content, #page\#8 .el-link{ font-size:16px; } #page\#8 .uk-card-default:hover .el-title, #page\#8 .uk-card-default:hover .el-link{ color:#DF3557; } #page\#8 .el-link::after{ content: ""; background: url("wp-content/uploads/arrow-right.svg") no-repeat 0px -2px; width:20px; height:20px; display:inline-block; vertical-align: middle; } #page\#8 .uk-card-default:hover .el-link::after{ content: ""; background: url("wp-content/uploads/arrow-right-red.svg") -20px -2px; width:20px; height:20px; display:inline-block; vertical-align: middle; } #page\#9 .uk-card-default{ background:#f5f5f5; border-radius:.75rem; } </style>
+<div class="uk-section-default uk-section uk-section-large uk-padding-remove-top uk-padding-remove-bottom" uk-scrollspy="target: [uk-scrollspy-class]; cls: uk-animation-slide-bottom-small; delay: false;">
+    
+        
+        
+        
+            
+                
+                    <div class="uk-grid tm-grid-expand uk-grid-column-collapse uk-child-width-1-1 uk-margin-remove-vertical">
+<div class="uk-grid-item-match uk-width-1-1@m">
+    
+        
+            
+            
+                        <div class="uk-panel uk-width-1-1">            
+                
+                    
+<div id="page#0" class="uk-position-relative uk-margin uk-text-right uk-scrollspy-inview" uk-scrollspy-class="" style="">
+        <picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/13/dementie-samen-echtpaar-134cdc26.webp 768w, /wp-content/themes/yootheme/cache/ef/dementie-samen-echtpaar-ef6d29e8.webp 1024w, /wp-content/themes/yootheme/cache/a2/dementie-samen-echtpaar-a2c8335b.webp 1350w, http://beterthuismetdementie.laurens.nl/wp-admin/admin-ajax.php?action=kernel&amp;p=image&amp;src=file%3Dwp-content%252Fuploads%252Fdementie-samen-echtpaar.jpg%26type%3Dwebp%2C85%26thumbnail%3D1366%2C768%2C&amp;hash=5937e3d2 1366w, http://beterthuismetdementie.laurens.nl/wp-admin/admin-ajax.php?action=kernel&amp;p=image&amp;src=file%3Dwp-content%252Fuploads%252Fdementie-samen-echtpaar.jpg%26type%3Dwebp%2C85%26thumbnail%3D1369%2C770%2C&amp;hash=8a863444 1369w, /wp-content/themes/yootheme/cache/2b/dementie-samen-echtpaar-2b2735cc.webp 1370w" sizes="(min-width: 1350px) 1350px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/1d/dementie-samen-echtpaar-1d186fab.jpeg" class="el-image uk-border-rounded" alt="" loading="lazy" width="1350" height="759">
+</picture>    
+    
+</div><div class="uk-panel uk-position-absolute uk-width-1-1 uk-scrollspy-inview" id="page#1" style="left: 0px; bottom: 0px; z-index: 3;" uk-scrollspy-class=""><div class="roundedred"></div></div><div class="uk-panel uk-position-absolute uk-width-1-1 uk-scrollspy-inview" id="page#2" style="left: 0px; bottom: 0px; z-index: 2;" uk-scrollspy-class=""><div class="roundedblue"></div></div><div class="uk-panel uk-visible@s uk-position-absolute uk-width-1-1 uk-scrollspy-inview" id="page#3" style="left: 0px; bottom: 0px; z-index: 3;" uk-scrollspy-class=""><div class="roundedwhite">
+    <h2>Beter thuis met dementie</h2>
+    <p>Praktische cursussen om beter om te gaan met dementie</p>
+</div>
+</div>
+                
+                        </div>            
+        
+    
+</div></div>
+                
+            
+        
+    
+</div>
+<div class="uk-section-default uk-section uk-padding-remove-top">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-width-1-1@m" id="page#5">
+    
+        
+            
+            
+            
+                
+                    <div class="uk-panel uk-hidden@s uk-margin-large" id="page#4"><div class="roundedwhite">
+    <h2>Beter thuis met dementie</h2>
+    <p>Praktische cursussen om beter om te gaan met dementie</p>
+</div>
+</div>
+                
+            
+        
+    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>
+<div class="uk-section-default uk-section uk-padding-remove-top">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-grid-item-match uk-width-1-1@m" id="page#6">
+        <div class="uk-card-default uk-card uk-card-large uk-card-body">    
+        
+            
+            
+            
+                
+                    <div class="uk-panel uk-text-lead uk-margin uk-text-left">Deze website is bedoeld voor partners en kinderen van thuiswonende ouderen met dementie.&nbsp;Mensen met dementie en hun partners krijgen te maken met veel veranderingen. Het is vaak niet makkelijk hiermee om te gaan. Op deze website vindt u informatie over thuiswonen met dementie én informatie over ons cursusaanbod.</div>
+                
+            
+        
+        </div>    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>
+<div class="uk-section-default uk-section">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-grid-margin" uk-grid="">
+<div class="uk-width-1-3@m uk-first-column">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-margin uk-text-center">
+        <a class="el-link" href="/cursusweek/"><img decoding="async" src="/wp-content/uploads/echtpaar2023.svg" class="el-image" alt="" loading="lazy" width="210" height="311"></a>    
+    
+</div>
+<h2 class="uk-text-center">        Vijfdaagse cursusweek<br>voor echtparen    </h2><div class="uk-panel uk-margin uk-text-center"><p>Beter Thuis met Dementie is een vijfdaagse cursusweek waarbij mantelzorgers samen met hun partner les krijgen over alles wat te maken heeft met leven en zorgen voor iemand met dementie.&nbsp;</p></div>
+<div class="uk-margin uk-text-center">
+    
+    
+        
+        
+<a class="el-content uk-button uk-button-secondary" href="/cursusweek/">
+    
+        Lees meer    
+    
+</a>
+
+        
+    
+    
+</div>
+
+                
+            
+        
+    
+</div>
+<div class="uk-width-1-3@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-margin uk-text-center">
+        <a class="el-link" href="/avondcursus/"><img decoding="async" src="/wp-content/uploads/kind_van_ouder_met_dementie-2023.svg" class="el-image" alt="" loading="lazy" width="210" height="311"></a>    
+    
+</div>
+<h2 class="uk-text-center">        <p class="p1"><span class="s1">Avondcursus: <br>een ouder met dementie</span></p>    </h2><div class="uk-panel uk-margin uk-text-center"><p class="p1"><span class="s1">Heeft uw vader of moeder dementie? In deze avondcursus leert u over wat u kunt verwachten. Alle aspecten komen aan bod. De cursus wordt gegeven door o.a. een psycholoog, ergotherapeut, maatschappelijk werker en een specialist ouderengeneeskunde.</span></p></div>
+<div class="uk-margin uk-text-center">
+    
+    
+        
+        
+<a class="el-content uk-button uk-button-secondary" href="/avondcursus/">
+    
+        Lees meer    
+    
+</a>
+
+        
+    
+    
+</div>
+
+                
+            
+        
+    
+</div>
+<div class="uk-width-1-3@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-margin uk-text-center">
+        <a class="el-link" href="/familiecursus/"><picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/ca/family_dementie-2023-2-cac3d678.webp 768w, /wp-content/themes/yootheme/cache/9d/family_dementie-2023-2-9d74e8db.webp 1024w, /wp-content/themes/yootheme/cache/dd/family_dementie-2023-2-dd17e0fa.webp 1366w, /wp-content/themes/yootheme/cache/47/family_dementie-2023-2-47803cff.webp 1600w, /wp-content/themes/yootheme/cache/8f/family_dementie-2023-2-8f857b77.webp 1920w, /wp-content/themes/yootheme/cache/19/family_dementie-2023-2-19075b9f.webp 3496w" sizes="(min-width: 3496px) 3496px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/71/family_dementie-2023-2-715d9e9f.png" class="el-image" alt="" loading="lazy" width="3496" height="2960">
+</picture></a>    
+    
+</div>
+<h2 class="uk-text-center">        <p class="p1"><span class="s1">Avondcursus: <br>Familie en<br>dementie</span></p>    </h2><div class="uk-panel uk-margin uk-text-center"><p class="p1">Deze reeks voor iedereen die met de hele familie voor iemand met dementie zorgt. Deze korte cursus van vier bijeenkomsten wordt gegeven<span class="Apple-converted-space"> </span>aan één familie tegelijk.</p></div>
+<div class="uk-margin uk-text-center">
+    
+    
+        
+        
+<a class="el-content uk-button uk-button-secondary" href="/familiecursus/">
+    
+        Lees meer    
+    
+</a>
+
+        
+    
+    
+</div>
+
+                
+            
+        
+    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>
+<div id="page#7" class="uk-section-default uk-position-relative">
+        <div data-src="/wp-content/uploads/video-beterthuismetdementie-groep-donkerder.jpg" data-sources="[{&quot;type&quot;:&quot;image\/webp&quot;,&quot;srcset&quot;:&quot;\/wp-content\/themes\/yootheme\/cache\/e0\/video-beterthuismetdementie-groep-donkerder-e0418174.webp 2000w&quot;,&quot;sizes&quot;:&quot;(max-aspect-ratio: 2000\/1125) 178vh&quot;}]" uk-img="" class="uk-background-norepeat uk-background-cover uk-background-top-center uk-background-fixed uk-section uk-section-xlarge uk-flex uk-flex-middle" uk-height-viewport="offset-top: true; offset-bottom: ! +;" style="min-height: max(0px, -188px + 100vh);">    
+        
+                <div class="uk-position-cover" style="background-color: rgba(0, 0, 0, 0);"></div>        
+        
+                        <div class="uk-width-1-1">
+            
+                                <div class="uk-container uk-position-relative">                
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-width-1-1@m">
+    
+        
+            
+            
+            
+                
+                    
+<h3 class="uk-heading-large uk-text-muted uk-text-center">        introductievideo:    </h3>
+<h1 class="uk-h1 uk-text-muted uk-text-center">        <p>Wat doen we tijdens de cursusweek? <br>Bekijk hier een korte impressie!</p>    </h1>
+<div class="uk-margin-large uk-text-center">
+    
+    
+        
+        
+<a class="el-content uk-button uk-button-secondary" href="#js-4" uk-toggle="" role="button">
+    
+        Bekijk video ››    
+    
+</a>
+
+<div id="js-4" class="uk-flex-top uk-modal" uk-modal="">
+    <div class="uk-modal-dialog uk-width-auto uk-margin-auto-vertical" role="dialog" aria-modal="true">
+        <button class="uk-modal-close-outside uk-icon uk-close" type="button" uk-close="" aria-label="Close"><svg width="14" height="14" viewBox="0 0 14 14"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+        <iframe src="https://www.youtube.com/embed/G5yVtHber5A?si=XU4m9SHh_oMKOlPm&amp;disablekb=1&amp;enablejsapi=1" uk-video="" allowfullscreen="" allow="autoplay" uk-responsive="" class="uk-responsive-width" width="1920" height="1080"></iframe>    </div>
+</div>
+
+        
+    
+    
+</div>
+
+                
+            
+        
+    
+</div></div>
+                                </div>                
+                        </div>
+            
+        
+        </div>
+    
+</div>
+<div class="uk-section-default uk-section uk-padding-remove-bottom">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-width-1-1">
+    
+        
+            
+            
+            
+                
+                    
+<h1 class="uk-h1 uk-text-center">        “Ik heb geleerd langzaam en duidelijk te zijn en mijn partner zo lang mogelijk dingen zelf te laten doen.”    </h1>
+                
+            
+        
+    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>
+<div class="uk-section-default uk-section" uk-scrollspy="target: [uk-scrollspy-class]; cls: uk-animation-fade; delay: false;">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-width-1-1@m">
+    
+        
+            
+            
+            
+                
+                    
+<h2 class="uk-h2 uk-margin-remove-vertical uk-text-left" uk-scrollspy-class="" style="opacity: 0;">        Nieuws    </h2>
+                
+            
+        
+    
+</div></div><div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-width-1-1">
+    
+        
+            
+            
+            
+                
+                    
+<div id="page#8" class="uk-margin">
+    <div class="uk-grid uk-child-width-1-1 uk-child-width-1-3@m uk-grid-match" uk-grid="">        <div class="uk-first-column">
+<div class="el-item uk-grid-item-match" uk-scrollspy-class="" style="opacity: 0;">
+        <a class="uk-card uk-card-default uk-card-hover uk-margin-remove-first-child uk-transition-toggle uk-link-toggle uk-display-block" href="http://beterthuismetdementie.laurens.nl/symposium-van-zorg-naar-gewoon-leven/">    
+    
+                <div class="uk-card-media-top"><div class="uk-inline-clip"><picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/ed/Symposium-1-zaal_2560x1700-ed7a3db9.webp 768w, /wp-content/themes/yootheme/cache/8e/Symposium-1-zaal_2560x1700-8e211417.webp 1024w, /wp-content/themes/yootheme/cache/e8/Symposium-1-zaal_2560x1700-e80045cd.webp 1366w, /wp-content/themes/yootheme/cache/12/Symposium-1-zaal_2560x1700-1269a21c.webp 1600w, /wp-content/themes/yootheme/cache/87/Symposium-1-zaal_2560x1700-87e7e799.webp 1920w, /wp-content/themes/yootheme/cache/eb/Symposium-1-zaal_2560x1700-eb1ef3a4.webp 2560w" sizes="(min-width: 2560px) 2560px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/7c/Symposium-1-zaal_2560x1700-7c1074e7.jpeg" class="el-image uk-transition-scale-up uk-transition-opaque" alt="" loading="lazy" width="2560" height="1700">
+</picture></div></div>        
+                    <div class="uk-card-body uk-margin-remove-first-child">
+
+                <div class="el-meta uk-text-meta uk-margin-top"><span class="uk-link-text">4 oktober 2023</span></div>        
+                <h3 class="el-title uk-card-title uk-margin-top uk-margin-remove-bottom">                        Symposium ‘Van Zorg naar Gewoon Leven’                    </h3>        
+        
+    
+        
+        
+                <div class="el-content uk-panel uk-margin-top">
+Hoe kunnen we de leefwereld van ouderen centraal stellen en onze zorg en ondersteuning daarop aan laten sluiten, in plaats van andersom? Daarover ging het symposium ‘Van Zorg naar Gewoon Leven’, d…</div>        
+        
+                <div class="uk-margin-top"><div class="el-link uk-link-text">Lees meer</div></div>        
+</div>        
+        
+    
+        </a>    
+</div></div>
+        <div>
+<div class="el-item uk-grid-item-match" uk-scrollspy-class="" style="opacity: 0;">
+        <a class="uk-card uk-card-default uk-card-hover uk-margin-remove-first-child uk-transition-toggle uk-link-toggle uk-display-block" href="http://beterthuismetdementie.laurens.nl/presentatie-beter-thuis-met-dementie/">    
+    
+                <div class="uk-card-media-top"><div class="uk-inline-clip"><picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/2e/Cursusmap-bij-presentatie-2023-oud-2e3ecec2.webp 768w, /wp-content/themes/yootheme/cache/d5/Cursusmap-bij-presentatie-2023-oud-d5e42aad.webp 1024w, /wp-content/themes/yootheme/cache/b3/Cursusmap-bij-presentatie-2023-oud-b3c57b77.webp 1366w, /wp-content/themes/yootheme/cache/a5/Cursusmap-bij-presentatie-2023-oud-a557ef4d.webp 1600w, /wp-content/themes/yootheme/cache/30/Cursusmap-bij-presentatie-2023-oud-30d9aac8.webp 1920w, /wp-content/themes/yootheme/cache/7d/Cursusmap-bij-presentatie-2023-oud-7de75a0a.webp 2560w" sizes="(min-width: 2560px) 2560px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/81/Cursusmap-bij-presentatie-2023-oud-815d1ba1.jpeg" class="el-image uk-transition-scale-up uk-transition-opaque" alt="" loading="lazy" width="2560" height="1700">
+</picture></div></div>        
+                    <div class="uk-card-body uk-margin-remove-first-child">
+
+                <div class="el-meta uk-text-meta uk-margin-top"><span class="uk-link-text">28 januari 2022</span></div>        
+                <h3 class="el-title uk-card-title uk-margin-top uk-margin-remove-bottom">                        Presentatie Beter Thuis met Dementie                    </h3>        
+        
+    
+        
+        
+                <div class="el-content uk-panel uk-margin-top">
+Op 24 november 2021 heeft Betty Birkenhäger, specialist ouderengeneeskunde en projectleider bij zorgorganisatie Laurens, een presentatie gegeven over de cursus van het project&nbsp;Beter Thuis met…</div>        
+        
+                <div class="uk-margin-top"><div class="el-link uk-link-text">Lees meer</div></div>        
+</div>        
+        
+    
+        </a>    
+</div></div>
+        <div>
+<div class="el-item uk-grid-item-match" uk-scrollspy-class="" style="opacity: 0;">
+        <a class="uk-card uk-card-default uk-card-hover uk-margin-remove-first-child uk-transition-toggle uk-link-toggle uk-display-block" href="http://beterthuismetdementie.laurens.nl/een-geslaagde-eerste-logeerweek/">    
+    
+                <div class="uk-card-media-top"><div class="uk-inline-clip"><picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/bb/Logeerweek_buiten_2023cce738bf-bba5c2a1.webp 768w, /wp-content/themes/yootheme/cache/f4/Logeerweek_buiten_2023cce738bf-f4996f77.webp 1024w, /wp-content/themes/yootheme/cache/92/Logeerweek_buiten_2023cce738bf-92b83ead.webp 1366w, /wp-content/themes/yootheme/cache/36/Logeerweek_buiten_2023cce738bf-362347f6.webp 1600w, /wp-content/themes/yootheme/cache/a3/Logeerweek_buiten_2023cce738bf-a3ad0273.webp 1920w, /wp-content/themes/yootheme/cache/b2/Logeerweek_buiten_2023cce738bf-b2b01ffa.webp 2560w" sizes="(min-width: 2560px) 2560px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/6a/Logeerweek_buiten_2023cce738bf-6a619689.jpeg" class="el-image uk-transition-scale-up uk-transition-opaque" alt="" loading="lazy" width="2560" height="1700">
+</picture></div></div>        
+                    <div class="uk-card-body uk-margin-remove-first-child">
+
+                <div class="el-meta uk-text-meta uk-margin-top"><span class="uk-link-text">29 juni 2021</span></div>        
+                <h3 class="el-title uk-card-title uk-margin-top uk-margin-remove-bottom">                        Een geslaagde eerste logeerweek!                    </h3>        
+        
+    
+        
+        
+                <div class="el-content uk-panel uk-margin-top">
+Eindelijk mochten we weer, de eerste logeerweek in juni waar iedereen zo naar uit gekeken had. Juist de mantelzorgers en partners waarbij de ondersteuning en handvaten geven zo waardevol is. Met e…</div>        
+        
+                <div class="uk-margin-top"><div class="el-link uk-link-text">Lees meer</div></div>        
+</div>        
+        
+    
+        </a>    
+</div></div>
+        </div>
+</div>
+                
+            
+        
+    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>
+<div class="uk-section-default uk-section">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-grid-column-collapse uk-child-width-1-1 uk-grid-margin">
+<div class="uk-grid-item-match uk-width-1-1" id="page#9">
+        <div class="uk-card-default uk-card uk-card-large uk-card-body">    
+        
+            
+            
+            
+                
+                    <div class="uk-panel uk-margin"><div class="uk-grid tm-grid-expand uk-grid-column-large uk-grid-margin" uk-grid="">
+<div class="uk-width-1-3@m uk-first-column">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-margin uk-text-left">
+        <img decoding="async" src="/wp-content/uploads/questions.svg" class="el-image" alt="" loading="lazy" width="48" height="48">    
+    
+</div><div class="uk-panel uk-text-lead uk-margin"><p>Bent u geïnteresseerd in de cursusweek of de cursus­avond? <br>Meld u dan nu aan.</p></div>
+<div class="uk-margin">
+    
+    
+        
+        
+<a class="el-content uk-button uk-button-primary" href="/contact-2/">
+    
+        Aanmelden    
+    
+</a>
+
+        
+    
+    
+</div>
+
+                
+            
+        
+    
+</div>
+<div class="uk-width-1-3@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-margin uk-text-left">
+        <img decoding="async" src="/wp-content/uploads/questions.svg" class="el-image" alt="" loading="lazy" width="48" height="48">    
+    
+</div><div class="uk-panel uk-text-lead uk-margin"><p>Heeft u een vraag?</p></div><div class="uk-panel uk-margin"><p><span>U kunt ons telefonisch bereiken <br>op 06 22 49 48 30 of mailen op</span><br><a href="mailto:beterthuismetdementie@laurens.nl">beterthuismetdementie@laurens.nl</a></p></div>
+                
+            
+        
+    
+</div>
+<div class="uk-width-1-3@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-margin uk-text-left">
+        <img decoding="async" src="/wp-content/uploads/heart-care.svg" class="el-image" alt="" loading="lazy" width="49" height="48">    
+    
+</div><div class="uk-panel uk-text-lead uk-margin"><p>Samen komen we verder</p></div><div class="uk-panel uk-margin"><p>Leer ook van de ervaringen van andere stellen en hoor van specialisten wat u kunt verwachten (en doen). We zien u graag tijdens de cursusweek.</p></div>
+                
+            
+        
+    
+</div></div></div>
+                
+            
+        
+        </div>    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>        
+            </main>
+
+            
+                        <footer>
+                <!-- Builder #footer -->
+<div class="uk-section-default uk-section">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid-margin-large uk-container"><div class="uk-grid tm-grid-expand uk-grid-large" uk-grid="">
+<div class="uk-width-1-2@m uk-width-1-4@l uk-first-column">
+    
+        
+            
+            
+            
+                
+                    
+<h4 class="uk-h4">        Aanmelden nieuwsbrief    </h4><div class="uk-panel uk-margin"><p>Wilt u op de hoogte gehouden worden van ons project? Stuur dan een mailtje naar <a href="mailto:beterthuismetdementie@laurens.nl">beterthuismetdementie@laurens.nl</a><br><br></p></div>
+<div class="uk-margin-small uk-margin-remove-top" uk-scrollspy="target: [uk-scrollspy-class];">    <div class="uk-child-width-auto uk-grid-small uk-flex-inline uk-grid" uk-grid="">
+            <div class="uk-first-column">
+<a class="el-link uk-icon-button" href="mailto:beterthuismetdementie@laurens.nl" rel="noreferrer"><span uk-icon="icon: mail;" class="uk-icon"><svg width="20" height="20" viewBox="0 0 20 20"><polyline fill="none" stroke="#000" points="1.4,6.5 10,11 18.6,6.5"></polyline><path d="M 1,4 1,16 19,16 19,4 1,4 Z M 18,15 2,15 2,5 18,5 18,15 Z"></path></svg></span></a></div>
+            <div>
+<a class="el-link uk-icon-button" href="tel: +31622494830" rel="noreferrer"><span uk-icon="icon: receiver;" class="uk-icon"><svg width="20" height="20" viewBox="0 0 20 20"><path fill="none" stroke="#000" stroke-width="1.01" d="M6.189,13.611C8.134,15.525 11.097,18.239 13.867,18.257C16.47,18.275 18.2,16.241 18.2,16.241L14.509,12.551L11.539,13.639L6.189,8.29L7.313,5.355L3.76,1.8C3.76,1.8 1.732,3.537 1.7,6.092C1.667,8.809 4.347,11.738 6.189,13.611"></path></svg></span></a></div>
+            <div>
+<a class="el-link uk-icon-button" href="https://www.facebook.com/Beter-Thuis-met-Dementie-1733213263629100/" rel="noreferrer"><span uk-icon="icon: facebook;" class="uk-icon"><svg width="20" height="20" viewBox="0 0 20 20"><path d="M11,10h2.6l0.4-3H11V5.3c0-0.9,0.2-1.5,1.5-1.5H14V1.1c-0.3,0-1-0.1-2.1-0.1C9.6,1,8,2.4,8,5v2H5.5v3H8v8h3V10z"></path></svg></span></a></div>
+            <div>
+<a class="el-link uk-icon-button" href="https://laurens.nl/" rel="noreferrer"><span uk-icon="icon: social;" class="uk-icon"><svg width="20" height="20" viewBox="0 0 20 20"><line fill="none" stroke="#000" stroke-width="1.1" x1="13.4" y1="14" x2="6.3" y2="10.7"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13.5" y1="5.5" x2="6.5" y2="8.8"></line><circle fill="none" stroke="#000" stroke-width="1.1" cx="15.5" cy="4.6" r="2.3"></circle><circle fill="none" stroke="#000" stroke-width="1.1" cx="15.5" cy="14.8" r="2.3"></circle><circle fill="none" stroke="#000" stroke-width="1.1" cx="4.5" cy="9.8" r="2.3"></circle></svg></span></a></div>
+    
+    </div></div>
+                
+            
+        
+    
+</div>
+<div class="uk-width-1-2@m uk-width-1-4@l">
+    
+        
+            
+            
+            
+                
+                    
+                
+            
+        
+    
+</div>
+<div class="uk-width-1-2@m uk-width-1-4@l">
+    
+        
+            
+            
+            
+                
+                    
+<h4 class="uk-h4">        Snel naar:    </h4><div class="uk-panel uk-margin"><p><a href="https://beterthuismetdementie.laurens.nl/?page_id=26" data-wplink-url-error="true">Cursusweek</a><br><a href="https://beterthuismetdementie.laurens.nl/?page_id=414" data-wplink-url-error="true">Avondcursus</a><br><a href="https://beterthuismetdementie.laurens.nl/team/">Over ons</a><br><a href="https://beterthuismetdementie.laurens.nl/?page_id=92" data-wplink-url-error="true">Nieuws</a><br><a href="https://beterthuismetdementie.laurens.nl/onderzoek-2/">Onderzoek</a><br><a href="https://beterthuismetdementie.laurens.nl/veelgestelde-vragen/">Veel gestelde vragen</a></p></div>
+                
+            
+        
+    
+</div>
+<div class="uk-width-1-2@m uk-width-1-4@l">
+    
+        
+            
+            
+            
+                
+                    
+<h4 class="uk-h4">        Contact    </h4><div class="uk-panel uk-margin"><p><a href="https://beterthuismetdementie.laurens.nl/contact-2/">Contact met ons</a></p></div>
+<h4 class="uk-h4">        Colofon    </h4><div class="uk-panel uk-margin"><p><a href="https://beterthuismetdementie.laurens.nl/privacyverklaring/" data-wplink-url-error="true">Privacyverklaring</a><br><a href="https://beterthuismetdementie.laurens.nl/disclaimer/" data-wplink-url-error="true">Disclaimer</a></p></div>
+                
+            
+        
+    
+</div></div></div>
+                                </div>                
+            
+        
+    
+</div>
+<div class="uk-section-muted uk-section uk-section-xsmall">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-grid-margin">
+<div class="uk-grid-item-match uk-flex-middle uk-width-1-2@m">
+    
+        
+            
+            
+                        <div class="uk-panel uk-width-1-1">            
+                
+                    <div class="uk-panel uk-text-small uk-text-emphasis uk-margin uk-text-left@m"><p>© 2023 Laurens. All Rights Reserved.</p></div>
+                
+                        </div>            
+        
+    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>            </footer>
+            
+        </div>
+
+                </div>
+        
+            
+
+<div class="tm-cookie-banner uk-section uk-section-xsmall uk-section-muted uk-position-bottom uk-position-fixed">
+        <div class="uk-container uk-container-expand uk-text-center">
+
+            <p>Door deze website te gebruiken, gaat u akkoord met het gebruik van cookies zoals beschreven in onze <a href="https://beterthuismetdementie.laurens.nl/privacyverklaring/">Privacyverklaring</a>.</p>
+                            <button type="button" class="js-accept uk-button uk-button-secondary uk-margin-small-left" data-uk-toggle="target: !.uk-section; animation: true">Ja, graag</button>
+            
+                        <button type="button" class="js-reject uk-button uk-button-primary uk-margin-small-left" data-uk-toggle="target: !.uk-section; animation: true">Nee, bedankt</button>
+            
+        </div>
+    </div></body></html>

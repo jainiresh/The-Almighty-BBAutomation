@@ -1,0 +1,12 @@
+# Nmap 7.93 scan initiated Thu Nov  9 17:31:51 2023 as: /usr/bin/nmap -sCV -p80,443 --open -oN nmap/Full_Extra_138.197.61.183.nmap --system-dns --stats-every 2s 138.197.61.183
+Nmap scan report for 138.197.61.183
+Host is up (0.32s latency).
+
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      Golang net/http server (Go-IPFS json-rpc or InfluxDB API)
+|_http-title: Site doesn't have a title (text/plain; charset=utf-8).
+443/tcp open  ssl/https
+|_http-title: Site doesn't have a title.
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Nov  9 17:32:13 2023 -- 1 IP address (1 host up) scanned in 21.60 seconds

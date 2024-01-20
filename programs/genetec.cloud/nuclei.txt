@@ -1,0 +1,605 @@
+[caa-fingerprint] [dns] [info] eus2.prod.sipelia.temp.devx.genetec.cloud
+[caa-fingerprint] [dns] [info] aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[caa-fingerprint] [dns] [info] abs.va.genetec.cloud
+[caa-fingerprint] [dns] [info] aks-audit-2022-10-31-eastus-eastus.audit.genetec.cloud
+[nameserver-fingerprint] [dns] [info] audit.genetec.cloud [ns2-08.azure-dns.net.,ns3-08.azure-dns.org.,ns4-08.azure-dns.info.,ns1-08.azure-dns.com.]
+[nameserver-fingerprint] [dns] [info] edge.genetec.cloud [ns1-09.azure-dns.com.,ns2-09.azure-dns.net.,ns3-09.azure-dns.org.,ns4-09.azure-dns.info.]
+[caa-fingerprint] [dns] [info] devx.genetec.cloud
+[nameserver-fingerprint] [dns] [info] ar.genetec.cloud [ns3-07.azure-dns.org.,ns4-07.azure-dns.info.,ns1-07.azure-dns.com.,ns2-07.azure-dns.net.]
+[caa-fingerprint] [dns] [info] edge.genetec.cloud
+[nameserver-fingerprint] [dns] [info] devx.genetec.cloud [ns3-07.azure-dns.org.,ns4-07.azure-dns.info.,ns1-07.azure-dns.com.,ns2-07.azure-dns.net.]
+[caa-fingerprint] [dns] [info] eastus2.tds.genetec.cloud
+[caa-fingerprint] [dns] [info] eastus.audit.genetec.cloud
+[caa-fingerprint] [dns] [info] eastus2-alpha.tds.genetec.cloud
+[caa-fingerprint] [dns] [info] aks-uni-2023-03-15-prod-eastus.unification.genetec.cloud
+[caa-fingerprint] [dns] [info] api.edge.genetec.cloud
+[caa-fingerprint] [dns] [info] audit.genetec.cloud
+[caa-fingerprint] [dns] [info] ar.genetec.cloud
+[dns-saas-service-detection:azure] [dns] [info] eus2.prod.sipelia.temp.devx.genetec.cloud [sipelia-prod-eus2-default-prodglobal.trafficmanager.net]
+[caa-fingerprint] [dns] [info] aks-uni-2022-12-06-prod-eastus.unification.genetec.cloud
+[caa-fingerprint] [dns] [info] aks-uni-2022-03-14-prod-eastus.unification.genetec.cloud
+[caa-fingerprint] [dns] [info] bff-mobile.us-east.unification.genetec.cloud
+[caa-fingerprint] [dns] [info] bff-web.us-east.unification.genetec.cloud
+[caa-fingerprint] [dns] [info] aks-uni-2023-03-15-prod-australiaeast.unification.genetec.cloud
+[caa-fingerprint] [dns] [info] comp.genetec.cloud
+[nameserver-fingerprint] [dns] [info] comp.genetec.cloud [ns3-09.azure-dns.org.,ns4-09.azure-dns.info.,ns1-09.azure-dns.com.,ns2-09.azure-dns.net.]
+[caa-fingerprint] [dns] [info] ar-eastus2.ar.genetec.cloud
+[caa-fingerprint] [dns] [info] api.serviceregistry.genetec.cloud
+[caa-fingerprint] [dns] [info] bc.serviceregistry.genetec.cloud
+[caa-fingerprint] [dns] [info] apps.ar.genetec.cloud
+[caa-fingerprint] [dns] [info] api.comp.genetec.cloud
+[caa-fingerprint] [dns] [info] aks-sr-2023-06-08-prod-eastus.serviceregistry.genetec.cloud
+[nameserver-fingerprint] [dns] [info] abs.va.genetec.cloud [ns1-35.azure-dns.com.,ns2-35.azure-dns.net.,ns3-35.azure-dns.org.,ns4-35.azure-dns.info.]
+[dns-saas-service-detection:azure] [dns] [info] apps.ar.genetec.cloud [traf-gus-traffic.trafficmanager.net]
+[dns-saas-service-detection] [dns] [info] eastus2.tds.genetec.cloud [eastus2-alpha.tds.genetec.cloud]
+[dns-saas-service-detection:azure] [dns] [info] bc.serviceregistry.genetec.cloud [traf-sr-prod.trafficmanager.net]
+[txt-fingerprint] [dns] [info] abs.va.genetec.cloud ["v=spf1 include:spf.protection.outlook.com -all"]
+[dns-saas-service-detection:azure] [dns] [info] ar-eastus2.ar.genetec.cloud [traf-gus-traffic.trafficmanager.net]
+[dns-saas-service-detection:azure] [dns] [info] api.edge.genetec.cloud [edgeos-prod-default-prodglobal.trafficmanager.net]
+[dns-saas-service-detection:azure] [dns] [info] api.serviceregistry.genetec.cloud [traf-sr-prod.trafficmanager.net]
+[dns-saas-service-detection:azure] [dns] [info] api.comp.genetec.cloud [app-compapi-prod.azurewebsites.net]
+[caa-fingerprint] [dns] [info] horizon-prod.securitycenter.genetec.cloud
+[caa-fingerprint] [dns] [info] securitycenter.genetec.cloud
+[caa-fingerprint] [dns] [info] prod.unification.genetec.cloud
+[caa-fingerprint] [dns] [info] restapi.abs.va.genetec.cloud
+[caa-fingerprint] [dns] [info] help.securitycentersaas.genetec.cloud
+[dns-saas-service-detection:azure] [dns] [info] gateway.ar.genetec.cloud [traf-gus-traffic.trafficmanager.net]
+[caa-fingerprint] [dns] [info] prod.securitycenter.genetec.cloud
+[caa-fingerprint] [dns] [info] rancher.stratox.genetec.cloud
+[caa-fingerprint] [dns] [info] securitycentersaas.genetec.cloud
+[caa-fingerprint] [dns] [info] prod.edge.genetec.cloud
+[nameserver-fingerprint] [dns] [info] genetec.cloud [ns3-01.azure-dns.org.,ns4-01.azure-dns.info.,ns1-01.azure-dns.com.,ns2-01.azure-dns.net.]
+[caa-fingerprint] [dns] [info] genetec.cloud
+[caa-fingerprint] [dns] [info] policy.westeurope.prod.temp.devx.genetec.cloud
+[nameserver-fingerprint] [dns] [info] prod.tealogic.devx.genetec.cloud [ns4-09.azure-dns.info.,ns1-09.azure-dns.com.,ns2-09.azure-dns.net.,ns3-09.azure-dns.org.]
+[caa-fingerprint] [dns] [info] prod.tealogic.devx.genetec.cloud
+[caa-fingerprint] [dns] [info] policy.prod.temp.devx.genetec.cloud
+[caa-fingerprint] [dns] [info] prod.serviceregistry.genetec.cloud
+[caa-fingerprint] [dns] [info] gus.ar.genetec.cloud
+[caa-fingerprint] [dns] [info] gateway.ar.genetec.cloud
+[caa-fingerprint] [dns] [info] portal.comp.genetec.cloud
+[caa-fingerprint] [dns] [info] produseast.synergis.genetec.cloud
+[caa-fingerprint] [dns] [info] sample.serviceregistry.genetec.cloud
+[caa-fingerprint] [dns] [info] preview.prod.unification.genetec.cloud
+[dns-saas-service-detection:azure] [dns] [info] prod.unification.genetec.cloud [unification-prod-unification-prodglobal.trafficmanager.net]
+[dns-saas-service-detection:azure] [dns] [info] produseast.synergis.genetec.cloud [tm3717842570.trafficmanager.net]
+[dns-saas-service-detection:azure] [dns] [info] portal.comp.genetec.cloud [app-compportal-prod.azurewebsites.net]
+[dns-saas-service-detection:azure] [dns] [info] systemreportservice.ar.genetec.cloud [traf-gus-traffic.trafficmanager.net]
+[nameserver-fingerprint] [dns] [info] securitycentersaas.genetec.cloud [becky.ns.cloudflare.com.,kevin.ns.cloudflare.com.]
+[dns-saas-service-detection:azure] [dns] [info] help.securitycentersaas.genetec.cloud [helpscsaas.azurewebsites.net]
+[nameserver-fingerprint] [dns] [info] securitycenter.genetec.cloud [amanda.ns.cloudflare.com.,mitchell.ns.cloudflare.com.]
+[caa-fingerprint] [dns] [info] servicefactory.serviceregistry.genetec.cloud
+[nameserver-fingerprint] [dns] [info] stratox.genetec.cloud [ns1-02.azure-dns.com.,ns2-02.azure-dns.net.,ns3-02.azure-dns.org.,ns4-02.azure-dns.info.]
+[nameserver-fingerprint] [dns] [info] serviceregistry.genetec.cloud [ns1-05.azure-dns.com.,ns2-05.azure-dns.net.,ns3-05.azure-dns.org.,ns4-05.azure-dns.info.]
+[caa-fingerprint] [dns] [info] serviceregistry.genetec.cloud
+[dns-saas-service-detection:azure] [dns] [info] policy.westeurope.prod.temp.devx.genetec.cloud [seteval-prod-eu-default-prodglobal.trafficmanager.net]
+[nameserver-fingerprint] [dns] [info] synergis.genetec.cloud [ns3-04.azure-dns.org.,ns4-04.azure-dns.info.,ns1-04.azure-dns.com.,ns2-04.azure-dns.net.]
+[dns-saas-service-detection:azure] [dns] [info] sample.serviceregistry.genetec.cloud [traf-sr-prod.trafficmanager.net]
+[caa-fingerprint] [dns] [info] synergis.genetec.cloud
+[dns-saas-service-detection:azure] [dns] [info] servicefactory.serviceregistry.genetec.cloud [traf-sr-prod.trafficmanager.net]
+[dns-saas-service-detection:azure] [dns] [info] gus.ar.genetec.cloud [traf-gus-traffic.trafficmanager.net]
+[dns-saas-service-detection:azure] [dns] [info] prod.serviceregistry.genetec.cloud [serviceregistry-prod-default-prodglobal.trafficmanager.net]
+[caa-fingerprint] [dns] [info] stratox.genetec.cloud
+[dns-saas-service-detection:azure] [dns] [info] prod.securitycenter.genetec.cloud [unification-prod-securitycenter-prodglobal.trafficmanager.net]
+[caa-fingerprint] [dns] [info] systemreportservice.ar.genetec.cloud
+[dns-saas-service-detection:azure] [dns] [info] policy.prod.temp.devx.genetec.cloud [seteval-prod-us-default-prodglobal.trafficmanager.net]
+[nameserver-fingerprint] [dns] [info] unification.genetec.cloud [amanda.ns.cloudflare.com.,mitchell.ns.cloudflare.com.]
+[caa-fingerprint] [dns] [info] unification.genetec.cloud
+[nameserver-fingerprint] [dns] [info] va.genetec.cloud [ns1-03.azure-dns.com.,ns2-03.azure-dns.net.,ns3-03.azure-dns.org.,ns4-03.azure-dns.info.]
+[caa-fingerprint] [dns] [info] terraform.genetec.cloud
+[nameserver-fingerprint] [dns] [info] terraform.genetec.cloud [ns1-09.azure-dns.com.,ns2-09.azure-dns.net.,ns3-09.azure-dns.org.,ns4-09.azure-dns.info.]
+[caa-fingerprint] [dns] [info] tds.genetec.cloud
+[nameserver-fingerprint] [dns] [info] tds.genetec.cloud [ns1-37.azure-dns.com.,ns2-37.azure-dns.net.,ns3-37.azure-dns.org.,ns4-37.azure-dns.info.]
+[caa-fingerprint] [dns] [info] us-east.unification.genetec.cloud
+[caa-fingerprint] [dns] [info] www.genetec.cloud
+[caa-fingerprint] [dns] [info] uni-2022-12-06-eastus.unification.genetec.cloud
+[caa-fingerprint] [dns] [info] va.genetec.cloud
+[dns-waf-detect:cloudflare] [dns] [info] securitycentersaas.genetec.cloud
+[dns-waf-detect:cloudflare] [dns] [info] securitycenter.genetec.cloud
+[dns-waf-detect:cloudflare] [dns] [info] unification.genetec.cloud
+[xss-deprecated-header] [http] [info] http://policy.westeurope.prod.temp.devx.genetec.cloud [1; mode=block]
+[xss-deprecated-header] [http] [info] https://prod.securitycenter.genetec.cloud [1; mode=block]
+[xss-deprecated-header] [http] [info] https://prod.tealogic.devx.genetec.cloud [1; mode=block]
+[xss-deprecated-header] [http] [info] http://policy.prod.temp.devx.genetec.cloud [1; mode=block]
+[xss-deprecated-header] [http] [info] https://restapi.abs.va.genetec.cloud [1; mode=block]
+[xss-deprecated-header] [http] [info] https://api.serviceregistry.genetec.cloud [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://abs.va.genetec.cloud
+[xss-deprecated-header] [http] [info] https://abs.va.genetec.cloud [1; mode=block]
+[xss-deprecated-header] [http] [info] https://servicefactory.serviceregistry.genetec.cloud [1; mode=block]
+[xss-deprecated-header] [http] [info] https://eus2.prod.sipelia.temp.devx.genetec.cloud [1; mode=block]
+[xss-deprecated-header] [http] [info] https://sample.serviceregistry.genetec.cloud [1; mode=block]
+[xss-deprecated-header] [http] [info] https://api.edge.genetec.cloud [1; mode=block]
+[xss-deprecated-header] [http] [info] https://prod.serviceregistry.genetec.cloud [1; mode=block]
+[cookies-without-httponly-secure] [http] [info] https://abs.va.genetec.cloud
+[tech-detect:istio-envoy] [http] [info] https://api.serviceregistry.genetec.cloud
+[tech-detect:istio-envoy] [http] [info] https://bc.serviceregistry.genetec.cloud
+[tech-detect:istio-envoy] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[tech-detect:istio-envoy] [http] [info] https://apps.ar.genetec.cloud
+[tech-detect:istio-envoy] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[tech-detect:istio-envoy] [http] [info] https://gateway.ar.genetec.cloud
+[tech-detect:cloudflare] [http] [info] https://horizon-prod.securitycenter.genetec.cloud
+[tech-detect:istio-envoy] [http] [info] https://produseast.synergis.genetec.cloud
+[tech-detect:istio-envoy] [http] [info] https://gus.ar.genetec.cloud
+[tech-detect:istio-envoy] [http] [info] https://sample.serviceregistry.genetec.cloud
+[tech-detect:istio-envoy] [http] [info] https://systemreportservice.ar.genetec.cloud
+[tech-detect:istio-envoy] [http] [info] https://servicefactory.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://api.edge.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://api.edge.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://api.edge.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://api.edge.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://api.edge.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://bc.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://bc.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bc.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bc.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bc.serviceregistry.genetec.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://bc.serviceregistry.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://bc.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://bc.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bc.serviceregistry.genetec.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://bc.serviceregistry.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://bc.serviceregistry.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ar-eastus2.ar.genetec.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://apps.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://apps.ar.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://apps.ar.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://apps.ar.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://eus2.prod.sipelia.temp.devx.genetec.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://apps.ar.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://eus2.prod.sipelia.temp.devx.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://eus2.prod.sipelia.temp.devx.genetec.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://apps.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://apps.ar.genetec.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://apps.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://eus2.prod.sipelia.temp.devx.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://eus2.prod.sipelia.temp.devx.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://apps.ar.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://apps.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://apps.ar.genetec.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://api.serviceregistry.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://api.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://api.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://api.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://api.serviceregistry.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://api.serviceregistry.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://api.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://policy.westeurope.prod.temp.devx.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] http://policy.westeurope.prod.temp.devx.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://policy.westeurope.prod.temp.devx.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://policy.westeurope.prod.temp.devx.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://policy.westeurope.prod.temp.devx.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://prod.securitycenter.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://prod.securitycenter.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://prod.securitycenter.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://prod.securitycenter.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://prod.securitycenter.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://prod.unification.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://prod.unification.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://prod.unification.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://prod.unification.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://prod.unification.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://prod.tealogic.devx.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://prod.tealogic.devx.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://prod.tealogic.devx.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://prod.tealogic.devx.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://prod.tealogic.devx.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://policy.prod.temp.devx.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://policy.prod.temp.devx.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://policy.prod.temp.devx.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://policy.prod.temp.devx.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] http://policy.prod.temp.devx.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://api.comp.genetec.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://api.comp.genetec.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://api.comp.genetec.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://api.comp.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://api.comp.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://api.comp.genetec.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://api.comp.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://api.comp.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://api.comp.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://api.comp.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://api.comp.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://prod.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://prod.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://prod.serviceregistry.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://prod.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://prod.serviceregistry.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://gus.ar.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://gus.ar.genetec.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://gus.ar.genetec.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://gus.ar.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://gus.ar.genetec.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://gus.ar.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://gus.ar.genetec.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://gus.ar.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://produseast.synergis.genetec.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://produseast.synergis.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://gus.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://produseast.synergis.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://gus.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://produseast.synergis.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://produseast.synergis.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://gus.ar.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://produseast.synergis.genetec.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://produseast.synergis.genetec.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://produseast.synergis.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://produseast.synergis.genetec.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://produseast.synergis.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://produseast.synergis.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://gateway.ar.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://gateway.ar.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://gateway.ar.genetec.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://gateway.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://gateway.ar.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://gateway.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://gateway.ar.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://gateway.ar.genetec.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://gateway.ar.genetec.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://gateway.ar.genetec.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://gateway.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://help.securitycentersaas.genetec.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://help.securitycentersaas.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://help.securitycentersaas.genetec.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://help.securitycentersaas.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://help.securitycentersaas.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://help.securitycentersaas.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://help.securitycentersaas.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://help.securitycentersaas.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://help.securitycentersaas.genetec.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://help.securitycentersaas.genetec.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://help.securitycentersaas.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://portal.comp.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://portal.comp.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://portal.comp.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://portal.comp.genetec.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://portal.comp.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://portal.comp.genetec.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://portal.comp.genetec.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://portal.comp.genetec.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://portal.comp.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://portal.comp.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://portal.comp.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://restapi.abs.va.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://restapi.abs.va.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://restapi.abs.va.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://restapi.abs.va.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://restapi.abs.va.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sample.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sample.serviceregistry.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://sample.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sample.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sample.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sample.serviceregistry.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://servicefactory.serviceregistry.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://servicefactory.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://servicefactory.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://servicefactory.serviceregistry.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://servicefactory.serviceregistry.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://servicefactory.serviceregistry.genetec.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://systemreportservice.ar.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://systemreportservice.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://systemreportservice.ar.genetec.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://systemreportservice.ar.genetec.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://systemreportservice.ar.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://systemreportservice.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://systemreportservice.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://systemreportservice.ar.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://systemreportservice.ar.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://systemreportservice.ar.genetec.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://systemreportservice.ar.genetec.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://terraform.genetec.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://terraform.genetec.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://terraform.genetec.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://terraform.genetec.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://terraform.genetec.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://terraform.genetec.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://terraform.genetec.cloud
+[swagger-api] [http] [info] https://sample.serviceregistry.genetec.cloud/swagger/swagger-ui.js
+[swagger-api] [http] [info] https://servicefactory.serviceregistry.genetec.cloud/swagger/swagger-ui.js
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.unification.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.unification.genetec.cloud [CO,US]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.unification.genetec.cloud [US]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.unification.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.unification.genetec.cloud [false]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.unification.genetec.cloud [client transfer prohibited]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.unification.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.unification.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.unification.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/systemreportservice.ar.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/systemreportservice.ar.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/systemreportservice.ar.genetec.cloud [false]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/systemreportservice.ar.genetec.cloud [ns1-01.azure-dns.com,ns3-01.azure-dns.org,ns2-01.azure-dns.net,ns4-01.azure-dns.info]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/systemreportservice.ar.genetec.cloud [client transfer prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/systemreportservice.ar.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/systemreportservice.ar.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/systemreportservice.ar.genetec.cloud [CO,US]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/systemreportservice.ar.genetec.cloud [US]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.prod.temp.devx.genetec.cloud [false]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.prod.temp.devx.genetec.cloud [client transfer prohibited]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.prod.temp.devx.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.prod.temp.devx.genetec.cloud [US]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.prod.temp.devx.genetec.cloud [CO,US]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.prod.temp.devx.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.prod.temp.devx.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.prod.temp.devx.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.prod.temp.devx.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/abs.va.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/abs.va.genetec.cloud [CO,US]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/sample.serviceregistry.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/abs.va.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/sample.serviceregistry.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/apps.ar.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/abs.va.genetec.cloud [US]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/sample.serviceregistry.genetec.cloud [US]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/apps.ar.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/abs.va.genetec.cloud [false]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/apps.ar.genetec.cloud [US]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/abs.va.genetec.cloud [client transfer prohibited]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/apps.ar.genetec.cloud [ns3-01.azure-dns.org,ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/abs.va.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/sample.serviceregistry.genetec.cloud [false]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/apps.ar.genetec.cloud [false]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/abs.va.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/sample.serviceregistry.genetec.cloud [client transfer prohibited]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/apps.ar.genetec.cloud [client transfer prohibited]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/abs.va.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/sample.serviceregistry.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/apps.ar.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/sample.serviceregistry.genetec.cloud [CO,US]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/sample.serviceregistry.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/apps.ar.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/apps.ar.genetec.cloud [CO,US]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/sample.serviceregistry.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/servicefactory.serviceregistry.genetec.cloud [US]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/servicefactory.serviceregistry.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/servicefactory.serviceregistry.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/servicefactory.serviceregistry.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/servicefactory.serviceregistry.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/servicefactory.serviceregistry.genetec.cloud [CO,US]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/servicefactory.serviceregistry.genetec.cloud [client transfer prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/servicefactory.serviceregistry.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/servicefactory.serviceregistry.genetec.cloud [false]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.securitycenter.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.securitycenter.genetec.cloud [US]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.securitycenter.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.securitycenter.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.securitycenter.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.securitycenter.genetec.cloud [CO,US]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.securitycenter.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.securitycenter.genetec.cloud [false]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.securitycenter.genetec.cloud [client transfer prohibited]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/horizon-prod.securitycenter.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/horizon-prod.securitycenter.genetec.cloud [client transfer prohibited]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/horizon-prod.securitycenter.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/horizon-prod.securitycenter.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/horizon-prod.securitycenter.genetec.cloud [CO,US]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/horizon-prod.securitycenter.genetec.cloud [US]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/horizon-prod.securitycenter.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/horizon-prod.securitycenter.genetec.cloud [false]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/horizon-prod.securitycenter.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/api.edge.genetec.cloud [ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org,ns2-01.azure-dns.net]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/api.edge.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/api.edge.genetec.cloud [CO,US]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/api.edge.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/api.edge.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/api.edge.genetec.cloud [US]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/api.edge.genetec.cloud [false]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/api.edge.genetec.cloud [client transfer prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/api.edge.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/help.securitycentersaas.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/help.securitycentersaas.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/help.securitycentersaas.genetec.cloud [CO,US]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/help.securitycentersaas.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/help.securitycentersaas.genetec.cloud [false]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud [client transfer prohibited]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/help.securitycentersaas.genetec.cloud [client transfer prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/help.securitycentersaas.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/help.securitycentersaas.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud [CO,US]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/help.securitycentersaas.genetec.cloud [US]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud [US]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud [false]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/ar-eastus2.ar.genetec.cloud [US]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/ar-eastus2.ar.genetec.cloud [false]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/ar-eastus2.ar.genetec.cloud [client transfer prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/ar-eastus2.ar.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/ar-eastus2.ar.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/ar-eastus2.ar.genetec.cloud [CO,US]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/ar-eastus2.ar.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/ar-eastus2.ar.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/ar-eastus2.ar.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.serviceregistry.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.serviceregistry.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.serviceregistry.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.serviceregistry.genetec.cloud [US,CO]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.serviceregistry.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.serviceregistry.genetec.cloud [false]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.serviceregistry.genetec.cloud [client transfer prohibited]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.serviceregistry.genetec.cloud [US]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.serviceregistry.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/api.serviceregistry.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/api.serviceregistry.genetec.cloud [US,CO]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/api.serviceregistry.genetec.cloud [US]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/api.serviceregistry.genetec.cloud [ns3-01.azure-dns.org,ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/api.serviceregistry.genetec.cloud [false]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/api.serviceregistry.genetec.cloud [client transfer prohibited]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/api.serviceregistry.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/api.serviceregistry.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/api.serviceregistry.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/api.comp.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/api.comp.genetec.cloud [CO,US]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/api.comp.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/api.comp.genetec.cloud [false]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/api.comp.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/api.comp.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/api.comp.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/api.comp.genetec.cloud [client transfer prohibited]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/api.comp.genetec.cloud [US]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.tealogic.devx.genetec.cloud [client transfer prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.tealogic.devx.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.tealogic.devx.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.tealogic.devx.genetec.cloud [CO,US]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.tealogic.devx.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.tealogic.devx.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.tealogic.devx.genetec.cloud [US]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.tealogic.devx.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/prod.tealogic.devx.genetec.cloud [false]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/bc.serviceregistry.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/bc.serviceregistry.genetec.cloud [false]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/bc.serviceregistry.genetec.cloud [client transfer prohibited]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/bc.serviceregistry.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/bc.serviceregistry.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/bc.serviceregistry.genetec.cloud [US]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/bc.serviceregistry.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/bc.serviceregistry.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/bc.serviceregistry.genetec.cloud [CO,US]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.westeurope.prod.temp.devx.genetec.cloud [client transfer prohibited]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.westeurope.prod.temp.devx.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.westeurope.prod.temp.devx.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.westeurope.prod.temp.devx.genetec.cloud [CO,US]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.westeurope.prod.temp.devx.genetec.cloud [US]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.westeurope.prod.temp.devx.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.westeurope.prod.temp.devx.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.westeurope.prod.temp.devx.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/policy.westeurope.prod.temp.devx.genetec.cloud [false]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/gus.ar.genetec.cloud [2024-05-25T14:49:04.941Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/gus.ar.genetec.cloud [Domain Protection Services, Inc.]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/gus.ar.genetec.cloud [client transfer prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/gus.ar.genetec.cloud [2021-05-25T14:49:04.941Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/gus.ar.genetec.cloud [2023-10-10T17:35:22.405Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/gus.ar.genetec.cloud [CO,US]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/gus.ar.genetec.cloud [US]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/gus.ar.genetec.cloud [ns2-01.azure-dns.net,ns4-01.azure-dns.info,ns1-01.azure-dns.com,ns3-01.azure-dns.org]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/gus.ar.genetec.cloud [false]
+[waf-detect:cloudflare] [http] [info] https://horizon-prod.securitycenter.genetec.cloud/
+[ssl-issuer] [ssl] [info] gus.ar.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] gus.ar.genetec.cloud:443 [*.ar.genetec.cloud,ar.genetec.cloud]
+[wildcard-tls] [ssl] [info] gus.ar.genetec.cloud:443 [ SAN: [*.ar.genetec.cloud ar.genetec.cloud],CN: ar.genetec.cloud]
+[ssl-issuer] [ssl] [info] aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud:443 [servicefactory.serviceregistry.genetec.cloud,aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud,api.serviceregistry.genetec.cloud,bc.serviceregistry.genetec.cloud,sample.serviceregistry.genetec.cloud]
+[ssl-issuer] [ssl] [info] bc.serviceregistry.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] bc.serviceregistry.genetec.cloud:443 [sample.serviceregistry.genetec.cloud,servicefactory.serviceregistry.genetec.cloud,aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud,api.serviceregistry.genetec.cloud,bc.serviceregistry.genetec.cloud]
+[ssl-issuer] [ssl] [info] apps.ar.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] apps.ar.genetec.cloud:443 [*.ar.genetec.cloud,ar.genetec.cloud]
+[wildcard-tls] [ssl] [info] apps.ar.genetec.cloud:443 [CN: ar.genetec.cloud, SAN: [*.ar.genetec.cloud ar.genetec.cloud]]
+[ssl-issuer] [ssl] [info] api.edge.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] api.edge.genetec.cloud:443 [api.edge.genetec.cloud]
+[ssl-issuer] [ssl] [info] prod.unification.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] prod.unification.genetec.cloud:443 [prod.unification.genetec.cloud]
+[ssl-issuer] [ssl] [info] prod.tealogic.devx.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] prod.tealogic.devx.genetec.cloud:443 [prod.tealogic.devx.genetec.cloud]
+[ssl-issuer] [ssl] [info] eus2.prod.sipelia.temp.devx.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] eus2.prod.sipelia.temp.devx.genetec.cloud:443 [eus2.prod.sipelia.temp.devx.genetec.cloud]
+[ssl-issuer] [ssl] [info] prod.securitycenter.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] prod.securitycenter.genetec.cloud:443 [prod.securitycenter.genetec.cloud]
+[ssl-issuer] [ssl] [info] api.serviceregistry.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] api.serviceregistry.genetec.cloud:443 [bc.serviceregistry.genetec.cloud,sample.serviceregistry.genetec.cloud,servicefactory.serviceregistry.genetec.cloud,aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud,api.serviceregistry.genetec.cloud]
+[ssl-issuer] [ssl] [info] abs.va.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] abs.va.genetec.cloud:443 [abs.va.genetec.cloud]
+[ssl-issuer] [ssl] [info] gateway.ar.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] gateway.ar.genetec.cloud:443 [*.ar.genetec.cloud,ar.genetec.cloud]
+[wildcard-tls] [ssl] [info] gateway.ar.genetec.cloud:443 [CN: ar.genetec.cloud, SAN: [*.ar.genetec.cloud ar.genetec.cloud]]
+[ssl-issuer] [ssl] [info] prod.serviceregistry.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] prod.serviceregistry.genetec.cloud:443 [prod.serviceregistry.genetec.cloud]
+[ssl-issuer] [ssl] [info] produseast.synergis.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] produseast.synergis.genetec.cloud:443 [produseast.synergis.genetec.cloud]
+[ssl-issuer] [ssl] [info] ar-eastus2.ar.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] ar-eastus2.ar.genetec.cloud:443 [*.ar.genetec.cloud,ar.genetec.cloud]
+[wildcard-tls] [ssl] [info] ar-eastus2.ar.genetec.cloud:443 [CN: ar.genetec.cloud, SAN: [*.ar.genetec.cloud ar.genetec.cloud]]
+[ssl-issuer] [ssl] [info] restapi.abs.va.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] restapi.abs.va.genetec.cloud:443 [restapi.abs.va.genetec.cloud]
+[ssl-issuer] [ssl] [info] servicefactory.serviceregistry.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] servicefactory.serviceregistry.genetec.cloud:443 [bc.serviceregistry.genetec.cloud,sample.serviceregistry.genetec.cloud,servicefactory.serviceregistry.genetec.cloud,aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud,api.serviceregistry.genetec.cloud]
+[ssl-issuer] [ssl] [info] horizon-prod.securitycenter.genetec.cloud:443 [Cloudflare, Inc.]
+[ssl-dns-names] [ssl] [info] horizon-prod.securitycenter.genetec.cloud:443 [securitycenter.genetec.cloud,sni.cloudflaressl.com,*.securitycenter.genetec.cloud]
+[wildcard-tls] [ssl] [info] horizon-prod.securitycenter.genetec.cloud:443 [CN: sni.cloudflaressl.com, SAN: [securitycenter.genetec.cloud sni.cloudflaressl.com *.securitycenter.genetec.cloud]]
+[ssl-issuer] [ssl] [info] api.comp.genetec.cloud:443 [DigiCert, Inc.]
+[ssl-dns-names] [ssl] [info] api.comp.genetec.cloud:443 [api.comp.genetec.cloud]
+[ssl-issuer] [ssl] [info] terraform.genetec.cloud:443 [DigiCert, Inc.]
+[ssl-dns-names] [ssl] [info] terraform.genetec.cloud:443 [terraform.genetec.cloud]
+[ssl-issuer] [ssl] [info] sample.serviceregistry.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] sample.serviceregistry.genetec.cloud:443 [aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud,api.serviceregistry.genetec.cloud,bc.serviceregistry.genetec.cloud,sample.serviceregistry.genetec.cloud,servicefactory.serviceregistry.genetec.cloud]
+[ssl-issuer] [ssl] [info] systemreportservice.ar.genetec.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] systemreportservice.ar.genetec.cloud:443 [*.ar.genetec.cloud,ar.genetec.cloud]
+[wildcard-tls] [ssl] [info] systemreportservice.ar.genetec.cloud:443 [CN: ar.genetec.cloud, SAN: [*.ar.genetec.cloud ar.genetec.cloud]]
+[deprecated-tls] [ssl] [info] horizon-prod.securitycenter.genetec.cloud:443 [tls10]
+[ssl-issuer] [ssl] [info] portal.comp.genetec.cloud:443 [DigiCert, Inc.]
+[ssl-dns-names] [ssl] [info] portal.comp.genetec.cloud:443 [portal.comp.genetec.cloud]
+[tls-version] [ssl] [info] horizon-prod.securitycenter.genetec.cloud:443 [tls10]
+[deprecated-tls] [ssl] [info] horizon-prod.securitycenter.genetec.cloud:443 [tls11]
+[tls-version] [ssl] [info] horizon-prod.securitycenter.genetec.cloud:443 [tls11]
+[tls-version] [ssl] [info] horizon-prod.securitycenter.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] horizon-prod.securitycenter.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] api.serviceregistry.genetec.cloud:443 [tls12]
+[ssl-issuer] [ssl] [info] help.securitycentersaas.genetec.cloud:443 [DigiCert, Inc.]
+[ssl-dns-names] [ssl] [info] help.securitycentersaas.genetec.cloud:443 [help.securitycentersaas.genetec.cloud]
+[tls-version] [ssl] [info] api.serviceregistry.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] bc.serviceregistry.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] apps.ar.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] api.edge.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] gateway.ar.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] gus.ar.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] bc.serviceregistry.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] apps.ar.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] abs.va.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] ar-eastus2.ar.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] api.edge.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] gateway.ar.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] gus.ar.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] abs.va.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] ar-eastus2.ar.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] eus2.prod.sipelia.temp.devx.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] prod.securitycenter.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] prod.securitycenter.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] eus2.prod.sipelia.temp.devx.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] prod.tealogic.devx.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] prod.unification.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] prod.tealogic.devx.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] prod.unification.genetec.cloud:443 [tls13]
+[weak-cipher-suites:tls-1.0] [ssl] [low] horizon-prod.securitycenter.genetec.cloud:443 [[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] horizon-prod.securitycenter.genetec.cloud:443 [[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] produseast.synergis.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] portal.comp.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] prod.serviceregistry.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] servicefactory.serviceregistry.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] api.comp.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] sample.serviceregistry.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] restapi.abs.va.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] prod.serviceregistry.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] servicefactory.serviceregistry.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] portal.comp.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] produseast.synergis.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] sample.serviceregistry.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] restapi.abs.va.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] systemreportservice.ar.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] systemreportservice.ar.genetec.cloud:443 [tls13]
+[tls-version] [ssl] [info] terraform.genetec.cloud:443 [tls12]
+[tls-version] [ssl] [info] terraform.genetec.cloud:443 [tls13]

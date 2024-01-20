@@ -1,0 +1,61 @@
+[0;32m---------------------Recon Recommendations---------------------
+[0m
+[0m
+[0;33mDNS Recon:
+[0m
+host -l "104.16.51.111" "192.168.29.1" | tee "recon/hostname_104.16.51.111.txt"
+dnsrecon -r "104.16.51.0/24" -n "192.168.29.1" | tee "recon/dnsrecon_104.16.51.111.txt"
+dnsrecon -r 127.0.0.0/24 -n "192.168.29.1" | tee "recon/dnsrecon-local_104.16.51.111.txt"
+dig -x "104.16.51.111" @192.168.29.1 | tee "recon/dig_104.16.51.111.txt"
+
+[0m
+[0;33mWeb Servers Recon:
+[0m
+nikto -host "http://104.16.51.111:2052" | tee "recon/nikto_104.16.51.111_2052.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "http://104.16.51.111:2052/FUZZ" | tee "recon/ffuf_104.16.51.111_2052.txt"
+
+sslscan "104.16.51.111" | tee "recon/sslscan_104.16.51.111_2053.txt"
+nikto -host "https://104.16.51.111:2053" -ssl | tee "recon/nikto_104.16.51.111_2053.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "https://104.16.51.111:2053/FUZZ" | tee "recon/ffuf_104.16.51.111_2053.txt"
+
+nikto -host "http://104.16.51.111:2082" | tee "recon/nikto_104.16.51.111_2082.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "http://104.16.51.111:2082/FUZZ" | tee "recon/ffuf_104.16.51.111_2082.txt"
+
+sslscan "104.16.51.111" | tee "recon/sslscan_104.16.51.111_2083.txt"
+nikto -host "https://104.16.51.111:2083" -ssl | tee "recon/nikto_104.16.51.111_2083.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "https://104.16.51.111:2083/FUZZ" | tee "recon/ffuf_104.16.51.111_2083.txt"
+
+nikto -host "http://104.16.51.111:2086" | tee "recon/nikto_104.16.51.111_2086.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "http://104.16.51.111:2086/FUZZ" | tee "recon/ffuf_104.16.51.111_2086.txt"
+
+sslscan "104.16.51.111" | tee "recon/sslscan_104.16.51.111_2087.txt"
+nikto -host "https://104.16.51.111:2087" -ssl | tee "recon/nikto_104.16.51.111_2087.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "https://104.16.51.111:2087/FUZZ" | tee "recon/ffuf_104.16.51.111_2087.txt"
+
+nikto -host "http://104.16.51.111:2095" | tee "recon/nikto_104.16.51.111_2095.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "http://104.16.51.111:2095/FUZZ" | tee "recon/ffuf_104.16.51.111_2095.txt"
+
+sslscan "104.16.51.111" | tee "recon/sslscan_104.16.51.111_2096.txt"
+nikto -host "https://104.16.51.111:2096" -ssl | tee "recon/nikto_104.16.51.111_2096.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "https://104.16.51.111:2096/FUZZ" | tee "recon/ffuf_104.16.51.111_2096.txt"
+
+sslscan "104.16.51.111" | tee "recon/sslscan_104.16.51.111_443.txt"
+nikto -host "https://104.16.51.111:443" -ssl | tee "recon/nikto_104.16.51.111_443.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "https://104.16.51.111:443/FUZZ" | tee "recon/ffuf_104.16.51.111_443.txt"
+
+nikto -host "http://104.16.51.111:8080" | tee "recon/nikto_104.16.51.111_8080.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "http://104.16.51.111:8080/FUZZ" | tee "recon/ffuf_104.16.51.111_8080.txt"
+
+nikto -host "http://104.16.51.111:80" | tee "recon/nikto_104.16.51.111_80.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "http://104.16.51.111:80/FUZZ" | tee "recon/ffuf_104.16.51.111_80.txt"
+
+sslscan "104.16.51.111" | tee "recon/sslscan_104.16.51.111_8443.txt"
+nikto -host "https://104.16.51.111:8443" -ssl | tee "recon/nikto_104.16.51.111_8443.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "https://104.16.51.111:8443/FUZZ" | tee "recon/ffuf_104.16.51.111_8443.txt"
+
+nikto -host "http://104.16.51.111:8880" | tee "recon/nikto_104.16.51.111_8880.txt"
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "http://104.16.51.111:8880/FUZZ" | tee "recon/ffuf_104.16.51.111_8880.txt"
+
+
+
+

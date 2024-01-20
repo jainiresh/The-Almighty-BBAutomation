@@ -1,0 +1,558 @@
+[dns-saas-service-detection:akamai-cdn] [dns] [info] Romfs.foreign.oppomobile.com [romfs.foreign.oppomobile.com.akamaized.net]
+[caa-fingerprint] [dns] [info] Romfs.foreign.oppomobile.com
+[caa-fingerprint] [dns] [info] *.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] *.apps.oppomobile.com
+[caa-fingerprint] [dns] [info] *.finz.oppomobile.com
+[caa-fingerprint] [dns] [info] *.foreign.oppomobile.com
+[caa-fingerprint] [dns] [info] *.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] *.bot.oppomobile.com
+[caa-fingerprint] [dns] [info] *.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] *.push.oppomobile.com
+[caa-fingerprint] [dns] [info] *.shopping.oppomobile.com
+[caa-fingerprint] [dns] [info] *.search.oppomobile.com
+[caa-fingerprint] [dns] [info] 123.oppomobile.com
+[caa-fingerprint] [dns] [info] *.iot.oppomobile.com
+[caa-fingerprint] [dns] [info] *.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] *.store.oppomobile.com
+[caa-fingerprint] [dns] [info] *.weather.oppomobile.com
+[caa-fingerprint] [dns] [info] *.magzine.oppomobile.com
+[caa-fingerprint] [dns] [info] *.uc.oppomobile.com
+[caa-fingerprint] [dns] [info] *.game.oppomobile.com
+[caa-fingerprint] [dns] [info] *.theme.oppomobile.com
+[caa-fingerprint] [dns] [info] *.pull.oppomobile.com
+[caa-fingerprint] [dns] [info] 6-v-bucket-confluencepck8s-prdbjwwwwebproxy.ruleustore.f.oppomobile.com
+[caa-fingerprint] [dns] [info] *.instant.oppomobile.com
+[caa-fingerprint] [dns] [info] *.open.oppomobile.com
+[caa-fingerprint] [dns] [info] *.oppomobile.com
+[caa-fingerprint] [dns] [info] adx.ads.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] api-intl.push.oppomobile.com [sgp-opush-oppomobile-api-dfrqcgc-1923519263.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] api-intl.push.oppomobile.com
+[caa-fingerprint] [dns] [info] aiscan.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] album-cn01a.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] api.push.oppomobile.com
+[caa-fingerprint] [dns] [info] aocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] annotate-ait.oppomobile.com
+[caa-fingerprint] [dns] [info] api.open.oppomobile.com
+[caa-fingerprint] [dns] [info] api-snake.oppomobile.com
+[caa-fingerprint] [dns] [info] adx-in.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] apidev.open.oppomobile.com
+[caa-fingerprint] [dns] [info] aiocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] api.snake.oppomobile.com
+[caa-fingerprint] [dns] [info] api.dns.oppomobile.com
+[dns-saas-service-detection] [dns] [info] adsfs.oppomobile.com [adsfs.oppomobile.com.ctdns.cn]
+[caa-fingerprint] [dns] [info] album-sg01a.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] api.uc.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] adsfs-id.oppomobile.com [adsfs-id.oppomobile.com.edgekey.net]
+[caa-fingerprint] [dns] [info] api.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] a-in.browser.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] adx-id.ads.oppomobile.com [sgp-ads-oppomobile-pubgw-1002024663.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] adsfs-id.oppomobile.com
+[caa-fingerprint] [dns] [info] ads.oppomobile.com
+[caa-fingerprint] [dns] [info] album-in01a.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] adsfs.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] adsfs-in.oppomobile.com [adsfs-in.oppomobile.com.edgesuite.net]
+[caa-fingerprint] [dns] [info] adsfs-in.oppomobile.com
+[caa-fingerprint] [dns] [info] adx-id.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] app.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] bact.oppomobile.com
+[caa-fingerprint] [dns] [info] b1.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] b-sg.search.oppomobile.com
+[caa-fingerprint] [dns] [info] b.search.oppomobile.com
+[caa-fingerprint] [dns] [info] battle-websocket-instant-test.oppomobile.com
+[caa-fingerprint] [dns] [info] app.search.oppomobile.com
+[caa-fingerprint] [dns] [info] apps.oppomobile.com
+[caa-fingerprint] [dns] [info] arnoldpro--coinbase.webproxy.id-captcha-sec.oppomobile.com
+[caa-fingerprint] [dns] [info] captcha-sec-sgp.oppomobile.com
+[caa-fingerprint] [dns] [info] bdapi-id.ads.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] bdapi-id.ads.oppomobile.com [sgp-ads-oppomobile-pubgw-1002024663.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] bjdata.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] captcha-sec-ind.oppomobile.com
+[caa-fingerprint] [dns] [info] bdapi.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] captcha.uc.oppomobile.com
+[caa-fingerprint] [dns] [info] captcha-sec.oppomobile.com
+[caa-fingerprint] [dns] [info] browserimg.oppomobile.com
+[caa-fingerprint] [dns] [info] bbs.oppomobile.com
+[caa-fingerprint] [dns] [info] bdapi-in.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] c-snake.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] captcha-sec-eu.oppomobile.com [eu-sharecost-oppomobile-pubgw-747165431.eu-west-3.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] bbs.game.oppomobile.com
+[caa-fingerprint] [dns] [info] browser.oppomobile.com
+[caa-fingerprint] [dns] [info] bot.oppomobile.com
+[caa-fingerprint] [dns] [info] captcha-sec-eu.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] captcha-sec-sgp.oppomobile.com [sgp-biz-sec-oppomobile-pubgw-554433075.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] card.dc.oppomobile.com
+[dns-saas-service-detection] [dns] [info] cdofs.oppomobile.com [cdofs.oppomobile.com.ctdns.cn]
+[dns-saas-service-detection:amazon-aws] [dns] [info] cdooverseasfs.oppomobile.com [sgp-cdooverseasfs-oppomobile-255114358.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] cdofs-origin-9e6348-s.oppomobile.com
+[caa-fingerprint] [dns] [info] cdofs-origin-9e6348.oppomobile.com
+[caa-fingerprint] [dns] [info] cdofs.oppomobile.com
+[caa-fingerprint] [dns] [info] cloudi-in.browser.oppomobile.com
+[dns-saas-service-detection] [dns] [info] cdostream1.oppomobile.com [cdostream1.oppomobile.com.ctdns.cn]
+[caa-fingerprint] [dns] [info] cdooverseasfs.oppomobile.com
+[dns-saas-service-detection] [dns] [info] cdostream2.oppomobile.com [cdostream2.oppomobile.com.ctdns.cn]
+[dns-saas-service-detection] [dns] [info] cdopic0.oppomobile.com [cdopic0.oppomobile.com.ctdns.cn]
+[dns-saas-service-detection] [dns] [info] cdostream0.oppomobile.com [cdostream0.oppomobile.com.ctdns.cn]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] cdopic.f.oppomobile.com [oppomobile.com.akamaized.net]
+[caa-fingerprint] [dns] [info] ck.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] cdopic0-origin-c9d9a4-s.oppomobile.com
+[caa-fingerprint] [dns] [info] classroom.webproxy.id-store.oppomobile.com
+[caa-fingerprint] [dns] [info] cdopic1.oppomobile.com
+[caa-fingerprint] [dns] [info] cloudi-sg.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] cdostream2.oppomobile.com
+[caa-fingerprint] [dns] [info] cdopic.f.oppomobile.com
+[caa-fingerprint] [dns] [info] cdostream0.oppomobile.com
+[caa-fingerprint] [dns] [info] cdopic0.oppomobile.com
+[caa-fingerprint] [dns] [info] cdostream1.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] conff.dc.oppomobile.com [sgp-bigdata-obus-nlb-pub-a3tlbsi-169d24b9124db6e5.elb.ap-southeast-1.amazonaws.com]
+[caa-fingerprint] [dns] [info] conf.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] conn1-origin-d4c6ad.oppomobile.com
+[caa-fingerprint] [dns] [info] confe.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] cloudi.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] comment.browser.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] cloudi-sg.browser.oppomobile.com [sgp-browser-oppomobile-pubgw-1324186298.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] confe.dc.oppomobile.com [eu-datacenter-oppomobile-pubgw-23315053.eu-west-3.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] cm.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] conff.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] cms.browser.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] conn1.oppomobile.com [conn1.oppomobile.com.edgekey.net]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] conn2.oppomobile.com [conn2.oppomobile.com.edgesuite.net]
+[caa-fingerprint] [dns] [info] conn1.oppomobile.com
+[caa-fingerprint] [dns] [info] conn2.oppomobile.com
+[caa-fingerprint] [dns] [info] data-cl-f.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] data-cl-in.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] data-in.ads.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] data-sg.ads.oppomobile.com [sgp-ads-oppomobile-pubgw-1002024663.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] dceuex.push.oppomobile.com [eu-opush-oppomobile-pubgw-928071339.eu-west-3.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] data-f.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] data-ostorage.ocloud.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] data-f.ads.oppomobile.com [sgp-ads-oppomobile-pubgw-1002024663.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] data-cl-f.ads.oppomobile.com [sgp-ads-oppomobile-pubgw-1002024663.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] data-id.ads.oppomobile.com [sgp-ads-oppomobile-pubgw-1002024663.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] cz.oppomobile.com
+[caa-fingerprint] [dns] [info] daohang.oppomobile.com
+[caa-fingerprint] [dns] [info] data-sg.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] data-id.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] data.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] dc.foreign.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] dcintl3.push.oppomobile.com [sgp-opush-heytapmobile--48rh3h2-f20fbc5e9c1a423e.elb.ap-southeast-1.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] developers.oppomobile.com [sgp-oop-oppomobile-pubgw-497763682.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] dhfs-in.oppomobile.com [dhfs-in.oppomobile.com.edgekey.net]
+[caa-fingerprint] [dns] [info] developers.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] dhfs-id.oppomobile.com [dhfs-id.oppomobile.com.edgekey.net]
+[dns-saas-service-detection:amazon-aws] [dns] [info] dcintl1.push.oppomobile.com [sgp-opush-heytapmobile--48rh3h2-f20fbc5e9c1a423e.elb.ap-southeast-1.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] dcintl2.push.oppomobile.com [sgp-opush-heytapmobile--48rh3h2-f20fbc5e9c1a423e.elb.ap-southeast-1.amazonaws.com]
+[caa-fingerprint] [dns] [info] dhfs-in.oppomobile.com
+[caa-fingerprint] [dns] [info] dc.push.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] dcintl.push.oppomobile.com [sgp-opush-oppomobile-pubgw-1432067008.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] dcintl1.push.oppomobile.com
+[caa-fingerprint] [dns] [info] dcintl3.push.oppomobile.com
+[caa-fingerprint] [dns] [info] dcintl2.push.oppomobile.com
+[caa-fingerprint] [dns] [info] dcintl.push.oppomobile.com
+[caa-fingerprint] [dns] [info] dc.oppomobile.com
+[caa-fingerprint] [dns] [info] dev.theme.oppomobile.com
+[caa-fingerprint] [dns] [info] dev.open.oppomobile.com
+[caa-fingerprint] [dns] [info] dhfs-id.oppomobile.com
+[caa-fingerprint] [dns] [info] dceuex.push.oppomobile.com
+[caa-fingerprint] [dns] [info] dhfs-th.oppomobile.com
+[caa-fingerprint] [dns] [info] dhfs-vn.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] dhfs-th.oppomobile.com [dhfs-th.oppomobile.com.edgekey.net]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] dhfs-vn.oppomobile.com [dhfs-vn.oppomobile.com.edgekey.net]
+[caa-fingerprint] [dns] [info] dragate.dc.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] f.push.oppomobile.com [sgp-opush-oppomobile-pubgw-1432067008.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection] [dns] [info] fast-wallet.finz.oppomobile.com [fast-wallet.finz.oppomobile.com.ctdns.cn]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] dhfsf.oppomobile.com [dhfsf.oppomobile.com.akamaized.net]
+[caa-fingerprint] [dns] [info] dwz.oppomobile.com
+[caa-fingerprint] [dns] [info] dhfs.oppomobile.com
+[caa-fingerprint] [dns] [info] dhfsf.oppomobile.com
+[caa-fingerprint] [dns] [info] dragate-sg.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] dhfs2.oppomobile.com
+[caa-fingerprint] [dns] [info] dm.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] feedback.foreign.oppomobile.com [sgp-iqo-oppomobile-http-pubgw-1976034708.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] feedback.push.oppomobile.com
+[caa-fingerprint] [dns] [info] f.push.oppomobile.com
+[caa-fingerprint] [dns] [info] e.oppomobile.com
+[caa-fingerprint] [dns] [info] feedback.oppomobile.com
+[caa-fingerprint] [dns] [info] epoch.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] event.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] forum.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] foreign.oppomobile.com
+[caa-fingerprint] [dns] [info] finz.oppomobile.com
+[caa-fingerprint] [dns] [info] f.oppomobile.com
+[caa-fingerprint] [dns] [info] fast-wallet.finz.oppomobile.com
+[caa-fingerprint] [dns] [info] feedback.foreign.oppomobile.com
+[caa-fingerprint] [dns] [info] g.search.oppomobile.com
+[caa-fingerprint] [dns] [info] g1.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] gl-activity.oppomobile.com
+[dns-saas-service-detection] [dns] [info] gcfs.oppomobile.com [gcfs.oppomobile.com.ctdns.cn]
+[dns-saas-service-detection:amazon-aws] [dns] [info] gl-activity.oppomobile.com [sgp-cdp-oppomobile-pubgw-44818826.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] game.oppomobile.com
+[caa-fingerprint] [dns] [info] g.snake.oppomobile.com
+[caa-fingerprint] [dns] [info] gcfs.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] httpdns-euex.push.oppomobile.com [eu-opush-oppomobile-pubgw-928071339.eu-west-3.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] gl-gamesdk.oppomobile.com
+[caa-fingerprint] [dns] [info] httpdns-euex.push.oppomobile.com
+[caa-fingerprint] [dns] [info] gslb.cdo.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] gl-theme.oppomobile.com [sgp-theme-oppomobi-pubgw-920984342.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] gl-gameopen.oppomobile.com [sgp-gameunion-oppomobile-pubgw-1027316402.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] gl-gamesdk.oppomobile.com [sgp-gameunion-oppomobile-pubgw-1027316402.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] gl-game.oppomobile.com [sgp-gamecenter-oppomobile-pubgw-1725675119.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] h.magzine.oppomobile.com
+[caa-fingerprint] [dns] [info] gl-theme.oppomobile.com
+[caa-fingerprint] [dns] [info] gl-gameopen.oppomobile.com
+[caa-fingerprint] [dns] [info] gl-game.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] i-vn.browser.oppomobile.com [sgp-browser-oppomobile-pubgw-1324186298.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] i-th.browser.oppomobile.com [sgp-browser-oppomobile-pubgw-1324186298.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] httpdns.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] i-pre.search.oppomobile.com
+[caa-fingerprint] [dns] [info] i.bot.oppomobile.com
+[caa-fingerprint] [dns] [info] i-th.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] i.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] i.finz.oppomobile.com
+[caa-fingerprint] [dns] [info] httpdns.push.oppomobile.com
+[caa-fingerprint] [dns] [info] i.feedback.oppomobile.com
+[caa-fingerprint] [dns] [info] i-cn01a.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] i-sg01a.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] httpdns.basic.oppomobile.com
+[caa-fingerprint] [dns] [info] i-vn.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] i.magzine.oppomobile.com
+[caa-fingerprint] [dns] [info] i.open.game.oppomobile.com
+[caa-fingerprint] [dns] [info] i.oau.foreign.oppomobile.com
+[caa-fingerprint] [dns] [info] i.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] i.flow.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] i.instant.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] i.oau.foreign.oppomobile.com [sgp-esa-pub-hwotcoz-2002960521.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] i6-eu.weather.oppomobile.com [eu-allawn-fourier-oppomobile-pub-497796124.eu-west-3.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] i.video.oppomobile.com
+[caa-fingerprint] [dns] [info] i.theme.oppomobile.com
+[caa-fingerprint] [dns] [info] i.oppo.store.oppomobile.com
+[dns-saas-service-detection] [dns] [info] i1.weather.oppomobile.com [i1.weather.oppomobile.com.ctdns.cn]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] i5.weather.oppomobile.com [i5.weather.oppomobile.com.edgesuite.net]
+[caa-fingerprint] [dns] [info] i.search.oppomobile.com
+[caa-fingerprint] [dns] [info] i.udata.oppomobile.com
+[caa-fingerprint] [dns] [info] i6f.weather.oppomobile.com
+[caa-fingerprint] [dns] [info] i6-in.weather.oppomobile.com
+[caa-fingerprint] [dns] [info] icredits.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] id-game.oppomobile.com [sgp-gamecenter-oppomobile-pubgw-1725675119.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] i6.weather.oppomobile.com
+[caa-fingerprint] [dns] [info] id-activity.oppomobile.com
+[caa-fingerprint] [dns] [info] i2.weather.oppomobile.com
+[caa-fingerprint] [dns] [info] iactivity.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] i6-kz.weather.oppomobile.com
+[caa-fingerprint] [dns] [info] i6-ru.weather.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] id-gamesdk.oppomobile.com [sgp-gameunion-oppomobile-pubgw-1027316402.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] id-epoch.oppomobile.com [sgp-epoch-oppomobile-pubgw-844902424.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] i6-vn.weather.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] id-store.oppomobile.com [sgp-appstore-global-pub-vnvhgtl-45506644.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] i5.weather.oppomobile.com
+[caa-fingerprint] [dns] [info] i6-eu.weather.oppomobile.com
+[caa-fingerprint] [dns] [info] i1.weather.oppomobile.com
+[caa-fingerprint] [dns] [info] id.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] idapi.open.oppomobile.com [shop-open-heytapmobile-pubgw-772960591.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] id-game.oppomobile.com
+[caa-fingerprint] [dns] [info] idapi.open.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] id.push.oppomobile.com [sgp-opush-oppomobile-pubgw-1432067008.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] id-gamesdk.oppomobile.com
+[caa-fingerprint] [dns] [info] id.push.oppomobile.com
+[caa-fingerprint] [dns] [info] id-epoch.oppomobile.com
+[caa-fingerprint] [dns] [info] id-store.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] idapi.store.oppomobile.com [sgp-appstore-global-pub-vnvhgtl-45506644.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] if-sg.browser.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] iflow-th.browser.oppomobile.com [sgp-feeds-oppomobile-pubgw-363804120.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] idapi.store.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] idepoch.cdo.oppomobile.com [sgp-epoch-oppomobile-pubgw-844902424.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] if.theme.oppomobile.com [sgp-theme-oppomobi-pubgw-920984342.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] idepoch.cdo.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] iflow-vn.browser.oppomobile.com [sgp-feeds-oppomobile-pubgw-363804120.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] if-sg.magzine.oppomobile.com [sgp-magazine-oppomobile-pubgw-1420456905.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] iepoch.cdo.oppomobile.com [sgp-epoch-oppomobile-pubgw-844902424.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] iflow.browser.oppomobile.com [sgp-feeds-oppomobile-pubgw-363804120.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] if-sg.browser.oppomobile.com [sgp-browser-oppomobile-pubgw-1324186298.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] iepoch.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] if-sg.magzine.oppomobile.com
+[caa-fingerprint] [dns] [info] iflowf.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] igame.oppomobile.com
+[caa-fingerprint] [dns] [info] ifind.oppomobile.com
+[caa-fingerprint] [dns] [info] iflow.browser.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] img.oppomobile.com [img.oppomobile.com.edgekey.net]
+[caa-fingerprint] [dns] [info] if.theme.oppomobile.com
+[caa-fingerprint] [dns] [info] iflow-th.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] if.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] igame2.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] iflowf-sg.browser.oppomobile.com [sgp-feeds-oppomobile-pubgw-363804120.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] iflow-vn.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] iflowf-sg.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] imagzine.oppomobile.com
+[caa-fingerprint] [dns] [info] in-game.oppomobile.com
+[caa-fingerprint] [dns] [info] in-gamesdk.oppomobile.com
+[caa-fingerprint] [dns] [info] in-activity.oppomobile.com
+[caa-fingerprint] [dns] [info] ilogin.oppomobile.com
+[caa-fingerprint] [dns] [info] in-epoch.oppomobile.com
+[caa-fingerprint] [dns] [info] igslb.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] in-store.oppomobile.com
+[caa-fingerprint] [dns] [info] img.oppomobile.com
+[caa-fingerprint] [dns] [info] inactivity.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] in-theme.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] in.push.oppomobile.com [sgp-opush-oppomobile-pubgw-1432067008.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] if.magzine.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] intl-feedback.oppomobile.com [sgp-iqo-oppomobile-pubgw-1250782864.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] intl.feedback.oppomobile.com [sgp-iqo-oppomobile-http-pubgw-1976034708.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] incdopic.oppomobile.com [incdopic.oppomobile.com.edgekey.net]
+[caa-fingerprint] [dns] [info] inapi.open.oppomobile.com
+[caa-fingerprint] [dns] [info] inapi.store.oppomobile.com
+[caa-fingerprint] [dns] [info] in.push.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] intlpic.cdo.oppomobile.com [oppomobile.com.akamaized.net]
+[caa-fingerprint] [dns] [info] instructionsfs2.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] intlapi.store.oppomobile.com [sgp-appstore-global-pub-vnvhgtl-45506644.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] instructionsfs1.oppomobile.com
+[caa-fingerprint] [dns] [info] intlapi.cdo.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] intldl.theme.oppomobile.com [sgp-theme-oppomobi-fileserver-20335235.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] istoreid.oppomobile.com [sgp-appstore-global-pub-vnvhgtl-45506644.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] instant.oppomobile.com
+[caa-fingerprint] [dns] [info] incdopic.oppomobile.com
+[caa-fingerprint] [dns] [info] intl-feedback.oppomobile.com
+[caa-fingerprint] [dns] [info] intl.feedback.oppomobile.com
+[caa-fingerprint] [dns] [info] istorein.oppomobile.com
+[caa-fingerprint] [dns] [info] intlpic.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] isdk.oppomobile.com
+[caa-fingerprint] [dns] [info] istore.oppomobile.com
+[caa-fingerprint] [dns] [info] iopen.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] iot.oppomobile.com
+[caa-fingerprint] [dns] [info] isettle.oppomobile.com
+[caa-fingerprint] [dns] [info] intlapi.store.oppomobile.com
+[caa-fingerprint] [dns] [info] intldl.theme.oppomobile.com
+[caa-fingerprint] [dns] [info] istoreid.oppomobile.com
+[caa-fingerprint] [dns] [info] inepoch.cdo.oppomobile.com
+[caa-fingerprint] [dns] [info] iweather.oppomobile.com
+[caa-fingerprint] [dns] [info] jf.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] kernellogf-sg.browser.oppomobile.com [sgp-browser-oppomobile-pubgw-1324186298.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] iucf.oppomobile.com
+[caa-fingerprint] [dns] [info] iuc.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] location.apps.oppomobile.com [location.apps.oppomobile.com.edgesuite.net]
+[caa-fingerprint] [dns] [info] jits.open.oppomobile.com
+[caa-fingerprint] [dns] [info] kernellogf.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] jfadmin.oppomobile.com
+[caa-fingerprint] [dns] [info] location.apps.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] my-epoch.oppomobile.com [sgp-epoch-oppomobile-pubgw-844902424.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] kernellogf-sg.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] kernellog.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] ms.search.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] my-game.oppomobile.com [sgp-gamecenter-oppomobile-pubgw-1725675119.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] m.uc.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] my-store.oppomobile.com [sgp-appstore-oppomobile-pubgw-1424425550.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] message.pull.oppomobile.com
+[caa-fingerprint] [dns] [info] m.shopping.oppomobile.com
+[caa-fingerprint] [dns] [info] m.store.oppomobile.com
+[caa-fingerprint] [dns] [info] lux-whittard-pro--coinbase.webproxy.id-store.oppomobile.com
+[caa-fingerprint] [dns] [info] logistics.apps.oppomobile.com
+[caa-fingerprint] [dns] [info] magzine.oppomobile.com
+[caa-fingerprint] [dns] [info] mstore.oppomobile.com
+[caa-fingerprint] [dns] [info] my-store.oppomobile.com
+[caa-fingerprint] [dns] [info] nearby.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] news.apps.oppomobile.com
+[caa-fingerprint] [dns] [info] my-game.oppomobile.com
+[caa-fingerprint] [dns] [info] nativepayf.oppomobile.com
+[caa-fingerprint] [dns] [info] muc.oppomobile.com
+[dns-saas-service-detection] [dns] [info] numberarea.oppomobile.com [numberarea.oppomobile.com.cncdn.com]
+[caa-fingerprint] [dns] [info] music.oppomobile.com
+[caa-fingerprint] [dns] [info] my-epoch.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] openfs-intl.oppomobile.com [openfs-intl.oppomobile.com.edgekey.net]
+[caa-fingerprint] [dns] [info] ocrocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] odc22.oppomobile.com
+[caa-fingerprint] [dns] [info] ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] oau.foreign.oppomobile.com
+[caa-fingerprint] [dns] [info] news.oppomobile.com
+[caa-fingerprint] [dns] [info] oms.oppomobile.com
+[dns-saas-service-detection] [dns] [info] openfs.oppomobile.com [openfs.oppomobile.com.ctdns.cn]
+[caa-fingerprint] [dns] [info] odc23.oppomobile.com
+[caa-fingerprint] [dns] [info] open.oppomobile.com
+[caa-fingerprint] [dns] [info] openfs-intl.oppomobile.com
+[caa-fingerprint] [dns] [info] pcmigrateio71a.ocloud.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] ph-game.oppomobile.com [sgp-gamecenter-oppomobile-pubgw-1725675119.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] ostorage-in01a.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] pet.game.oppomobile.com
+[caa-fingerprint] [dns] [info] pcmigrateio50a.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] ostorage-cn01a.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] ph-epoch.oppomobile.com [sgp-epoch-oppomobile-pubgw-844902424.ap-southeast-1.elb.amazonaws.com]
+[txt-fingerprint] [dns] [info] oppomobile.com ["scv81k25v7nxt3dstns8j5q2lznlm4kn","0bp26lbw50n9jx4hjjkhlf3x1myvbs7l","j25g3xq2n0yq0p3mnyfs2j95t8qqp19p","sc9wy9by18ztxytnbcsnn7hbwgl5n324"]
+[caa-fingerprint] [dns] [info] openfs.oppomobile.com
+[caa-fingerprint] [dns] [info] pcmigrateio71b.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] pcmigrateio50b.ocloud.oppomobile.com
+[mx-fingerprint] [dns] [info] oppomobile.com [20 218.247.51.100.,50 218.247.51.106.,5 218.247.51.97.,45 218.247.51.105.,10 218.247.51.98.,15 218.247.51.99.,25 218.247.51.101.,30 218.247.51.102.,35 218.247.51.103.,40 218.247.51.104.]
+[caa-fingerprint] [dns] [info] opsapi.store.oppomobile.com
+[caa-fingerprint] [dns] [info] opponews.oppomobile.com
+[caa-fingerprint] [dns] [info] pfs-origin-fa19b1.oppomobile.com
+[caa-fingerprint] [dns] [info] numberarea.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] proxyeu.apps.oppomobile.com [eu-allawn-fourier-oppomobile-pub-497796124.eu-west-3.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] ph-game.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] ph-store.oppomobile.com [sgp-appstore-oppomobile-pubgw-1424425550.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] pfs-intl.oppomobile.com [pfs-intl.oppomobile.com.edgesuite.net]
+[caa-fingerprint] [dns] [info] ph-epoch.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] proxyf.apps.oppomobile.com [sgp-allawn-fourier-oppomobile-pb-1494577866.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] play.open.oppomobile.com
+[caa-fingerprint] [dns] [info] pfs.oppomobile.com
+[nameserver-fingerprint] [dns] [info] oppomobile.com [ns3.dnsv5.com.,ns4.dnsv5.com.]
+[dns-saas-service-detection] [dns] [info] scenedict-ocloud.oppomobile.com [scenedict-ocloud.oppomobile.com.ctdns.cn]
+[caa-fingerprint] [dns] [info] preconf.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] proxy.apps.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] romfs.foreign.oppomobile.com [romfs.foreign.oppomobile.com.akamaized.net]
+[caa-fingerprint] [dns] [info] proxyeu.apps.oppomobile.com
+[dns-saas-service-detection] [dns] [info] res-fin.oppomobile.com [res-fin.oppomobile.com.ctdns.cn]
+[caa-fingerprint] [dns] [info] predragate.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] pfs-intl.oppomobile.com
+[caa-fingerprint] [dns] [info] proxyf.apps.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] shorteuex.push.oppomobile.com [eu-opush-oppomobile-pubgw-928071339.eu-west-3.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] ph-store.oppomobile.com
+[caa-fingerprint] [dns] [info] safe.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] shortintl.push.oppomobile.com [sgp-opush-heytapmobile--48rh3h2-f20fbc5e9c1a423e.elb.ap-southeast-1.amazonaws.com]
+[caa-fingerprint] [dns] [info] rest-cn01a.ocloud.oppomobile.com
+[caa-fingerprint] [dns] [info] recharge.apps.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] searchfsf.oppomobile.com [searchfsf.oppomobile.com.edgekey.net]
+[caa-fingerprint] [dns] [info] pull.oppomobile.com
+[caa-fingerprint] [dns] [info] push.oppomobile.com
+[caa-fingerprint] [dns] [info] res-fin.oppomobile.com
+[caa-fingerprint] [dns] [info] romfs.foreign.oppomobile.com
+[caa-fingerprint] [dns] [info] shorteuex.push.oppomobile.com
+[caa-fingerprint] [dns] [info] saserver.search.oppomobile.com
+[caa-fingerprint] [dns] [info] smarthome.iot.oppomobile.com
+[caa-fingerprint] [dns] [info] scene.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] search.oppomobile.com
+[caa-fingerprint] [dns] [info] shopping.oppomobile.com
+[caa-fingerprint] [dns] [info] shortintl.push.oppomobile.com
+[caa-fingerprint] [dns] [info] saserver-dev.search.oppomobile.com
+[caa-fingerprint] [dns] [info] searchfsf.oppomobile.com
+[caa-fingerprint] [dns] [info] scenedict-ocloud.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] state.dc.oppomobile.com [eu-datacenter-oppomobile-pubgw-23315053.eu-west-3.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] sopor.game.oppomobile.com
+[caa-fingerprint] [dns] [info] sms-in.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] soporf.oppomobile.com
+[dns-saas-service-detection] [dns] [info] static-cn01a.oppomobile.com [static-cn01a.oppomobile.com.ctdns.cn]
+[caa-fingerprint] [dns] [info] sms.ads.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] stateu.dc.oppomobile.com [eu-datacenter-oppomobile-pubgw-23315053.eu-west-3.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] stat-sg.dc.oppomobile.com [sgp-bigdata-obus-nlb-pub-a3tlbsi-169d24b9124db6e5.elb.ap-southeast-1.amazonaws.com]
+[caa-fingerprint] [dns] [info] snake.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] stickereu.apps.oppomobile.com [eu-sticker-oppomobile-pubgw-1413030316.eu-west-3.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] stat.dc.oppomobile.com
+[dns-saas-service-detection] [dns] [info] store.oppomobile.com [store.oppomobile.com.wsglb0.com]
+[caa-fingerprint] [dns] [info] stat.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] stat-in.dc.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] stickerf.apps.oppomobile.com [sgp-sticker-oppomobile-pubgw-351147642.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] stat-sg.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] st.pull.oppomobile.com
+[dns-saas-service-detection:amazon-cloudfront] [dns] [info] stickerfsf.oppomobile.com [d3c3jsks710a5w.cloudfront.net]
+[caa-fingerprint] [dns] [info] sport-health.oppomobile.com
+[caa-fingerprint] [dns] [info] state.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] static-in01a.ocloud.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] storedl4.f.oppomobile.com [oppomobile.com.akamaized.net]
+[caa-fingerprint] [dns] [info] sticker.apps.oppomobile.com
+[caa-fingerprint] [dns] [info] statf.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] static-cn01a.ocloud.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] storedl3.f.oppomobile.com [oppomobile.com.akamaized.net]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] storedl5.f.oppomobile.com [oppomobile.com.akamaized.net]
+[dns-saas-service-detection:amazon-aws] [dns] [info] storefs.f.oppomobile.com [sgp-appstore-global-cdnpub-37bb346d382fd32d.elb.ap-southeast-1.amazonaws.com]
+[dns-saas-service-detection] [dns] [info] storepic.oppomobile.com [storepic.oppomobile.com.ctdns.cn]
+[caa-fingerprint] [dns] [info] static-cn01a.oppomobile.com
+[caa-fingerprint] [dns] [info] stickereu.apps.oppomobile.com
+[caa-fingerprint] [dns] [info] stateu.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] stickerf.apps.oppomobile.com
+[caa-fingerprint] [dns] [info] stickerfsf.oppomobile.com
+[caa-fingerprint] [dns] [info] storedl5.f.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] th-game.oppomobile.com [sgp-gamecenter-oppomobile-pubgw-1725675119.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] stuck.foreign.oppomobile.com [sgp-bigdata-obus-nlb-fo-3cdddo2-806a90bd753d7ee1.elb.ap-southeast-1.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] stuck-sg.dc.oppomobile.com [sgp-bigdata-obus-nlb-pub-a3tlbsi-169d24b9124db6e5.elb.ap-southeast-1.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] th-epoch.oppomobile.com [sgp-epoch-oppomobile-pubgw-844902424.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] template.f.oppomobile.com [sgp-appstore-global-cdnpub-37bb346d382fd32d.elb.ap-southeast-1.amazonaws.com]
+[caa-fingerprint] [dns] [info] store.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] th-store.oppomobile.com [sgp-appstore-oppomobile-pubgw-1424425550.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] storedl4.f.oppomobile.com
+[caa-fingerprint] [dns] [info] storedl4f.oppomobile.com
+[caa-fingerprint] [dns] [info] storeadminw3.apk.scmweb-searchdeveloper-ph-game-data.w3-sanconfox1-f.my-ga.oppomobile.com
+[caa-fingerprint] [dns] [info] storedl3f.oppomobile.com
+[caa-fingerprint] [dns] [info] storedl5f.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] stuck-eu.dc.oppomobile.com [eu-datacenter-oppomobile-pubgw-23315053.eu-west-3.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] storedl3.f.oppomobile.com
+[caa-fingerprint] [dns] [info] storefs.f.oppomobile.com
+[nameserver-fingerprint] [dns] [info] stickerfsf.oppomobile.com [ns-1150.awsdns-15.org.,ns-1807.awsdns-33.co.uk.,ns-3.awsdns-00.com.,ns-699.awsdns-23.net.]
+[dns-saas-service-detection:amazon-aws] [dns] [info] tipsf.apps.oppomobile.com [sgp-allawn-fourier-oppomobile-pb-1494577866.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection] [dns] [info] tipsfs.oppomobile.com [tipsfs.oppomobile.com.ctdns.cn]
+[caa-fingerprint] [dns] [info] stuck.foreign.oppomobile.com
+[caa-fingerprint] [dns] [info] teamdashboard.webproxy.idcjoy-manageabfl6lt6ea.univeryountselegorysistmall.awsjobs-bdjobs-com.manage-team.0.oppomobile.com
+[caa-fingerprint] [dns] [info] stuck-cn.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] storepic.oppomobile.com
+[caa-fingerprint] [dns] [info] stuck-sg.dc.oppomobile.com
+[caa-fingerprint] [dns] [info] stuck-eu.dc.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] u-th.browser.oppomobile.com [sgp-cp-biz-platform-oppomobile-1428971467.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] tw-epoch.oppomobile.com [sgp-epoch-oppomobile-pubgw-844902424.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] tw-store.oppomobile.com [sgp-appstore-oppomobile-pubgw-1424425550.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] th-store.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] tipsfsf.oppomobile.com [tipsfsf.oppomobile.com.edgekey.net]
+[dns-saas-service-detection:amazon-aws] [dns] [info] u-vn.browser.oppomobile.com [sgp-cp-biz-platform-oppomobile-1428971467.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] translatefs-sg.apps.oppomobile.com [translatefs-sg.apps.oppomobile.com.akamaized.net]
+[dns-saas-service-detection:amazon-aws] [dns] [info] u-id.browser.oppomobile.com [sgp-cp-biz-platform-oppomobile-1428971467.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] tw-game.oppomobile.com [sgp-gamecenter-oppomobile-pubgw-1725675119.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] template.f.oppomobile.com
+[caa-fingerprint] [dns] [info] template.game.oppomobile.com
+[caa-fingerprint] [dns] [info] testapi.open.oppomobile.com
+[caa-fingerprint] [dns] [info] th-game.oppomobile.com
+[caa-fingerprint] [dns] [info] th-epoch.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] vn-epoch.oppomobile.com [sgp-epoch-oppomobile-pubgw-844902424.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] tipsf.apps.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] vn-store.oppomobile.com [sgp-appstore-oppomobile-pubgw-1424425550.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] tw-store.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] vn-game.oppomobile.com [sgp-gamecenter-oppomobile-pubgw-1725675119.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] tw-game.oppomobile.com
+[caa-fingerprint] [dns] [info] u-id.browser.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] vn.push.oppomobile.com [sgp-opush-oppomobile-pubgw-1432067008.ap-southeast-1.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] tipsfsf.oppomobile.com
+[caa-fingerprint] [dns] [info] tips.apps.oppomobile.com
+[caa-fingerprint] [dns] [info] translate.apps.oppomobile.com
+[caa-fingerprint] [dns] [info] theme.oppomobile.com
+[caa-fingerprint] [dns] [info] tinderchef-sms-inapac.raw-eu.azure.apk.scmweb.cstat-in-intlapiext.c9d9a4-upload.oppomobile.com
+[caa-fingerprint] [dns] [info] translatefs-sg.apps.oppomobile.com
+[caa-fingerprint] [dns] [info] tw-epoch.oppomobile.com
+[caa-fingerprint] [dns] [info] tipsfs.oppomobile.com
+[caa-fingerprint] [dns] [info] u.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] u-in.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] u.oppomobile.com
+[caa-fingerprint] [dns] [info] u-th.browser.oppomobile.com
+[caa-fingerprint] [dns] [info] u-vn.browser.oppomobile.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] weatherapi-eu.oppomobile.com [eu-allawn-fourier-oppomobile-pub-497796124.eu-west-3.elb.amazonaws.com]
+[caa-fingerprint] [dns] [info] uapi.ads.oppomobile.com
+[caa-fingerprint] [dns] [info] v.bot.oppomobile.com
+[caa-fingerprint] [dns] [info] vn-game.oppomobile.com
+[caa-fingerprint] [dns] [info] vn-store.oppomobile.com
+[caa-fingerprint] [dns] [info] vn-epoch.oppomobile.com
+[caa-fingerprint] [dns] [info] video.oppomobile.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] weatherfs.oppomobile.com [weatherfs.oppomobile.com.edgekey.net]
+[caa-fingerprint] [dns] [info] uc.oppomobile.com
+[caa-fingerprint] [dns] [info] vn.push.oppomobile.com
+[caa-fingerprint] [dns] [info] weatherapi-eu.oppomobile.com
+[caa-fingerprint] [dns] [info] weather.oppomobile.com
+[caa-fingerprint] [dns] [info] www.oppomobile.com
+[caa-fingerprint] [dns] [info] weatherapi.oppomobile.com
+[caa-fingerprint] [dns] [info] weatherapi-sg.oppomobile.com
+[caa-fingerprint] [dns] [info] wap.game.oppomobile.com
+[txt-fingerprint] [dns] [info] weather.oppomobile.com ["202103210543452wuhb964asflsa45cuugmv50pzef2fxf33vciee9838mfstdxy"]
+[caa-fingerprint] [dns] [info] yule.oppomobile.com
+[caa-fingerprint] [dns] [info] weatherfs.oppomobile.com
+[dns-waf-detect:wangsu] [dns] [info] store.oppomobile.com
+[options-method] [http] [info] https://i6-ru.weather.oppomobile.com [GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS, PATCH]
+[options-method] [http] [info] https://i6-kz.weather.oppomobile.com [GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS, PATCH]
+[options-method] [http] [info] https://i6-vn.weather.oppomobile.com [GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS, PATCH]
+[options-method] [http] [info] https://icredits.oppomobile.com [GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS, PATCH]
+[options-method] [http] [info] https://ifind.oppomobile.com [GET,HEAD,OPTIONS]
+[options-method] [http] [info] https://nativepayf.oppomobile.com [GET, HEAD, POST, PUT, DELETE, OPTIONS]
+[options-method] [http] [info] https://news.apps.oppomobile.com [GET,HEAD,POST,PUT,PATCH,DELETE,OPTIONS]
+[options-method] [http] [info] https://proxyf.apps.oppomobile.com [GET,HEAD,POST,PUT,PATCH,DELETE,OPTIONS]
+[options-method] [http] [info] https://proxy.apps.oppomobile.com [GET,HEAD,POST,PUT,PATCH,DELETE,OPTIONS]
+[options-method] [http] [info] https://proxyeu.apps.oppomobile.com [GET,HEAD,POST,PUT,PATCH,DELETE,OPTIONS]
+[options-method] [http] [info] https://shorteuex.push.oppomobile.com [GET,HEAD,POST,PUT,PATCH,DELETE,OPTIONS]
+[options-method] [http] [info] https://stickerf.apps.oppomobile.com [GET,HEAD,POST,PUT,PATCH,DELETE,OPTIONS]
+[options-method] [http] [info] https://stickereu.apps.oppomobile.com [GET,HEAD,POST,PUT,PATCH,DELETE,OPTIONS]
+[options-method] [http] [info] https://sticker.apps.oppomobile.com [GET,HEAD,POST,PUT,PATCH,DELETE,OPTIONS]
+[options-method] [http] [info] https://tipsf.apps.oppomobile.com [GET,HEAD,POST,PUT,PATCH,DELETE,OPTIONS]
+[options-method] [http] [info] https://tips.apps.oppomobile.com [GET,HEAD,POST,PUT,PATCH,DELETE,OPTIONS]
+[options-method] [http] [info] https://weatherapi-sg.oppomobile.com [GET, HEAD, POST, PUT, DELETE, OPTIONS, PATCH]
+[options-method] [http] [info] https://weatherapi-eu.oppomobile.com [GET, HEAD, POST, PUT, DELETE, OPTIONS, PATCH]
+[options-method] [http] [info] https://weatherapi.oppomobile.com [GET, HEAD, POST, PUT, DELETE, OPTIONS, PATCH]

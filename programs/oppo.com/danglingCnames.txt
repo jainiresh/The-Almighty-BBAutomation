@@ -1,0 +1,3 @@
+[detect-dangling-cname] [dns] [info] chat-support.oppo.com [wss-https-c93c11e54eff0ab2.elb.ap-southeast-1.amazonaws.com]
+[detect-dangling-cname] [dns] [info] my.oppo.com [my.oppo.com.wswebpic.com]
+[detect-dangling-cname] [dns] [info] o-doctor.oppo.com [o-doctor-elb-1960903203.ap-southeast-1.elb.amazonaws.com]

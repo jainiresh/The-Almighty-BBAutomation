@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.18.12-1-Debian <<>> -x 104.16.51.111 @192.168.29.1
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 41429
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;111.51.16.104.in-addr.arpa.	IN	PTR
+
+;; AUTHORITY SECTION:
+16.104.in-addr.arpa.	3039	IN	SOA	cruz.ns.cloudflare.com. dns.cloudflare.com. 2288625500 10000 2400 604800 3600
+
+;; Query time: 11 msec
+;; SERVER: 192.168.29.1#53(192.168.29.1) (UDP)
+;; WHEN: Wed Nov 08 11:42:38 IST 2023
+;; MSG SIZE  rcvd: 117
+

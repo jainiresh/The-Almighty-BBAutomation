@@ -1,0 +1,347 @@
+
+[0;33mRunning a Full scan on [0m52.54.96.194
+[0m
+[0;33mNo ping detected.. Will not use ping scans!
+[0m
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+In progress: No Scan (0:00:00 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: No Scan (0:00:00 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: No Scan (0:00:00 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: SYN Stealth Scan (0:00:06 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: SYN Stealth Scan (0:00:12 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: SYN Stealth Scan (0:00:15 elapsed - 0:15:53 remaining)   
+[#>                                                                                                   ] 1% done   
+[2AIn progress: SYN Stealth Scan (0:00:18 elapsed - 0:13:25 remaining)   
+[##>                                                                                                  ] 2% done   
+[2AIn progress: SYN Stealth Scan (0:00:21 elapsed - 0:10:41 remaining)   
+[###>                                                                                                 ] 3% done   
+[2AIn progress: SYN Stealth Scan (0:00:24 elapsed - 0:09:16 remaining)   
+[###>                                                                                                 ] 3% done   
+[2AIn progress: SYN Stealth Scan (0:00:27 elapsed - 0:08:10 remaining)   
+[#####>                                                                                               ] 5% done   
+[2AIn progress: SYN Stealth Scan (0:00:30 elapsed - 0:07:36 remaining)   
+[######>                                                                                              ] 6% done   
+[2AIn progress: SYN Stealth Scan (0:00:33 elapsed - 0:06:46 remaining)   
+[#######>                                                                                             ] 7% done   
+[2AIn progress: SYN Stealth Scan (0:00:36 elapsed - 0:06:16 remaining)   
+[########>                                                                                            ] 8% done   
+[2AIn progress: SYN Stealth Scan (0:00:39 elapsed - 0:05:52 remaining)   
+[#########>                                                                                           ] 9% done   
+[2AIn progress: SYN Stealth Scan (0:00:42 elapsed - 0:05:31 remaining)   
+[###########>                                                                                         ] 11% done   
+[2AIn progress: SYN Stealth Scan (0:00:45 elapsed - 0:05:20 remaining)   
+[############>                                                                                        ] 12% done   
+[2AIn progress: SYN Stealth Scan (0:00:48 elapsed - 0:05:03 remaining)   
+[#############>                                                                                       ] 13% done   
+[2AIn progress: SYN Stealth Scan (0:00:51 elapsed - 0:04:42 remaining)   
+[###############>                                                                                     ] 15% done   
+[2AIn progress: SYN Stealth Scan (0:00:54 elapsed - 0:04:29 remaining)   
+[################>                                                                                    ] 16% done   
+[2AIn progress: SYN Stealth Scan (0:00:57 elapsed - 0:04:17 remaining)   
+[#################>                                                                                   ] 17% done   
+[2AIn progress: SYN Stealth Scan (0:01:00 elapsed - 0:04:09 remaining)   
+[###################>                                                                                 ] 19% done   
+[2AIn progress: SYN Stealth Scan (0:01:03 elapsed - 0:03:53 remaining)   
+[#####################>                                                                               ] 21% done   
+[2AIn progress: SYN Stealth Scan (0:01:06 elapsed - 0:03:47 remaining)   
+[######################>                                                                              ] 22% done   
+[2AIn progress: SYN Stealth Scan (0:01:09 elapsed - 0:03:37 remaining)   
+[########################>                                                                            ] 24% done   
+[2AIn progress: SYN Stealth Scan (0:01:12 elapsed - 0:03:28 remaining)   
+[#########################>                                                                           ] 25% done   
+[2AIn progress: SYN Stealth Scan (0:01:15 elapsed - 0:03:28 remaining)   
+[##########################>                                                                          ] 26% done   
+[2AIn progress: SYN Stealth Scan (0:01:18 elapsed - 0:03:29 remaining)   
+[###########################>                                                                         ] 27% done   
+[2AIn progress: SYN Stealth Scan (0:01:21 elapsed - 0:03:30 remaining)   
+[###########################>                                                                         ] 27% done   
+[2AIn progress: SYN Stealth Scan (0:01:24 elapsed - 0:03:31 remaining)   
+[############################>                                                                        ] 28% done   
+[2AIn progress: SYN Stealth Scan (0:01:27 elapsed - 0:03:30 remaining)   
+[#############################>                                                                       ] 29% done   
+[2AIn progress: SYN Stealth Scan (0:01:30 elapsed - 0:03:28 remaining)   
+[##############################>                                                                      ] 30% done   
+[2AIn progress: SYN Stealth Scan (0:01:33 elapsed - 0:03:26 remaining)   
+[###############################>                                                                     ] 31% done   
+[2AIn progress: SYN Stealth Scan (0:01:36 elapsed - 0:03:20 remaining)   
+[################################>                                                                    ] 32% done   
+[2AIn progress: SYN Stealth Scan (0:01:39 elapsed - 0:03:18 remaining)   
+[#################################>                                                                   ] 33% done   
+[2AIn progress: SYN Stealth Scan (0:01:42 elapsed - 0:03:13 remaining)   
+[##################################>                                                                  ] 34% done   
+[2AIn progress: SYN Stealth Scan (0:01:45 elapsed - 0:03:08 remaining)   
+[###################################>                                                                 ] 35% done   
+[2AIn progress: SYN Stealth Scan (0:01:48 elapsed - 0:03:04 remaining)   
+[####################################>                                                                ] 36% done   
+[2AIn progress: SYN Stealth Scan (0:01:51 elapsed - 0:03:08 remaining)   
+[#####################################>                                                               ] 37% done   
+[2AIn progress: SYN Stealth Scan (0:01:54 elapsed - 0:03:06 remaining)   
+[#####################################>                                                               ] 37% done   
+[2AIn progress: SYN Stealth Scan (0:01:57 elapsed - 0:03:02 remaining)   
+[#######################################>                                                             ] 39% done   
+[2AIn progress: SYN Stealth Scan (0:02:00 elapsed - 0:03:01 remaining)   
+[#######################################>                                                             ] 39% done   
+[2AIn progress: SYN Stealth Scan (0:02:03 elapsed - 0:03:03 remaining)   
+[########################################>                                                            ] 40% done   
+[2AIn progress: SYN Stealth Scan (0:02:06 elapsed - 0:03:04 remaining)   
+[########################################>                                                            ] 40% done   
+[2AIn progress: SYN Stealth Scan (0:02:09 elapsed - 0:03:04 remaining)   
+[#########################################>                                                           ] 41% done   
+[2AIn progress: SYN Stealth Scan (0:02:12 elapsed - 0:03:07 remaining)   
+[#########################################>                                                           ] 41% done   
+[2AIn progress: SYN Stealth Scan (0:02:15 elapsed - 0:03:04 remaining)   
+[##########################################>                                                          ] 42% done   
+[2AIn progress: SYN Stealth Scan (0:02:18 elapsed - 0:03:03 remaining)   
+[##########################################>                                                          ] 42% done   
+[2AIn progress: SYN Stealth Scan (0:02:21 elapsed - 0:02:59 remaining)   
+[############################################>                                                        ] 44% done   
+[2AIn progress: SYN Stealth Scan (0:02:24 elapsed - 0:02:54 remaining)   
+[#############################################>                                                       ] 45% done   
+[2AIn progress: SYN Stealth Scan (0:02:27 elapsed - 0:02:48 remaining)   
+[##############################################>                                                      ] 46% done   
+[2AIn progress: SYN Stealth Scan (0:02:30 elapsed - 0:02:43 remaining)   
+[###############################################>                                                     ] 47% done   
+[2AIn progress: SYN Stealth Scan (0:02:33 elapsed - 0:02:36 remaining)   
+[#################################################>                                                   ] 49% done   
+[2AIn progress: SYN Stealth Scan (0:02:36 elapsed - 0:02:32 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: SYN Stealth Scan (0:02:39 elapsed - 0:02:34 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: SYN Stealth Scan (0:02:42 elapsed - 0:02:31 remaining)   
+[###################################################>                                                 ] 51% done   
+[2AIn progress: SYN Stealth Scan (0:02:45 elapsed - 0:02:31 remaining)   
+[####################################################>                                                ] 52% done   
+[2AIn progress: SYN Stealth Scan (0:02:48 elapsed - 0:02:29 remaining)   
+[####################################################>                                                ] 52% done   
+[2AIn progress: SYN Stealth Scan (0:02:51 elapsed - 0:02:26 remaining)   
+[#####################################################>                                               ] 53% done   
+[2AIn progress: SYN Stealth Scan (0:02:54 elapsed - 0:02:24 remaining)   
+[######################################################>                                              ] 54% done   
+[2AIn progress: SYN Stealth Scan (0:02:57 elapsed - 0:02:21 remaining)   
+[#######################################################>                                             ] 55% done   
+[2AIn progress: SYN Stealth Scan (0:03:00 elapsed - 0:02:16 remaining)   
+[########################################################>                                            ] 56% done   
+[2AIn progress: SYN Stealth Scan (0:03:03 elapsed - 0:02:12 remaining)   
+[#########################################################>                                           ] 57% done   
+[2AIn progress: SYN Stealth Scan (0:03:06 elapsed - 0:02:08 remaining)   
+[###########################################################>                                         ] 59% done   
+[2AIn progress: SYN Stealth Scan (0:03:09 elapsed - 0:02:03 remaining)   
+[############################################################>                                        ] 60% done   
+[2AIn progress: SYN Stealth Scan (0:03:12 elapsed - 0:01:58 remaining)   
+[#############################################################>                                       ] 61% done   
+[2AIn progress: SYN Stealth Scan (0:03:15 elapsed - 0:01:58 remaining)   
+[##############################################################>                                      ] 62% done   
+[2AIn progress: SYN Stealth Scan (0:03:18 elapsed - 0:01:56 remaining)   
+[###############################################################>                                     ] 63% done   
+[2AIn progress: SYN Stealth Scan (0:03:21 elapsed - 0:01:51 remaining)   
+[################################################################>                                    ] 64% done   
+[2AIn progress: SYN Stealth Scan (0:03:24 elapsed - 0:01:47 remaining)   
+[#################################################################>                                   ] 65% done   
+[2AIn progress: SYN Stealth Scan (0:03:27 elapsed - 0:01:42 remaining)   
+[##################################################################>                                  ] 66% done   
+[2AIn progress: SYN Stealth Scan (0:03:30 elapsed - 0:01:41 remaining)   
+[###################################################################>                                 ] 67% done   
+[2AIn progress: SYN Stealth Scan (0:03:33 elapsed - 0:01:38 remaining)   
+[####################################################################>                                ] 68% done   
+[2AIn progress: SYN Stealth Scan (0:03:36 elapsed - 0:01:35 remaining)   
+[#####################################################################>                               ] 69% done   
+[2AIn progress: SYN Stealth Scan (0:03:39 elapsed - 0:01:33 remaining)   
+[######################################################################>                              ] 70% done   
+[2AIn progress: SYN Stealth Scan (0:03:42 elapsed - 0:01:33 remaining)   
+[######################################################################>                              ] 70% done   
+[2AIn progress: SYN Stealth Scan (0:03:45 elapsed - 0:01:30 remaining)   
+[#######################################################################>                             ] 71% done   
+[2AIn progress: SYN Stealth Scan (0:03:48 elapsed - 0:01:27 remaining)   
+[########################################################################>                            ] 72% done   
+[2AIn progress: SYN Stealth Scan (0:03:51 elapsed - 0:01:23 remaining)   
+[#########################################################################>                           ] 73% done   
+[2AIn progress: SYN Stealth Scan (0:03:54 elapsed - 0:01:19 remaining)   
+[##########################################################################>                          ] 74% done   
+[2AIn progress: SYN Stealth Scan (0:03:57 elapsed - 0:01:14 remaining)   
+[############################################################################>                        ] 76% done   
+[2AIn progress: SYN Stealth Scan (0:04:00 elapsed - 0:01:09 remaining)   
+[#############################################################################>                       ] 77% done   
+[2AIn progress: SYN Stealth Scan (0:04:03 elapsed - 0:01:04 remaining)   
+[##############################################################################>                      ] 78% done   
+[2AIn progress: SYN Stealth Scan (0:04:06 elapsed - 0:00:59 remaining)   
+[################################################################################>                    ] 80% done   
+[2AIn progress: SYN Stealth Scan (0:04:09 elapsed - 0:00:56 remaining)   
+[#################################################################################>                   ] 81% done   
+[2AIn progress: SYN Stealth Scan (0:04:12 elapsed - 0:00:53 remaining)   
+[##################################################################################>                  ] 82% done   
+[2AIn progress: SYN Stealth Scan (0:04:15 elapsed - 0:00:50 remaining)   
+[###################################################################################>                 ] 83% done   
+[2AIn progress: SYN Stealth Scan (0:04:18 elapsed - 0:00:48 remaining)   
+[####################################################################################>                ] 84% done   
+[2AIn progress: SYN Stealth Scan (0:04:21 elapsed - 0:00:46 remaining)   
+[#####################################################################################>               ] 85% done   
+[2AIn progress: SYN Stealth Scan (0:04:24 elapsed - 0:00:43 remaining)   
+[#####################################################################################>               ] 85% done   
+[2AIn progress: SYN Stealth Scan (0:04:27 elapsed - 0:00:41 remaining)   
+[######################################################################################>              ] 86% done   
+[2AIn progress: SYN Stealth Scan (0:04:30 elapsed - 0:00:39 remaining)   
+[#######################################################################################>             ] 87% done   
+[2AIn progress: SYN Stealth Scan (0:04:33 elapsed - 0:00:36 remaining)   
+[########################################################################################>            ] 88% done   
+[2AIn progress: SYN Stealth Scan (0:04:36 elapsed - 0:00:33 remaining)   
+[#########################################################################################>           ] 89% done   
+[2AIn progress: SYN Stealth Scan (0:04:39 elapsed - 0:00:29 remaining)   
+[##########################################################################################>          ] 90% done   
+[2AIn progress: SYN Stealth Scan (0:04:42 elapsed - 0:00:26 remaining)   
+[###########################################################################################>         ] 91% done   
+[2AIn progress: SYN Stealth Scan (0:04:45 elapsed - 0:00:22 remaining)   
+[############################################################################################>        ] 92% done   
+[2AIn progress: SYN Stealth Scan (0:04:48 elapsed - 0:00:19 remaining)   
+[#############################################################################################>       ] 93% done   
+[2AIn progress: SYN Stealth Scan (0:04:51 elapsed - 0:00:16 remaining)   
+[##############################################################################################>      ] 94% done   
+[2AIn progress: SYN Stealth Scan (0:04:54 elapsed - 0:00:13 remaining)   
+[###############################################################################################>     ] 95% done   
+[2AIn progress: SYN Stealth Scan (0:04:57 elapsed - 0:00:10 remaining)   
+[################################################################################################>    ] 96% done   
+[2AIn progress: SYN Stealth Scan (0:05:00 elapsed - 0:00:06 remaining)   
+[#################################################################################################>   ] 97% done   
+[2AIn progress: SYN Stealth Scan (0:05:03 elapsed - 0:00:03 remaining)   
+[###################################################################################################> ] 99% done   
+[2A[0K
+[0K
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+In progress: No Scan (0:00:00 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: No Scan (0:00:00 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: SYN Stealth Scan (0:00:03 elapsed - 0:00:00 remaining)   
+[####################################################################################################> ] 100% done   
+[2AIn progress: SYN Stealth Scan (0:00:03 elapsed - 0:00:00 remaining)   
+[####################################################################################################> ] 100% done   
+[2AIn progress: SYN Stealth Scan (0:00:03 elapsed - 0:00:00 remaining)   
+[####################################################################################################> ] 100% done   
+[2AIn progress: Service Scan (0:00:09 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:10 elapsed - 0:00:07 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: Service Scan (0:00:10 elapsed - 0:00:07 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: Service Scan (0:00:10 elapsed - 0:00:07 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: Service Scan (0:00:18 elapsed - 0:00:15 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: Service Scan (0:00:20 elapsed - 0:00:17 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: Service Scan (0:00:22 elapsed - 0:00:19 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: Service Scan (0:00:24 elapsed - 0:00:20 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: Service Scan (0:00:26 elapsed - 0:00:23 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: Script Scan (0:00:28 elapsed - 0:00:00 remaining)   
+[#################################################################################>                   ] 81% done   
+[2AIn progress: Script Scan (0:00:30 elapsed - 0:00:00 remaining)   
+[#############################################################################################>       ] 93% done   
+[2AIn progress: Script Scan (0:00:32 elapsed - 0:00:00 remaining)   
+[################################################################################################>    ] 96% done   
+[2AIn progress: Script Scan (0:00:34 elapsed - 0:00:00 remaining)   
+[###################################################################################################> ] 99% done   
+[2AIn progress: Script Scan (0:00:36 elapsed - 0:00:00 remaining)   
+[###################################################################################################> ] 99% done   
+[2A[0K
+[0K
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      PardotServer
+| fingerprint-strings: 
+|   DNSVersionBindReqTCP, RPCCheck: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 07 Dec 2023 18:45:34 GMT
+|     Content-Type: text/html
+|     Content-Length: 154
+|     Connection: close
+|     Server: PardotServer
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|     </html>
+|   FourOhFourRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 07 Dec 2023 18:45:28 GMT
+|     Content-Length: 0
+|     Connection: close
+|     Server: PardotServer
+|     X-Pardot-Route: e8229a0ff18ebffc83a98010d2521dd5
+|   GetRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 07 Dec 2023 18:45:26 GMT
+|     Content-Length: 0
+|     Connection: close
+|     Server: PardotServer
+|     X-Pardot-Route: e8229a0ff18ebffc83a98010d2521dd5
+|   HTTPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 07 Dec 2023 18:45:27 GMT
+|     Content-Length: 0
+|     Connection: close
+|     Server: PardotServer
+|     X-Pardot-Route: e8229a0ff18ebffc83a98010d2521dd5
+|   RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 07 Dec 2023 18:45:27 GMT
+|     Content-Type: text/html
+|     Content-Length: 154
+|     Connection: close
+|     Server: PardotServer
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|     </html>
+|   X11Probe: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 07 Dec 2023 18:45:28 GMT
+|     Content-Type: text/html
+|     Content-Length: 154
+|     Connection: close
+|     Server: PardotServer
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|_    </html>
+| http-robots.txt: 2 disallowed entries 
+|_/webmail/ /shared/webmail/
+|_http-server-header: PardotServer
+|_http-title: Did not follow redirect to https://ec2-52-54-96-194.compute-1.amazonaws.com/
+443/tcp open  ssl/https PardotServer
+|_http-server-header: PardotServer
+|_http-title: Error
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 5 minute(s) and 48 second(s)
+[0m

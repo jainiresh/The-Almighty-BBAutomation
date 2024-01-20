@@ -1,0 +1,14 @@
+# Nmap 7.93 scan initiated Mon Dec 25 00:01:40 2023 as: /usr/bin/nmap -sCV -p80,443 --open -oN nmap/Full_Extra_18.155.99.6.nmap --system-dns --stats-every 2s 18.155.99.6
+Nmap scan report for server-18-155-99-6.blr50.r.cloudfront.net (18.155.99.6)
+Host is up (0.014s latency).
+
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      Amazon CloudFront httpd
+|_http-server-header: CloudFront
+|_http-title: ERROR: The request could not be satisfied
+443/tcp open  ssl/https CloudFront
+|_http-server-header: CloudFront
+|_http-title: ERROR: The request could not be satisfied
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Dec 25 00:01:53 2023 -- 1 IP address (1 host up) scanned in 12.83 seconds

@@ -1,0 +1,6 @@
+<html><head></head><body>
+<h2>Hello World!</h2>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon="{&quot;rayId&quot;:&quot;8479344eaa2e9361&quot;,&quot;version&quot;:&quot;2024.1.0&quot;,&quot;token&quot;:&quot;1500311c1c8e42128a1c40d880fdc130&quot;}" crossorigin="anonymous"></script>
+
+
+</body></html>

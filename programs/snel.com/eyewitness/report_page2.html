@@ -1,0 +1,522 @@
+<html>
+        <head>
+        <link rel="stylesheet" href="bootstrap.min.css" type="text/css"/>
+        <title>EyeWitness Report</title>
+        <script src="jquery-1.11.3.min.js"></script>
+        <script type="text/javascript">
+        function toggleUA(id, url){
+        idi = "." + id;
+        $(idi).toggle();
+        change = document.getElementById(id);
+        if (change.innerHTML.indexOf("expand") > -1){
+            change.innerHTML = "Click to collapse User Agents for " + url;
+        }else{
+            change.innerHTML = "Click to expand User Agents for " + url;
+        }
+        }
+
+        document.onkeydown = function(event){
+            event = event || window.event;
+            switch (event.keyCode){
+                case 37:
+                    leftArrow();
+                    break;
+                case 39:
+                    rightArrow();
+                    break;
+            }
+        };
+                
+        function leftArrow(){
+            $('#previous')[0].click();
+        };
+
+        function rightArrow(){
+            $('#next')[0].click();
+        };
+
+        </script>
+        </head>
+        <body>
+        <center>
+        <center>Report Generated on 2024/01/15 at 21:53:41</center><h3>Page 2</h3><center><a href="report.html" id="previous">Previous Page</a>&nbsp<a href="report_page3.html" id="next"> Next Page</a></center>
+<center><br><a href="report.html"> Page 1</a><a href="report_page2.html"> Page 2</a><a href="report_page3.html"> Page 3</a><a href="report_page4.html"> Page 4</a><a href="report_page5.html"> Page 5</a><a href="report_page6.html"> Page 6</a><a href="report_page7.html"> Page 7</a></center>
+<table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://ws1.snel.com" target="_blank">http://ws1.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.161<br>
+<br><b> Page Title: </b>Unknown
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:58 GMT
+<br><b> Server:</b> Apache
+<br><b> X-Frame-Options:</b> SAMEORIGIN
+<br><b> X-Content-Type-Options:</b> nosniff
+<br><b> X-XSS-Protection:</b> 1; mode=block
+<br><b> Strict-Transport-Security:</b> max-age=31536000; includeSubDomains; preload
+<br><b> Content-Security-Policy:</b> default-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; data: https:; frame-ancestors &#x27;self&#x27;;
+<br><b> Referrer-Policy:</b> same-origin
+<br><b> Permissions-Policy:</b> geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+<br><b> Connection:</b> Upgrade, close
+<br><b> Last-Modified:</b> Wed, 07 Feb 2018 14:08:49 GMT
+<br><b> ETag:</b> &quot;0-5649fd59c9cfc&quot;
+<br><b> Accept-Ranges:</b> bytes
+<br><b> Content-Length:</b> 0
+<br><b> Content-Type:</b> text/html
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.ws1.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.traffic.snel.com.png"
+                target="_blank"><img src="screens/http.traffic.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div></table><br><h2 id="unauth">401/403 Unauthorized</h2><table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://dev.snel.com" target="_blank">http://dev.snel.com</a><br>
+            <b>Resolved to:</b> 104.26.7.153<br>
+<br><b> Page Title: </b>401 Authorization Required
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:01 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Transfer-Encoding:</b> chunked
+<br><b> Connection:</b> close
+<br><b> CF-Ray:</b> 845f776988297950-AMD
+<br><b> CF-Cache-Status:</b> DYNAMIC
+<br><b> Last-Modified:</b> Wed, 30 Aug 2023 12:50:26 GMT
+<br><b> Strict-Transport-Security:</b> max-age=31536000; includeSubDomains; preload
+<br><b> Vary:</b> Accept-Encoding,Accept-Encoding
+<br><b> WWW-Authenticate:</b> Basic realm=&quot;Restricted Access&quot;
+<br><b> alt-svc:</b> h3=&quot;:443&quot;; ma=86400
+<br><b> cf-apo-via:</b> origin,host
+<br><b> content-security-policy:</b> default-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; data: https:
+<br><b> edit:</b> Set-Cookie ^(.*)$ $1;HttpOnly;Secure
+<br><b> permissions-policy:</b> accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), cross-origin-isolated=(), display-capture=(), document-domain=(), encrypted-media=(), execution-while-not-rendered=(), execution-while-out-of-viewport=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), navigation-override=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=()
+<br><b> referrer-policy:</b> same-origin
+<br><b> x-content-type-options:</b> nosniff
+<br><b> x-frame-options:</b> SAMEORIGIN
+<br><b> x-turbo-charged-by:</b> LiteSpeed
+<br><b> x-xss-protection:</b> 1; mode=block
+<br><b> Report-To:</b> {&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https:\/\/a.nel.cloudflare.com\/report\/v3?s=uiLb0xLsezbwKBblycooUvcWh8QfK5MABufrOgsjTuH%2Bl%2FoGJd%2BaePm%2BttM9vlKYJOwr5eAjdsAhmXRv3V7ztJ6Ty7RxyJoS2VH0DSBZwX551o310NX9B4C8nzMGPxBdj%2BDti0QRotJ30w%3D%3D&quot;}],&quot;group&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+<br><b> NEL:</b> {&quot;success_fraction&quot;:0,&quot;report_to&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+<br><b> Server:</b> cloudflare
+<br><b> Response Code:</b> 401
+<br><br><a href="source/http.dev.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.dev1.snel.com.png"
+                target="_blank"><img src="screens/http.dev1.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://dns.snel.com" target="_blank">http://dns.snel.com</a><br>
+            <b>Resolved to:</b> 77.72.147.249<br>
+<br><b> Page Title: </b>401 Authorization Required
+<br><b> Server:</b> nginx/1.24.0
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:04 GMT
+<br><b> Content-Type:</b> text/html; charset=UTF-8
+<br><b> Content-Length:</b> 179
+<br><b> Connection:</b> close
+<br><b> WWW-Authenticate:</b> Basic realm=&quot;Login&quot;
+<br><b> Response Code:</b> 401
+<br><br><a href="source/http.dns.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.dns.snel.com.png"
+                target="_blank"><img src="screens/http.dns.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://dev1.snel.com" target="_blank">http://dev1.snel.com</a><br>
+            <b>Resolved to:</b> 104.26.6.153<br>
+<br><b> Page Title: </b>401 Authorization Required
+<br><b> Date:</b> Mon, 15 Jan 2024 16:23:59 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Transfer-Encoding:</b> chunked
+<br><b> Connection:</b> close
+<br><b> CF-Ray:</b> 845f7762ac216f01-BOM
+<br><b> CF-Cache-Status:</b> DYNAMIC
+<br><b> Last-Modified:</b> Thu, 31 Aug 2023 13:10:00 GMT
+<br><b> Strict-Transport-Security:</b> max-age=31536000; includeSubDomains; preload
+<br><b> Vary:</b> Accept-Encoding,Accept-Encoding
+<br><b> WWW-Authenticate:</b> Basic realm=&quot;Restricted Access&quot;
+<br><b> alt-svc:</b> h3=&quot;:443&quot;; ma=86400
+<br><b> cf-apo-via:</b> origin,host
+<br><b> content-security-policy:</b> default-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; data: https:
+<br><b> edit:</b> Set-Cookie ^(.*)$ $1;HttpOnly;Secure
+<br><b> permissions-policy:</b> accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), cross-origin-isolated=(), display-capture=(), document-domain=(), encrypted-media=(), execution-while-not-rendered=(), execution-while-out-of-viewport=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), navigation-override=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=()
+<br><b> referrer-policy:</b> same-origin
+<br><b> x-content-type-options:</b> nosniff
+<br><b> x-frame-options:</b> SAMEORIGIN
+<br><b> x-turbo-charged-by:</b> LiteSpeed
+<br><b> x-xss-protection:</b> 1; mode=block
+<br><b> Report-To:</b> {&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https:\/\/a.nel.cloudflare.com\/report\/v3?s=IRlKmMs0JEIpCRS6eQKHc52B1OEYJsKNS%2FxKmavmx224VqdzzqfRoXZLoMcmDuzOcWjhLpjhURwKwul5uggsH7tnNzE0IefE5JTQNhXAyAByPNJejHV2fBQpwnl%2BXC2o0qqSNgOZJx9t4RM%3D&quot;}],&quot;group&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+<br><b> NEL:</b> {&quot;success_fraction&quot;:0,&quot;report_to&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+<br><b> Server:</b> cloudflare
+<br><b> Response Code:</b> 401
+<br><br><a href="source/http.dev1.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.dev1.snel.com.png"
+                target="_blank"><img src="screens/http.dev1.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://pma.snel.com" target="_blank">http://pma.snel.com</a><br>
+            <b>Resolved to:</b> 104.26.6.153<br>
+<br><b> Page Title: </b>401 Unauthorized
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:23 GMT
+<br><b> Content-Type:</b> text/html; charset=iso-8859-1
+<br><b> Transfer-Encoding:</b> chunked
+<br><b> Connection:</b> close
+<br><b> CF-Ray:</b> 845f77f78ec7f425-BOM
+<br><b> CF-Cache-Status:</b> DYNAMIC
+<br><b> Strict-Transport-Security:</b> max-age=31536000; includeSubDomains; preload
+<br><b> WWW-Authenticate:</b> Basic realm=&quot;secure&quot;
+<br><b> cf-apo-via:</b> origin,host
+<br><b> content-security-policy:</b> default-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; data: https:; frame-ancestors &#x27;self&#x27;;
+<br><b> permissions-policy:</b> geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+<br><b> referrer-policy:</b> same-origin
+<br><b> x-content-type-options:</b> nosniff
+<br><b> x-frame-options:</b> SAMEORIGIN
+<br><b> x-xss-protection:</b> 1; mode=block
+<br><b> Report-To:</b> {&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https:\/\/a.nel.cloudflare.com\/report\/v3?s=FwRnujb3Ojo6sOK9G3P3ENwkGBQAoZXs%2B7CRyqCbQtA7D%2FsWlUTGfmUBMCwc9SLQmllL4DoFDnHBJ0lEuMYS0IxOFS1HKNSfQ0CTRYzkD6VxWriar16%2Fdm08a97nLg201PNwKue4nNVr2A%3D%3D&quot;}],&quot;group&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+<br><b> NEL:</b> {&quot;success_fraction&quot;:0,&quot;report_to&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+<br><b> Vary:</b> Accept-Encoding
+<br><b> Server:</b> cloudflare
+<br><b> alt-svc:</b> h3=&quot;:443&quot;; ma=86400
+<br><b> Response Code:</b> 401
+<br><br><a href="source/http.pma.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.pma.snel.com.png"
+                target="_blank"><img src="screens/http.pma.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://directus.snel.com" target="_blank">http://directus.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.28<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:01 GMT
+<br><b> Server:</b> Apache
+<br><b> X-Frame-Options:</b> SAMEORIGIN
+<br><b> X-XSS-Protection:</b> 1; mode=block
+<br><b> X-Content-Type-Options:</b> nosniff
+<br><b> Strict-Transport-Security:</b> max-age=31536000; includeSubDomains
+<br><b> Content-Security-Policy:</b> default-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; data: https:
+<br><b> Referrer-Policy:</b> same-origin
+<br><b> Feature-Policy:</b> accelerometer &#x27;none&#x27;;ambient-light-sensor &#x27;none&#x27;;autoplay &#x27;none&#x27;;camera &#x27;none&#x27;;encrypted-media &#x27;none&#x27;;fullscreen &#x27;self&#x27;;geolocation &#x27;self&#x27;;gyroscope &#x27;none&#x27;;magnetometer &#x27;none&#x27;;microphone &#x27;none&#x27;;midi &#x27;none&#x27;;payment &#x27;self&#x27;;picture-in-picture &#x27;none&#x27;;speaker &#x27;self&#x27;;sync-xhr &#x27;none&#x27;;usb &#x27;none&#x27;;vibrate &#x27;none&#x27;;vr &#x27;none&#x27;
+<br><b> Content-Length:</b> 199
+<br><b> Connection:</b> close
+<br><b> Content-Type:</b> text/html; charset=iso-8859-1
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.directus.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.n8n.snel.com.png"
+                target="_blank"><img src="screens/http.n8n.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://docker.snel.com" target="_blank">http://docker.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.32<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> openresty
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:03 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 150
+<br><b> Connection:</b> close
+<br><b> Strict-Transport-Security:</b> max-age=63072000; preload
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.docker.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.dash.snel.com.png"
+                target="_blank"><img src="screens/http.dash.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://forwarder.api.snel.com" target="_blank">http://forwarder.api.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.32<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> openresty
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:05 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 150
+<br><b> Connection:</b> close
+<br><b> Strict-Transport-Security:</b> max-age=63072000; preload
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.forwarder.api.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.dash.snel.com.png"
+                target="_blank"><img src="screens/http.dash.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://grafana.snel.com" target="_blank">http://grafana.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.161<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:06 GMT
+<br><b> Server:</b> Apache
+<br><b> X-Frame-Options:</b> SAMEORIGIN
+<br><b> X-Content-Type-Options:</b> nosniff
+<br><b> X-XSS-Protection:</b> 1; mode=block
+<br><b> Strict-Transport-Security:</b> max-age=31536000; includeSubDomains; preload
+<br><b> Content-Security-Policy:</b> default-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; data: https:; frame-ancestors &#x27;self&#x27;;
+<br><b> Referrer-Policy:</b> same-origin
+<br><b> Permissions-Policy:</b> geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+<br><b> Content-Length:</b> 199
+<br><b> Connection:</b> close
+<br><b> Content-Type:</b> text/html; charset=iso-8859-1
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.grafana.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.n8n.snel.com.png"
+                target="_blank"><img src="screens/http.n8n.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://logserver.snel.com" target="_blank">http://logserver.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.36<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:10 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 146
+<br><b> Connection:</b> close
+<br><b> X-Frame-Options:</b> sameorigin
+<br><b> X-XSS-Protection:</b> 1; mode=block
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.logserver.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.logserver.snel.com.png"
+                target="_blank"><img src="screens/http.logserver.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://mydev.snel.com" target="_blank">http://mydev.snel.com</a><br>
+            <b>Resolved to:</b> 104.26.6.153<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:11 GMT
+<br><b> Content-Type:</b> text/html; charset=iso-8859-1
+<br><b> Transfer-Encoding:</b> chunked
+<br><b> Connection:</b> close
+<br><b> CF-Ray:</b> 845f77ad6cc731c3-BOM
+<br><b> CF-Cache-Status:</b> DYNAMIC
+<br><b> Strict-Transport-Security:</b> max-age=31536000; includeSubDomains; preload
+<br><b> cf-apo-via:</b> origin,host
+<br><b> content-security-policy:</b> default-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; data: https:; frame-ancestors &#x27;self&#x27;;
+<br><b> permissions-policy:</b> geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+<br><b> referrer-policy:</b> same-origin
+<br><b> x-content-type-options:</b> nosniff
+<br><b> x-frame-options:</b> SAMEORIGIN
+<br><b> x-xss-protection:</b> 1; mode=block
+<br><b> Report-To:</b> {&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https:\/\/a.nel.cloudflare.com\/report\/v3?s=G5RmxucaGgh1y%2B2%2FJxfmNPZPdP7e1Sh3YnYfSjzNDUZnpU9Itno1oW6Yhc3Ayzjx9OgA3my%2FHBoNb6BYdHSX1GYTuLw40BSSvwj4oddcbzf8I5FBxhgz2SixO8IysmFNYDpLmn5PnAMaGcKH&quot;}],&quot;group&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+<br><b> NEL:</b> {&quot;success_fraction&quot;:0,&quot;report_to&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+<br><b> Vary:</b> Accept-Encoding
+<br><b> Server:</b> cloudflare
+<br><b> alt-svc:</b> h3=&quot;:443&quot;; ma=86400
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.mydev.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.n8n.snel.com.png"
+                target="_blank"><img src="screens/http.n8n.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://n8n.snel.com" target="_blank">http://n8n.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.28<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:12 GMT
+<br><b> Server:</b> Apache
+<br><b> X-Frame-Options:</b> SAMEORIGIN
+<br><b> X-XSS-Protection:</b> 1; mode=block
+<br><b> X-Content-Type-Options:</b> nosniff
+<br><b> Strict-Transport-Security:</b> max-age=31536000; includeSubDomains
+<br><b> Content-Security-Policy:</b> default-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; data: https:
+<br><b> Referrer-Policy:</b> same-origin
+<br><b> Feature-Policy:</b> accelerometer &#x27;none&#x27;;ambient-light-sensor &#x27;none&#x27;;autoplay &#x27;none&#x27;;camera &#x27;none&#x27;;encrypted-media &#x27;none&#x27;;fullscreen &#x27;self&#x27;;geolocation &#x27;self&#x27;;gyroscope &#x27;none&#x27;;magnetometer &#x27;none&#x27;;microphone &#x27;none&#x27;;midi &#x27;none&#x27;;payment &#x27;self&#x27;;picture-in-picture &#x27;none&#x27;;speaker &#x27;self&#x27;;sync-xhr &#x27;none&#x27;;usb &#x27;none&#x27;;vibrate &#x27;none&#x27;;vr &#x27;none&#x27;
+<br><b> Content-Length:</b> 199
+<br><b> Connection:</b> close
+<br><b> Content-Type:</b> text/html; charset=iso-8859-1
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.n8n.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.n8n.snel.com.png"
+                target="_blank"><img src="screens/http.n8n.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://ntop.snel.com" target="_blank">http://ntop.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.27<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx/1.18.0
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:16 GMT
+<br><b> Content-Type:</b> text/html; charset=UTF-8
+<br><b> Content-Length:</b> 153
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.ntop.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.ntop.snel.com.png"
+                target="_blank"><img src="screens/http.ntop.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://semaphore.snel.com" target="_blank">http://semaphore.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.30<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx/1.22.1
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:39 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 153
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.semaphore.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.semaphore.snel.com.png"
+                target="_blank"><img src="screens/http.semaphore.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://staging.snel.com" target="_blank">http://staging.snel.com</a><br>
+            <b>Resolved to:</b> 172.67.69.92<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:51 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Transfer-Encoding:</b> chunked
+<br><b> Connection:</b> close
+<br><b> CF-Ray:</b> 845f789e6bb91bdf-BOM
+<br><b> CF-Cache-Status:</b> DYNAMIC
+<br><b> Last-Modified:</b> Thu, 18 May 2023 11:44:08 GMT
+<br><b> Strict-Transport-Security:</b> max-age=31536000; includeSubDomains; preload
+<br><b> Vary:</b> Accept-Encoding,Accept-Encoding
+<br><b> alt-svc:</b> h3=&quot;:443&quot;; ma=86400
+<br><b> cf-apo-via:</b> origin,host
+<br><b> content-security-policy:</b> default-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; data: https:
+<br><b> edit:</b> Set-Cookie ^(.*)$ $1;HttpOnly;Secure
+<br><b> permissions-policy:</b> accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), cross-origin-isolated=(), display-capture=(), document-domain=(), encrypted-media=(), execution-while-not-rendered=(), execution-while-out-of-viewport=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), navigation-override=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=()
+<br><b> referrer-policy:</b> same-origin
+<br><b> x-content-type-options:</b> nosniff
+<br><b> x-frame-options:</b> SAMEORIGIN
+<br><b> x-turbo-charged-by:</b> LiteSpeed
+<br><b> x-xss-protection:</b> 1; mode=block
+<br><b> Report-To:</b> {&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https:\/\/a.nel.cloudflare.com\/report\/v3?s=YMk8m80ephtyzeUA8g2%2BR%2FTR1uTnyFeoR7g%2FKfpQpJXTgtdij40nR%2F1FYnHMFvnw88qrCkiTNNjL5Ub9rfJW8ZYNMtnb9WwszuBJUXt2T1yrF2J%2FlHz45%2FoP1XlIROoxJy1kZiTGpZhGXpXQeHg%3D&quot;}],&quot;group&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+<br><b> NEL:</b> {&quot;success_fraction&quot;:0,&quot;report_to&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+<br><b> Server:</b> cloudflare
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.staging.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.staging.snel.com.png"
+                target="_blank"><img src="screens/http.staging.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://superset.snel.com" target="_blank">http://superset.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.28<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:51 GMT
+<br><b> Server:</b> Apache
+<br><b> X-Frame-Options:</b> SAMEORIGIN
+<br><b> X-XSS-Protection:</b> 1; mode=block
+<br><b> X-Content-Type-Options:</b> nosniff
+<br><b> Strict-Transport-Security:</b> max-age=31536000; includeSubDomains
+<br><b> Content-Security-Policy:</b> default-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; data: https:
+<br><b> Referrer-Policy:</b> same-origin
+<br><b> Feature-Policy:</b> accelerometer &#x27;none&#x27;;ambient-light-sensor &#x27;none&#x27;;autoplay &#x27;none&#x27;;camera &#x27;none&#x27;;encrypted-media &#x27;none&#x27;;fullscreen &#x27;self&#x27;;geolocation &#x27;self&#x27;;gyroscope &#x27;none&#x27;;magnetometer &#x27;none&#x27;;microphone &#x27;none&#x27;;midi &#x27;none&#x27;;payment &#x27;self&#x27;;picture-in-picture &#x27;none&#x27;;speaker &#x27;self&#x27;;sync-xhr &#x27;none&#x27;;usb &#x27;none&#x27;;vibrate &#x27;none&#x27;;vr &#x27;none&#x27;
+<br><b> Content-Length:</b> 199
+<br><b> Connection:</b> close
+<br><b> Content-Type:</b> text/html; charset=iso-8859-1
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.superset.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.n8n.snel.com.png"
+                target="_blank"><img src="screens/http.n8n.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://dash.snel.com" target="_blank">http://dash.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.32<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> openresty
+<br><b> Date:</b> Mon, 15 Jan 2024 16:23:58 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 150
+<br><b> Connection:</b> close
+<br><b> Strict-Transport-Security:</b> max-age=63072000; preload
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.dash.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.dash.snel.com.png"
+                target="_blank"><img src="screens/http.dash.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div></table><br><h2 id="badgw">Bad Gateway</h2><table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://newdocs.snel.com" target="_blank">http://newdocs.snel.com</a><br>
+            <b>Resolved to:</b> 77.72.147.249<br>
+<br><b> Page Title: </b>502 Bad Gateway
+<br><b> Server:</b> nginx/1.24.0
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:14 GMT
+<br><b> Content-Type:</b> text/html; charset=UTF-8
+<br><b> Content-Length:</b> 157
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 502
+<br><br><a href="source/http.newdocs.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.newdocs.snel.com.png"
+                target="_blank"><img src="screens/http.newdocs.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://jump.snel.com" target="_blank">http://jump.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.30<br>
+<br><b> Page Title: </b>502 Bad Gateway
+<br><b> Server:</b> nginx/1.22.1
+<br><b> Date:</b> Mon, 15 Jan 2024 16:24:10 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 157
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 502
+<br><br><a href="source/http.jump.snel.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.jump.snel.com.png"
+                target="_blank"><img src="screens/http.jump.snel.com.png"
+                height="400"></a></div></td></tr></div>
+        </div></table><br><h2>Errors</h2><table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://40ge.vdx-rb1.snel.com" target="_blank">http://40ge.vdx-rb1.snel.com</a><br>
+            </td><td>Unknown error while attempting to
+            screenshot</td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://ad.snel.com" target="_blank">http://ad.snel.com</a><br>
+            </td><td>Unknown error while attempting to
+            screenshot</td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://api.snel.com" target="_blank">http://api.snel.com</a><br>
+            </td><td>Unknown error while attempting to
+            screenshot</td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://arping.snel.com" target="_blank">http://arping.snel.com</a><br>
+            <b>Resolved to:</b> 193.33.60.25<br></td><td>Unknown error while attempting to
+            screenshot</td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://auth.snel.com" target="_blank">http://auth.snel.com</a><br>
+            </td><td>Unknown error while attempting to
+            screenshot</td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://backuphv01.snel.com" target="_blank">http://backuphv01.snel.com</a><br>
+            </td><td>Unknown error while attempting to
+            screenshot</td></tr></div>
+        </div></table><br>
+<center><br><a href="report.html"> Page 1</a><a href="report_page2.html"> Page 2</a><a href="report_page3.html"> Page 3</a><a href="report_page4.html"> Page 4</a><a href="report_page5.html"> Page 5</a><a href="report_page6.html"> Page 6</a><a href="report_page7.html"> Page 7</a></center>
+<br><h3>Page 2</h3><center><a href="report.html" id="previous">Previous Page</a>&nbsp<a href="report_page3.html" id="next"> Next Page</a></center></body></html>

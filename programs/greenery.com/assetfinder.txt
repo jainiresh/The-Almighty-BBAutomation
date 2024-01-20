@@ -1,0 +1,8 @@
+cpanel.greenery.com
+cpcalendars.greenery.com
+cpcontacts.greenery.com
+greenery.com
+mail.greenery.com
+webdisk.greenery.com
+webmail.greenery.com
+www.greenery.com

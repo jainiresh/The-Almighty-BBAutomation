@@ -1,0 +1,1 @@
+<Error><Code>MissingSecurityElement</Code><Message>The request is missing a security element.</Message><Resource>/cdo-store-img</Resource><RequestId>YlwCAG0KjV1fiqsX</RequestId></Error>

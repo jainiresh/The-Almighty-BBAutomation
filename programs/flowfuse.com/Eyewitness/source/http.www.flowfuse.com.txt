@@ -1,0 +1,952 @@
+<html lang="en"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link href="/css/style.css" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#aa4444">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+<meta name="keywords" content="Node-RED, Deployment, Production, Enterprise, IoT, IIoT, Low-Code, Open-Source, Kubernetes, Docker, Cloud, Hosting">
+<title>FlowFuse • Node-RED for professionals</title>
+<link rel="canonical" href="https://flowfuse.com/">
+<meta name="description" content="Capture and leverage data. FlowFuse provides a complete platform to scale your production applications, increase developer velocity, and enhance security in order to accelerate innovation.">
+<meta property="og:title" content="FlowFuse • Node-RED for professionals">
+<meta property="og:description" content="Capture and leverage data. FlowFuse provides a complete platform to scale your production applications, increase developer velocity, and enhance security in order to accelerate innovation.">
+<meta property="og:url" content="https://flowfuse.com/">
+<meta property="og:image" content="https://flowfuse.com/images/og-social-tile.jpg">
+<meta name="twitter:image" content="https://flowfuse.com/images/og-social-tile.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="">
+<meta name="twitter:site" content="@FlowFuseinc">
+<script defer="defer" src="https://js-eu1.hubspot.com/web-interactives-embed.js" type="text/javascript" id="hubspot-web-interactives-loader" crossorigin="anonymous" data-loader="hs-scriptloader" data-hsjs-portal="26586079" data-hsjs-env="prod" data-hsjs-hublet="eu1"></script><script defer="defer" src="https://js-eu1.hs-analytics.net/analytics/1705638300000/26586079.js" type="text/javascript" id="hs-analytics"></script><script defer="defer" src="https://js-eu1.hubspotfeedback.com/feedbackweb-new.js" type="text/javascript" id="hs-feedback-web-26586079" crossorigin="anonymous" data-hubspot-feedback-portal-id="26586079" data-hubspot-feedback-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="26586079" data-hsjs-env="prod" data-hsjs-hublet="eu1"></script><script defer="defer" type="javascript/blocked" src="https://js-eu1.hs-banner.com/v2/26586079/banner.js" id="cookieBanner-26586079" data-cookieconsent="ignore" data-hs-ignore="true" data-loader="hs-scriptloader" data-hsjs-portal="26586079" data-hsjs-env="prod" data-hsjs-hublet="eu1"></script><script defer="defer" src="https://js-eu1.usemessages.com/conversations-embed.js" type="text/javascript" id="hubspot-messages-loader" data-loader="hs-scriptloader" data-hsjs-portal="26586079" data-hsjs-env="prod" data-hsjs-hublet="eu1"></script><script defer="defer" src="https://x.clearbitjs.com/v2/pk_a40db34c3e210290335fe7ad7f2a7197/tracking.min.js" referrerpolicy="strict-origin-when-cross-origin" async=""></script><script defer="defer" src="https://x.clearbitjs.com/v2/pk_a40db34c3e210290335fe7ad7f2a7197/destinations.min.js" referrerpolicy="strict-origin-when-cross-origin" async=""></script><script defer="defer" type="text/javascript" async="" src="https://eu.posthog.com/static/array.js"></script><script>const blockedScripts=[/hs-banner.com/];function needsToBeBlocked(e){return blockedScripts.some((t=>t.test(e)))}const createElementBackup=document.createElement;document.createElement=function(...e){if("script"!==e[0].toLowerCase())return createElementBackup.bind(document)(...e);const t=createElementBackup.bind(document)(...e),c=t.setAttribute.bind(t);return c("defer","defer"),Object.defineProperties(t,{src:{get:()=>t.getAttribute("src"),set:e=>(needsToBeBlocked(e,t.type)&&c("type","javascript/blocked"),c("src",e),!0)},type:{set(e){const r=needsToBeBlocked(t.src,t.type)?"javascript/blocked":e;return c("type",r),!0}}}),t.setAttribute=function(e,c){"type"===e||"src"===e?t[e]=c:HTMLScriptElement.prototype.setAttribute.call(t,e,c)},t};</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://FlowFuse.com#website",
+      "url": "https://FlowFuse.com",
+      "name": "FlowFuse",
+      "description": {
+        "[object Object]": null
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebPage",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://flowfuse.com/"
+      },
+      "url": "https://flowfuse.com/",
+      "isPartOf": {
+        "@id": "https://FlowFuse.com#website"
+      },
+      "headline": "",
+      "description": "",
+      "image": "https://flowfuse.com/handbook/images/logos/ff-logo--square--dark.png",
+      "inLanguage": "en-US",
+      "publisher": {
+        "@type": "Organization",
+        "name": "FlowFuse",
+        "url": "https://FlowFuse.com#organization",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://flowfuse.com/handbook/images/logos/ff-logo--square--dark.png",
+          "width": 396,
+          "height": 215
+        }
+      }
+    }
+  ]
+}</script>
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">
+  #hs-feedback-ui {
+    animation-duration: 0.4s;
+    animation-timing-function: ease-out;
+    display: none;
+    height: 0;
+    overflow: hidden;
+    position: fixed;
+    z-index: 2147483647;
+    max-width: 100%;
+  }
+
+  .hubspot.space-sword #hs-feedback-ui {
+    z-index: 1070;
+  }
+
+  #hs-feedback-ui.hs-feedback-shown {
+    display: block;
+  }
+
+  #hs-feedback-fetcher {
+    display: none
+  }
+
+  
+  @keyframes feedback-slide-in-hs-feedback-left {
+    from {transform: translate(0, 100%);}
+    to {transform: translate(0, 0);}
+  }
+
+  @keyframes feedback-slide-out-hs-feedback-left {
+    from {transform: translate(0, 0);}
+    to {transform: translate(0, 100%);}
+  }
+
+  #hs-feedback-ui.hs-feedback-left {
+    animation-name: feedback-slide-in-hs-feedback-left;
+  }
+
+  #hs-feedback-ui.hs-feedback-left.hs-feedback-slid-out {
+    animation-name: feedback-slide-out-hs-feedback-left;
+    animation-fill-mode: forwards;
+  }
+
+  
+  @keyframes feedback-slide-in-hs-feedback-right {
+    from {transform: translate(0, 100%);}
+    to {transform: translate(0, 0);}
+  }
+
+  @keyframes feedback-slide-out-hs-feedback-right {
+    from {transform: translate(0, 0);}
+    to {transform: translate(0, 100%);}
+  }
+
+  #hs-feedback-ui.hs-feedback-right {
+    animation-name: feedback-slide-in-hs-feedback-right;
+  }
+
+  #hs-feedback-ui.hs-feedback-right.hs-feedback-slid-out {
+    animation-name: feedback-slide-out-hs-feedback-right;
+    animation-fill-mode: forwards;
+  }
+
+  
+  @keyframes feedback-slide-in-hs-feedback-top {
+    from {transform: translate(0, -100%);}
+    to {transform: translate(0, 0);}
+  }
+
+  @keyframes feedback-slide-out-hs-feedback-top {
+    from {transform: translate(0, 0);}
+    to {transform: translate(0, -100%);}
+  }
+
+  #hs-feedback-ui.hs-feedback-top {
+    animation-name: feedback-slide-in-hs-feedback-top;
+  }
+
+  #hs-feedback-ui.hs-feedback-top.hs-feedback-slid-out {
+    animation-name: feedback-slide-out-hs-feedback-top;
+    animation-fill-mode: forwards;
+  }
+
+
+  #hs-feedback-ui > iframe {
+    width: 100%;
+    height: 100%;
+  }
+
+  #hs-feedback-ui:not(.hs-feedback-top) {
+    bottom: 0;
+  }
+
+  #hs-feedback-ui.hs-feedback-left {
+    left: 0;
+  }
+
+  #hs-feedback-ui.hs-feedback-right {
+    right: 0;
+  }
+
+  .zorse #hs-feedback-ui:not(.hs-feedback-top) {
+    bottom: 6px;
+  }
+
+  .zorse #hs-feedback-ui.hs-feedback-right {
+    right: 0;
+  }
+
+  #hs-feedback-ui.hs-feedback-top {
+    left: 0;
+    top: 0;
+    width: 100%;
+  }
+
+  #hs-feedback-ui.hs-feedback-nps:not(.hs-feedback-top) {
+    width: 480px;
+  }
+
+  #hs-feedback-ui.hs-feedback-csat:not(.hs-feedback-top) {
+    width: 350px;
+  }
+
+  #hs-feedback-ui.hs-feedback-csat.hs-feedback-extended-width:not(.hs-feedback-top) {
+    width: 550px;
+  }
+
+  @media only screen and (min-width: 544px) {
+    #hs-feedback-ui.hs-feedback-csat:not(.hs-feedback-top):not(.hs-feedback-expanded) {
+      width: 450px;
+    }
+  }
+
+  #hs-feedback-ui.hs-feedback-csat.hs-feedback-extended-width:not(.hs-feedback-top) {
+    width: 550px !important;
+  }
+
+  #hs-feedback-ui.preview.hs-feedback-csat.hs-feedback-callout:not(.hs-feedback-expanded):not(.hs-feedback-top) {
+    width: 450px !important;
+  }
+
+  @media only screen and (max-width: 768px) {
+    #hs-feedback-ui:not(.preview):not(.hs-feedback-callout):not(.hs-feedback-top),
+    #hs-feedback-ui.hs-feedback-expanded:not(.preview):not(.hs-feedback-top) {
+      width: 100% !important;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    #hs-feedback-ui.preview:not(.hs-feedback-top),
+    #hs-feedback-ui.hs-feedback-expanded.preview:not(.hs-feedback-top) {
+      width: 100% !important;
+    }
+  }
+
+  #hs-feedback-ui.hs-feedback-shown ~ #tally-widget-container,
+  #hs-feedback-ui.hs-feedback-shown ~ #wootric-modal {
+    display: none !important;
+  }
+
+  /* hide all popups in the same position as us */
+  @media only screen and (min-width: 544px) {
+    #hs-feedback-ui.hs-feedback-right.hs-feedback-shown ~ #hubspot-messages-iframe-container,
+    #hs-feedback-ui.hs-feedback-right.hs-feedback-shown ~ .leadinModal-theme-bottom-right-corner,
+    #hs-feedback-ui.hs-feedback-left.hs-feedback-shown  ~ .leadinModal-theme-bottom-left-corner,
+    #hs-feedback-ui.hs-feedback-top.hs-feedback-shown   ~ .leadinModal-theme-top {
+      display: none !important;
+    }
+  }
+
+  /* hide leadflows when we're tablet-stretched across from them */
+  @media only screen and (min-width: 544px) and (max-width: 970px) {
+    #hs-feedback-ui.hs-feedback-left.hs-feedback-shown  ~ .leadinModal-theme-bottom-right-corner,
+    #hs-feedback-ui.hs-feedback-right.hs-feedback-shown ~ .leadinModal-theme-bottom-left-corner {
+      display: none !important;
+    }
+  }
+
+  /* hide messages when we're tablet-stretched across from them */
+  @media only screen and (max-width: 966px) {
+    #hs-feedback-ui.hs-feedback-left.hs-feedback-shown ~ #hubspot-messages-iframe-container {
+      display: none !important;
+    }
+  }
+
+  @media only screen and (max-width: 544px) {
+
+    /* repeat above rules for small screens when we're set to display on mobile */
+    #hs-feedback-ui.hs-feedback-right.hs-feedback-shown:not(.hs-feedback-no-mobile) ~ #hubspot-messages-iframe-container,
+    #hs-feedback-ui.hs-feedback-left.hs-feedback-shown:not(.hs-feedback-no-mobile)  ~ #hubspot-messages-iframe-container,
+    #hs-feedback-ui.hs-feedback-right.hs-feedback-shown:not(.hs-feedback-no-mobile) ~ .leadinModal-theme-bottom-right-corner,
+    #hs-feedback-ui.hs-feedback-left.hs-feedback-shown:not(.hs-feedback-no-mobile)  ~ .leadinModal-theme-bottom-left-corner,
+    #hs-feedback-ui.hs-feedback-top.hs-feedback-shown:not(.hs-feedback-no-mobile)   ~ .leadinModal-theme-top,
+    #hs-feedback-ui.hs-feedback-left.hs-feedback-shown:not(.hs-feedback-no-mobile)  ~ .leadinModal-theme-bottom-right-corner,
+    #hs-feedback-ui.hs-feedback-right.hs-feedback-shown:not(.hs-feedback-no-mobile) ~ .leadinModal-theme-bottom-left-corner {
+      display: none !important;
+    }
+
+    /* don't display us on small screens if we're set to not display on mobile */
+    #hs-feedback-ui.hs-feedback-no-mobile {
+      display: none;
+    }
+  }
+</style><style type="text/css">html.hs-messages-widget-open.hs-messages-mobile,html.hs-messages-widget-open.hs-messages-mobile body{overflow:hidden!important;position:relative!important}html.hs-messages-widget-open.hs-messages-mobile body{height:100%!important;margin:0!important}#hubspot-messages-iframe-container{display:initial!important;z-index:2147483647;position:fixed!important;bottom:0!important}#hubspot-messages-iframe-container.widget-align-left{left:0!important}#hubspot-messages-iframe-container.widget-align-right{right:0!important}#hubspot-messages-iframe-container.internal{z-index:1016}#hubspot-messages-iframe-container.internal iframe{min-width:108px}#hubspot-messages-iframe-container .hs-shadow-container{display:initial!important;z-index:-1;position:absolute;width:0;height:0;bottom:0;content:""}#hubspot-messages-iframe-container .hs-shadow-container.internal{display:none!important}#hubspot-messages-iframe-container .hs-shadow-container.active{width:400px;height:400px}#hubspot-messages-iframe-container iframe{display:initial!important;width:100%!important;height:100%!important;border:none!important;position:absolute!important;bottom:0!important;right:0!important;background:transparent!important}</style><style id="_goober"> .go2933276541{position:fixed;display:block;width:100%;height:0px;margin:0px;padding:0px;overflow:visible;transform-style:preserve-3d;background:transparent;backface-visibility:hidden;pointer-events:none;left:0px;z-index:9998;}.go2369186930{top:0px;z-index:9999;height:100%;width:100%;}.go1348078617{bottom:0px;}.go2417249464{position:fixed;z-index:9989;}.go3921366393{left:0;bottom:0;}.go3967842156{right:0;bottom:0;}.go613305155{left:0;top:0;}.go471583506{right:0;top:0;}.go3670563033{position:relative;overflow:hidden;display:none;}.go1041095097{display:block;}.go1632949049{position:absolute;pointer-events:none;width:101vw;height:101vh;background:rgba(0,0,0,0.7);opacity:0;z-index:-1;}.go2512015367{z-index:99998;opacity:0.8;visibility:visible;pointer-events:all;cursor:pointer;}.go1432718904{overflow:hidden;}.go812842568{display:block !important;position:static !important;box-sizing:border-box !important;background:transparent !important;border:none;min-height:0px !important;max-height:none !important;margin:0px;padding:0px !important;height:100% !important;width:1px !important;max-width:100% !important;min-width:100% !important;}.go2729809544{z-index:99999;visibility:hidden;position:absolute;inset:50vh auto auto 50%;transform:translate(-50%,-50%);left:50%;top:50%;opacity:0;pointer-events:none;max-height:95%;max-width:95%;}.go1011812720{pointer-events:auto !important;visibility:visible;opacity:1;transition:opacity 1s ease-in;}.go456419034{transition:opacity 0.3s ease-in;}.go3128134379{pointer-events:auto !important;visibility:visible !important;max-height:95vh !important;transition:max-height 1s ease-in;}.go494047706{z-index:9999;width:100%;max-height:95%;position:fixed;visibility:hidden;}.go2481764524{z-index:9999;width:100%;max-height:95%;position:fixed;visibility:hidden;bottom:0px;}.go2685733372{visibility:hidden;}.go2985984737{visibility:visible !important;}.go3281949485{pointer-events:auto !important;visibility:visible !important;max-height:95vh !important;transform:none !important;}.go3539422596{z-index:9999;width:100%;max-height:95%;position:fixed;visibility:hidden;transition:transform 0.5s cubic-bezier(0.31,-0.2,0.04,1.47);}.go988075951{z-index:9999;position:fixed;left:10px;top:10px;max-height:95vh !important;max-width:95%;visibility:hidden;}.go2699082514{z-index:9999;position:fixed;right:10px;top:10px;max-height:95vh !important;max-width:95%;visibility:hidden;}.go1595992025{z-index:9999;position:fixed;left:10px;bottom:10px;max-height:95vh !important;max-width:95%;visibility:hidden;}.go1222083472{z-index:9999;position:fixed;right:10px;bottom:10px;max-height:95vh !important;max-width:95%;visibility:hidden;}.go722322694{transition:none !important;}.go26732895{cursor:pointer;}.go2083580917{display:flex;justify-content:center;align-items:center;}</style></head>
+<body class="ff-website leading-normal tracking-normal gradient text-gray-500 min-h-screen flex flex-col"><div id="hs-feedback-fetcher" title="submit hubspot feedback"><iframe title="Submit HubSpot product feedback" src="https://app-eu1.hubspot.com/feedback-web-fetcher" frameborder="0"></iframe></div><div id="hs-web-interactives-top-push-anchor" class="go3670563033"></div>
+<div class="flex-grow base">
+<div class="w-full">
+<script>
+</script>
+<a data-action="event-banner" href="/webinars/2024/balena/" class="hidden md:flex text-center w-full py-1 pb-3 sm:py-3 bg-blue-50 text-blue-900 text-sm px-2 gap-1 sm:gap-2 flex-col sm:flex-row items-center justify-center hover:bg-blue-100">
+<span class="hidden sm:block font-semibold">Join our Webinar</span>
+<span class="hidden sm:block">-</span>
+<span>
+Enterprise-grade Edge Device Fleet Management with balena and FlowFuse
+</span>
+<span class="hidden sm:block">-</span>
+<span class="flex items-center gap-1 font-medium underline text-blue-600 hover:text-blue-900 hover:stroke-blue-900">
+Register Today <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-4 h-4"><path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5"></path></svg>
+</span>
+</a>
+<header id="ff-header" class="ff-header">
+<nav class="relative w-full flex items-center justify-between mx-auto container md:max-w-screen-xl">
+<a class="flex md:hidden lg:flex no-underline hover:no-underline font-bold h-8 w-40 flex-row" href="/" style="font-family:'Baloo 2', sans-serif">
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg class="max-h-full w-full" version="1.1" viewBox="0 0 459 80" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M108.778 11.3389H135.815C136.129 11.9688 136.444 12.2837 137.387 13.2286C137.701 13.8585 137.701 14.8034 137.701 15.7483V15.7483C137.701 17.3231 137.072 18.583 136.444 19.5278C135.501 20.4727 134.557 20.7877 133.3 20.7877H114.751V36.8507H132.986L133.929 38.7404C134.243 39.3704 134.243 40.3152 134.243 41.2601C134.243 42.8349 133.614 43.7798 132.986 44.7247C132.042 45.6696 131.099 45.9845 129.842 45.9845H114.437V68.3467C114.154 68.3467 113.872 68.4104 113.56 68.4804C113.179 68.5662 112.755 68.6617 112.236 68.6617C111.293 68.9767 110.036 68.9767 109.092 68.9767C106.892 68.9767 105.32 68.6617 104.377 67.7168C103.433 66.7719 102.805 65.5121 102.805 63.6223V45.3546V37.7956V17.3231C102.805 15.4334 103.119 14.1735 104.377 12.9137C105.32 11.9688 106.892 11.3389 108.778 11.3389ZM146.818 11.6538C147.761 11.3389 148.704 11.3389 149.647 11.3389C151.534 11.3389 153.106 11.6538 154.677 12.5987C155.621 13.5436 156.249 14.8034 156.249 16.6932V44.0948V49.7641V67.7168C155.621 68.0318 154.992 68.3467 154.049 68.3467C153.106 68.6617 152.162 68.6617 150.905 68.6617H150.905C148.704 68.6617 147.132 68.0318 146.189 67.4019C145.246 66.457 144.617 65.1971 144.617 63.3074V49.1341V43.4649V11.9688C145.246 11.9688 145.875 11.9688 146.818 11.6538ZM200.264 25.8268C196.806 23.9371 192.719 22.9922 188.317 22.9922C183.916 22.9922 179.829 23.9371 176.371 25.8268C172.912 27.7166 170.397 30.5512 168.197 34.0158C166.31 37.4804 165.367 41.5749 165.367 46.2993C165.367 51.0237 166.31 55.1182 168.197 58.5827C170.083 62.0473 172.598 64.567 176.056 66.4568C179.514 68.3465 183.601 69.2914 188.003 69.2914C192.719 69.2914 196.806 68.3465 199.949 66.4568C203.408 64.567 205.923 61.7323 207.809 58.2678C209.695 54.8032 210.638 50.7087 210.638 45.9843C210.638 41.2599 209.695 37.1654 207.809 33.7008C206.551 30.5512 203.722 27.7166 200.264 25.8268ZM196.806 56.693C194.919 59.2127 192.09 60.4725 188.632 60.4725C185.173 60.4725 182.344 59.2127 180.458 56.693C178.571 54.1733 177.314 50.7087 177.314 45.9843C177.314 41.5749 178.257 38.1103 180.458 35.2757C182.344 32.756 185.173 31.4961 188.632 31.4961C192.09 31.4961 194.919 32.756 196.806 35.2757C198.692 37.7953 199.949 41.2599 199.949 45.9843C199.635 50.7087 198.692 54.1733 196.806 56.693ZM294.891 11.3389H321.928C322.243 11.9688 322.557 12.2837 323.5 13.2286C323.815 13.8586 323.815 14.8034 323.815 15.7483C323.815 17.3231 323.186 18.583 322.557 19.5278C321.614 20.4727 320.671 20.7877 319.413 20.7877H300.865V36.8507H319.099L320.042 38.7404C320.356 39.3703 320.356 40.3152 320.356 41.26V41.2601C320.356 42.8349 319.728 43.7798 319.099 44.7247C318.156 45.6696 317.212 45.9845 315.955 45.9845H300.55V68.3467C300.268 68.3467 299.985 68.4104 299.674 68.4804C299.293 68.5662 298.869 68.6617 298.349 68.6617C297.406 68.9767 296.149 68.9767 295.206 68.9767C293.005 68.9767 291.433 68.6617 290.49 67.7168C289.547 66.7719 288.918 65.5121 288.918 63.6223V45.3546V37.7956V17.3231C288.918 15.4334 289.232 14.1735 290.49 12.9137C291.433 11.9688 293.005 11.3389 294.891 11.3389ZM278.545 24.567C277.602 23.937 276.344 23.6221 274.772 23.6221C272.886 23.6221 271.314 23.937 269.742 24.8819C268.799 30.5512 267.856 36.2205 266.598 42.2047C266.074 44.5688 265.604 46.9329 265.143 49.2513L265.143 49.2517L265.143 49.2522L265.143 49.2527C264.499 52.4936 263.873 55.6452 263.14 58.5827H262.826C262.758 58.3116 262.676 57.9966 262.582 57.638C262.241 56.3301 261.747 54.4403 261.254 51.9685C260.311 49.1339 259.367 45.6693 258.424 41.8898C257.691 39.6867 257.065 37.4835 256.421 35.218L256.421 35.2174L256.421 35.2169C255.96 33.5963 255.49 31.9436 254.966 30.2362C254.652 28.9764 254.023 28.3465 252.765 27.7166C251.822 27.0866 250.25 27.0866 248.678 27.0866C247.421 27.0866 246.478 27.0866 245.535 27.4016C244.591 27.7166 243.648 28.0315 243.019 28.6614L239.247 40.9449C238.499 43.3806 237.862 45.5934 237.27 47.6496C236.867 49.0499 236.485 50.3776 236.103 51.6536C235.16 54.8032 234.531 57.0079 234.217 58.5827H233.902C233.588 57.6378 233.274 56.063 232.959 54.1733C232.726 52.7717 232.32 51.1969 231.869 49.4488C231.712 48.8399 231.55 48.21 231.387 47.5591C230.759 45.0394 230.13 42.2048 229.815 38.7402C229.187 35.5906 228.558 32.126 228.243 28.6614C227.929 26.7717 227.3 25.5118 226.357 24.8819C225.414 24.252 224.156 23.6221 222.585 23.6221C221.327 23.6221 220.069 23.937 219.126 24.252C217.554 24.567 216.926 25.1969 216.297 25.8268C216.53 27.4619 216.936 29.4435 217.387 31.6431L217.387 31.6447C217.544 32.4105 217.706 33.2026 217.869 34.0158L217.869 34.016C218.498 37.1655 219.126 40.3151 220.069 43.4646C220.384 45.0394 220.777 46.6142 221.17 48.1889C221.563 49.7638 221.956 51.3386 222.27 52.9134C222.713 55.1305 223.311 57.0354 223.846 58.7381C224.071 59.4543 224.285 60.1346 224.471 60.7874C225.1 62.9921 225.728 64.8819 226.357 66.1418C226.986 67.0866 227.615 68.0315 229.187 68.3465C230.444 68.9764 232.016 68.9764 233.588 68.9764C235.16 68.9764 236.417 68.9764 237.361 68.6614C238.304 68.3465 239.247 68.0315 239.876 67.4016L242.391 59.8425C242.793 58.4985 243.253 57.1545 243.721 55.786L243.721 55.7847C244.35 53.9467 244.994 52.0644 245.535 50.0788C245.849 48.9241 246.198 47.7694 246.547 46.6147L246.547 46.6145L246.547 46.6144L246.548 46.6143L246.548 46.6139C247.246 44.3043 247.945 41.9947 248.364 39.6851C248.836 41.4173 249.307 43.0709 249.779 44.7244C250.25 46.378 250.722 48.0315 251.193 49.7638C252.137 53.2284 253.08 56.378 254.023 59.2126C254.542 60.7732 255.061 62.2383 255.528 63.5554L255.529 63.5568C255.91 64.6315 256.255 65.6077 256.538 66.4567C257.167 68.3465 259.367 69.2914 263.14 69.2914C264.712 69.2914 265.969 68.9764 266.913 68.6614C268.17 68.3465 269.113 68.0315 269.428 67.4016C269.742 66.7719 269.978 66.0635 270.253 65.237L270.253 65.2366L270.253 65.2363L270.253 65.2362L270.253 65.2361C270.528 64.4093 270.842 63.4645 271.314 62.3622C271.943 60.1575 272.572 57.9528 273.515 55.1181C273.776 54.0695 274.092 52.9662 274.418 51.8312C274.874 50.2389 275.348 48.584 275.715 46.9292C276.344 44.0945 276.973 41.2599 277.602 38.7402C277.85 37.7463 278.049 36.8014 278.238 35.9055C278.527 34.5302 278.793 33.2703 279.174 32.126C279.258 31.6197 279.342 31.1361 279.42 30.6871C279.634 29.4603 279.802 28.4927 279.802 28.0315C280.117 26.1418 279.488 25.1969 278.545 24.567ZM359.028 23.937C359.971 23.6221 360.915 23.6221 361.858 23.6221C364.058 23.6221 365.316 23.937 366.259 24.8819C367.202 25.5118 367.831 27.0866 367.831 28.9764V44.4095V48.8189V59.8425C367.831 61.1024 367.831 62.3622 367.202 63.3071C366.655 64.1299 365.869 64.7139 364.844 65.4751L364.62 65.6418C364.539 65.7022 364.457 65.7638 364.373 65.8268C362.801 66.7717 360.6 67.7166 357.771 68.3465C354.941 68.9764 351.797 69.2914 348.339 69.2914C344.252 69.2914 340.48 68.6614 337.336 67.4016C334.192 66.1418 331.677 63.937 330.105 61.4173C328.533 58.5827 327.59 55.1181 327.59 51.0236V48.189V43.7795V24.252C327.904 24.252 328.533 24.252 329.476 23.937C330.419 23.6221 331.362 23.6221 332.62 23.6221C334.821 23.6221 336.393 24.252 337.336 24.8819C338.279 25.5118 338.908 27.0866 338.908 28.9764V43.7795V48.189V51.0236C338.908 54.1733 339.851 56.378 341.423 57.9528C343.309 59.5276 345.51 60.1575 348.654 60.1575C350.54 60.1575 352.426 59.8425 353.684 59.5276C354.941 59.2126 356.199 58.5827 356.828 58.2677V48.189V43.7795V24.252C357.456 24.252 358.085 24.252 359.028 23.937ZM397.068 41.8903L392.352 40.6305C390.466 40.3155 389.208 39.6856 388.265 38.7407C387.322 38.1108 387.007 37.1659 387.007 35.9061C387.007 34.3313 387.636 33.3864 389.208 32.4415C390.466 31.8116 392.666 31.1817 394.867 31.1817C396.439 31.1817 398.011 31.4966 399.583 31.8116C401.155 32.1266 402.727 32.4415 403.984 33.0714C404.43 33.2946 404.836 33.4782 405.216 33.6503C405.91 33.964 406.519 34.2395 407.128 34.6462C407.757 34.0163 408.385 33.3864 408.7 32.7565C408.754 32.5944 408.808 32.4416 408.86 32.2933C409.113 31.5769 409.329 30.9656 409.329 29.9218C409.329 28.347 408.7 27.0872 407.442 26.1423C406.185 25.1974 404.298 24.2525 402.098 23.6226C399.897 22.9927 397.068 22.6777 394.238 22.6777C388.579 22.6777 384.178 23.9376 381.034 26.4573C377.89 28.9769 376.318 32.1266 376.318 35.9061C376.318 39.3706 377.261 42.2053 379.462 44.0951C381.663 46.2998 384.807 47.8746 389.208 48.8195L394.553 50.0793C396.439 50.3943 398.011 51.0242 398.954 51.9691C399.897 52.914 400.211 53.8588 400.211 55.4336C400.211 58.5832 397.696 60.473 392.352 60.473C389.522 60.473 387.007 60.158 384.492 59.2132C382.292 58.2683 380.091 57.3234 378.519 56.0636C377.576 56.6935 376.947 57.3234 376.633 58.2683C376.004 59.2132 376.004 60.158 376.004 61.1029C376.004 63.6226 377.576 65.5124 380.72 67.0872C383.863 68.662 387.951 69.2919 392.981 69.2919C398.954 69.2919 403.67 68.0321 406.813 65.5124C409.957 62.9927 411.529 59.8431 411.529 55.4336C411.529 51.9691 410.272 48.8195 408.071 46.6147C405.556 44.725 402.098 42.8352 397.068 41.8903ZM459.002 42.2048C459.002 43.7796 458.688 45.0394 457.745 45.9843C456.802 46.9292 455.544 47.2442 453.972 47.5591L428.193 51.3386C428.822 54.1733 430.393 56.378 432.28 57.9528C434.795 59.8426 438.253 60.7875 442.026 60.7875C444.541 60.7875 447.056 60.1575 449.256 59.5276C451.457 58.8977 453.344 57.9528 454.601 57.0079C455.23 57.3229 455.859 57.9528 456.487 58.8977C456.802 59.8426 457.116 60.7875 457.116 61.7323C457.116 63.3072 456.487 64.567 454.915 65.8268C453.658 66.7717 451.772 67.7166 449.256 68.3465C446.741 68.9764 444.226 69.2914 441.083 69.2914C436.367 69.2914 432.28 68.6615 428.507 66.7717C425.049 65.1969 421.905 62.3623 420.019 58.8977C417.818 55.4331 416.875 51.0237 416.875 45.9843C416.875 42.5197 417.189 39.0552 418.447 36.2205C419.704 33.3859 421.276 30.8662 423.163 28.9764C425.049 27.0867 427.564 25.5119 430.079 24.567C432.909 23.6221 435.738 22.9922 438.567 22.9922C442.654 22.9922 446.113 23.9371 449.256 25.5119C452.4 27.4016 454.915 29.6064 456.487 32.441C458.059 35.2757 459.002 38.4253 459.002 42.2048ZM430.708 34.6457C428.822 36.8505 427.878 39.6851 427.564 43.4646L448.628 40.0001C448.313 37.4804 447.37 35.5906 445.798 33.7008C443.912 32.126 441.711 31.1812 438.567 31.1812C435.424 31.1812 432.909 32.441 430.708 34.6457Z" fill="white"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.28767 0H73.5658C77.024 0 79.8534 2.83465 79.8534 6.29921V25.5118C70.4219 25.1969 60.9904 27.4016 52.1877 31.1811C49.3501 32.2816 46.5658 33.5422 43.7882 34.7998C37.0261 37.8615 30.304 40.905 22.95 41.5748C17.2814 42.0481 11.4353 41.988 5.6784 41.9288C3.7726 41.9092 1.87658 41.8898 0 41.8898V6.29921C0 2.83465 2.82945 0 6.28767 0ZM49.7763 50.7156L49.7768 50.7158C55.9437 53.4672 62.0574 56.1948 68.5375 57.6374C72.3101 58.2674 76.0827 58.5823 79.8554 58.5823V37.7949H76.7115C67.2052 37.7949 58.3289 41.7917 49.7392 45.6593L49.739 45.6595C47.8181 46.5243 45.9116 47.3828 44.0156 48.1886C45.9493 49.0082 47.8653 49.863 49.7763 50.7156ZM19.8062 54.8032C16.0336 54.4883 12.261 54.4883 8.48836 54.4883H0V73.7009C0 77.1655 2.82945 80.0001 6.28767 80.0001H73.8801C77.3384 80.0001 80.1678 77.1655 80.1678 73.7009V71.1812C71.9938 71.1812 63.5055 70.2363 55.9603 67.0867C51.7817 65.6913 47.7493 63.8569 43.7384 62.0324C35.9803 58.5032 28.3031 55.0109 19.8062 54.8032Z" fill="#ED4E4E"></path>
+<path d="M79.8534 37.7952V25.1968C70.4219 24.8818 60.9904 27.0865 52.1877 30.866C42.4418 34.6456 33.3247 40.3149 22.95 41.2597C15.4048 41.8897 7.54521 41.5747 0 41.5747V54.4881H8.48836C12.261 54.4881 16.0336 54.4881 19.8062 54.8031C32.6959 55.118 43.6993 62.992 55.6459 67.0865C63.1911 70.2361 71.6794 71.181 79.8534 71.181V58.5826C76.0808 58.5826 72.3082 58.2676 68.5356 57.6377C60.0473 55.7479 52.1877 51.6534 44.0137 48.1889C54.3884 43.7794 65.0774 37.7952 76.7096 37.7952H79.8534Z" fill="white"></path>
+</svg>
+</a>
+<a class="w-8 h-8 hidden md:block lg:hidden" href="/" style="font-family:'Baloo 2', sans-serif">
+<svg enable-background="new 0 0 79.4 79.4" viewBox="0 0 79.4 79.4" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.28751 0H73.5639C77.022 0 79.8514 2.83457 79.8514 6.29905V25.5112C70.4201 25.1962 60.9888 27.4009 52.1863 31.1803C49.3488 32.2807 46.5646 33.5413 43.7871 34.7989C37.0251 37.8605 30.3032 40.904 22.9494 41.5737C17.2809 42.047 11.435 41.9869 5.67825 41.9277C3.77251 41.9082 1.87653 41.8887 0 41.8887V6.29905C0 2.83457 2.82938 0 6.28751 0ZM44.0131 48.1865C45.9468 49.0061 47.863 49.861 49.7741 50.7136L49.7742 50.7136C55.9409 53.4649 62.0544 56.1924 68.5343 57.635C72.3069 58.2649 76.0794 58.5799 79.8519 58.5799V37.793H76.7081C67.2021 37.793 58.326 41.7897 49.7365 45.6572L49.7363 45.6573C47.8155 46.5222 45.909 47.3806 44.0131 48.1865ZM19.8057 54.8032C16.0332 54.4883 12.2606 54.4883 8.48814 54.4883H0V73.7004C0 77.1649 2.82938 79.9994 6.28751 79.9994H73.8782C77.3364 79.9994 80.1657 77.1649 80.1657 73.7004V71.1808C71.992 71.1808 63.5038 70.2359 55.9588 67.0864C51.7804 65.691 47.7481 63.8567 43.7373 62.0322L43.7373 62.0322C35.9794 58.5031 28.3023 55.0108 19.8057 54.8032Z" fill="#ED4E4E"></path>
+<path d="M79.8514 37.7939V25.1958C70.4201 24.8808 60.9888 27.0855 52.1863 30.8649C42.4407 34.6444 33.3238 40.3135 22.9494 41.2584C15.4044 41.8883 7.54501 41.5733 0 41.5733V54.4864H8.48814C12.2606 54.4864 16.0331 54.4864 19.8057 54.8013C32.695 55.1163 43.6982 62.9901 55.6445 67.0845C63.1895 70.234 71.6776 71.1789 79.8514 71.1789V58.5807C76.0789 58.5807 72.3064 58.2658 68.5338 57.6359C60.0457 55.7462 52.1863 51.6518 44.0126 48.1873C54.387 43.778 65.0757 37.7939 76.7076 37.7939H79.8514Z" fill="white"></path></svg>
+</a>
+<div class="block md:hidden">
+<button id="nav-toggle" class="text-white flex items-center text-red-hero">
+<svg class="burger fill-current h-4 w-4" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path></svg>
+<svg class="close fill-current h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg>
+</button>
+</div>
+<ul id="nav-content">
+<li><a class="flex items-center gap-2" href="/pricing/">Pricing</a></li>
+<li class="ff-nav-dropdown relative"><a class="flex items-center gap-1">Product<span class="ff-nav-chevron"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 ff-icon--down"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path></svg></span></a>
+<ul>
+<li><a class="flex items-center gap-2" href="/product/why-flowfuse/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+<path stroke-linecap="round" stroke-linejoin="round" d="M12 18v-5.25m0 0a6.01 6.01 0 001.5-.189m-1.5.189a6.01 6.01 0 01-1.5-.189m3.75 7.478a12.06 12.06 0 01-4.5 0m3.75 2.383a14.406 14.406 0 01-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 10-7.517 0c.85.493 1.509 1.333 1.509 2.316V18"></path>
+</svg></svg>Why FlowFuse?</a></li>
+<li><a class="flex items-center gap-2" href="/features/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M11.48 3.499a.562.562 0 011.04 0l2.125 5.111a.563.563 0 00.475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 00-.182.557l1.285 5.385a.562.562 0 01-.84.61l-4.725-2.885a.563.563 0 00-.586 0L6.982 20.54a.562.562 0 01-.84-.61l1.285-5.386a.562.562 0 00-.182-.557l-4.204-3.602a.563.563 0 01.321-.988l5.518-.442a.563.563 0 00.475-.345L11.48 3.5z"></path></svg></svg>Features</a></li>
+<li><a class="flex items-center gap-2" href="/product/roadmap/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M9 6.75V15m6-6v8.25m.503 3.498l4.875-2.437c.381-.19.622-.58.622-1.006V4.82c0-.836-.88-1.38-1.628-1.006l-3.869 1.934c-.317.159-.69.159-1.006 0L9.503 3.252a1.125 1.125 0 00-1.006 0L3.622 5.689C3.24 5.88 3 6.27 3 6.695V19.18c0 .836.88 1.38 1.628 1.006l3.869-1.934c.317-.159.69-.159 1.006 0l4.994 2.497c.317.158.69.158 1.006 0z"></path></svg></svg>Roadmap</a></li>
+<li><a class="flex items-center gap-2" href="/customer-stories/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+<path stroke-linecap="round" stroke-linejoin="round" d="M3.75 3v11.25A2.25 2.25 0 006 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0118 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5m.75-9l3-3 2.148 2.148A12.061 12.061 0 0116.5 7.605"></path>
+</svg>
+</svg>Customer Stories</a></li>
+<li><a class="flex items-center gap-2" href="/blueprints/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M12 21v-8.25M15.75 21v-8.25M8.25 21v-8.25M3 9l9-6 9 6m-1.5 12V10.332A48.36 48.36 0 0012 9.75c-2.551 0-5.056.2-7.5.582V21M3 21h18M12 6.75h.008v.008H12V6.75z"></path></svg>Blueprint Library</a></li>
+</ul>
+</li>
+<li class="ff-nav-dropdown relative"><a class="flex items-center gap-1">Solutions<span class="ff-nav-chevron"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 ff-icon--down"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path></svg></span></a>
+<ul>
+<li><a class="flex items-center gap-2" href="/solutions/manufacturing/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M10.343 3.94c.09-.542.56-.94 1.11-.94h1.093c.55 0 1.02.398 1.11.94l.149.894c.07.424.384.764.78.93.398.164.855.142 1.205-.108l.737-.527a1.125 1.125 0 011.45.12l.773.774c.39.389.44 1.002.12 1.45l-.527.737c-.25.35-.272.806-.107 1.204.165.397.505.71.93.78l.893.15c.543.09.94.56.94 1.109v1.094c0 .55-.397 1.02-.94 1.11l-.893.149c-.425.07-.765.383-.93.78-.165.398-.143.854.107 1.204l.527.738c.32.447.269 1.06-.12 1.45l-.774.773a1.125 1.125 0 01-1.449.12l-.738-.527c-.35-.25-.806-.272-1.203-.107-.397.165-.71.505-.781.929l-.149.894c-.09.542-.56.94-1.11.94h-1.094c-.55 0-1.019-.398-1.11-.94l-.148-.894c-.071-.424-.384-.764-.781-.93-.398-.164-.854-.142-1.204.108l-.738.527c-.447.32-1.06.269-1.45-.12l-.773-.774a1.125 1.125 0 01-.12-1.45l.527-.737c.25-.35.273-.806.108-1.204-.165-.397-.505-.71-.93-.78l-.894-.15c-.542-.09-.94-.56-.94-1.109v-1.094c0-.55.398-1.02.94-1.11l.894-.149c.424-.07.765-.383.93-.78.165-.398.143-.854-.107-1.204l-.527-.738a1.125 1.125 0 01.12-1.45l.773-.773a1.125 1.125 0 011.45-.12l.737.527c.35.25.807.272 1.204.107.397-.165.71-.505.78-.929l.15-.894z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg></svg>Manufacturing</a></li>
+<li><a class="flex items-center gap-2" href="/solutions/device-management/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M8.25 3v1.5M4.5 8.25H3m18 0h-1.5M4.5 12H3m18 0h-1.5m-15 3.75H3m18 0h-1.5M8.25 19.5V21M12 3v1.5m0 15V21m3.75-18v1.5m0 15V21m-9-1.5h10.5a2.25 2.25 0 002.25-2.25V6.75a2.25 2.25 0 00-2.25-2.25H6.75A2.25 2.25 0 004.5 6.75v10.5a2.25 2.25 0 002.25 2.25zm.75-12h9v9h-9v-9z"></path></svg></svg>Device management</a></li>
+<li><a class="flex items-center gap-2" href="/solutions/data-integration/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125"></path></svg></svg>Data integration</a></li>
+</ul>
+</li>
+<li class="ff-nav-dropdown relative"><a class="flex items-center gap-1">Company<span class="ff-nav-chevron"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 ff-icon--down"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path></svg></span></a>
+<ul class="grid grid-cols-2 sm:grid-rows-6 sm:grid-flow-col">
+<li><a class="flex items-center gap-2" href="/about/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokewidth="{1.5}" stroke="currentColor" classname="w-6 h-6">
+<path strokelinecap="round" strokelinejoin="round" d="M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z"></path>
+</svg>
+</svg>About</a></li>
+<li><a class="flex items-center gap-2" href="/blog/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M12 7.5h1.5m-1.5 3h1.5m-7.5 3h7.5m-7.5 3h7.5m3-9h3.375c.621 0 1.125.504 1.125 1.125V18a2.25 2.25 0 01-2.25 2.25M16.5 7.5V18a2.25 2.25 0 002.25 2.25M16.5 7.5V4.875c0-.621-.504-1.125-1.125-1.125H4.125C3.504 3.75 3 4.254 3 4.875V18a2.25 2.25 0 002.25 2.25h13.5M6 7.5h3v3H6v-3z"></path></svg></svg>Blog</a></li>
+<li><a class="flex items-center gap-2" href="/changelog/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M10.343 3.94c.09-.542.56-.94 1.11-.94h1.093c.55 0 1.02.398 1.11.94l.149.894c.07.424.384.764.78.93.398.164.855.142 1.205-.108l.737-.527a1.125 1.125 0 011.45.12l.773.774c.39.389.44 1.002.12 1.45l-.527.737c-.25.35-.272.806-.107 1.204.165.397.505.71.93.78l.893.15c.543.09.94.56.94 1.109v1.094c0 .55-.397 1.02-.94 1.11l-.893.149c-.425.07-.765.383-.93.78-.165.398-.143.854.107 1.204l.527.738c.32.447.269 1.06-.12 1.45l-.774.773a1.125 1.125 0 01-1.449.12l-.738-.527c-.35-.25-.806-.272-1.203-.107-.397.165-.71.505-.781.929l-.149.894c-.09.542-.56.94-1.11.94h-1.094c-.55 0-1.019-.398-1.11-.94l-.148-.894c-.071-.424-.384-.764-.781-.93-.398-.164-.854-.142-1.204.108l-.738.527c-.447.32-1.06.269-1.45-.12l-.773-.774a1.125 1.125 0 01-.12-1.45l.527-.737c.25-.35.273-.806.108-1.204-.165-.397-.505-.71-.93-.78l-.894-.15c-.542-.09-.94-.56-.94-1.109v-1.094c0-.55.398-1.02.94-1.11l.894-.149c.424-.07.765-.383.93-.78.165-.398.143-.854-.107-1.204l-.527-.738a1.125 1.125 0 01.12-1.45l.773-.773a1.125 1.125 0 011.45-.12l.737.527c.35.25.807.272 1.204.107.397-.165.71-.505.78-.929l.15-.894z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg></svg>Changelog</a></li>
+<li><a class="flex items-center gap-2" href="/partners/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+<path stroke-linecap="round" stroke-linejoin="round" d="M14.25 6.087c0-.355.186-.676.401-.959.221-.29.349-.634.349-1.003 0-1.036-1.007-1.875-2.25-1.875s-2.25.84-2.25 1.875c0 .369.128.713.349 1.003.215.283.401.604.401.959v0a.64.64 0 01-.657.643 48.39 48.39 0 01-4.163-.3c.186 1.613.293 3.25.315 4.907a.656.656 0 01-.658.663v0c-.355 0-.676-.186-.959-.401a1.647 1.647 0 00-1.003-.349c-1.036 0-1.875 1.007-1.875 2.25s.84 2.25 1.875 2.25c.369 0 .713-.128 1.003-.349.283-.215.604-.401.959-.401v0c.31 0 .555.26.532.57a48.039 48.039 0 01-.642 5.056c1.518.19 3.058.309 4.616.354a.64.64 0 00.657-.643v0c0-.355-.186-.676-.401-.959a1.647 1.647 0 01-.349-1.003c0-1.035 1.008-1.875 2.25-1.875 1.243 0 2.25.84 2.25 1.875 0 .369-.128.713-.349 1.003-.215.283-.4.604-.4.959v0c0 .333.277.599.61.58a48.1 48.1 0 005.427-.63 48.05 48.05 0 00.582-4.717.532.532 0 00-.533-.57v0c-.355 0-.676.186-.959.401-.29.221-.634.349-1.003.349-1.035 0-1.875-1.007-1.875-2.25s.84-2.25 1.875-2.25c.37 0 .713.128 1.003.349.283.215.604.401.96.401v0a.656.656 0 00.658-.663 48.422 48.422 0 00-.37-5.36c-1.886.342-3.81.574-5.766.689a.578.578 0 01-.61-.58v0z"></path>
+</svg>
+</svg>Partners</a></li>
+<li><a class="flex items-center gap-2" href="/professional-services/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+<path stroke-linecap="round" stroke-linejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347m-15.482 0a50.57 50.57 0 00-2.658-.813A59.905 59.905 0 0112 3.493a59.902 59.902 0 0110.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.697 50.697 0 0112 13.489a50.702 50.702 0 017.74-3.342M6.75 15a.75.75 0 100-1.5.75.75 0 000 1.5zm0 0v-3.675A55.378 55.378 0 0112 8.443m-7.007 11.55A5.981 5.981 0 006.75 15.75v-1.5"></path>
+</svg></svg>Professional services</a></li>
+<li><a class="flex items-center gap-2" href="/team/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0 004.121-.952 4.125 4.125 0 00-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 018.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z"></path></svg></svg>Team</a></li>
+<li><a class="flex items-center gap-2" href="/handbook/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M11.48 3.499a.562.562 0 011.04 0l2.125 5.111a.563.563 0 00.475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 00-.182.557l1.285 5.385a.562.562 0 01-.84.61l-4.725-2.885a.563.563 0 00-.586 0L6.982 20.54a.562.562 0 01-.84-.61l1.285-5.386a.562.562 0 00-.182-.557l-4.204-3.602a.563.563 0 01.321-.988l5.518-.442a.563.563 0 00.475-.345L11.48 3.5z"></path></svg></svg>Handbook</a></li>
+<li><a class="flex items-center gap-2" href="https://boards.greenhouse.io/flowfuse"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 14.15v4.25c0 1.094-.787 2.036-1.872 2.18-2.087.277-4.216.42-6.378.42s-4.291-.143-6.378-.42c-1.085-.144-1.872-1.086-1.872-2.18v-4.25m16.5 0a2.18 2.18 0 00.75-1.661V8.706c0-1.081-.768-2.015-1.837-2.175a48.114 48.114 0 00-3.413-.387m4.5 8.006c-.194.165-.42.295-.673.38A23.978 23.978 0 0112 15.75c-2.648 0-5.195-.429-7.577-1.22a2.016 2.016 0 01-.673-.38m0 0A2.18 2.18 0 013 12.489V8.706c0-1.081.768-2.015 1.837-2.175a48.111 48.111 0 013.413-.387m7.5 0V5.25A2.25 2.25 0 0013.5 3h-3a2.25 2.25 0 00-2.25 2.25v.894m7.5 0a48.667 48.667 0 00-7.5 0M12 12.75h.008v.008H12v-.008z"></path></svg></svg>Jobs</a></li>
+<li><a class="flex items-center gap-2" href="/support/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 8.511c.884.284 1.5 1.128 1.5 2.097v4.286c0 1.136-.847 2.1-1.98 2.193-.34.027-.68.052-1.02.072v3.091l-3-3c-1.354 0-2.694-.055-4.02-.163a2.115 2.115 0 01-.825-.242m9.345-8.334a2.126 2.126 0 00-.476-.095 48.64 48.64 0 00-8.048 0c-1.131.094-1.976 1.057-1.976 2.192v4.286c0 .837.46 1.58 1.155 1.951m9.345-8.334V6.637c0-1.621-1.152-3.026-2.76-3.235A48.455 48.455 0 0011.25 3c-2.115 0-4.198.137-6.24.402-1.608.209-2.76 1.614-2.76 3.235v6.226c0 1.621 1.152 3.026 2.76 3.235.577.075 1.157.14 1.74.194V21l4.155-4.155"></path></svg></svg>Support</a></li>
+<li><a class="flex items-center gap-2" href="/contact-us/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75"></path></svg></svg>Contact us</a></li>
+<li><a class="flex items-center gap-2" href="/privacy-policy/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z"></path></svg></svg>Privacy</a></li>
+</ul>
+</li>
+<li class="ff-nav-dropdown relative"><a class="flex items-center gap-1">Resources<span class="ff-nav-chevron"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 ff-icon--down"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path></svg></span></a>
+<ul class="block sm:hidden">
+<li class="ff-nav-dropdown relative col-span-2"><a class="flex items-center gap-1"><svg class="ff-icon ff-icon-sm ff-icon--solid" fill="none" viewBox="0 0 24 24"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M1.59385 0.00234319C0.712771 0.00234319 0.00377529 0.711833 0.00377529 1.5929C0.00246514 4.50292 0.000461073 7.41546 0 10.3255C1.88965 10.3367 3.78181 10.3802 5.66642 10.2453C8.29428 10.0057 10.6072 8.59451 13.0285 7.66784C15.231 6.73638 17.5964 6.17101 19.9975 6.2214L19.9972 1.59056C19.9982 0.709238 19.288 0 18.4072 0L1.59385 0.00234319ZM19.999 9.37235C19.7332 9.37661 19.4671 9.38387 19.2013 9.39475C16.2686 9.38346 13.6684 10.8999 11.0229 11.9621C13.0675 12.7893 15.0416 13.8402 17.2084 14.3277C18.1343 14.4682 19.0658 14.5366 20 14.5566L19.999 9.37235ZM2.0776 13.5472C1.38548 13.5487 0.693371 13.5559 0.00176078 13.5594C0.00236546 15.1759 0.00357496 16.7919 0.00618771 18.4094C0.00711994 19.2908 0.715434 20 1.59626 20H18.4091C19.2901 20 19.9991 19.2905 19.9991 18.4094V17.7095C17.9324 17.696 15.8671 17.381 13.9422 16.6075C10.9641 15.5685 8.18508 13.7227 4.95252 13.5992C3.99561 13.554 3.03718 13.5451 2.07774 13.5473L2.0776 13.5472Z"></path></svg></svg>FlowFuse<span class="ff-nav-chevron"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 ff-icon--down"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path></svg></span></a>
+<ul class="sm:grid sm:grid-flow-col sm:grid-cols-2 sm:grid-rows-5">
+<li><a class="flex items-center gap-2" href="https://github.com/FlowFuse/flowfuse"><svg class="ff-icon ff-icon-sm ff-icon--solid" fill="none" viewBox="0 0 24 24"><svg height="100%" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="m12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"></path></svg></svg>Github</a></li>
+<li><a class="flex items-center gap-2" href="/docs/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z"></path></svg></svg>Docs</a></li>
+<li><a class="flex items-center gap-2" href="/blog/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M12 7.5h1.5m-1.5 3h1.5m-7.5 3h7.5m-7.5 3h7.5m3-9h3.375c.621 0 1.125.504 1.125 1.125V18a2.25 2.25 0 01-2.25 2.25M16.5 7.5V18a2.25 2.25 0 002.25 2.25M16.5 7.5V4.875c0-.621-.504-1.125-1.125-1.125H4.125C3.504 3.75 3 4.254 3 4.875V18a2.25 2.25 0 002.25 2.25h13.5M6 7.5h3v3H6v-3z"></path></svg></svg>Blog</a></li>
+<li><a class="flex items-center gap-2" href="/webinars/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M9 17.25v1.007a3 3 0 01-.879 2.122L7.5 21h9l-.621-.621A3 3 0 0115 18.257V17.25m6-12V15a2.25 2.25 0 01-2.25 2.25H5.25A2.25 2.25 0 013 15V5.25m18 0A2.25 2.25 0 0018.75 3H5.25A2.25 2.25 0 003 5.25m18 0V12a2.25 2.25 0 01-2.25 2.25H5.25A2.25 2.25 0 013 12V5.25"></path></svg></svg>Webinars</a></li>
+<li><a class="flex items-center gap-2" href="/community/newsletter/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M21.75 9v.906a2.25 2.25 0 01-1.183 1.981l-6.478 3.488M2.25 9v.906a2.25 2.25 0 001.183 1.981l6.478 3.488m8.839 2.51l-4.66-2.51m0 0l-1.023-.55a2.25 2.25 0 00-2.134 0l-1.022.55m0 0l-4.661 2.51m16.5 1.615a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V8.844a2.25 2.25 0 011.183-1.98l7.5-4.04a2.25 2.25 0 012.134 0l7.5 4.04a2.25 2.25 0 011.183 1.98V19.5z"></path></svg></svg>Newsletters</a></li>
+</ul>
+</li>
+<li class="ff-nav-dropdown relative"><a class="flex items-center gap-1"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill="currentColor" opacity="0.98" fill-rule="evenodd" clip-rule="evenodd" d="M18.9991 5.75876L9.50039 0.5L0.00170898 5.75552V16.2519L9.50039 21.5L18.9991 16.2523V5.75876ZM0.739258 15.7425V12.2324V11.5091V6.2687C0.739259 6.24022 0.747096 6.21223 0.761984 6.18757C0.776871 6.1629 0.798283 6.14241 0.824067 6.12817L9.41528 1.39129C9.44225 1.37644 9.47296 1.36896 9.50406 1.36968C9.53248 1.37029 9.56027 1.37772 9.5849 1.39129L18.1629 6.12817C18.2154 6.15715 18.2526 6.21074 18.2526 6.2687V15.7422C18.2526 15.8001 18.2154 15.8537 18.1629 15.8827L9.5849 20.6206C9.55912 20.6348 9.52987 20.6423 9.50009 20.6423C9.47032 20.6423 9.44107 20.6348 9.41528 20.6206L0.824067 15.883C0.798283 15.8688 0.776871 15.8483 0.761984 15.8236C0.747096 15.799 0.739259 15.771 0.739258 15.7425ZM17.9132 6.36221L9.50009 1.71912L1.08688 6.36224V9.16574H4.5695C5.1307 9.16879 5.60747 9.54735 5.6609 10.0719C6.07399 10.022 6.32811 9.9128 6.5096 9.75358C6.70938 9.57823 6.85069 9.33247 7.01508 9.04657C7.02577 9.02798 7.03656 9.00921 7.04747 8.99029C7.22611 8.6804 7.44434 8.32453 7.84335 8.06252C8.16587 7.85074 8.6407 7.7462 9.19858 7.71988V7.53479C9.19858 6.96413 9.66395 6.50433 10.2604 6.50433L14.5789 6.50439C15.1754 6.50439 15.7082 6.96419 15.7082 7.53486V8.55003C15.7082 9.12073 15.1733 9.58763 14.5768 9.58763H10.2583C9.66181 9.58763 9.19858 9.1207 9.19858 8.55003V8.41826C8.77674 8.44225 8.4509 8.51777 8.26004 8.64308C8.01497 8.80396 7.86178 9.03677 7.69236 9.33062C7.68405 9.34503 7.67569 9.35958 7.66726 9.37424C7.51577 9.63781 7.3423 9.93962 7.06365 10.207C8.64138 10.4465 9.42583 11.0198 10.0521 11.5438C10.8055 12.174 11.4096 12.6756 13.4353 12.69V12.5497C13.4353 11.979 13.9462 11.5025 14.5426 11.5025H17.9132V6.36221ZM14.579 7.21838H10.2605L10.2604 7.21841C10.0591 7.21841 9.8931 7.34217 9.8931 7.53482V8.54996C9.8931 8.74265 10.0569 8.87361 10.2583 8.87361H14.5768C14.7782 8.87361 14.928 8.74265 14.928 8.54996V7.53482C14.928 7.3421 14.7804 7.21838 14.579 7.21838ZM4.5694 9.81482H1.08711V11.5025H4.5694C4.7708 11.5025 4.92044 11.3751 4.92044 11.1824V10.1672C4.92044 9.9745 4.7708 9.81482 4.5694 9.81482ZM9.53929 12.05C8.76903 11.4052 8.08497 10.8326 5.68176 10.7964L5.68166 11.1824C5.68166 11.7531 5.16622 12.2164 4.56974 12.2164H1.08711V15.6486L9.50023 20.2927L17.9133 15.6486V14.5858H14.5428C13.9463 14.5858 13.4354 14.1357 13.4354 13.565V13.3888C11.2419 13.361 10.3183 12.7018 9.56774 12.0738C9.55824 12.0658 9.54876 12.0579 9.53929 12.05ZM17.9135 12.2165H14.543C14.3416 12.2165 14.1819 12.3571 14.1819 12.5497V13.5471C14.1819 13.7398 14.3416 13.8718 14.543 13.8718H17.9135V12.2165Z"></path>
+</svg>
+</svg>Node-RED<span class="ff-nav-chevron"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 ff-icon--down"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path></svg></span></a>
+<ul class="sm:grid sm:grid-flow-col sm:grid-cols-2 sm:grid-rows-5">
+<li><a class="flex items-center gap-2" href="/node-red/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokewidth="{1.5}" stroke="currentColor" classname="w-6 h-6">
+<path strokelinecap="round" strokelinejoin="round" d="M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z"></path>
+</svg>
+</svg>About</a></li>
+<li><a class="flex items-center gap-2" href="/node-red/core-nodes/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg>
+<g>
+<defs>
+<rect id="SVGID_1_" x="2" y="5" width="20" height="14"></rect>
+</defs>
+<clipPath id="SVGID_00000115488762289358135260000002093335360758826652_">
+<use xlink:href="#SVGID_1_" style="overflow:visible;"></use>
+</clipPath>
+<g style="clip-path:url(#SVGID_00000115488762289358135260000002093335360758826652_);">
+<path fill="currentColor" d="M2,12v-1.6c5.1,0,5.8-0.9,6.4-1.7c0.7-0.9,1.5-1.6,3.9-1.6v1.6c-1.8,0-2,0.4-2.5,0.9C8.8,10.9,7.5,12,2,12L2,12z"></path>
+<path fill="currentColor" d="M10.6,16.9c-2.9,0-3.5-1.5-3.9-2.6C6.2,13.1,5.8,12,2,12v-1.6c4.7,0,5.7,1.6,6.3,3.4c0.4,1,0.6,1.5,2.3,1.5V16.9z"></path>
+<path fill="currentColor" d="M18.8,19h-6.9c-0.9,0-1.7-0.7-1.7-1.6v-2.5c0-0.9,0.8-1.6,1.7-1.6h6.9c1,0,1.7,0.7,1.7,1.6v2.5C20.5,18.3,19.7,19,18.8,19
+				z M18.8,14.9h-6.9v2.5h6.9V14.9z"></path>
+<path fill="currentColor" d="M20.3,10.8h-6.9c-0.9,0-1.7-0.7-1.7-1.6V6.6c0-0.9,0.8-1.6,1.7-1.6h6.9c1,0,1.7,0.7,1.7,1.6v2.5
+				C22,10,21.2,10.8,20.3,10.8z M20.3,6.6h-6.9v2.5h6.9V6.6z"></path>
+</g>
+</g>
+</svg></svg>Core nodes</a></li>
+<li><a class="flex items-center gap-2" href="/blog/2023/01/getting-started-with-node-red/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h3.75M9 15h3.75M9 18h3.75m3 .75H18a2.25 2.25 0 002.25-2.25V6.108c0-1.135-.845-2.098-1.976-2.192a48.424 48.424 0 00-1.123-.08m-5.801 0c-.065.21-.1.433-.1.664 0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75 2.25 2.25 0 00-.1-.664m-5.8 0A2.251 2.251 0 0113.5 2.25H15c1.012 0 1.867.668 2.15 1.586m-5.8 0c-.376.023-.75.05-1.124.08C9.095 4.01 8.25 4.973 8.25 6.108V8.25m0 0H4.875c-.621 0-1.125.504-1.125 1.125v11.25c0 .621.504 1.125 1.125 1.125h9.75c.621 0 1.125-.504 1.125-1.125V9.375c0-.621-.504-1.125-1.125-1.125H8.25zM6.75 12h.008v.008H6.75V12zm0 3h.008v.008H6.75V15zm0 3h.008v.008H6.75V18z"></path></svg></svg>Getting started</a></li>
+<li><a class="flex items-center gap-2" href="https://github.com/node-red/node-red"><svg class="ff-icon ff-icon-sm ff-icon--solid" fill="none" viewBox="0 0 24 24"><svg height="100%" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="m12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"></path></svg></svg>Github</a></li>
+<li><a class="flex items-center gap-2" href="https://nodered.org/docs/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z"></path></svg></svg>Docs</a></li>
+<li><a class="flex items-center gap-2" href="https://discourse.nodered.org/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M11.48 3.499a.562.562 0 011.04 0l2.125 5.111a.563.563 0 00.475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 00-.182.557l1.285 5.385a.562.562 0 01-.84.61l-4.725-2.885a.563.563 0 00-.586 0L6.982 20.54a.562.562 0 01-.84-.61l1.285-5.386a.562.562 0 00-.182-.557l-4.204-3.602a.563.563 0 01.321-.988l5.518-.442a.563.563 0 00.475-.345L11.48 3.5z"></path></svg></svg>Support forums</a></li>
+</ul>
+</li>
+</ul>
+<ul class="ff-nav-nested-cols hidden bg-gray-600 sm:flex">
+<div class="flex-grow">
+<li class="bg-gray-700"><a class="flex items-center gap-2"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill="currentColor" opacity="0.98" fill-rule="evenodd" clip-rule="evenodd" d="M18.9991 5.75876L9.50039 0.5L0.00170898 5.75552V16.2519L9.50039 21.5L18.9991 16.2523V5.75876ZM0.739258 15.7425V12.2324V11.5091V6.2687C0.739259 6.24022 0.747096 6.21223 0.761984 6.18757C0.776871 6.1629 0.798283 6.14241 0.824067 6.12817L9.41528 1.39129C9.44225 1.37644 9.47296 1.36896 9.50406 1.36968C9.53248 1.37029 9.56027 1.37772 9.5849 1.39129L18.1629 6.12817C18.2154 6.15715 18.2526 6.21074 18.2526 6.2687V15.7422C18.2526 15.8001 18.2154 15.8537 18.1629 15.8827L9.5849 20.6206C9.55912 20.6348 9.52987 20.6423 9.50009 20.6423C9.47032 20.6423 9.44107 20.6348 9.41528 20.6206L0.824067 15.883C0.798283 15.8688 0.776871 15.8483 0.761984 15.8236C0.747096 15.799 0.739259 15.771 0.739258 15.7425ZM17.9132 6.36221L9.50009 1.71912L1.08688 6.36224V9.16574H4.5695C5.1307 9.16879 5.60747 9.54735 5.6609 10.0719C6.07399 10.022 6.32811 9.9128 6.5096 9.75358C6.70938 9.57823 6.85069 9.33247 7.01508 9.04657C7.02577 9.02798 7.03656 9.00921 7.04747 8.99029C7.22611 8.6804 7.44434 8.32453 7.84335 8.06252C8.16587 7.85074 8.6407 7.7462 9.19858 7.71988V7.53479C9.19858 6.96413 9.66395 6.50433 10.2604 6.50433L14.5789 6.50439C15.1754 6.50439 15.7082 6.96419 15.7082 7.53486V8.55003C15.7082 9.12073 15.1733 9.58763 14.5768 9.58763H10.2583C9.66181 9.58763 9.19858 9.1207 9.19858 8.55003V8.41826C8.77674 8.44225 8.4509 8.51777 8.26004 8.64308C8.01497 8.80396 7.86178 9.03677 7.69236 9.33062C7.68405 9.34503 7.67569 9.35958 7.66726 9.37424C7.51577 9.63781 7.3423 9.93962 7.06365 10.207C8.64138 10.4465 9.42583 11.0198 10.0521 11.5438C10.8055 12.174 11.4096 12.6756 13.4353 12.69V12.5497C13.4353 11.979 13.9462 11.5025 14.5426 11.5025H17.9132V6.36221ZM14.579 7.21838H10.2605L10.2604 7.21841C10.0591 7.21841 9.8931 7.34217 9.8931 7.53482V8.54996C9.8931 8.74265 10.0569 8.87361 10.2583 8.87361H14.5768C14.7782 8.87361 14.928 8.74265 14.928 8.54996V7.53482C14.928 7.3421 14.7804 7.21838 14.579 7.21838ZM4.5694 9.81482H1.08711V11.5025H4.5694C4.7708 11.5025 4.92044 11.3751 4.92044 11.1824V10.1672C4.92044 9.9745 4.7708 9.81482 4.5694 9.81482ZM9.53929 12.05C8.76903 11.4052 8.08497 10.8326 5.68176 10.7964L5.68166 11.1824C5.68166 11.7531 5.16622 12.2164 4.56974 12.2164H1.08711V15.6486L9.50023 20.2927L17.9133 15.6486V14.5858H14.5428C13.9463 14.5858 13.4354 14.1357 13.4354 13.565V13.3888C11.2419 13.361 10.3183 12.7018 9.56774 12.0738C9.55824 12.0658 9.54876 12.0579 9.53929 12.05ZM17.9135 12.2165H14.543C14.3416 12.2165 14.1819 12.3571 14.1819 12.5497V13.5471C14.1819 13.7398 14.3416 13.8718 14.543 13.8718H17.9135V12.2165Z"></path>
+</svg>
+</svg>Node-RED</a></li>
+<ul class="sm:grid sm:grid-flow-col sm:grid-rows-6 sm:grid-cols-1 sm:pr-6">
+<li><a class="flex items-center gap-2" href="/node-red/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokewidth="{1.5}" stroke="currentColor" classname="w-6 h-6">
+<path strokelinecap="round" strokelinejoin="round" d="M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z"></path>
+</svg>
+</svg>About</a></li>
+<li><a class="flex items-center gap-2" href="/node-red/core-nodes/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg>
+<g>
+<defs>
+<rect id="SVGID_1_" x="2" y="5" width="20" height="14"></rect>
+</defs>
+<clipPath id="SVGID_00000115488762289358135260000002093335360758826652_">
+<use xlink:href="#SVGID_1_" style="overflow:visible;"></use>
+</clipPath>
+<g style="clip-path:url(#SVGID_00000115488762289358135260000002093335360758826652_);">
+<path fill="currentColor" d="M2,12v-1.6c5.1,0,5.8-0.9,6.4-1.7c0.7-0.9,1.5-1.6,3.9-1.6v1.6c-1.8,0-2,0.4-2.5,0.9C8.8,10.9,7.5,12,2,12L2,12z"></path>
+<path fill="currentColor" d="M10.6,16.9c-2.9,0-3.5-1.5-3.9-2.6C6.2,13.1,5.8,12,2,12v-1.6c4.7,0,5.7,1.6,6.3,3.4c0.4,1,0.6,1.5,2.3,1.5V16.9z"></path>
+<path fill="currentColor" d="M18.8,19h-6.9c-0.9,0-1.7-0.7-1.7-1.6v-2.5c0-0.9,0.8-1.6,1.7-1.6h6.9c1,0,1.7,0.7,1.7,1.6v2.5C20.5,18.3,19.7,19,18.8,19
+				z M18.8,14.9h-6.9v2.5h6.9V14.9z"></path>
+<path fill="currentColor" d="M20.3,10.8h-6.9c-0.9,0-1.7-0.7-1.7-1.6V6.6c0-0.9,0.8-1.6,1.7-1.6h6.9c1,0,1.7,0.7,1.7,1.6v2.5
+				C22,10,21.2,10.8,20.3,10.8z M20.3,6.6h-6.9v2.5h6.9V6.6z"></path>
+</g>
+</g>
+</svg></svg>Core nodes</a></li>
+<li><a class="flex items-center gap-2" href="/blog/2023/01/getting-started-with-node-red/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h3.75M9 15h3.75M9 18h3.75m3 .75H18a2.25 2.25 0 002.25-2.25V6.108c0-1.135-.845-2.098-1.976-2.192a48.424 48.424 0 00-1.123-.08m-5.801 0c-.065.21-.1.433-.1.664 0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75 2.25 2.25 0 00-.1-.664m-5.8 0A2.251 2.251 0 0113.5 2.25H15c1.012 0 1.867.668 2.15 1.586m-5.8 0c-.376.023-.75.05-1.124.08C9.095 4.01 8.25 4.973 8.25 6.108V8.25m0 0H4.875c-.621 0-1.125.504-1.125 1.125v11.25c0 .621.504 1.125 1.125 1.125h9.75c.621 0 1.125-.504 1.125-1.125V9.375c0-.621-.504-1.125-1.125-1.125H8.25zM6.75 12h.008v.008H6.75V12zm0 3h.008v.008H6.75V15zm0 3h.008v.008H6.75V18z"></path></svg></svg>Getting started</a></li>
+<li><a class="flex items-center gap-2" href="https://github.com/node-red/node-red"><svg class="ff-icon ff-icon-sm ff-icon--solid" fill="none" viewBox="0 0 24 24"><svg height="100%" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="m12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"></path></svg></svg>Github</a></li>
+<li><a class="flex items-center gap-2" href="https://nodered.org/docs/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z"></path></svg></svg>Docs</a></li>
+<li><a class="flex items-center gap-2" href="https://discourse.nodered.org/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M11.48 3.499a.562.562 0 011.04 0l2.125 5.111a.563.563 0 00.475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 00-.182.557l1.285 5.385a.562.562 0 01-.84.61l-4.725-2.885a.563.563 0 00-.586 0L6.982 20.54a.562.562 0 01-.84-.61l1.285-5.386a.562.562 0 00-.182-.557l-4.204-3.602a.563.563 0 01.321-.988l5.518-.442a.563.563 0 00.475-.345L11.48 3.5z"></path></svg></svg>Support forums</a></li>
+</ul>
+</div>
+<div class="flex-grow-[2]">
+<li class="bg-gray-700 border-r border-gray-600"><a class="flex items-center gap-2"><svg class="ff-icon ff-icon-sm ff-icon--solid" fill="none" viewBox="0 0 24 24"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M1.59385 0.00234319C0.712771 0.00234319 0.00377529 0.711833 0.00377529 1.5929C0.00246514 4.50292 0.000461073 7.41546 0 10.3255C1.88965 10.3367 3.78181 10.3802 5.66642 10.2453C8.29428 10.0057 10.6072 8.59451 13.0285 7.66784C15.231 6.73638 17.5964 6.17101 19.9975 6.2214L19.9972 1.59056C19.9982 0.709238 19.288 0 18.4072 0L1.59385 0.00234319ZM19.999 9.37235C19.7332 9.37661 19.4671 9.38387 19.2013 9.39475C16.2686 9.38346 13.6684 10.8999 11.0229 11.9621C13.0675 12.7893 15.0416 13.8402 17.2084 14.3277C18.1343 14.4682 19.0658 14.5366 20 14.5566L19.999 9.37235ZM2.0776 13.5472C1.38548 13.5487 0.693371 13.5559 0.00176078 13.5594C0.00236546 15.1759 0.00357496 16.7919 0.00618771 18.4094C0.00711994 19.2908 0.715434 20 1.59626 20H18.4091C19.2901 20 19.9991 19.2905 19.9991 18.4094V17.7095C17.9324 17.696 15.8671 17.381 13.9422 16.6075C10.9641 15.5685 8.18508 13.7227 4.95252 13.5992C3.99561 13.554 3.03718 13.5451 2.07774 13.5473L2.0776 13.5472Z"></path></svg></svg>FlowFuse</a></li>
+<ul class="sm:grid sm:grid-flow-col sm:grid-rows-6 sm:grid-cols-1 sm:pr-9">
+<li><a class="flex items-center gap-2" href="https://github.com/FlowFuse/flowfuse"><svg class="ff-icon ff-icon-sm ff-icon--solid" fill="none" viewBox="0 0 24 24"><svg height="100%" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="m12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"></path></svg></svg>Github</a></li>
+<li><a class="flex items-center gap-2" href="/docs/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z"></path></svg></svg>Docs</a></li>
+<li><a class="flex items-center gap-2" href="/blog/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M12 7.5h1.5m-1.5 3h1.5m-7.5 3h7.5m-7.5 3h7.5m3-9h3.375c.621 0 1.125.504 1.125 1.125V18a2.25 2.25 0 01-2.25 2.25M16.5 7.5V18a2.25 2.25 0 002.25 2.25M16.5 7.5V4.875c0-.621-.504-1.125-1.125-1.125H4.125C3.504 3.75 3 4.254 3 4.875V18a2.25 2.25 0 002.25 2.25h13.5M6 7.5h3v3H6v-3z"></path></svg></svg>Blog</a></li>
+<li><a class="flex items-center gap-2" href="/webinars/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M9 17.25v1.007a3 3 0 01-.879 2.122L7.5 21h9l-.621-.621A3 3 0 0115 18.257V17.25m6-12V15a2.25 2.25 0 01-2.25 2.25H5.25A2.25 2.25 0 013 15V5.25m18 0A2.25 2.25 0 0018.75 3H5.25A2.25 2.25 0 003 5.25m18 0V12a2.25 2.25 0 01-2.25 2.25H5.25A2.25 2.25 0 013 12V5.25"></path></svg></svg>Webinars</a></li>
+<li><a class="flex items-center gap-2" href="/community/newsletter/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M21.75 9v.906a2.25 2.25 0 01-1.183 1.981l-6.478 3.488M2.25 9v.906a2.25 2.25 0 001.183 1.981l6.478 3.488m8.839 2.51l-4.66-2.51m0 0l-1.023-.55a2.25 2.25 0 00-2.134 0l-1.022.55m0 0l-4.661 2.51m16.5 1.615a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V8.844a2.25 2.25 0 011.183-1.98l7.5-4.04a2.25 2.25 0 012.134 0l7.5 4.04a2.25 2.25 0 011.183 1.98V19.5z"></path></svg></svg>Newsletters</a></li>
+<li><a class="flex items-center gap-2" href="https://community.flowfuse.com/"><svg class="ff-icon ff-icon-sm" fill="none" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M11.48 3.499a.562.562 0 011.04 0l2.125 5.111a.563.563 0 00.475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 00-.182.557l1.285 5.385a.562.562 0 01-.84.61l-4.725-2.885a.563.563 0 00-.586 0L6.982 20.54a.562.562 0 01-.84-.61l1.285-5.386a.562.562 0 00-.182-.557l-4.204-3.602a.563.563 0 01.321-.988l5.518-.442a.563.563 0 00.475-.345L11.48 3.5z"></path></svg></svg>Support forums</a></li>
+</ul>
+</div>
+</ul>
+</li>
+<li><a class="flex items-center gap-2" href="/docs/">Docs</a></li>
+</ul>
+<ul class="hidden cta top-8 right-0 border shadow-sm md:inline md:shadow-none w-36 z-10 md:border-0 bg-white md:bg-transparent md:w-auto rounded md:static md:float-none md:flex md:flex-row flex-col items-center justify-end font-medium text no-underline">
+<li class="flex"><a href="https://app.flowfuse.com">Sign In</a></li>
+<li class="flex"><a href="https://app.flowfuse.com/account/create" onclick="capture('cta-join', {'position': 'header'})">Free Trial</a></li>
+<a class="ml-2 ff-btn ff-btn--primary uppercase text-sm inline-flex" href="/contact-us" onclick="capture('cta-talk-to-sales', {'position': 'header'})">Talk to Sales</a>
+</ul>
+</nav>
+<div id="mobile-ctas" class="hidden fixed bottom-0 z-20">
+<div class="grid grid-cols-2 gap-2">
+<a href="https://app.flowfuse.com" class="ff-btn ff-btn--tertiary">Sign In</a>
+<a href="https://app.flowfuse.com/account/create" onclick="capture('cta-join', {'position': 'header'})" class="ff-btn ff-btn--tertiary">Free Trial</a>
+</div>
+<a class="ff-btn ff-btn--primary" href="/contact-us" onclick="capture('cta-talk-to-sales', {'position': 'header'})">Talk to Sales</a>
+</div>
+</header>
+<main class="flex flex-col mx-auto items-center justify-center gradient-bg">
+<div class="w-full px-6 pb-24 mt-12 ff-bg-flows">
+<div class="container m-auto text-left max-w-screen-lg lg:flex lg:flex-row lg:items-start lg:justify-between lg:gap-6">
+<div class="max-w-xl mx-auto lg:mx-0 lg:my-auto lg:py-10 lg:max-w-[600px]">
+<h1 class="text-gray-50 max-w-xl m-auto lg:m-0 text-center lg:text-left">
+Elevate Node-RED with FlowFuse
+</h1>
+<p class="mt-6 text-gray-400 text-lg font-normal text-center lg:text-left">
+Capture and leverage data. FlowFuse provides a complete platform to scale your production applications, increase developer velocity, and enhance security in order to accelerate innovation.
+</p>
+<div class="flex flex-col">
+<div class="m-auto mt-7 flex gap-4 items-center justify-center lg:items-start lg:justify-start lg:m-0 flex-row">
+<a class="ff-btn ff-btn--primary flex flex-col mb-6" href="https://app.flowfuse.com/account/create" onclick="capture('cta-try-it-now', {'position': 'hero'})">
+<span class="text-base uppercase items-center">
+TRY IT OUT
+</span>
+</a>
+<a class="ff-btn flex flex-col mb-6" href="/contact-us" onclick="capture('cta-contact-us', {'position': 'hero'})">
+<span class="text-base flex gap-2 uppercase items-center text-gray-200">
+Contact us
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12h15m0 0l-6.75-6.75M19.5 12l-6.75 6.75"></path></svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="flex justify-center items-end m-auto lg:mx-0">
+<lite-youtube videoid="eR0P40sxge8" style="background-image: url('images/thumbnail-nick-flowfuse.png'); width: 620px; height: 360px" class="max-w-xs max-h-48 border-4 rounded-md sm:max-w-none sm:max-h-full lg:max-w-lg lg:max-h-72"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button></lite-youtube>
+</div>
+</div>
+</div>
+<div class="ff-divider ff-divider--shallow">
+<svg xmlns="http://www.w3.org/2000/svg" width="1442" height="172" fill="none" viewBox="0 0 1442 172" preserveAspectRatio="none">
+<path fill="#BC3838" d="M0 172h414.325c147.535-40.967 259.941-58.893 262.567-59.31-2.726.428-124.054 18.996-359.155-27.05C79.934 39.062 0 0 0 0v172z"></path>
+<path fill="#F9FAFB" d="M726.395 105.629C484.848 138.752 242.394 172 0 172h1442V40c-237.01 0-475.86 32.753-715.605 65.629z"></path>
+</svg>
+</div>
+<div class="w-full ff-bg-light px-6 pt-8">
+<div class="container m-auto text-center max-w-5xl">
+<div class="m-auto mb-12 w-full text-center mb-12 sm:mb-16">
+<ul class="flex flex-row justify-center md:justify-between flex-wrap md:flex-nowrap gap-[8%] md:gap-[5%] w-full items-center -mb-6 md:mb-0">
+<li class="w-[46px] sm:w-[62px] pb-3 sm:pb-6 md:pb-0 shrink sm:shrink-0"><picture><source type="image/avif" srcset="/img/arduino-logo-SkJcsfqXX--62.avif 62w" sizes="(min-device-pixel-ratio: 1.25) 124px, (min-resolution: 120dpi) 124px, 62px"><source type="image/webp" srcset="/img/arduino-logo-SkJcsfqXX--62.webp 62w" sizes="(min-device-pixel-ratio: 1.25) 124px, (min-resolution: 120dpi) 124px, 62px"><img alt="Arduino logo" loading="lazy" decoding="async" src="/img/arduino-logo-SkJcsfqXX--62.jpeg" width="62" height="42"></picture></li>
+<li class="w-[135px] sm:w-[156px] pb-3 sm:pb-6 md:pb-0 shrink sm:shrink-0"><picture><source type="image/avif" srcset="/img/leclanche-logo-Z3ITczNU6p-156.avif 156w, /img/leclanche-logo-Z3ITczNU6p-312.avif 312w" sizes="(min-device-pixel-ratio: 1.25) 312px, (min-resolution: 120dpi) 312px, 156px"><source type="image/webp" srcset="/img/leclanche-logo-Z3ITczNU6p-156.webp 156w, /img/leclanche-logo-Z3ITczNU6p-312.webp 312w" sizes="(min-device-pixel-ratio: 1.25) 312px, (min-resolution: 120dpi) 312px, 156px"><source type="image/jpeg" srcset="/img/leclanche-logo-Z3ITczNU6p-156.jpeg 156w, /img/leclanche-logo-Z3ITczNU6p-312.jpeg 312w" sizes="(min-device-pixel-ratio: 1.25) 312px, (min-resolution: 120dpi) 312px, 156px"><img alt="Leclanché logo" loading="lazy" decoding="async" src="/img/leclanche-logo-Z3ITczNU6p-156.jpeg" width="312" height="82"></picture></li>
+<li class="w-[72px] sm:w-[80px] pb-3 sm:pb-6 md:pb-0 shrink sm:shrink-0"><picture><source type="image/avif" srcset="/img/airship-logo-bjds1-dDEO-80.avif 80w, /img/airship-logo-bjds1-dDEO-160.avif 160w" sizes="(min-device-pixel-ratio: 1.25) 160px, (min-resolution: 120dpi) 160px, 80px"><source type="image/webp" srcset="/img/airship-logo-bjds1-dDEO-80.webp 80w, /img/airship-logo-bjds1-dDEO-160.webp 160w" sizes="(min-device-pixel-ratio: 1.25) 160px, (min-resolution: 120dpi) 160px, 80px"><source type="image/jpeg" srcset="/img/airship-logo-bjds1-dDEO-80.jpeg 80w, /img/airship-logo-bjds1-dDEO-160.jpeg 160w" sizes="(min-device-pixel-ratio: 1.25) 160px, (min-resolution: 120dpi) 160px, 80px"><img alt="Airship logo" loading="lazy" decoding="async" src="/img/airship-logo-bjds1-dDEO-80.jpeg" width="160" height="83"></picture></li>
+<li class="w-[113px] sm:w-[131px] pb-3 sm:pb-6 md:pb-0 shrink sm:shrink-0"><picture><source type="image/avif" srcset="/img/bosch-logo-U1IBra4kvT-131.avif 131w" sizes="(min-device-pixel-ratio: 1.25) 262px, (min-resolution: 120dpi) 262px, 131px"><source type="image/webp" srcset="/img/bosch-logo-U1IBra4kvT-131.webp 131w" sizes="(min-device-pixel-ratio: 1.25) 262px, (min-resolution: 120dpi) 262px, 131px"><img alt="Bosch logo" loading="lazy" decoding="async" src="/img/bosch-logo-U1IBra4kvT-131.jpeg" width="131" height="51"></picture></li>
+<li class="w-[55px] sm:w-[60px] pb-3 sm:pb-6 md:pb-0 shrink sm:shrink-0"><picture><source type="image/avif" srcset="/img/heatweb-logo-qyHqONf_6M-60.avif 60w" sizes="(min-device-pixel-ratio: 1.25) 120px, (min-resolution: 120dpi) 120px, 60px"><source type="image/webp" srcset="/img/heatweb-logo-qyHqONf_6M-60.webp 60w" sizes="(min-device-pixel-ratio: 1.25) 120px, (min-resolution: 120dpi) 120px, 60px"><img alt="Heatweb logo" loading="lazy" decoding="async" src="/img/heatweb-logo-qyHqONf_6M-60.jpeg" width="60" height="40"></picture></li>
+<li class="w-[81px] sm:w-[90px] pb-3 sm:pb-6 md:pb-0 shrink sm:shrink-0"><picture><source type="image/avif" srcset="/img/enexis-logo-qtFrZ_IG7K-90.avif 90w" sizes="(min-device-pixel-ratio: 1.25) 180px, (min-resolution: 120dpi) 180px, 90px"><source type="image/webp" srcset="/img/enexis-logo-qtFrZ_IG7K-90.webp 90w" sizes="(min-device-pixel-ratio: 1.25) 180px, (min-resolution: 120dpi) 180px, 90px"><img alt="Enexis logo" loading="lazy" decoding="async" src="/img/enexis-logo-qtFrZ_IG7K-90.jpeg" width="90" height="40"></picture></li>
+<li class="w-[123px] sm:w-[140px] pb-3 sm:pb-6 md:pb-0 shrink sm:shrink-0"><picture><source type="image/avif" srcset="/img/iniationware-logo-EUnoVrHmW6-140.avif 140w, /img/iniationware-logo-EUnoVrHmW6-280.avif 280w" sizes="(min-device-pixel-ratio: 1.25) 280px, (min-resolution: 120dpi) 280px, 140px"><source type="image/webp" srcset="/img/iniationware-logo-EUnoVrHmW6-140.webp 140w, /img/iniationware-logo-EUnoVrHmW6-280.webp 280w" sizes="(min-device-pixel-ratio: 1.25) 280px, (min-resolution: 120dpi) 280px, 140px"><source type="image/jpeg" srcset="/img/iniationware-logo-EUnoVrHmW6-140.jpeg 140w, /img/iniationware-logo-EUnoVrHmW6-280.jpeg 280w" sizes="(min-device-pixel-ratio: 1.25) 280px, (min-resolution: 120dpi) 280px, 140px"><img alt="Iniationware logo" loading="lazy" decoding="async" src="/img/iniationware-logo-EUnoVrHmW6-140.jpeg" width="280" height="80"></picture></li>
+</ul>
+</div>
+<div class="m-auto w-full text-center mt-20 md:mb-8 md:mt-24">
+<h2>Why FlowFuse?</h2>
+</div>
+</div>
+</div>
+<div class="about w-full ff-bg-light pt-10 pb-12">
+<div class="container mx-auto max-w-lg sm:max-w-screen-lg flex flex-col md:flex md:flex-row md:flex-wrap gap-y-14">
+<div class="relative w-full px-4 mx-auto md:w-1/2">
+<div class="flex flex-col items-center md:items-start z-10">
+<div class="flex flex-col justify-center md:justify-start items-start gap-6 md:min-h-28 w-full">
+<div class="max-w-[64px] w-full max-w-sm md:w-1/5 sm:max-h-full h-16 m-auto md:m-0">
+<picture><source type="image/avif" srcset="/img/device_group_red-K-nCAqzK-A-64.avif 64w, /img/device_group_red-K-nCAqzK-A-128.avif 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/webp" srcset="/img/device_group_red-K-nCAqzK-A-64.webp 64w, /img/device_group_red-K-nCAqzK-A-128.webp 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/jpeg" srcset="/img/device_group_red-K-nCAqzK-A-64.jpeg 64w, /img/device_group_red-K-nCAqzK-A-128.jpeg 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><img alt="Image depicting data transformation" loading="lazy" decoding="async" src="/img/device_group_red-K-nCAqzK-A-64.jpeg" width="128" height="128"></picture>
+</div>
+<div class="flex flex-row gap-3 m-auto md:m-0 text-center md:text-left">
+<h5>
+<div class="text-xl">Capture data like never before</div>
+</h5>
+</div>
+</div>
+<div>
+<p class="text-center md:text-left">Gathering data from your operations is key to start a digital transformation. We make it easy to access, transform, and visualize data over any protocol.</p>
+</div>
+</div>
+</div>
+<div class="relative w-full px-4 mx-auto md:w-1/2">
+<div class="flex flex-col items-center md:items-start z-10">
+<div class="flex flex-col justify-center md:justify-start items-start gap-6 md:min-h-28 w-full">
+<div class="max-w-[64px] w-full max-w-sm md:w-1/5 sm:max-h-full h-16 m-auto md:m-0">
+<picture><source type="image/avif" srcset="/img/bespoke_red-KBbdCtIHJ8-64.avif 64w, /img/bespoke_red-KBbdCtIHJ8-128.avif 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/webp" srcset="/img/bespoke_red-KBbdCtIHJ8-64.webp 64w, /img/bespoke_red-KBbdCtIHJ8-128.webp 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/jpeg" srcset="/img/bespoke_red-KBbdCtIHJ8-64.jpeg 64w, /img/bespoke_red-KBbdCtIHJ8-128.jpeg 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><img alt="Image depicting icon of code" loading="lazy" decoding="async" src="/img/bespoke_red-KBbdCtIHJ8-64.jpeg" width="128" height="128"></picture>
+</div>
+<div class="flex flex-row gap-3 m-auto md:m-0 text-center md:text-left">
+<h5>
+<div class="text-xl">Custom solutions for your company</div>
+</h5>
+</div>
+</div>
+<div>
+<p class="text-center md:text-left">FlowFuse offers the customization essential for your specific needs. Leveraging Node-RED and its extensive library, we enable the creation of manufacturing applications that align perfectly with your operational requirements.</p>
+</div>
+</div>
+</div>
+<div class="relative w-full px-4 mx-auto md:w-1/2">
+<div class="flex flex-col items-center md:items-start z-10">
+<div class="flex flex-col justify-center md:justify-start items-start gap-6 md:min-h-28 w-full">
+<div class="max-w-[64px] w-full max-w-sm md:w-1/5 sm:max-h-full h-16 m-auto md:m-0">
+<picture><source type="image/avif" srcset="/img/scalable_pictogram_red-NYkbx2zk6O-64.avif 64w, /img/scalable_pictogram_red-NYkbx2zk6O-128.avif 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/webp" srcset="/img/scalable_pictogram_red-NYkbx2zk6O-64.webp 64w, /img/scalable_pictogram_red-NYkbx2zk6O-128.webp 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/jpeg" srcset="/img/scalable_pictogram_red-NYkbx2zk6O-64.jpeg 64w, /img/scalable_pictogram_red-NYkbx2zk6O-128.jpeg 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><img alt="Image depicting scalability" loading="lazy" decoding="async" src="/img/scalable_pictogram_red-NYkbx2zk6O-64.jpeg" width="128" height="128"></picture>
+</div>
+<div class="flex flex-row gap-3 m-auto md:m-0 text-center md:text-left">
+<h5>
+<div class="text-xl">Centralized management and automated deployment</div>
+</h5>
+</div>
+</div>
+<div>
+<p class="text-center md:text-left">FlowFuse streamlines the management of your development environments, offering a unified platform for deployment and configuration. With our automated processes, creating and deploying configurations across multiple devices is efficient and hassle-free.</p>
+</div>
+</div>
+</div>
+<div class="relative w-full px-4 mx-auto md:w-1/2">
+<div class="flex flex-col items-center md:items-start z-10">
+<div class="flex flex-col justify-center md:justify-start items-start gap-6 md:min-h-28 w-full">
+<div class="max-w-[64px] w-full max-w-sm md:w-1/5 sm:max-h-full h-16 m-auto md:m-0">
+<picture><source type="image/avif" srcset="/img/small-pipeline_red-XQL9UMo-Je-64.avif 64w, /img/small-pipeline_red-XQL9UMo-Je-128.avif 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/webp" srcset="/img/small-pipeline_red-XQL9UMo-Je-64.webp 64w, /img/small-pipeline_red-XQL9UMo-Je-128.webp 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/jpeg" srcset="/img/small-pipeline_red-XQL9UMo-Je-64.jpeg 64w, /img/small-pipeline_red-XQL9UMo-Je-128.jpeg 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><img alt="Image depicting a pipeline of Node-RED instances" loading="lazy" decoding="async" src="/img/small-pipeline_red-XQL9UMo-Je-64.jpeg" width="128" height="128"></picture>
+</div>
+<div class="flex flex-row gap-3 m-auto md:m-0 text-center md:text-left">
+<h5>
+<div class="text-xl">Reliable delivery every time</div>
+</h5>
+</div>
+</div>
+<div>
+<p class="text-center md:text-left">FlowFuse revolutionizes the software development process, streamlining the lifecycle for your applications. Our DevOps pipelines facilitate development, testing, and production, ensuring consistent and reliable application delivery.</p>
+</div>
+</div>
+</div>
+<div class="relative w-full px-4 mx-auto md:w-1/2">
+<div class="flex flex-col items-center md:items-start z-10">
+<div class="flex flex-col justify-center md:justify-start items-start gap-6 md:min-h-28 w-full">
+<div class="max-w-[64px] w-full max-w-sm md:w-1/5 sm:max-h-full h-16 m-auto md:m-0">
+<picture><source type="image/avif" srcset="/img/security_pictogram_red-ApGmOMBgjf-64.avif 64w, /img/security_pictogram_red-ApGmOMBgjf-128.avif 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/webp" srcset="/img/security_pictogram_red-ApGmOMBgjf-64.webp 64w, /img/security_pictogram_red-ApGmOMBgjf-128.webp 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/jpeg" srcset="/img/security_pictogram_red-ApGmOMBgjf-64.jpeg 64w, /img/security_pictogram_red-ApGmOMBgjf-128.jpeg 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><img alt="Image depicting a lock" loading="lazy" decoding="async" src="/img/security_pictogram_red-ApGmOMBgjf-64.jpeg" width="128" height="128"></picture>
+</div>
+<div class="flex flex-row gap-3 m-auto md:m-0 text-center md:text-left">
+<h5>
+<div class="text-xl">Secure and compliant development</div>
+</h5>
+</div>
+</div>
+<div>
+<p class="text-center md:text-left">Digitally transform your operations while maintaining the security you rely upon. Single-Sign-On (SSO), audit logs for monitoring, and change control are a few ways we ensure secure building in a collaborative environment.</p>
+</div>
+</div>
+</div>
+<div class="relative w-full px-4 mx-auto md:w-1/2">
+<div class="flex flex-col items-center md:items-start z-10">
+<div class="flex flex-col justify-center md:justify-start items-start gap-6 md:min-h-28 w-full">
+<div class="max-w-[64px] w-full max-w-sm md:w-1/5 sm:max-h-full h-16 m-auto md:m-0">
+<picture><source type="image/avif" srcset="/img/support_pictogram_red-BY5kPbv9fx-64.avif 64w, /img/support_pictogram_red-BY5kPbv9fx-128.avif 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/webp" srcset="/img/support_pictogram_red-BY5kPbv9fx-64.webp 64w, /img/support_pictogram_red-BY5kPbv9fx-128.webp 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/jpeg" srcset="/img/support_pictogram_red-BY5kPbv9fx-64.jpeg 64w, /img/support_pictogram_red-BY5kPbv9fx-128.jpeg 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><img alt="Image depicting support" loading="lazy" decoding="async" src="/img/support_pictogram_red-BY5kPbv9fx-64.jpeg" width="128" height="128"></picture>
+</div>
+<div class="flex flex-row gap-3 m-auto md:m-0 text-center md:text-left">
+<h5>
+<div class="text-xl">Expert Support for your applications</div>
+</h5>
+</div>
+</div>
+<div>
+<p class="text-center md:text-left">FlowFuse is your trusted partner for professional support, ensuring smooth and secure operation of your critical applications. Our team of experts is dedicated to tackling any challenge and maintaining the highest level of performance. We keep your systems current with the latest updates, safeguarding the continuity and efficiency of your operations.</p>
+</div>
+</div>
+</div>
+<div class="relative w-full px-4 mx-auto md:w-full">
+<div class="flex flex-col items-center md:items-start z-10">
+<div class="flex flex-col justify-center md:justify-start items-start gap-6 md:min-h-28 w-full">
+<div class="max-w-[64px] w-full max-w-sm md:w-1/5 sm:max-h-full h-16 m-auto md:m-0">
+<picture><source type="image/avif" srcset="/img/low-code_red-RbngqG-hr6-64.avif 64w, /img/low-code_red-RbngqG-hr6-128.avif 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/webp" srcset="/img/low-code_red-RbngqG-hr6-64.webp 64w, /img/low-code_red-RbngqG-hr6-128.webp 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><source type="image/jpeg" srcset="/img/low-code_red-RbngqG-hr6-64.jpeg 64w, /img/low-code_red-RbngqG-hr6-128.jpeg 128w" sizes="(min-device-pixel-ratio: 1.25) 128px, (min-resolution: 120dpi) 128px, 64px"><img alt="Image depicting a team of developers" loading="lazy" decoding="async" src="/img/low-code_red-RbngqG-hr6-64.jpeg" width="128" height="128"></picture>
+</div>
+<div class="flex flex-row gap-3 m-auto md:m-0 text-center md:text-left">
+<h5>
+<div class="text-xl">Low-code development</div>
+</h5>
+</div>
+</div>
+<div>
+<p class="text-center md:text-left">Our low-code platform enables your team to rapidly develop tailored applications in-house for faster, optimized results.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="w-full ff-bg-light text-white -mb-1">
+<svg viewBox="0 0 1440 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0C0 0 180 28.3506 734.5 28.3506C1289 28.3506 1440 0 1440 0V42.5H0V0Z" fill="currentColor"></path>
+</svg>
+</div>
+<div class="w-full ff-bg-light pt-0 md:pt-0 md:px-0">
+<div class="bg-white pb-10 md:pb-8 px-6">
+<div class="container m-auto text-center max-w-4xl">
+<div class="m-auto pt-12 w-full text-center">
+<h2>Get Started with FlowFuse</h2>
+<p class="text-white font-light -mt-1">Explore our <a href="/pricing/">pricing</a>.</p>
+</div>
+<div class="sm:mt-10 md:mt-4 w-full max-w-4xl text-center flex flex-wrap gap-2 justify-around">
+<div class="w-full px-3 mt-4 sm:w-72 md:mt-0 css-full">
+<div class="w-24 m-auto">
+<picture><source type="image/avif" srcset="/img/book-a-demo_red-TWGYIZM71Z-96.avif 96w, /img/book-a-demo_red-TWGYIZM71Z-192.avif 192w" sizes="(min-device-pixel-ratio: 1.25) 192px, (min-resolution: 120dpi) 192px, 96px"><source type="image/webp" srcset="/img/book-a-demo_red-TWGYIZM71Z-96.webp 96w, /img/book-a-demo_red-TWGYIZM71Z-192.webp 192w" sizes="(min-device-pixel-ratio: 1.25) 192px, (min-resolution: 120dpi) 192px, 96px"><source type="image/jpeg" srcset="/img/book-a-demo_red-TWGYIZM71Z-96.jpeg 96w, /img/book-a-demo_red-TWGYIZM71Z-192.jpeg 192w" sizes="(min-device-pixel-ratio: 1.25) 192px, (min-resolution: 120dpi) 192px, 96px"><img alt="Icon representing a booked demo." loading="lazy" decoding="async" src="/img/book-a-demo_red-TWGYIZM71Z-96.jpeg" width="192" height="192"></picture>
+</div>
+<h5 class="flex justify-center">Learn More</h5>
+<label class="font-light mt-2 block">The best way to learn about FlowFuse is to book a demo! We’d love to show you how FlowFuse can transform your business.</label>
+<a class="mt-4 mb-10 md:mb-0 ff-btn ff-btn--primary uppercase inline-block" href="/book-demo/" onclick="capture('cta-book-a-demo', {'position': 'secondary'})">Book a Demo</a>
+</div>
+<div class="w-full px-3 mt-4 sm:w-72 md:mt-0 flex flex-col items-center justify-between">
+<div>
+<div class="w-24 m-auto">
+<picture><source type="image/avif" srcset="/img/enterprise_red-pfMoujRbk_-96.avif 96w, /img/enterprise_red-pfMoujRbk_-192.avif 192w" sizes="(min-device-pixel-ratio: 1.25) 192px, (min-resolution: 120dpi) 192px, 96px"><source type="image/webp" srcset="/img/enterprise_red-pfMoujRbk_-96.webp 96w, /img/enterprise_red-pfMoujRbk_-192.webp 192w" sizes="(min-device-pixel-ratio: 1.25) 192px, (min-resolution: 120dpi) 192px, 96px"><source type="image/jpeg" srcset="/img/enterprise_red-pfMoujRbk_-96.jpeg 96w, /img/enterprise_red-pfMoujRbk_-192.jpeg 192w" sizes="(min-device-pixel-ratio: 1.25) 192px, (min-resolution: 120dpi) 192px, 96px"><img alt="Graphic image representing 'Infrastructure'." loading="lazy" decoding="async" src="/img/enterprise_red-pfMoujRbk_-96.jpeg" width="192" height="192"></picture>
+</div>
+<h5 class="flex justify-center">Get Started Today</h5>
+</div>
+<label class="font-light mt-2 block">Ready to get started? Start exploring the FlowFuse platform in less than a minute.</label>
+<a class="mt-4 ff-btn ff-btn--primary-outlined uppercase inline-block" href="https://app.flowfuse.com/account/create" onclick="capture('cta-try-it-now', {'position': 'secondary'})">Try it out</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="w-full bg-white text-gray-50 -mb-1">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 1442 144" preserveAspectRatio="none">
+<path fill="currentColor" d="M0 0c498.518 0 866 144 1442 144H0V0z"></path>
+</svg>
+</div>
+<div class="ff-bg-light w-full pb-20 md:px-0">
+<div class="container m-auto max-w-5xl pt-6 md:pt-3 px-6">
+<h3 class="text-center w-full font-medium">Explore more about FlowFuse and Node-RED</h3>
+<div class="w-full max-w-md md:max-w-none mx-auto flex flex-col md:grid md:grid-cols-3 gap-6 md:gap-x-8 pt-10">
+<div class="w-full my-2 grid grid-cols-1 pb-4">
+<div class="pb-2 md:pb-0">
+<h4 class="text-xl font-bold pb-3"><span class="text-red-600">Latest on the blog</span></h4><a href="/blog/2024/01/flowfuse-release-2-0/" class="w-full flex flex-col group border-b">
+<h5 class="my-2 font-normal text-lg">
+<span class="text-gray-500 group-hover:text-blue-700">
+FlowFuse 2.0 Release
+</span>
+</h5>
+</a><a href="/blog/2024/01/capture-data-edge-with-node-red-flowfuse/" class="w-full flex flex-col group border-b">
+<h5 class="my-2 font-normal text-lg">
+<span class="text-gray-500 group-hover:text-blue-700">
+Capture Data from edge devices with Node-RED
+</span>
+</h5>
+</a><a href="/blog/2024/01/soc2/" class="w-full flex flex-col group">
+<h5 class="my-2 font-normal text-lg">
+<span class="text-gray-500 group-hover:text-blue-700">
+FlowFuse is now SOC 2 Type 1 Compliant
+</span>
+</h5>
+</a></div>
+<a href="/blog/" class="w-full text-right flex flex-row items-center justify-end self-end justify-self-end gap-1">
+See all
+<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6"><path fill-rule="evenodd" d="M16.72 7.72a.75.75 0 0 1 1.06 0l3.75 3.75a.75.75 0 0 1 0 1.06l-3.75 3.75a.75.75 0 1 1-1.06-1.06l2.47-2.47H3a.75.75 0 0 1 0-1.5h16.19l-2.47-2.47a.75.75 0 0 1 0-1.06Z" clip-rule="evenodd"></path></svg>
+</a>
+</div>
+<div class="w-full my-2 grid grid-cols-1 pb-4"><div class="pb-2 md:pb-0">
+<h4 class="text-xl font-bold pb-3"><span class="text-red-600">Upcoming Webinar</span></h4>
+<div class="w-full flex flex-col">
+<h5 class="my-2 font-normal text-lg"><span class="text-gray-500">Enterprise-grade Edge Device Fleet Management with balena and FlowFuse</span></h5>
+</div>
+<div class="webinar-title w-full border-t pt-3 font-light text-gray-500">
+<time value="Thu Jan 25 2024 00:00:00 GMT+0000 (Coordinated Universal Time)">25 Jan, 2024 | </time>
+<time value="17:00 CET (11:00am ET)">17:00 CET (11:00am ET)</time>
+</div>
+</div>
+<a class="mt-4 ff-btn ff-btn--primary-outlined uppercase inline-block self-end justify-self-end" href="/webinars/2024/balena/">REGISTER NOW</a></div>
+<div class="w-full my-2 grid grid-cols-1">
+<div class="pb-2 md:pb-0">
+<h4 class="text-xl font-bold pb-3"><span class="text-red-600">Newsletter</span></h4>
+<h5 class="font-bold pb-3 pt-2">Sign up for our monthly email updates</h5>
+</div>
+<div class="-mb-1 self-end w-full">
+<script data-hubspot-rendered="true">
+function displayHubSpotForm() {
+        hbspt.forms.create({
+            region: "eu1",
+            portalId: "26586079",
+            formId: "159c173d-dd95-49bd-922b-ff3ef243e90c",
+            onFormSubmit: function($form) {
+                capture('cta-blog-subscribe', {'position': 'primary'})
+            }
+        });
+    }
+</script><div id="hbspt-form-5b5f1eaf-5606-4051-950c-dd43b99e8096" class="hbspt-form" data-hs-forms-root="true"><iframe id="hs-form-iframe-0" class="hs-form-iframe" title="Form 0" scrolling="no" style="position: static; border: medium none; display: block; overflow: hidden; width: 100%; height: 156px;" width="100%" height="156"></iframe></div>
+<script async="" type="text/javascript" charset="utf-8" src="//js-eu1.hsforms.net/forms/embed/v2.js" onload="displayHubSpotForm()"></script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+</div>
+<footer class="ff-footer bg-red-hero w-full">
+<div class="py-2 pb-8 px-10 md:px-6 text-white md:pt-6 md:pb-10 max-w-md sm:max-w-screen-xl xl:mx-auto">
+<div class="w-full grid gap-y-8 md:gap-y-0 md:grid-rows-2 md:grid-flow-col md:ff-footer-columns md:gap-x-8 md:justify-between">
+<div class="w-52">
+<picture><source type="image/avif" srcset="/img/flowfuse-logo-wordmark-white-q4FoDWad6e-150.avif 150w, /img/flowfuse-logo-wordmark-white-q4FoDWad6e-300.avif 300w" sizes="(min-device-pixel-ratio: 1.25) 300px, (min-resolution: 120dpi) 300px, 150px"><source type="image/webp" srcset="/img/flowfuse-logo-wordmark-white-q4FoDWad6e-150.webp 150w, /img/flowfuse-logo-wordmark-white-q4FoDWad6e-300.webp 300w" sizes="(min-device-pixel-ratio: 1.25) 300px, (min-resolution: 120dpi) 300px, 150px"><source type="image/jpeg" srcset="/img/flowfuse-logo-wordmark-white-q4FoDWad6e-150.jpeg 150w, /img/flowfuse-logo-wordmark-white-q4FoDWad6e-300.jpeg 300w" sizes="(min-device-pixel-ratio: 1.25) 300px, (min-resolution: 120dpi) 300px, 150px"><img alt="FlowFuse Logo in White" loading="lazy" decoding="async" src="/img/flowfuse-logo-wordmark-white-q4FoDWad6e-150.jpeg" width="300" height="53"></picture>
+</div>
+<div class="w-full self-end order-last md:order-none">
+<div class="copyright-statement inline">
+<div>Copyright 2024 FlowForge Inc. DBA FlowFuse. All Rights Reserved.
+<br>This site uses cookies. Click <a class="underline cursor-pointer" type="button" data-cc="c-settings">here</a> to manage your preferences.
+</div>
+</div>
+</div>
+<div class="w-full md:row-span-2">
+<ul class="w-full md:max-w-[343px] grid grid-flow-col grid-rows-5 gap-y-4 sm:grid-rows-4 md:grid-rows-5 sm:justify-between md:m-auto text-base sm:gap-x-6">
+<li class="inline mr-2 mb-2 md:m-0"><a href="/about/" class="py-3">About</a></li>
+<li class="inline mr-2 mb-2 md:m-0"><a href="/team/" class="py-3">Team</a></li>
+<li class="inline mr-2 mb-2 md:m-0"><a href="https://boards.greenhouse.io/flowfuse" class="py-3">Jobs</a></li>
+<li class="inline mr-2 mb-2 md:m-0"><a href="/handbook/" class="py-3">Handbook</a></li>
+<li class="inline mr-2 mb-2 md:m-0"><a href="/privacy-policy/" class="py-3">Privacy</a></li>
+<li class="inline mr-2 mb-2 md:m-0"><a href="/partners/referral-sign-up/" class="py-3">Partnerships</a></li>
+<li class="inline mr-2 mb-2 md:m-0"><a href="https://status.flowfuse.com/" class="py-3">Service Status</a></li>
+<li class="inline mr-2 mb-2 md:m-0"><a href="/support/" class="py-3">Request Support</a></li>
+<li class="inline mr-2 mb-2 md:m-0"><a href="/contact-us/" class="py-3">Contact Us</a></li>
+<li class="inline mr-2 mb-2 md:m-0"><a href="/blog/#sign-up" onclick="capture('cta-blog-subscribe', {'position': 'footer'})" class="py-3">Sign Up to Mailing List</a></li>
+</ul>
+</div>
+<div class="w-full md:row-span-2">
+<ul class="flex flex-row w-full -mx-3 md:mx-0 text-base justify-between sm:justify-start sm:gap-x-6 md:justify-end">
+<li class="inline md:m-0 md:block">
+<a href="https://www.facebook.com/FlowFuse/" class="block px-3 py-3 md:p-0">
+<span class="sr-only">Visit our Facebook page</span>
+<svg class="fill-current h-5 hover:text-red-hero" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M21.4286 0H2.57143C1.88944 0 1.23539 0.270918 0.753154 0.753154C0.270918 1.23539 0 1.88944 0 2.57143L0 21.4286C0 22.1106 0.270918 22.7646 0.753154 23.2468C1.23539 23.7291 1.88944 24 2.57143 24H9.92411V15.8405H6.54911V12H9.92411V9.07286C9.92411 5.74339 11.9063 3.90429 14.9421 3.90429C16.3961 3.90429 17.9164 4.16357 17.9164 4.16357V7.43143H16.2413C14.5907 7.43143 14.0759 8.45571 14.0759 9.50625V12H17.7605L17.1713 15.8405H14.0759V24H21.4286C22.1106 24 22.7646 23.7291 23.2468 23.2468C23.7291 22.7646 24 22.1106 24 21.4286V2.57143C24 1.88944 23.7291 1.23539 23.2468 0.753154C22.7646 0.270918 22.1106 0 21.4286 0Z"></path></svg>
+</a>
+</li>
+<li class="inline md:m-0 md:block">
+<a href="https://www.linkedin.com/company/flowfuse" class="block px-3 py-3 md:p-0">
+<span class="sr-only">Visit our LinkedIn page</span>
+<svg class="fill-current h-5 hover:text-red-hero" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M0 0v24h24v-24h-24zm8 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.397-2.586 7-2.777 7 2.476v6.759z"></path></svg>
+</a>
+</li>
+<li class="inline md:m-0 md:block">
+<a href="https://www.youtube.com/channel/UCbBzP8NZbv3WDtlt4UouA-g" class="block px-3 py-3 md:p-0">
+<span class="sr-only">Visit our YouTube channel</span>
+<svg class="fill-current h-5 hover:text-red-hero" width="28" height="20" viewBox="0 0 28 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M27.3016 2.97749C26.9889 1.80488 26.0709 0.88338 24.9028 0.569489C22.7854 0 14.3001 0 14.3001 0C14.3001 0 5.81476 0 3.69957 0.569489C2.53142 0.88338 1.61342 1.80488 1.30072 2.97749C0.733398 5.10074 0.733398 9.53333 0.733398 9.53333C0.733398 9.53333 0.733398 13.9659 1.30072 16.0892C1.61342 17.2618 2.53142 18.1833 3.69957 18.4972C5.81476 19.0667 14.3001 19.0667 14.3001 19.0667C14.3001 19.0667 22.7854 19.0667 24.9006 18.4972C26.0687 18.1833 26.9867 17.2618 27.2994 16.0892C27.8667 13.9659 27.8667 9.53333 27.8667 9.53333C27.8667 9.53333 27.8667 5.10074 27.2994 2.97749H27.3016ZM11.5863 13.6184V5.44826L18.6354 9.53333L11.5863 13.6184Z"></path>
+</svg>
+</a>
+</li>
+<li class="inline md:m-0 md:block">
+<a href="https://twitter.com/FlowFuseInc" class="block px-3 py-3 md:p-0">
+<span class="sr-only">Visit our Twitter page</span>
+<svg class="fill-current hover:text-red-hero h-5" width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.2011 7.14188L16.2071 0H14.7839L9.5689 6.2012L5.40369 0H0.599609L6.89822 9.37731L0.599609 16.8667H2.02292L7.5301 10.318L11.9289 16.8667H16.7329L10.2008 7.14188H10.2011ZM8.25172 9.45992L7.61354 8.52616L2.53576 1.09606H4.72188L8.8197 7.09238L9.45788 8.02615L14.7846 15.8205H12.5985L8.25172 9.46028V9.45992Z"></path>
+</svg>
+</a>
+</li>
+<li class="inline md:m-0 md:block">
+<a href="https://github.com/FlowFuse" class="block px-3 py-3 md:p-0">
+<span class="sr-only">Visit our GitHub page</span>
+<svg class="fill-current hover:text-red-hero h-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"></path></svg>
+</a>
+</li>
+<li class="inline md:m-0 md:block">
+<a href="/blog/index.xml" class="block px-3 py-3 md:p-0">
+<span class="sr-only">Subscribe to our RSS feed</span>
+<svg class="fill-current hover:text-red-hero" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path d="M6.503 20.752c0 1.794-1.456 3.248-3.251 3.248-1.796 0-3.252-1.454-3.252-3.248 0-1.794 1.456-3.248 3.252-3.248 1.795.001 3.251 1.454 3.251 3.248zm-6.503-12.572v4.811c6.05.062 10.96 4.966 11.022 11.009h4.817c-.062-8.71-7.118-15.758-15.839-15.82zm0-3.368c10.58.046 19.152 8.594 19.183 19.188h4.817c-.03-13.231-10.755-23.954-24-24v4.812z"></path></svg>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script defer="defer" type="text/javascript" src="https://eu.posthog.com/static/recorder-v2.js?v=1.100.0"></script><script>
+document.getElementById('nav-toggle').onclick = function(){
+    // self
+    document.getElementById("nav-toggle").classList.toggle("mobile-open");
+
+    let classes = document.getElementById("ff-header").classList;
+    classes.toggle("mobile-open");
+}
+</script>
+<script async="" src="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.2.0/src/lite-yt-embed.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.2.0/src/lite-yt-embed.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" crossorigin="anonymous" referrerpolicy="no-referrer">
+<script>null===window.sessionStorage?.getItem("chatInProgress")&&"#hs-chat-open"!==window.location.hash&&(window.hsConversationsSettings={loadImmediately:!1},window.addEventListener("load",(o=>{let n=!1;function e(o){n||(n=!0,setTimeout((()=>{window.HubSpotConversations?.widget?.load()}),1))}window.addEventListener("mousemove",e,{once:!0}),window.addEventListener("scroll",e,{once:!0})}))),window.hsConversationsOnReady=[()=>{window.HubSpotConversations.on("conversationStarted",(()=>{window.sessionStorage?.setItem("chatInProgress","true")}))}];</script>
+<script async="" type="text/javascript" id="hs-script-loader" src="//js-eu1.hs-scripts.com/26586079.js"></script>
+<script async="" type="text/javascript" src="/js/cc.min.js"></script>
+<script>
+const getCookieValue = (name) => (
+        document.cookie.match('(^|;)\\s*' + name + '\\s*=\\s*([^;]+)')?.pop() || ''
+    )
+
+    function decodeCookie (cookie) {
+        return JSON.parse(decodeURIComponent(cookie))
+    }
+
+    var phBootstrap = {}
+
+    if (!!(getCookieValue("ff-distinctid"))) {
+        phBootstrap['distinctID'] = getCookieValue("ff-distinctid")
+    }
+
+    if (!!(getCookieValue("ff-feats"))) {
+        phBootstrap['featureFlags'] = decodeCookie(getCookieValue("ff-feats"))
+    } else {
+        console.log("No feature flags found - falling back to 'control' content")
+    }
+
+    !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+    posthog.init('phc_Mc5OLqVXTkLPp5ZIaxcANIvsAt9bWAsfLZ4mVzAgNHi', {
+        api_host:'https://eu.posthog.com',
+        bootstrap: phBootstrap,
+        capture_pageleave: false
+    })
+
+    /*
+        Custom pageleave handler to track scroll
+    */
+    // when the page first loads, how much content can the visitor see?
+    const NO_SCROLL_HEIGHT = Math.min(1, (window.innerHeight + window.pageYOffset)/document.body.offsetHeight)
+    // what's the maximum amount of content they've seen so far?
+    var MAX_CONTENT_VIEWED = Math.min(1, (window.innerHeight + window.pageYOffset)/document.body.offsetHeight)
+
+    addEventListener("scroll", (event) => {
+        // Math.min here catches an oddity where sometimes this creeps over 1
+        const contentViewed = Math.min(1, (window.innerHeight + window.pageYOffset)/document.body.offsetHeight)
+        // Have they viewed more content than they've seen prior?
+        if (contentViewed > MAX_CONTENT_VIEWED) {
+            MAX_CONTENT_VIEWED = contentViewed
+        }
+    });
+
+    function emitPageLeave () {
+        // viewed:
+        // min: the content shown on pageload
+        // max: 1
+        // gives a decimal value from 0 -> 1 of the
+        // amount of content visible to the user within
+        // the pageview before they leave
+        var viewed 
+
+        // scrolled:
+        // scale these value to exist between 0 and 1
+        // 0 -> Didn't scroll, just viewed the page as it loaded
+        // 1 -> Scrolled all the way to the bottom
+
+        var scrolled
+        if (NO_SCROLL_HEIGHT === 1) {
+            // didn't need to scroll, so they've seen everything
+            viewed = 1
+            // couldn't scroll, so set to 0
+            scrolled = 0
+        } else { 
+            viewed = MAX_CONTENT_VIEWED
+            scrolled = (MAX_CONTENT_VIEWED - NO_SCROLL_HEIGHT) / (1 - NO_SCROLL_HEIGHT)
+        }
+        
+        capture('$pageleave', {
+            content_scrolled: scrolled,
+            content_viewed: viewed
+        })
+    }
+
+    window.addEventListener &&
+            window.addEventListener('onpagehide' in self ? 'pagehide' : 'unload', emitPageLeave)
+
+    /*
+        Get User Agent String
+    */
+    const phUA = {
+        "user_agent_string": window.navigator.userAgent
+    }
+    posthog.register(phUA)
+
+    function capture (eventName, props) {
+        if (posthog) {
+            posthog.capture(eventName, props);
+        }
+    }
+</script>
+<script async="" type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-2ZH9W82QL8"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-2ZH9W82QL8');
+</script>
+<script async="" src="https://tag.clearbitscripts.com/v1/pk_a40db34c3e210290335fe7ad7f2a7197/tags.js" referrerpolicy="strict-origin-when-cross-origin"></script>
+
+
+<div class="go2933276541 go2369186930" id="hs-web-interactives-top-anchor"><div id="hs-interactives-modal-overlay" class="go1632949049"></div></div>
+<div class="go2933276541 go1348078617" id="hs-web-interactives-bottom-anchor"></div>
+<div id="hs-web-interactives-floating-container">
+  <div id="hs-web-interactives-floating-top-left-anchor" class="go2417249464 go613305155">
+  </div>
+  <div id="hs-web-interactives-floating-top-right-anchor" class="go2417249464 go471583506">
+  </div>
+  <div id="hs-web-interactives-floating-bottom-left-anchor" class="go2417249464 go3921366393">
+  </div>
+  <div id="hs-web-interactives-floating-bottom-right-anchor" class="go2417249464 go3967842156">
+  </div>
+</div>
+</body></html>

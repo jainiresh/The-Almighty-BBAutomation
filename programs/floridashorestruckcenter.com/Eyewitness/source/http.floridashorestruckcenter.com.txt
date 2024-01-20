@@ -1,0 +1,304 @@
+<html><head>
+        <script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-SEYTF3YSQZ&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KSJXXFD"></script><script>
+            dataLayer = [];
+        </script>
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KSJXXFD');</script>
+        <!-- End Google Tag Manager -->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=.4">
+        <title>Florida Shores Truck Center</title>
+        <link href="/stylesheet.css" rel="stylesheet" type="text/css">
+            <meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1041131093/?random=1705336825423&amp;cv=11&amp;fst=1705336825423&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45He41a0v839542993&amp;gcd=11l1l1l1l1&amp;dma=0&amp;u_w=1366&amp;u_h=768&amp;url=https%3A%2F%2Ffloridashorestruckcenter.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Florida%20Shores%20Truck%20Center&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+    <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KSJXXFD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div id="usedHeader" style="display: none;"><h1>Florida Shores Truck Center</h1></div>
+
+    <div id="header" class="roundbox">
+            <img src="/logo.png" style="float: right;" width="180" height="181">
+            <h1>Florida Shores Truck Center</h1>
+            
+            <h2>(386) 428-0841</h2>
+        </div>
+        <div id="nav" class="roundbox">
+            <ul>
+                <li><a href="https://floridashorestruckcenter.com/index.php">Home</a></li>
+                <li>
+                    Service
+                    <ul>
+                        <li><a href="https://floridashorestruckcenter.com/services.php">Truck Service</a></li>
+                        <li><a href="https://floridashorestruckcenter.com/motorhome.php">Motorhome &amp; RV Service</a></li>
+                        <li><a href="https://floridashorestruckcenter.com/team.php">Our Team</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="https://floridashorestruckcenter-inventory.truckpaper.com/listings/for-sale/equipment/all?AccountCRMID=360988&amp;settingsCRMID=638607&amp;dlr=1" target="_blank">Trucks/Trailers</a>
+                    <ul>
+                        <li><a href="https://floridashorestruckcenter-inventory.truckpaper.com/listings/search?Category=207&amp;AccountCRMID=360988&amp;settingsCRMID=638607&amp;ScopeCategoryIDs=13%7C464%7C4%7C151000%7C152000%7C153000%7C150000%7C28%7C27" target="_blank">Used Trucks</a></li>
+                        <li><a href="https://floridashorestruckcenter-inventory.truckpaper.com/listings/search?Category=880&amp;AccountCRMID=360988&amp;settingsCRMID=638607&amp;ScopeCategoryIDs=13%7C464%7C4%7C151000%7C152000%7C153000%7C150000%7C28%7C27" target="_blank">Used Trailers</a></li>
+                        <li><a href="https://floridashorestruckcenter-inventory.truckpaper.com/listings/search?Category=1040&amp;AccountCRMID=360988&amp;settingsCRMID=638607&amp;ScopeCategoryIDs=13%7C464%7C4%7C151000%7C152000%7C153000%7C150000%7C28%7C27" target="_blank">Other Used Vehicles and Equipment</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="https://floridashorestruckcenter.com/store">Parts/Accessories</a>
+                    <ul>
+                        <li><a href="https://floridashorestruckcenter.com/store">New Parts &amp; Accessories</a></li>
+                        <li><a href="https://floridashorestruckcenter.com/usedparts">Used Parts</a></li>
+                        <li><a href="https://floridashorestruckcenter.com/parts">Parts In Stock</a></li>
+                        <li><a href="https://floridashorestruckcenter.com/tires.php">New &amp; Used Tires</a></li>
+                        <li><a href="https://floridashorestruckcenter.com/hose.php">Hydraulic Hose &amp; Fittings</a></li>
+                        <li><a href="https://floridashorestruckcenter.com/return.php">Return Policy</a></li>
+                    </ul>                    
+                </li>
+                <li><a href="https://floridashorestruckcenter.com/tips/">Tips</a></li>
+                <li>
+                    Storage
+                    <ul>
+                        <li><a href="https://floridashorestruckcenter.com/vehicle_storage.php">Secure Boat/RV Storage</a></li>
+                        <li><a href="https://floridashorestruckcenter.com/containers">Containers For Sale or Rent</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://floridashorestruckcenter.com/contact.php">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="userSearchBar">
+<form action="https://floridashorestruckcenter.com/store/search.php" method="GET">
+Search Store:
+<input name="query" value="" placeholder="Part#/Keyword">
+ <input type="submit" value="Search">
+</form>
+</div>
+    
+                
+
+<script type="text/javascript">
+    var tabs = document.getElementsByClassName('hiddenTab');
+    var curTab = 0;
+    
+    var pauseTabs = false;
+    
+    function changeTabStatus(tabID) {
+        
+        myTab = document.getElementById(tabID);
+        
+        node = myTab.parentNode.firstElementChild;
+        
+        while( node && node.nodeType === 1 ) {
+            node.className = 'inactive';
+            node = node.nextElementSibling;
+        }
+        
+        myTab.className = 'active';
+        
+        document.getElementById('tabsContent').innerHTML = document.getElementById(tabID + 'Content').innerHTML;
+    }
+    
+    function rotateTabs() {
+        if (!pauseTabs) {
+            curTab++;
+        
+            if (curTab >= tabs.length) {
+                curTab = 0;
+            }
+        
+            changeTabStatus(tabs[curTab].id.substring(0, tabs[curTab].id.length - 7));
+        }
+    }
+    
+    function stopTabs() {
+        pauseTabs = true;
+    }
+    
+    function startTabs() {
+        pauseTabs = false;
+    }
+</script>
+
+<div id="payment" class="roundbox">
+    <p>We accept payment by Mastercard, Visa, Discover, American Express and PayPal in our <a href="/store/">online store</a>.</p>
+</div>
+
+<div id="featured" class="roundbox">
+    <div class="featuredItem one-third">
+        <a href="https://www.truckpaper.com/listings/trucks/for-sale/list/?PCID=2000779500&amp;dlr=1" target="_blank">
+            <img src="/images/truck.png" width="150" height="101"><br>
+            <h2 class="featuredText">Used Trucks</h2>
+        </a>
+    </div>
+    <div class="featuredItem one-third">
+        <a href="https://floridashorestruckcenter.com/store/">
+            <img src="/store/pics/1228861532_t.jpg" width="95" height="100"><br>
+            <h2 class="featuredText">Parts/Accessories</h2>
+        </a>
+    </div>
+    <div class="featuredItem one-third">
+        <a href="https://www.truckpaper.com/listings/trailers/for-sale/list/?PCID=2000779500&amp;dlr=1" target="_blank">
+            <img src="/images/trailer.png" width="150" height="103"><br>
+            <h2 class="featuredText">Used Trailers</h2>
+        </a>
+    </div>
+    <div class="featuredItem one-third">
+        <a href="/motorhome.php">
+            <img src="/images/motorhome.png" width="150"><br>
+            <h2 class="featuredText">RV/Motorhome Service</h2>
+        </a>
+    </div>
+    <div class="featuredItem one-third">
+        <a href="/services.php">
+            <img src="/images/truckservice.png" width="150"><br>
+            <h2 class="featuredText">Truck Service</h2>
+        </a>
+    </div>
+    <div class="featuredItem one-third">
+        <a href="/containers/">
+            <img src="/images/storage.png" width="130"><br>
+            <h2 class="featuredText">Storage Containers</h2>
+        </a>
+    </div>
+</div>
+
+<div id="links" class="roundbox">
+    <h1>Resources</h1>
+    <a class="roundbox red" href="https://floridashorestruckcenter.com/store/display.php?w=R.Category%3D%27Aluminum+Wheels%27">Aluminum Wheels</a>
+    <a class="roundbox gray" href="https://floridashorestruckcenter.com/store/display.php?w=R.Category%3D%27Wheel+Balancers%27">Wheel Balancers</a>
+    <a class="roundbox blue" href="https://floridashorestruckcenter.com/pdf/Inspection.pdf" target="_blank">Motor Home Inspection Form</a>
+    <a class="roundbox green" href="https://floridashorestruckcenter.com/pdf/CreditApplication.pdf" target="_blank">Credit Application</a>
+</div>
+
+<div id="featuredProductsSection" class="roundbox" style="clear: both;">
+    <h1>Featured Products</h1>
+    
+    <div class="featuredProduct roundbox" style="width: 80%; clear: both;">
+
+        <h2><a href="/hose.php">Hydraulic Hose and Fittings</a></h2>
+    
+        <p>We have a full line of hydraulic hose and fittings.  Also, all the metric 
+        fittings that Gates offers in 2, 4 and 6 wire hose, DIN, Komatsu, 
+        British Standard pipe in stock.</p>
+    
+        <p>Come by our truck center at Exit 244 off I-95 and get what you need.</p>
+        
+        <p>Check out our new <a href="/hose.php">Hydraulic Hose Starter Kit</a>.</p>
+        
+        <p>Or, call Vince at <a href="tel:+13864280841">386-428-0841</a>.</p>
+    </div>
+    
+            
+        <div class="featuredProduct roundbox">
+            <a class="hoverLink" href="/store/product.php?d=609">
+                <img class="featuredThumb" src="https://floridashorestruckcenter.com/store/pics/1403213098_t.jpg" height="100"><br>
+                <h2>Clean Fire Diesel Fuel Additive </h2>
+            </a>
+            <h3>1 Quart. Treats 375 Gallons of Diesel Fuel</h3>
+            <h3><a href="/store/product.php?d=609"><nobr>Read More</nobr></a></h3>
+        </div>
+    </div>
+
+<div id="parts" class="roundbox">
+    <h1 style="text-align: center;">Visit Our Parts Department</h1>
+    
+    <a href="/parts"><img src="/images/parts/image1.JPG" style="width:100%"></a>
+</div>
+
+<div id="video" class="roundbox">
+    <h1 style="margin: 0; margin-bottom: .5em; font-size: 14pt; text-align: center;">A Twisted Trailer Tale</h1>
+    
+    <iframe src="https://www.youtube.com/embed/2qQXDxJK1aY?rel=0" allowfullscreen="" width="276" height="200" frameborder="0"></iframe>
+    
+    <p style="text-align: center; margin-top: .5em;">A customer brought in a 25' trailer that was twisted.</p>
+</div>
+        
+<div id="tabs" onmouseover="stopTabs();" onmouseout="startTabs();">
+    <ul>
+        <li id="tabDirections" class="active"><a onclick="changeTabStatus('tabDirections');">Directions</a></li>
+        <li id="tabRoadsideAssistance" class="inactive">
+            <a onclick="changeTabStatus('tabRoadsideAssistance');">Roadside Assistance</a>
+        </li>
+        <li id="tabRVService" class="inactive"><a onclick="changeTabStatus('tabRVService');">RV Service</a></li>
+    </ul>
+    <div id="tabsContent">
+    <p><b>Florida Shores Truck Center</b> is conveniently located just 1/10 of a mile east of I-95 off of Exit 244 in Edgewater, Florida.</p>
+                
+    <img src="/images/map.gif" style="border: 1px solid Black; margin-left: auto; margin-right: auto; display: block;" height="145">
+</div>
+</div>
+
+<div id="tabDirectionsContent" class="hiddenTab">
+    <p><b>Florida Shores Truck Center</b> is conveniently located just 1/10 of a mile east of I-95 off of Exit 244 in Edgewater, Florida.</p>
+                
+    <img src="/images/map.gif" style="border: 1px solid Black; margin-left: auto; margin-right: auto; display: block;" height="145">
+</div>
+
+<div id="tabRoadsideAssistanceContent" class="hiddenTab">
+    <p>For roadside assistance, contact us:</p>
+
+    <img src="/logo.png" style="float: right;" width="150">
+
+    <p><b>Phone:</b> (386) 428-0841</p>
+
+    <p>We are located at:</p>
+
+    <p>3220 West State Road 442<br>
+    Edgewater, Florida 32141</p>
+</div>
+
+<div id="tabRVServiceContent" class="hiddenTab">
+    <h1>RV and Motorhome Service</h1>
+
+    <p style="margin-left: 1em;">Towed RV Axle Repair, Alignment, and Brake Light Repairs</p>
+    
+    <p style="margin-left: 1em;">Full Motorhome Repairs and Service</p>
+    
+    <p style="margin-left: 1em;">Motorhome Wheel Alignment and Balancing</p>
+
+    <img src="/images/motorhome.png" width="150" align="right">
+
+    <p><a href="/motorhome.php">More Info</a></p>
+
+    <p>We are a <b>Landstar</b> and <b>Mercer</b> approved DOT Inspection Station.</p>
+</div>
+
+<script type="text/javascript">
+    changeTabStatus('tabDirections');
+    var myVar = setInterval(function(){rotateTabs()}, 20000);
+</script>
+
+            
+
+        <br class="clearboth">
+        
+        <div id="social" class="roundbox">
+            <h1>Connect</h1>
+            <p align="center">
+                <a href="https://www.facebook.com/Florida-Shores-Truck-Center-145840085442994/" target="_blank"><img src="/images/036-facebook.png" width="48" height="48"></a> &nbsp; &nbsp;
+                <a href="https://www.youtube.com/channel/UCW6VbvQDGZh-m2Mbk6xe5HQ" target="_blank"><img src="/images/001-youtube.png" width="48" height="48"></a>
+            </p>
+            <p align="center">
+                <b>What do our customers say?</b><br>
+                <a target="_blank" href="https://google.com/search?q=Florida+Shores+Truck+Center,+3220+FL-442,+Edgewater,+FL+32132&amp;ludocid=3327535866417340760#lrd=0x88e72fb59c3dccc3:0x2e2dc83d8f2d6158,1">See our Google Reviews.</a>
+            </p>
+        </div>
+        <div id="contact" class="roundbox">
+            <h1>Contact</h1>
+            
+            <p>
+                3220 West State Road 442<br>
+                Edgewater, Florida 32141
+            </p>
+            
+            <p>
+                <b>Main Phone:</b> (386) 428-0841<br>
+                <b>Fax:</b> (386) 428-0338
+            </p>
+           
+            <p align="center">Visit our <a href="https://floridashorestruckcenter.com/contact.php">Contact Page</a> for more detailed contact information.</p>
+            
+        </div>
+        <div id="credits" class="clearboth">Site designed by <a href="http://www.richardchurch.com" target="_blank">Richard C. Church</a></div>
+        
+
+ </body></html>

@@ -1,0 +1,44 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<title>Login | FLK Digital</title>
+
+<meta name="robots" content="noindex,nofollow">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="mask-icon" href="https://billing.flkdigital.com/third_party/themes/pancake/img/mask-icon.svg?4153" color="rgb(232,163,75)">
+
+<link media="all" rel="stylesheet" type="text/css" href="https://billing.flkdigital.com/third_party/themes/pancake/css/login.css?4153">
+<link rel="stylesheet" href="https://billing.flkdigital.com/frontend_css/615027096.css">
+<script type="text/javascript" src="https://billing.flkdigital.com/third_party/themes/pancake/js/jquery-1.11.0.min.js?4153"></script>
+<script type="text/javascript" src="https://billing.flkdigital.com/third_party/themes/pancake/js/jquery-migrate-1.2.1.min.js?4153"></script>
+</head>
+<body class="login-layout not-main-layout not-admin">
+<div id="header-area">
+<h1 class="logo"><a href="https://billing.flkdigital.com/admin"><img src="https://billing.flkdigital.com/files/fetch/branding/wbmZbZd6.png/fetch" class="header-logo with-side-text" alt="FLK Digital"> <span>FLK Digital</span></a></h1> </div>
+<div id="wrapper">
+<div id="main" class="form-holder">
+<div id="login-box">
+<form id="login-form" method="post" accept-charset="utf-8">
+<fieldset>
+<div class="row">
+<label for="email">Username / Email:</label>
+<input type="text" name="username" value="" id="username" class="txt" autocorrect="off" autocapitalize="none" autofocus="autofocus" spellcheck="false"> </div>
+<div class="row">
+<label for="password">Password:</label>
+<input type="password" name="password" value="" id="password" class="txt"> </div>
+<div class="row">
+<label for="remember">Remember Me:</label>
+<input type="checkbox" name="remember" value="1" id="remember"> </div>
+<div class="row">
+<a href="https://billing.flkdigital.com/admin/users/forgot_password" id="forgot-password">Forgot your password?</a> </div>
+<input type="submit" class="hidden-submit">
+<button type="submit" class="blue-btn"><span>&nbsp;&nbsp;Login&nbsp;&nbsp;</span></button>
+</fieldset>
+</form>
+</div>
+</div>
+
+</div>
+
+<script src="https://billing.flkdigital.com/frontend_js/2674878416.js" type="text/javascript"></script>
+
+</body></html>

@@ -1,0 +1,8 @@
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you access does not belong to you.</Message>
+  <RequestId>65A97F293E218E3336222A5F</RequestId>
+  <HostId>img-oppo-cn.oss-cn-hangzhou.aliyuncs.com</HostId>
+  <EC>0003-00000905</EC>
+  <RecommendDoc>https://api.aliyun.com/troubleshoot?q=0003-00000905</RecommendDoc>
+</Error>

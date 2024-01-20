@@ -1,0 +1,15 @@
+# Nmap 7.93 scan initiated Sat Dec 16 10:34:12 2023 as: /usr/bin/nmap -sCV -p80,443 --open -oN nmap/Full_Extra_185.136.65.6.nmap --system-dns --stats-every 2s 185.136.65.6
+Nmap scan report for web2v1.flowmailer.net (185.136.65.6)
+Host is up (0.15s latency).
+
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      nginx
+| http-robots.txt: 1 disallowed entry 
+|_/
+|_http-title: Did not follow redirect to https://web2v1.flowmailer.net
+443/tcp open  ssl/https nginx
+|_http-server-header: nginx
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Dec 16 10:34:28 2023 -- 1 IP address (1 host up) scanned in 15.24 seconds

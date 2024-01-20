@@ -1,0 +1,80 @@
+
+[0;33mRunning a Full scan on [0m104.18.30.215
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+[0K
+[0K
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+[0K
+[0K
+PORT     STATE SERVICE       VERSION
+80/tcp   open  http          Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+443/tcp  open  ssl/https     cloudflare
+|_http-server-header: cloudflare
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+2052/tcp open  http          Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+2053/tcp open  ssl/http      nginx
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+|_http-server-header: cloudflare
+2082/tcp open  http          Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+2083/tcp open  ssl/http      nginx
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+|_http-server-header: cloudflare
+2086/tcp open  http          Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2087/tcp open  ssl/http      nginx
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+|_http-server-header: cloudflare
+2095/tcp open  http          Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+2096/tcp open  ssl/http      nginx
+|_http-server-header: cloudflare
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+8080/tcp open  http          Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+8443/tcp open  ssl/https-alt cloudflare
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+|_http-server-header: cloudflare
+8880/tcp open  http          Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 0 seconds
+[0m

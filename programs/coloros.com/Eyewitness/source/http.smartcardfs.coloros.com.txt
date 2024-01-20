@@ -1,0 +1,8 @@
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you access does not belong to you.</Message>
+  <RequestId>65A98492E1E480313533A77B</RequestId>
+  <HostId>smartcardfs-coloros-com.oss-cn-beijing.aliyuncs.com</HostId>
+  <EC>0003-00000905</EC>
+  <RecommendDoc>https://api.aliyun.com/troubleshoot?q=0003-00000905</RecommendDoc>
+</Error>

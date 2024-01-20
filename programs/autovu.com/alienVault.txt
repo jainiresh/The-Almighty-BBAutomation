@@ -1,0 +1,11 @@
+autovu.com
+paybyplate.autovu.com
+pbpapidev.autovu.com
+ptms-a-es.autovu.com
+ptms-a-plcm.autovu.com
+ptms-a-pm.autovu.com
+ptms-a-scig.autovu.com
+ptms-a-ss.autovu.com
+ptms-a-sts.autovu.com
+ptms-a-tbs.autovu.com
+tracking.autovu.com

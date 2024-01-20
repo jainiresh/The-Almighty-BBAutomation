@@ -1,0 +1,1326 @@
+<html dir="ltr" lang="en-US"><head>
+  <meta charset="utf-8">
+  <!-- v24031 -->
+
+
+  <title>mmhmm</title>
+
+  
+
+  <link rel="canonical" href="https://help.mmhmm.app/hc/en-us">
+<link rel="alternate" hreflang="de" href="https://help.mmhmm.app/hc/de">
+<link rel="alternate" hreflang="en-us" href="https://help.mmhmm.app/hc/en-us">
+<link rel="alternate" hreflang="es" href="https://help.mmhmm.app/hc/es">
+<link rel="alternate" hreflang="ja" href="https://help.mmhmm.app/hc/ja">
+<link rel="alternate" hreflang="x-default" href="https://help.mmhmm.app/hc/en-us">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-f897d93bd06b67f136ea5da710f56464.css" media="all" id="stylesheet">
+  <link rel="stylesheet" type="text/css" href="//p23.zdassets.com/hc/theming_assets/10052972/360005047994/style.css?digest=19550511890455">
+
+  <link rel="icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/10052972/f8d6c6a2881986f47f4a08fb925997fd4a99065a.png">
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-2MY4SX8ZXL&amp;cx=c&amp;_slc=1"></script><script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-171279911-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+
+    
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
+
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-3TE1LX7X9W"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3TE1LX7X9W');
+</script>
+
+<style>
+  @font-face{font-family:Henju;src:local("Henju"),url(https://www.mmhmm.app/fonts/Henju-ExtraLight.woff2)
+  format("woff2");font-weight:125;}
+  @font-face{font-family:Henju;src:local("Henju"),url(https://www.mmhmm.app/fonts/Henju-Regular.woff2)
+  format("woff2");font-weight:400;}
+  @font-face{font-family:Henju;src:local("Henju"),url(https://www.mmhmm.app/fonts/Henju-Slanted.woff2)
+  format("woff2");font-weight:400;font-style:italic;}
+  @font-face{font-family:Henju;src:local("Henju"),url(https://www.mmhmm.app/fonts/Henju-Medium.woff2)
+  format("woff2");font-weight:500;}
+  @font-face{font-family:Henju;src:local("Henju"),url(https://www.mmhmm.app/fonts/Henju-MediumSlanted.woff2)
+  format("woff2");font-weight:500;font-style:italic;}
+  @font-face{font-family:Henju;src:local("Henju"),url(https://www.mmhmm.app/fonts/Henju-Bold.woff2)
+  format("woff2");font-weight:700;}
+  @font-face{font-family:Henju;src:local("Henju"),url(https://www.mmhmm.app/fonts/Henju-BoldSlanted.woff2)
+  format("woff2");font-weight:700;font-style:italic;}
+</style>
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.7.2/build/styles/github.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/magnific-popup.min.css">
+<link rel="stylesheet" href="//theme.zdassets.com/theme_assets/10052972/a98b4b89d1478129f1dc54c44610cc9d7ef71749.css">
+<script src="//cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/jquery.magnific-popup.min.js"></script>
+<script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.7.2/build/highlight.min.js"></script>
+<script>
+  window.LotusConfig = {}; LotusConfig.css = { activeClass: 'is-active',
+  hiddenClass: 'is-hidden' }; LotusConfig.signedIn =
+  false;
+</script>
+<script src="https://cdn.jsdelivr.net/npm/@ryangjchandler/spruce@2.x.x/dist/spruce.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js"></script>
+<script>
+  window.Spruce.store('mobileMenu', { isOpen: false, });
+</script>
+<script src="//theme.zdassets.com/theme_assets/10052972/acba9abea0c94d64bf96eb20325186f4b544b833.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/b5bb1649d8f06ac6e0b331a78e6cbdf6bf6b8fb6.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/eecdd2f2056ee93e386445efc09ccb0a6a685a1d.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/bf757410967bd8c40762810cb2e754faddd5dc8a.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/3f31ba60c7c5d4eb62a847188b27ba2623b9d55d.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/7db36da73ab2db82b42040aa9bcecf92c429f28a.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/7e8dc3151ccf722d65eafad7828384d3c9b0772d.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/e17329b2210ff326ba30ec9016c930cc5476d7da.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/7bfe3c4362c542207ef9958185723265ad44ff0e.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/a9f9fed21e63a777f8917017818f43256aef9ff9.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/7804a03db3a02211f3e49c4131b479fbc23c7e73.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/63d8cb7630652aaa24a38776168e85b5f00f3622.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/2d264c31a052315a0dbacf3e9cf679a992106561.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/848d1f5b476e89943354ed1522a4794aa1a040b9.js"></script>
+<script>
+LotusConfig.icons = {
+    default: "", 
+    14146469367954: "//theme.zdassets.com/theme_assets/10052972/cb38a182fd04602115e30d53070826cf6ab1b6dd.svg", 
+    14149575302034: "//theme.zdassets.com/theme_assets/10052972/cb38a182fd04602115e30d53070826cf6ab1b6dd.svg", 
+    14149591323666: "//theme.zdassets.com/theme_assets/10052972/cb38a182fd04602115e30d53070826cf6ab1b6dd.svg", 
+  }
+
+</script>
+
+<script>
+LotusConfig.contactSupport = 'Contact support'
+</script>
+            
+
+
+<script src="//theme.zdassets.com/theme_assets/10052972/fdebe85de65e7c14783a866ab8d9a1915fa3d443.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/71c87fa34870649f154ecb23296e56f60081aaf2.js"></script>
+
+<!--  Hide default forms dropdown on the form selection page -->
+<script>
+  window.addEventListener('load', () => {
+    const defaultForm = document.querySelector('.lt-new-request-form--form');
+    const urlParts = window.location.href.split('/');
+    const isFormSubmitted = urlParts[urlParts.length - 1]  === 'requests';
+    const hasTicketFormId = window.location.href.indexOf('?ticket_form_id') > -1;
+    const isFollowUp = LotusUtils.getUrlParameter('parent_id')
+
+    if (defaultForm && isFollowUp || hasTicketFormId || isFormSubmitted) {
+      defaultForm.classList.remove('is-hidden');
+    }
+  })
+</script>
+
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/algoliasearch.zendesk-hc/2/algoliasearch.zendesk-hc.min.css"><style type="text/css">.aa-article-hit--highlight {
+  color: #158EC2;
+}
+
+.aa-article-hit--section {
+  color: #158EC2;
+}
+
+.aa-article-hit--title .aa-article-hit--highlight {
+  color: #158EC2;
+}
+
+.aa-article-hit--title .aa-article-hit--highlight::before {
+  background-color: #158EC2;
+}</style>
+<script type="text/javascript" src="//cdn.jsdelivr.net/algoliasearch.zendesk-hc/2/algoliasearch.zendesk-hc.min.js"></script>
+<script type="text/javascript">
+  algoliasearchZendeskHC({
+    applicationId: 'VDWCNH6LRJ',
+    apiKey: 'f00aada18016a147276bbef77b4f1a94',
+    subdomain: 'mmhmm'
+});
+</script>
+  
+<style>/*!
+ * Copyright Zendesk, Inc.
+ *
+ * Use of this source code is governed under the Apache License, Version 2.0
+ * found at http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY{
+  position:relative;
+  border:1px solid #d8dcde;
+  border-radius:4px;
+  background-color:#fff;
+  padding:20px 40px;
+  line-height:1.42857;
+  color:#68737d;
+  font-size:14px;
+}
+
+.oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  display:block;
+  margin:0;
+  color:#2f3941;
+  font-weight:600;
+}
+
+.j4PjRpHW7lSNqzFUVkdiwquA5yhyJevI{
+  margin:10px 0 0;
+}
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS{
+  direction:rtl;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL{
+  display:block;
+  position:absolute;
+  top:4px;
+  right:4px;
+  transition:background-color .1s ease-in-out;
+  border:none;
+  border-radius:50%;
+  background-color:transparent;
+  cursor:pointer;
+  width:28px;
+  height:28px;
+  overflow:hidden;
+  text-decoration:none;
+  font-size:0;
+  -webkit-user-select:none;
+     -moz-user-select:none;
+          user-select:none;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  display:block;
+  position:absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  transition:opacity .25s ease-in-out;
+  background-repeat:no-repeat;
+  background-position:50%;
+  background-size:12px;
+  content:"";
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  opacity:1;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%2368737d%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  opacity:0;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%232f3941%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta:before,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Qt6yLNXIu6VkEq6Q8Cb7w8fVqEvVWQzq:before,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus:before,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:hover:before{
+  opacity:0;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Qt6yLNXIu6VkEq6Q8Cb7w8fVqEvVWQzq:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:hover:after{
+  opacity:1;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  outline:none;
+  background-color:color-mod(#68737d alpha(15%));
+}
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL{
+  right:auto;
+  left:4px;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23d93f4c%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23681219%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23228f67%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%230b3b29%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23ad5918%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23703815%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  background-color:color-mod(#cc3340 alpha(15%));
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  background-color:color-mod(#038153 alpha(15%));
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  background-color:color-mod(#ad5918 alpha(15%));
+}
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta:active,.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus:active{
+  background-color:transparent;
+}
+
+.zuqb1_E1eW6vR2QIOcifg43IL35dkVtW{
+  background-color:#f8f9f9;
+}
+
+.A7206VdtAqwtFIm3sAvVw_FSKzfgZ6no{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%2368737d%27%3E%3Cg stroke=%27currentColor%27%3E%3Ccircle cx=%277.5%27 cy=%278.5%27 r=%277%27 fill=%27none%27/%3E%3Cpath stroke-linecap=%27round%27 d=%27M7.5 12.5V8%27/%3E%3C/g%3E%3Ccircle cx=%277.5%27 cy=%275%27 r=%271%27 fill=%27currentColor%27/%3E%3C/svg%3E");
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN{
+  border-color:#f5b5ba;
+  background-color:#fff0f1;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%23cc3340%27%3E%3Cg fill=%27none%27 stroke=%27currentColor%27%3E%3Ccircle cx=%277.5%27 cy=%278.5%27 r=%277%27/%3E%3Cpath stroke-linecap=%27round%27 d=%27M7.5 4.5V9%27/%3E%3C/g%3E%3Ccircle cx=%277.5%27 cy=%2712%27 r=%271%27 fill=%27currentColor%27/%3E%3C/svg%3E");
+  color:#8c232c;
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj{
+  border-color:#aecfc2;
+  background-color:#edf8f4;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%23038153%27%3E%3Cg fill=%27none%27 stroke=%27currentColor%27%3E%3Cpath stroke-linecap=%27round%27 stroke-linejoin=%27round%27 d=%27m4 9 2.5 2.5 5-5%27/%3E%3Ccircle cx=%277.5%27 cy=%278.5%27 r=%277%27/%3E%3C/g%3E%3C/svg%3E");
+  color:#186146;
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm{
+  border-color:#fed6a8;
+  background-color:#fff7ed;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%23ad5918%27%3E%3Cpath fill=%27none%27 stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27M.88 13.77 7.06 1.86c.19-.36.7-.36.89 0l6.18 11.91c.17.33-.07.73-.44.73H1.32c-.37 0-.61-.4-.44-.73zM7.5 6v3.5%27/%3E%3Ccircle cx=%277.5%27 cy=%2712%27 r=%271%27 fill=%27currentColor%27/%3E%3C/svg%3E");
+  color:#ad5918;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN,.A7206VdtAqwtFIm3sAvVw_FSKzfgZ6no,.X7J83wFig6JDZULO8MWowIxp6uStzirj,.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm{
+  background-repeat:no-repeat;
+  background-position:24px 22px;
+  padding-left:50px;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq{
+  box-shadow:0 20px 28px 0 color-mod(#17494d alpha(15%));
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.FhX7nbqWv2hn1LUryjQwcA562pfet9cN,.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.X7J83wFig6JDZULO8MWowIxp6uStzirj,.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm{
+  border-color:#d8dcde;
+  background-color:#fff;
+  color:#49545c;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#681219;
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#0b3b29;
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#703815;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.FhX7nbqWv2hn1LUryjQwcA562pfet9cN .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#cc3340;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.X7J83wFig6JDZULO8MWowIxp6uStzirj .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#038153;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#ad5918;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS,.A7206VdtAqwtFIm3sAvVw_FSKzfgZ6no.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS,.X7J83wFig6JDZULO8MWowIxp6uStzirj.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS,.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS{
+  background-position:calc(100% - 24px) 22px;
+  padding-right:50px;
+  padding-left:40px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL25vZGVfbW9kdWxlcy9AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7Ozs7O0VBS0U7O0FBRUY7RUFDRSxpQkFBaUI7RUFDakIsd0JBQXdCO0VBQ3hCLGlCQUFpQjtFQUNqQixxQkFBcUI7RUFDckIsaUJBQWlCO0VBQ2pCLG1CQUFtQjtFQUNuQixhQUFhO0VBQ2IsY0FBYztBQUNoQjs7QUFFQTtFQUNFLGFBQWE7RUFDYixRQUFRO0VBQ1IsYUFBYTtFQUNiLGVBQWU7QUFDakI7O0FBRUE7RUFDRSxlQUFlO0FBQ2pCOztBQUVBO0VBQ0UsYUFBYTtBQUNmOztBQUVBO0VBQ0UsYUFBYTtFQUNiLGlCQUFpQjtFQUNqQixPQUFPO0VBQ1AsU0FBUztFQUNULDJDQUEyQztFQUMzQyxXQUFXO0VBQ1gsaUJBQWlCO0VBQ2pCLDRCQUE0QjtFQUM1QixjQUFjO0VBQ2QsVUFBVTtFQUNWLFdBQVc7RUFDWCxlQUFlO0VBQ2Ysb0JBQW9CO0VBQ3BCLFdBQVc7RUFDWCx3QkFBd0I7S0FDckIscUJBQXFCO1VBQ2hCLGdCQUFnQjtBQUMxQjs7QUFFQTtFQUNFLGFBQWE7RUFDYixpQkFBaUI7RUFDakIsS0FBSztFQUNMLE9BQU87RUFDUCxRQUFRO0VBQ1IsTUFBTTtFQUNOLG1DQUFtQztFQUNuQywyQkFBMkI7RUFDM0IsdUJBQXVCO0VBQ3ZCLG9CQUFvQjtFQUNwQixVQUFVO0FBQ1o7O0FBRUE7RUFDRSxTQUFTO0VBQ1Qsd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0UsU0FBUztFQUNULHdEQUFxTztBQUN2Tzs7QUFFQTtFQUNFLFNBQVM7QUFDWDs7QUFFQTtFQUNFLFNBQVM7QUFDWDs7QUFFQTtFQUNFLFlBQVk7RUFDWiw4Q0FBOEM7QUFDaEQ7O0FBRUE7RUFDRSxVQUFVO0VBQ1YsUUFBUTtBQUNWOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0UsOENBQThDO0FBQ2hEOztBQUVBO0VBQ0UsOENBQThDO0FBQ2hEOztBQUVBO0VBQ0UsOENBQThDO0FBQ2hEOztBQUVBO0VBQ0UsNEJBQTRCO0FBQzlCOztBQUVBO0VBQ0Usd0JBQXdCO0FBQzFCOztBQUVBO0VBQ0Usd0RBQXVWO0FBQ3pWOztBQUVBO0VBQ0Usb0JBQW9CO0VBQ3BCLHdCQUF3QjtFQUN4Qix3REFBdVY7RUFDdlYsYUFBYTtBQUNmOztBQUVBO0VBQ0Usb0JBQW9CO0VBQ3BCLHdCQUF3QjtFQUN4Qix5REFBNlQ7RUFDN1QsYUFBYTtBQUNmOztBQUVBO0VBQ0Usb0JBQW9CO0VBQ3BCLHdCQUF3QjtFQUN4Qix5REFBc1k7RUFDdFksYUFBYTtBQUNmOztBQUVBO0VBQ0UsMkJBQTJCO0VBQzNCLDZCQUE2QjtFQUM3QixpQkFBaUI7QUFDbkI7O0FBRUE7RUFDRSxzREFBc0Q7QUFDeEQ7O0FBRUE7RUFDRSxvQkFBb0I7RUFDcEIscUJBQXFCO0VBQ3JCLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLDBDQUEwQztFQUMxQyxrQkFBa0I7RUFDbEIsaUJBQWlCO0FBQ25CIiwic291cmNlc0NvbnRlbnQiOlsiLyohXG4gKiBDb3B5cmlnaHQgWmVuZGVzaywgSW5jLlxuICpcbiAqIFVzZSBvZiB0aGlzIHNvdXJjZSBjb2RlIGlzIGdvdmVybmVkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjBcbiAqIGZvdW5kIGF0IGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMC5cbiAqL1xuXG4uYy1jYWxsb3V0e1xuICBwb3NpdGlvbjpyZWxhdGl2ZTtcbiAgYm9yZGVyOjFweCBzb2xpZCAjZDhkY2RlO1xuICBib3JkZXItcmFkaXVzOjRweDtcbiAgYmFja2dyb3VuZC1jb2xvcjojZmZmO1xuICBwYWRkaW5nOjIwcHggNDBweDtcbiAgbGluZS1oZWlnaHQ6MS40Mjg1NztcbiAgY29sb3I6IzY4NzM3ZDtcbiAgZm9udC1zaXplOjE0cHg7XG59XG5cbi5jLWNhbGxvdXRfX3RpdGxle1xuICBkaXNwbGF5OmJsb2NrO1xuICBtYXJnaW46MDtcbiAgY29sb3I6IzJmMzk0MTtcbiAgZm9udC13ZWlnaHQ6NjAwO1xufVxuXG4uYy1jYWxsb3V0X19wYXJhZ3JhcGh7XG4gIG1hcmdpbjoxMHB4IDAgMDtcbn1cblxuLmMtY2FsbG91dC5pcy1ydGx7XG4gIGRpcmVjdGlvbjpydGw7XG59XG5cbi5jLWNhbGxvdXRfX2Nsb3Nle1xuICBkaXNwbGF5OmJsb2NrO1xuICBwb3NpdGlvbjphYnNvbHV0ZTtcbiAgdG9wOjRweDtcbiAgcmlnaHQ6NHB4O1xuICB0cmFuc2l0aW9uOmJhY2tncm91bmQtY29sb3IgLjFzIGVhc2UtaW4tb3V0O1xuICBib3JkZXI6bm9uZTtcbiAgYm9yZGVyLXJhZGl1czo1MCU7XG4gIGJhY2tncm91bmQtY29sb3I6dHJhbnNwYXJlbnQ7XG4gIGN1cnNvcjpwb2ludGVyO1xuICB3aWR0aDoyOHB4O1xuICBoZWlnaHQ6MjhweDtcbiAgb3ZlcmZsb3c6aGlkZGVuO1xuICB0ZXh0LWRlY29yYXRpb246bm9uZTtcbiAgZm9udC1zaXplOjA7XG4gIC13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTtcbiAgICAgLW1vei11c2VyLXNlbGVjdDpub25lO1xuICAgICAgICAgIHVzZXItc2VsZWN0Om5vbmU7XG59XG5cbi5jLWNhbGxvdXRfX2Nsb3NlOmFmdGVyLC5jLWNhbGxvdXRfX2Nsb3NlOmJlZm9yZXtcbiAgZGlzcGxheTpibG9jaztcbiAgcG9zaXRpb246YWJzb2x1dGU7XG4gIHRvcDowO1xuICByaWdodDowO1xuICBib3R0b206MDtcbiAgbGVmdDowO1xuICB0cmFuc2l0aW9uOm9wYWNpdHkgLjI1cyBlYXNlLWluLW91dDtcbiAgYmFja2dyb3VuZC1yZXBlYXQ6bm8tcmVwZWF0O1xuICBiYWNrZ3JvdW5kLXBvc2l0aW9uOjUwJTtcbiAgYmFja2dyb3VuZC1zaXplOjEycHg7XG4gIGNvbnRlbnQ6XCJcIjtcbn1cblxuLmMtY2FsbG91dF9fY2xvc2U6YmVmb3Jle1xuICBvcGFjaXR5OjE7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzEyJyBoZWlnaHQ9JzEyJyBjb2xvcj0nJTIzNjg3MzdkJyUzRSUzQ3BhdGggc3Ryb2tlPSdjdXJyZW50Q29sb3InIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgZD0nbTMgOSA2LTZtMCA2TDMgMycvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dF9fY2xvc2U6YWZ0ZXJ7XG4gIG9wYWNpdHk6MDtcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTInIGhlaWdodD0nMTInIGNvbG9yPSclMjMyZjM5NDEnJTNFJTNDcGF0aCBzdHJva2U9J2N1cnJlbnRDb2xvcicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdtMyA5IDYtNm0wIDZMMyAzJy8lM0UlM0Mvc3ZnJTNFXCIpO1xufVxuXG4uYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkOmJlZm9yZSwuYy1jYWxsb3V0X19jbG9zZS5pcy1ob3ZlcmVkOmJlZm9yZSwuYy1jYWxsb3V0X19jbG9zZTpmb2N1czpiZWZvcmUsLmMtY2FsbG91dF9fY2xvc2U6aG92ZXI6YmVmb3Jle1xuICBvcGFjaXR5OjA7XG59XG5cbi5jLWNhbGxvdXRfX2Nsb3NlLmlzLWZvY3VzZWQ6YWZ0ZXIsLmMtY2FsbG91dF9fY2xvc2UuaXMtaG92ZXJlZDphZnRlciwuYy1jYWxsb3V0X19jbG9zZTpmb2N1czphZnRlciwuYy1jYWxsb3V0X19jbG9zZTpob3ZlcjphZnRlcntcbiAgb3BhY2l0eToxO1xufVxuXG4uYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkLC5jLWNhbGxvdXRfX2Nsb3NlOmZvY3Vze1xuICBvdXRsaW5lOm5vbmU7XG4gIGJhY2tncm91bmQtY29sb3I6Y29sb3ItbW9kKCM2ODczN2QgYWxwaGEoMTUlKSk7XG59XG5cbi5jLWNhbGxvdXQuaXMtcnRsIC5jLWNhbGxvdXRfX2Nsb3Nle1xuICByaWdodDphdXRvO1xuICBsZWZ0OjRweDtcbn1cblxuLmMtY2FsbG91dC0tZXJyb3I6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6YmVmb3Jle1xuICBiYWNrZ3JvdW5kLWltYWdlOnVybChcImRhdGE6aW1hZ2Uvc3ZnK3htbDtjaGFyc2V0PXV0Zi04LCUzQ3N2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMicgaGVpZ2h0PScxMicgY29sb3I9JyUyM2Q5M2Y0YyclM0UlM0NwYXRoIHN0cm9rZT0nY3VycmVudENvbG9yJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIGQ9J20zIDkgNi02bTAgNkwzIDMnLyUzRSUzQy9zdmclM0VcIik7XG59XG5cbi5jLWNhbGxvdXQtLWVycm9yOm5vdCguYy1jYWxsb3V0LS1kaWFsb2cpIC5jLWNhbGxvdXRfX2Nsb3NlOmFmdGVye1xuICBiYWNrZ3JvdW5kLWltYWdlOnVybChcImRhdGE6aW1hZ2Uvc3ZnK3htbDtjaGFyc2V0PXV0Zi04LCUzQ3N2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMicgaGVpZ2h0PScxMicgY29sb3I9JyUyMzY4MTIxOSclM0UlM0NwYXRoIHN0cm9rZT0nY3VycmVudENvbG9yJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIGQ9J20zIDkgNi02bTAgNkwzIDMnLyUzRSUzQy9zdmclM0VcIik7XG59XG5cbi5jLWNhbGxvdXQtLXN1Y2Nlc3M6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6YmVmb3Jle1xuICBiYWNrZ3JvdW5kLWltYWdlOnVybChcImRhdGE6aW1hZ2Uvc3ZnK3htbDtjaGFyc2V0PXV0Zi04LCUzQ3N2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMicgaGVpZ2h0PScxMicgY29sb3I9JyUyMzIyOGY2NyclM0UlM0NwYXRoIHN0cm9rZT0nY3VycmVudENvbG9yJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIGQ9J20zIDkgNi02bTAgNkwzIDMnLyUzRSUzQy9zdmclM0VcIik7XG59XG5cbi5jLWNhbGxvdXQtLXN1Y2Nlc3M6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6YWZ0ZXJ7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzEyJyBoZWlnaHQ9JzEyJyBjb2xvcj0nJTIzMGIzYjI5JyUzRSUzQ3BhdGggc3Ryb2tlPSdjdXJyZW50Q29sb3InIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgZD0nbTMgOSA2LTZtMCA2TDMgMycvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZzpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZTpiZWZvcmV7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzEyJyBoZWlnaHQ9JzEyJyBjb2xvcj0nJTIzYWQ1OTE4JyUzRSUzQ3BhdGggc3Ryb2tlPSdjdXJyZW50Q29sb3InIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgZD0nbTMgOSA2LTZtMCA2TDMgMycvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZzpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZTphZnRlcntcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTInIGhlaWdodD0nMTInIGNvbG9yPSclMjM3MDM4MTUnJTNFJTNDcGF0aCBzdHJva2U9J2N1cnJlbnRDb2xvcicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdtMyA5IDYtNm0wIDZMMyAzJy8lM0UlM0Mvc3ZnJTNFXCIpO1xufVxuXG4uYy1jYWxsb3V0LS1lcnJvcjpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkLC5jLWNhbGxvdXQtLWVycm9yOm5vdCguYy1jYWxsb3V0LS1kaWFsb2cpIC5jLWNhbGxvdXRfX2Nsb3NlOmZvY3Vze1xuICBiYWNrZ3JvdW5kLWNvbG9yOmNvbG9yLW1vZCgjY2MzMzQwIGFscGhhKDE1JSkpO1xufVxuXG4uYy1jYWxsb3V0LS1zdWNjZXNzOm5vdCguYy1jYWxsb3V0LS1kaWFsb2cpIC5jLWNhbGxvdXRfX2Nsb3NlLmlzLWZvY3VzZWQsLmMtY2FsbG91dC0tc3VjY2Vzczpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZTpmb2N1c3tcbiAgYmFja2dyb3VuZC1jb2xvcjpjb2xvci1tb2QoIzAzODE1MyBhbHBoYSgxNSUpKTtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZzpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkLC5jLWNhbGxvdXQtLXdhcm5pbmc6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6Zm9jdXN7XG4gIGJhY2tncm91bmQtY29sb3I6Y29sb3ItbW9kKCNhZDU5MTggYWxwaGEoMTUlKSk7XG59XG5cbi5jLWNhbGxvdXQgLmMtY2FsbG91dF9fY2xvc2UuaXMtZm9jdXNlZDphY3RpdmUsLmMtY2FsbG91dCAuYy1jYWxsb3V0X19jbG9zZTpmb2N1czphY3RpdmV7XG4gIGJhY2tncm91bmQtY29sb3I6dHJhbnNwYXJlbnQ7XG59XG5cbi5jLWNhbGxvdXQtLXJlY2Vzc2Vke1xuICBiYWNrZ3JvdW5kLWNvbG9yOiNmOGY5Zjk7XG59XG5cbi5jLWNhbGxvdXQtLWluZm97XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzE2JyBoZWlnaHQ9JzE2JyBjb2xvcj0nJTIzNjg3MzdkJyUzRSUzQ2cgc3Ryb2tlPSdjdXJyZW50Q29sb3InJTNFJTNDY2lyY2xlIGN4PSc3LjUnIGN5PSc4LjUnIHI9JzcnIGZpbGw9J25vbmUnLyUzRSUzQ3BhdGggc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdNNy41IDEyLjVWOCcvJTNFJTNDL2clM0UlM0NjaXJjbGUgY3g9JzcuNScgY3k9JzUnIHI9JzEnIGZpbGw9J2N1cnJlbnRDb2xvcicvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dC0tZXJyb3J7XG4gIGJvcmRlci1jb2xvcjojZjViNWJhO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiNmZmYwZjE7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzE2JyBoZWlnaHQ9JzE2JyBjb2xvcj0nJTIzY2MzMzQwJyUzRSUzQ2cgZmlsbD0nbm9uZScgc3Ryb2tlPSdjdXJyZW50Q29sb3InJTNFJTNDY2lyY2xlIGN4PSc3LjUnIGN5PSc4LjUnIHI9JzcnLyUzRSUzQ3BhdGggc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdNNy41IDQuNVY5Jy8lM0UlM0MvZyUzRSUzQ2NpcmNsZSBjeD0nNy41JyBjeT0nMTInIHI9JzEnIGZpbGw9J2N1cnJlbnRDb2xvcicvJTNFJTNDL3N2ZyUzRVwiKTtcbiAgY29sb3I6IzhjMjMyYztcbn1cblxuLmMtY2FsbG91dC0tc3VjY2Vzc3tcbiAgYm9yZGVyLWNvbG9yOiNhZWNmYzI7XG4gIGJhY2tncm91bmQtY29sb3I6I2VkZjhmNDtcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTYnIGhlaWdodD0nMTYnIGNvbG9yPSclMjMwMzgxNTMnJTNFJTNDZyBmaWxsPSdub25lJyBzdHJva2U9J2N1cnJlbnRDb2xvciclM0UlM0NwYXRoIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCcgZD0nbTQgOSAyLjUgMi41IDUtNScvJTNFJTNDY2lyY2xlIGN4PSc3LjUnIGN5PSc4LjUnIHI9JzcnLyUzRSUzQy9nJTNFJTNDL3N2ZyUzRVwiKTtcbiAgY29sb3I6IzE4NjE0Njtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZ3tcbiAgYm9yZGVyLWNvbG9yOiNmZWQ2YTg7XG4gIGJhY2tncm91bmQtY29sb3I6I2ZmZjdlZDtcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTYnIGhlaWdodD0nMTYnIGNvbG9yPSclMjNhZDU5MTgnJTNFJTNDcGF0aCBmaWxsPSdub25lJyBzdHJva2U9J2N1cnJlbnRDb2xvcicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdNLjg4IDEzLjc3IDcuMDYgMS44NmMuMTktLjM2LjctLjM2Ljg5IDBsNi4xOCAxMS45MWMuMTcuMzMtLjA3LjczLS40NC43M0gxLjMyYy0uMzcgMC0uNjEtLjQtLjQ0LS43M3pNNy41IDZ2My41Jy8lM0UlM0NjaXJjbGUgY3g9JzcuNScgY3k9JzEyJyByPScxJyBmaWxsPSdjdXJyZW50Q29sb3InLyUzRSUzQy9zdmclM0VcIik7XG4gIGNvbG9yOiNhZDU5MTg7XG59XG5cbi5jLWNhbGxvdXQtLWVycm9yLC5jLWNhbGxvdXQtLWluZm8sLmMtY2FsbG91dC0tc3VjY2VzcywuYy1jYWxsb3V0LS13YXJuaW5ne1xuICBiYWNrZ3JvdW5kLXJlcGVhdDpuby1yZXBlYXQ7XG4gIGJhY2tncm91bmQtcG9zaXRpb246MjRweCAyMnB4O1xuICBwYWRkaW5nLWxlZnQ6NTBweDtcbn1cblxuLmMtY2FsbG91dC0tZGlhbG9ne1xuICBib3gtc2hhZG93OjAgMjBweCAyOHB4IDAgY29sb3ItbW9kKCMxNzQ5NGQgYWxwaGEoMTUlKSk7XG59XG5cbi5jLWNhbGxvdXQtLWRpYWxvZy5jLWNhbGxvdXQtLWVycm9yLC5jLWNhbGxvdXQtLWRpYWxvZy5jLWNhbGxvdXQtLXN1Y2Nlc3MsLmMtY2FsbG91dC0tZGlhbG9nLmMtY2FsbG91dC0td2FybmluZ3tcbiAgYm9yZGVyLWNvbG9yOiNkOGRjZGU7XG4gIGJhY2tncm91bmQtY29sb3I6I2ZmZjtcbiAgY29sb3I6IzQ5NTQ1Yztcbn1cblxuLmMtY2FsbG91dC0tZXJyb3IgLmMtY2FsbG91dF9fdGl0bGV7XG4gIGNvbG9yOiM2ODEyMTk7XG59XG5cbi5jLWNhbGxvdXQtLXN1Y2Nlc3MgLmMtY2FsbG91dF9fdGl0bGV7XG4gIGNvbG9yOiMwYjNiMjk7XG59XG5cbi5jLWNhbGxvdXQtLXdhcm5pbmcgLmMtY2FsbG91dF9fdGl0bGV7XG4gIGNvbG9yOiM3MDM4MTU7XG59XG5cbi5jLWNhbGxvdXQtLWRpYWxvZy5jLWNhbGxvdXQtLWVycm9yIC5jLWNhbGxvdXRfX3RpdGxle1xuICBjb2xvcjojY2MzMzQwO1xufVxuXG4uYy1jYWxsb3V0LS1kaWFsb2cuYy1jYWxsb3V0LS1zdWNjZXNzIC5jLWNhbGxvdXRfX3RpdGxle1xuICBjb2xvcjojMDM4MTUzO1xufVxuXG4uYy1jYWxsb3V0LS1kaWFsb2cuYy1jYWxsb3V0LS13YXJuaW5nIC5jLWNhbGxvdXRfX3RpdGxle1xuICBjb2xvcjojYWQ1OTE4O1xufVxuXG4uYy1jYWxsb3V0LS1lcnJvci5pcy1ydGwsLmMtY2FsbG91dC0taW5mby5pcy1ydGwsLmMtY2FsbG91dC0tc3VjY2Vzcy5pcy1ydGwsLmMtY2FsbG91dC0td2FybmluZy5pcy1ydGx7XG4gIGJhY2tncm91bmQtcG9zaXRpb246Y2FsYygxMDAlIC0gMjRweCkgMjJweDtcbiAgcGFkZGluZy1yaWdodDo1MHB4O1xuICBwYWRkaW5nLWxlZnQ6NDBweDtcbn1cbiJdLCJzb3VyY2VSb290IjoiIn0= */</style><style>/**
+ * Copyright Zendesk, Inc.
+ *
+ * Use of this source code is governed under the Apache License, Version 2.0
+ * found at http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+:root {
+  --zd-color-black: #000;
+  --zd-color-green-100: #edf8f4;
+  --zd-color-green-200: #d1e8df;
+  --zd-color-green-300: #aecfc2;
+  --zd-color-green-400: #5eae91;
+  --zd-color-green-500: #228f67;
+  --zd-color-green-600: #038153;
+  --zd-color-green-700: #186146;
+  --zd-color-green-800: #0b3b29;
+  --zd-color-grey-100: #f8f9f9;
+  --zd-color-grey-200: #e9ebed;
+  --zd-color-grey-300: #d8dcde;
+  --zd-color-grey-400: #c2c8cc;
+  --zd-color-grey-500: #87929d;
+  --zd-color-grey-600: #68737d;
+  --zd-color-grey-700: #49545c;
+  --zd-color-grey-800: #2f3941;
+  --zd-color-blue-100: #edf7ff;
+  --zd-color-blue-200: #cee2f2;
+  --zd-color-blue-300: #adcce4;
+  --zd-color-blue-400: #5293c7;
+  --zd-color-blue-500: #337fbd;
+  --zd-color-blue-600: #1f73b7;
+  --zd-color-blue-700: #144a75;
+  --zd-color-blue-800: #0f3554;
+  --zd-color-kale-100: #f5fcfc;
+  --zd-color-kale-200: #daeded;
+  --zd-color-kale-300: #bdd9d7;
+  --zd-color-kale-400: #90bbbb;
+  --zd-color-kale-500: #467b7c;
+  --zd-color-kale-600: #17494d;
+  --zd-color-kale-700: #03363d;
+  --zd-color-kale-800: #012b30;
+  --zd-color-red-100: #fff0f1;
+  --zd-color-red-200: #f5d5d8;
+  --zd-color-red-300: #f5b5ba;
+  --zd-color-red-400: #e35b66;
+  --zd-color-red-500: #d93f4c;
+  --zd-color-red-600: #cc3340;
+  --zd-color-red-700: #8c232c;
+  --zd-color-red-800: #681219;
+  --zd-color-yellow-100: #fff7ed;
+  --zd-color-yellow-200: #ffeedb;
+  --zd-color-yellow-300: #fed6a8;
+  --zd-color-yellow-400: #ffb057;
+  --zd-color-yellow-500: #f79a3e;
+  --zd-color-yellow-600: #ed8f1c;
+  --zd-color-yellow-700: #ad5918;
+  --zd-color-yellow-800: #703815;
+  --zd-color-white: #fff;
+  --zd-color-secondary-azure-400: #3091ec;
+  --zd-color-secondary-azure-600: #1371d6;
+  --zd-color-secondary-crimson-400: #e34f32;
+  --zd-color-secondary-crimson-600: #c72a1c;
+  --zd-color-secondary-fuschia-400: #d653c2;
+  --zd-color-secondary-fuschia-600: #a81897;
+  --zd-color-secondary-lemon-400: #ffd424;
+  --zd-color-secondary-lemon-600: #ffbb10;
+  --zd-color-secondary-lime-400: #43b324;
+  --zd-color-secondary-lime-600: #2e8200;
+  --zd-color-secondary-mint-400: #00a656;
+  --zd-color-secondary-mint-600: #058541;
+  --zd-color-secondary-orange-400: #de701d;
+  --zd-color-secondary-orange-600: #bf5000;
+  --zd-color-secondary-pink-400: #ec4d63;
+  --zd-color-secondary-pink-600: #d42054;
+  --zd-color-secondary-purple-400: #b552e2;
+  --zd-color-secondary-purple-600: #6a27b8;
+  --zd-color-secondary-royal-400: #5d7df5;
+  --zd-color-secondary-royal-600: #3353e2;
+  --zd-color-secondary-teal-400: #02a191;
+  --zd-color-secondary-teal-600: #028079;
+  --zd-color-secondary-azure-M400: #5f8dcf;
+  --zd-color-secondary-azure-M600: #3a70b2;
+  --zd-color-secondary-crimson-M400: #cc6c5b;
+  --zd-color-secondary-crimson-M600: #b24a3c;
+  --zd-color-secondary-fuschia-M400: #cf62a8;
+  --zd-color-secondary-fuschia-M600: #a8458c;
+  --zd-color-secondary-lemon-M400: #e7a500;
+  --zd-color-secondary-lemon-M600: #c38f00;
+  --zd-color-secondary-lime-M400: #519e2d;
+  --zd-color-secondary-lime-M600: #47782c;
+  --zd-color-secondary-mint-M400: #299c66;
+  --zd-color-secondary-mint-M600: #2e8057;
+  --zd-color-secondary-orange-M400: #d4772c;
+  --zd-color-secondary-orange-M600: #b35827;
+  --zd-color-secondary-pink-M400: #d57287;
+  --zd-color-secondary-pink-M600: #b23a5d;
+  --zd-color-secondary-purple-M400: #b072cc;
+  --zd-color-secondary-purple-M600: #9358b0;
+  --zd-color-secondary-royal-M400: #7986d8;
+  --zd-color-secondary-royal-M600: #4b61c3;
+  --zd-color-secondary-teal-M400: #2d9e8f;
+  --zd-color-secondary-teal-M600: #3c7873;
+  --zd-color-chat-orange: #f79a3e;
+  --zd-color-connect-red: #ff6224;
+  --zd-color-explore-blue: #30aabc;
+  --zd-color-gather-pink: #f6c8be;
+  --zd-color-guide-pink: #ff6224;
+  --zd-color-message-green: #37b8af;
+  --zd-color-sell-gold: #c38f00;
+  --zd-color-support-green: #00a656;
+  --zd-color-talk-yellow: #efc93d;
+  --zd-font-family-monospace: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+  --zd-font-family-system: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
+  --zd-font-size-xs: 10px;
+  --zd-font-size-sm: 12px;
+  --zd-font-size-md: 14px;
+  --zd-font-size-lg: 18px;
+  --zd-font-size-xl: 22px;
+  --zd-font-size-xxl: 26px;
+  --zd-font-size-xxxl: 36px;
+  --zd-font-size-sm-monospace: 11px;
+  --zd-font-size-md-monospace: 13px;
+  --zd-font-size-lg-monospace: 17px;
+  --zd-font-weight-thin: 100;
+  --zd-font-weight-extralight: 200;
+  --zd-font-weight-light: 300;
+  --zd-font-weight-regular: 400;
+  --zd-font-weight-medium: 500;
+  --zd-font-weight-semibold: 600;
+  --zd-font-weight-bold: 700;
+  --zd-font-weight-extrabold: 800;
+  --zd-font-weight-black: 900;
+  --zd-font-weight-ultralight: 200;
+  --zd-font-weight-ultrabold: 800;
+  --zd-font-weight-heavy: 900;
+  --zd-line-height-sm: 16px;
+  --zd-line-height-md: 20px;
+  --zd-line-height-lg: 24px;
+  --zd-line-height-xl: 28px;
+  --zd-line-height-xxl: 32px;
+  --zd-line-height-xxxl: 44px;
+  --zd-spacing-xxs: 4px;
+  --zd-spacing-xs: 8px;
+  --zd-spacing-sm: 12px;
+  --zd-spacing: 20px;
+  --zd-spacing-lg: 32px;
+  --zd-spacing-xl: 40px;
+  --zd-spacing-xxl: 48px;
+}
+
+.f9BqAlsIZvx7sACM4xRFqwHmcyIhbjt6 {
+}
+
+.kzYITkxJWL_02DpPXe0gWyN2swJRVitJ {
+}
+
+.wINJoVYRvGy8raLsj56fUQ_Rtxf8SXNp {
+}
+
+.QNIPdWgxsnPIjnQQzFMoMgcPDAOOsPrm {
+}
+
+._HdHwJNOTFG9Mij4WmL1AlvKwno7GrCd {
+  background-color: #f8f9f9;
+}
+
+.yXw8lmZs7Tg0Y73sa9aaAZs1ahSKzGnp {
+  background-color: transparent !important;
+  padding: 0;
+}
+
+.yXw8lmZs7Tg0Y73sa9aaAZs1ahSKzGnp.h4cMXsHyKKZf7DHHkpaaFwuvtZd3B4HJ {
+  outline: 1px solid #2f3941;
+  outline: 1px solid var(--zd-color-grey-800);
+}
+
+.yXw8lmZs7Tg0Y73sa9aaAZs1ahSKzGnp:focus-visible {
+  outline: 1px solid #2f3941;
+  outline: 1px solid var(--zd-color-grey-800);
+}
+
+.QN1ves1hk0MUeUx70asdhg7VPFdkXeNa {
+}
+
+.XJXUPzr7Dx0szbQn8wH5AZY581GZ1SmI {
+}
+
+.sPA0enxuGX2pj2jkRfN0ZArNVD80pacY {
+}
+
+/* Reset styles for links within notifications */
+
+.qQF1ABBg7opWaOeLFI1g1Ax8igXoLRdR a {
+  -webkit-animation: none 0s ease 0s 1 normal none running;
+          animation: none 0s ease 0s 1 normal none running;
+  -webkit-backface-visibility: visible;
+          backface-visibility: visible;
+  background: transparent none repeat 0 0 / auto auto padding-box border-box scroll;
+  border: medium none currentColor;
+  border-collapse: separate;
+  -o-border-image: none;
+     border-image: none;
+  border-radius: 0;
+  border-spacing: 0;
+  bottom: auto;
+  box-shadow: none;
+  box-sizing: content-box;
+  caption-side: top;
+  clear: none;
+  clip: auto;
+  color: #000;
+  -webkit-columns: auto;
+     -moz-columns: auto;
+          columns: auto;
+  -webkit-column-count: auto;
+     -moz-column-count: auto;
+          column-count: auto;
+  -webkit-column-fill: balance;
+     -moz-column-fill: balance;
+          column-fill: balance;
+  grid-column-gap: normal;
+  -webkit-column-gap: normal;
+     -moz-column-gap: normal;
+          column-gap: normal;
+  -webkit-column-rule: medium none currentColor;
+     -moz-column-rule: medium none currentColor;
+          column-rule: medium none currentColor;
+  -webkit-column-span: 1;
+     -moz-column-span: 1;
+          column-span: 1;
+  -webkit-column-width: auto;
+     -moz-column-width: auto;
+          column-width: auto;
+  content: normal;
+  counter-increment: none;
+  counter-reset: none;
+  cursor: auto;
+  direction: ltr;
+  display: inline;
+  empty-cells: show;
+  float: none;
+  font-family: serif;
+  font-size: medium;
+  font-style: normal;
+  -webkit-font-feature-settings: normal;
+          font-feature-settings: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: normal;
+  height: auto;
+  -webkit-hyphens: none;
+          hyphens: none;
+  left: auto;
+  letter-spacing: normal;
+  list-style: disc outside none;
+  margin: 0;
+  max-height: none;
+  max-width: none;
+  min-height: 0;
+  min-width: 0;
+  opacity: 1;
+  orphans: 2;
+  outline: medium none invert;
+  overflow: visible;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding: 0;
+  page-break-after: auto;
+  page-break-before: auto;
+  page-break-inside: auto;
+  -webkit-perspective: none;
+          perspective: none;
+  -webkit-perspective-origin: 50% 50%;
+          perspective-origin: 50% 50%;
+  position: static;
+  right: auto;
+  -moz-tab-size: 8;
+    -o-tab-size: 8;
+       tab-size: 8;
+  table-layout: auto;
+  text-align: left;
+  -moz-text-align-last: auto;
+       text-align-last: auto;
+  text-decoration: none;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: none;
+  top: auto;
+  -webkit-transform: none;
+          transform: none;
+  -webkit-transform-origin: 50% 50% 0;
+          transform-origin: 50% 50% 0;
+  -webkit-transform-style: flat;
+          transform-style: flat;
+  transition: none 0s ease 0s;
+  unicode-bidi: normal;
+  vertical-align: baseline;
+  visibility: visible;
+  white-space: normal;
+  widows: 2;
+  width: auto;
+  word-spacing: normal;
+  z-index: auto;
+  all: initial;
+  font-size: inherit;
+  font-family: inherit;
+  color: #0072ef;
+  cursor: pointer;
+}
+
+.qQF1ABBg7opWaOeLFI1g1Ax8igXoLRdR a:hover,
+.qQF1ABBg7opWaOeLFI1g1Ax8igXoLRdR a:focus {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL25vZGVfbW9kdWxlcy9AemVuZGVza2dhcmRlbi9jc3MtdmFyaWFibGVzL2Rpc3QvaW5kZXguY3NzIiwid2VicGFjazovLy4vdWkvY29tcG9uZW50cy9Ob3RpZmljYXRpb24vaW5kZXguY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7OztFQUtFOztBQUVGO0VBQ0Usc0JBQXNCO0VBQ3RCLDZCQUE2QjtFQUM3Qiw2QkFBNkI7RUFDN0IsNkJBQTZCO0VBQzdCLDZCQUE2QjtFQUM3Qiw2QkFBNkI7RUFDN0IsNkJBQTZCO0VBQzdCLDZCQUE2QjtFQUM3Qiw2QkFBNkI7RUFDN0IsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsMkJBQTJCO0VBQzNCLDJCQUEyQjtFQUMzQiwyQkFBMkI7RUFDM0IsMkJBQTJCO0VBQzNCLDJCQUEyQjtFQUMzQiwyQkFBMkI7RUFDM0IsMkJBQTJCO0VBQzNCLDJCQUEyQjtFQUMzQiw4QkFBOEI7RUFDOUIsOEJBQThCO0VBQzlCLDhCQUE4QjtFQUM5Qiw4QkFBOEI7RUFDOUIsOEJBQThCO0VBQzlCLDhCQUE4QjtFQUM5Qiw4QkFBOEI7RUFDOUIsOEJBQThCO0VBQzlCLHNCQUFzQjtFQUN0Qix1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHlDQUF5QztFQUN6Qyx5Q0FBeUM7RUFDekMseUNBQXlDO0VBQ3pDLHlDQUF5QztFQUN6Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHNDQUFzQztFQUN0QyxzQ0FBc0M7RUFDdEMsc0NBQXNDO0VBQ3RDLHNDQUFzQztFQUN0Qyx3Q0FBd0M7RUFDeEMsd0NBQXdDO0VBQ3hDLHNDQUFzQztFQUN0QyxzQ0FBc0M7RUFDdEMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHNDQUFzQztFQUN0QyxzQ0FBc0M7RUFDdEMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4QywwQ0FBMEM7RUFDMUMsMENBQTBDO0VBQzFDLDBDQUEwQztFQUMxQywwQ0FBMEM7RUFDMUMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHVDQUF1QztFQUN2Qyx1Q0FBdUM7RUFDdkMseUNBQXlDO0VBQ3pDLHlDQUF5QztFQUN6Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHlDQUF5QztFQUN6Qyx5Q0FBeUM7RUFDekMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLCtCQUErQjtFQUMvQiwrQkFBK0I7RUFDL0IsZ0NBQWdDO0VBQ2hDLCtCQUErQjtFQUMvQiw4QkFBOEI7RUFDOUIsaUNBQWlDO0VBQ2pDLDZCQUE2QjtFQUM3QixpQ0FBaUM7RUFDakMsK0JBQStCO0VBQy9CLGtHQUFrRztFQUNsRywwTkFBOEo7RUFDOUosdUJBQXVCO0VBQ3ZCLHVCQUF1QjtFQUN2Qix1QkFBdUI7RUFDdkIsdUJBQXVCO0VBQ3ZCLHVCQUF1QjtFQUN2Qix3QkFBd0I7RUFDeEIseUJBQXlCO0VBQ3pCLGlDQUFpQztFQUNqQyxpQ0FBaUM7RUFDakMsaUNBQWlDO0VBQ2pDLDBCQUEwQjtFQUMxQixnQ0FBZ0M7RUFDaEMsMkJBQTJCO0VBQzNCLDZCQUE2QjtFQUM3Qiw0QkFBNEI7RUFDNUIsOEJBQThCO0VBQzlCLDBCQUEwQjtFQUMxQiwrQkFBK0I7RUFDL0IsMkJBQTJCO0VBQzNCLGdDQUFnQztFQUNoQywrQkFBK0I7RUFDL0IsMkJBQTJCO0VBQzNCLHlCQUF5QjtFQUN6Qix5QkFBeUI7RUFDekIseUJBQXlCO0VBQ3pCLHlCQUF5QjtFQUN6QiwwQkFBMEI7RUFDMUIsMkJBQTJCO0VBQzNCLHFCQUFxQjtFQUNyQixvQkFBb0I7RUFDcEIscUJBQXFCO0VBQ3JCLGtCQUFrQjtFQUNsQixxQkFBcUI7RUFDckIscUJBQXFCO0VBQ3JCLHNCQUFzQjtBQUN4Qjs7QUNsSkE7QUFFQTs7QUFFQTtBQUVBOztBQUVBO0FBRUE7O0FBRUE7QUFFQTs7QUFFQTtFQUVFLHlCQUF5QjtBQUMzQjs7QUFFQTtFQUNFLHdDQUF3QztFQUV4QyxVQUFVO0FBQ1o7O0FBRUE7RUFDRSwwQkFBMkM7RUFBM0MsMkNBQTJDO0FBQzdDOztBQUZBO0VBQ0UsMEJBQTJDO0VBQTNDLDJDQUEyQztBQUM3Qzs7QUFFQTtBQUVBOztBQUVBO0FBRUE7O0FBRUE7QUFFQTs7QUFFQSxnREFBZ0Q7O0FBQ2hEO0VBQ0Usd0RBQVk7VUFBWixnREFBWTtFQUFaLG9DQUFZO1VBQVosNEJBQVk7RUFBWixpRkFBWTtFQUFaLGdDQUFZO0VBQVoseUJBQVk7RUFBWixxQkFBWTtLQUFaLGtCQUFZO0VBQVosZ0JBQVk7RUFBWixpQkFBWTtFQUFaLFlBQVk7RUFBWixnQkFBWTtFQUFaLHVCQUFZO0VBQVosaUJBQVk7RUFBWixXQUFZO0VBQVosVUFBWTtFQUFaLFdBQVk7RUFBWixxQkFBWTtLQUFaLGtCQUFZO1VBQVosYUFBWTtFQUFaLDBCQUFZO0tBQVosdUJBQVk7VUFBWixrQkFBWTtFQUFaLDRCQUFZO0tBQVoseUJBQVk7VUFBWixvQkFBWTtFQUFaLHVCQUFZO0VBQVosMEJBQVk7S0FBWix1QkFBWTtVQUFaLGtCQUFZO0VBQVosNkNBQVk7S0FBWiwwQ0FBWTtVQUFaLHFDQUFZO0VBQVosc0JBQVk7S0FBWixtQkFBWTtVQUFaLGNBQVk7RUFBWiwwQkFBWTtLQUFaLHVCQUFZO1VBQVosa0JBQVk7RUFBWixlQUFZO0VBQVosdUJBQVk7RUFBWixtQkFBWTtFQUFaLFlBQVk7RUFBWixjQUFZO0VBQVosZUFBWTtFQUFaLGlCQUFZO0VBQVosV0FBWTtFQUFaLGtCQUFZO0VBQVosaUJBQVk7RUFBWixrQkFBWTtFQUFaLHFDQUFZO1VBQVosNkJBQVk7RUFBWixvQkFBWTtFQUFaLG1CQUFZO0VBQVosb0JBQVk7RUFBWixtQkFBWTtFQUFaLFlBQVk7RUFBWixxQkFBWTtVQUFaLGFBQVk7RUFBWixVQUFZO0VBQVosc0JBQVk7RUFBWiw2QkFBWTtFQUFaLFNBQVk7RUFBWixnQkFBWTtFQUFaLGVBQVk7RUFBWixhQUFZO0VBQVosWUFBWTtFQUFaLFVBQVk7RUFBWixVQUFZO0VBQVosMkJBQVk7RUFBWixpQkFBWTtFQUFaLG1CQUFZO0VBQVosbUJBQVk7RUFBWixVQUFZO0VBQVosc0JBQVk7RUFBWix1QkFBWTtFQUFaLHVCQUFZO0VBQVoseUJBQVk7VUFBWixpQkFBWTtFQUFaLG1DQUFZO1VBQVosMkJBQVk7RUFBWixnQkFBWTtFQUFaLFdBQVk7RUFBWixnQkFBWTtJQUFaLGNBQVk7T0FBWixXQUFZO0VBQVosa0JBQVk7RUFBWixnQkFBWTtFQUFaLDBCQUFZO09BQVoscUJBQVk7RUFBWixxQkFBWTtFQUFaLGNBQVk7RUFBWixpQkFBWTtFQUFaLG9CQUFZO0VBQVosU0FBWTtFQUFaLHVCQUFZO1VBQVosZUFBWTtFQUFaLG1DQUFZO1VBQVosMkJBQVk7RUFBWiw2QkFBWTtVQUFaLHFCQUFZO0VBQVosMkJBQVk7RUFBWixvQkFBWTtFQUFaLHdCQUFZO0VBQVosbUJBQVk7RUFBWixtQkFBWTtFQUFaLFNBQVk7RUFBWixXQUFZO0VBQVosb0JBQVk7RUFBWixhQUFZO0VBQVosWUFBWTtFQUNaLGtCQUFrQjtFQUNsQixvQkFBb0I7RUFDcEIsY0FBYztFQUNkLGVBQWU7QUFDakI7O0FBQ0E7O0VBRUUsMEJBQTBCO0FBQzVCIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBDb3B5cmlnaHQgWmVuZGVzaywgSW5jLlxuICpcbiAqIFVzZSBvZiB0aGlzIHNvdXJjZSBjb2RlIGlzIGdvdmVybmVkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjBcbiAqIGZvdW5kIGF0IGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMC5cbiAqL1xuXG46cm9vdCB7XG4gIC0temQtY29sb3ItYmxhY2s6ICMwMDA7XG4gIC0temQtY29sb3ItZ3JlZW4tMTAwOiAjZWRmOGY0O1xuICAtLXpkLWNvbG9yLWdyZWVuLTIwMDogI2QxZThkZjtcbiAgLS16ZC1jb2xvci1ncmVlbi0zMDA6ICNhZWNmYzI7XG4gIC0temQtY29sb3ItZ3JlZW4tNDAwOiAjNWVhZTkxO1xuICAtLXpkLWNvbG9yLWdyZWVuLTUwMDogIzIyOGY2NztcbiAgLS16ZC1jb2xvci1ncmVlbi02MDA6ICMwMzgxNTM7XG4gIC0temQtY29sb3ItZ3JlZW4tNzAwOiAjMTg2MTQ2O1xuICAtLXpkLWNvbG9yLWdyZWVuLTgwMDogIzBiM2IyOTtcbiAgLS16ZC1jb2xvci1ncmV5LTEwMDogI2Y4ZjlmOTtcbiAgLS16ZC1jb2xvci1ncmV5LTIwMDogI2U5ZWJlZDtcbiAgLS16ZC1jb2xvci1ncmV5LTMwMDogI2Q4ZGNkZTtcbiAgLS16ZC1jb2xvci1ncmV5LTQwMDogI2MyYzhjYztcbiAgLS16ZC1jb2xvci1ncmV5LTUwMDogIzg3OTI5ZDtcbiAgLS16ZC1jb2xvci1ncmV5LTYwMDogIzY4NzM3ZDtcbiAgLS16ZC1jb2xvci1ncmV5LTcwMDogIzQ5NTQ1YztcbiAgLS16ZC1jb2xvci1ncmV5LTgwMDogIzJmMzk0MTtcbiAgLS16ZC1jb2xvci1ibHVlLTEwMDogI2VkZjdmZjtcbiAgLS16ZC1jb2xvci1ibHVlLTIwMDogI2NlZTJmMjtcbiAgLS16ZC1jb2xvci1ibHVlLTMwMDogI2FkY2NlNDtcbiAgLS16ZC1jb2xvci1ibHVlLTQwMDogIzUyOTNjNztcbiAgLS16ZC1jb2xvci1ibHVlLTUwMDogIzMzN2ZiZDtcbiAgLS16ZC1jb2xvci1ibHVlLTYwMDogIzFmNzNiNztcbiAgLS16ZC1jb2xvci1ibHVlLTcwMDogIzE0NGE3NTtcbiAgLS16ZC1jb2xvci1ibHVlLTgwMDogIzBmMzU1NDtcbiAgLS16ZC1jb2xvci1rYWxlLTEwMDogI2Y1ZmNmYztcbiAgLS16ZC1jb2xvci1rYWxlLTIwMDogI2RhZWRlZDtcbiAgLS16ZC1jb2xvci1rYWxlLTMwMDogI2JkZDlkNztcbiAgLS16ZC1jb2xvci1rYWxlLTQwMDogIzkwYmJiYjtcbiAgLS16ZC1jb2xvci1rYWxlLTUwMDogIzQ2N2I3YztcbiAgLS16ZC1jb2xvci1rYWxlLTYwMDogIzE3NDk0ZDtcbiAgLS16ZC1jb2xvci1rYWxlLTcwMDogIzAzMzYzZDtcbiAgLS16ZC1jb2xvci1rYWxlLTgwMDogIzAxMmIzMDtcbiAgLS16ZC1jb2xvci1yZWQtMTAwOiAjZmZmMGYxO1xuICAtLXpkLWNvbG9yLXJlZC0yMDA6ICNmNWQ1ZDg7XG4gIC0temQtY29sb3ItcmVkLTMwMDogI2Y1YjViYTtcbiAgLS16ZC1jb2xvci1yZWQtNDAwOiAjZTM1YjY2O1xuICAtLXpkLWNvbG9yLXJlZC01MDA6ICNkOTNmNGM7XG4gIC0temQtY29sb3ItcmVkLTYwMDogI2NjMzM0MDtcbiAgLS16ZC1jb2xvci1yZWQtNzAwOiAjOGMyMzJjO1xuICAtLXpkLWNvbG9yLXJlZC04MDA6ICM2ODEyMTk7XG4gIC0temQtY29sb3IteWVsbG93LTEwMDogI2ZmZjdlZDtcbiAgLS16ZC1jb2xvci15ZWxsb3ctMjAwOiAjZmZlZWRiO1xuICAtLXpkLWNvbG9yLXllbGxvdy0zMDA6ICNmZWQ2YTg7XG4gIC0temQtY29sb3IteWVsbG93LTQwMDogI2ZmYjA1NztcbiAgLS16ZC1jb2xvci15ZWxsb3ctNTAwOiAjZjc5YTNlO1xuICAtLXpkLWNvbG9yLXllbGxvdy02MDA6ICNlZDhmMWM7XG4gIC0temQtY29sb3IteWVsbG93LTcwMDogI2FkNTkxODtcbiAgLS16ZC1jb2xvci15ZWxsb3ctODAwOiAjNzAzODE1O1xuICAtLXpkLWNvbG9yLXdoaXRlOiAjZmZmO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1henVyZS00MDA6ICMzMDkxZWM7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWF6dXJlLTYwMDogIzEzNzFkNjtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktY3JpbXNvbi00MDA6ICNlMzRmMzI7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWNyaW1zb24tNjAwOiAjYzcyYTFjO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1mdXNjaGlhLTQwMDogI2Q2NTNjMjtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktZnVzY2hpYS02MDA6ICNhODE4OTc7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWxlbW9uLTQwMDogI2ZmZDQyNDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbGVtb24tNjAwOiAjZmZiYjEwO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1saW1lLTQwMDogIzQzYjMyNDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbGltZS02MDA6ICMyZTgyMDA7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LW1pbnQtNDAwOiAjMDBhNjU2O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1taW50LTYwMDogIzA1ODU0MTtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktb3JhbmdlLTQwMDogI2RlNzAxZDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktb3JhbmdlLTYwMDogI2JmNTAwMDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktcGluay00MDA6ICNlYzRkNjM7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXBpbmstNjAwOiAjZDQyMDU0O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1wdXJwbGUtNDAwOiAjYjU1MmUyO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1wdXJwbGUtNjAwOiAjNmEyN2I4O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1yb3lhbC00MDA6ICM1ZDdkZjU7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXJveWFsLTYwMDogIzMzNTNlMjtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktdGVhbC00MDA6ICMwMmExOTE7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXRlYWwtNjAwOiAjMDI4MDc5O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1henVyZS1NNDAwOiAjNWY4ZGNmO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1henVyZS1NNjAwOiAjM2E3MGIyO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1jcmltc29uLU00MDA6ICNjYzZjNWI7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWNyaW1zb24tTTYwMDogI2IyNGEzYztcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktZnVzY2hpYS1NNDAwOiAjY2Y2MmE4O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1mdXNjaGlhLU02MDA6ICNhODQ1OGM7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWxlbW9uLU00MDA6ICNlN2E1MDA7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWxlbW9uLU02MDA6ICNjMzhmMDA7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWxpbWUtTTQwMDogIzUxOWUyZDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbGltZS1NNjAwOiAjNDc3ODJjO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1taW50LU00MDA6ICMyOTljNjY7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LW1pbnQtTTYwMDogIzJlODA1NztcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktb3JhbmdlLU00MDA6ICNkNDc3MmM7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LW9yYW5nZS1NNjAwOiAjYjM1ODI3O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1waW5rLU00MDA6ICNkNTcyODc7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXBpbmstTTYwMDogI2IyM2E1ZDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktcHVycGxlLU00MDA6ICNiMDcyY2M7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXB1cnBsZS1NNjAwOiAjOTM1OGIwO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1yb3lhbC1NNDAwOiAjNzk4NmQ4O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1yb3lhbC1NNjAwOiAjNGI2MWMzO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS10ZWFsLU00MDA6ICMyZDllOGY7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXRlYWwtTTYwMDogIzNjNzg3MztcbiAgLS16ZC1jb2xvci1jaGF0LW9yYW5nZTogI2Y3OWEzZTtcbiAgLS16ZC1jb2xvci1jb25uZWN0LXJlZDogI2ZmNjIyNDtcbiAgLS16ZC1jb2xvci1leHBsb3JlLWJsdWU6ICMzMGFhYmM7XG4gIC0temQtY29sb3ItZ2F0aGVyLXBpbms6ICNmNmM4YmU7XG4gIC0temQtY29sb3ItZ3VpZGUtcGluazogI2ZmNjIyNDtcbiAgLS16ZC1jb2xvci1tZXNzYWdlLWdyZWVuOiAjMzdiOGFmO1xuICAtLXpkLWNvbG9yLXNlbGwtZ29sZDogI2MzOGYwMDtcbiAgLS16ZC1jb2xvci1zdXBwb3J0LWdyZWVuOiAjMDBhNjU2O1xuICAtLXpkLWNvbG9yLXRhbGsteWVsbG93OiAjZWZjOTNkO1xuICAtLXpkLWZvbnQtZmFtaWx5LW1vbm9zcGFjZTogU0ZNb25vLVJlZ3VsYXIsIENvbnNvbGFzLCAnTGliZXJhdGlvbiBNb25vJywgTWVubG8sIENvdXJpZXIsIG1vbm9zcGFjZTtcbiAgLS16ZC1mb250LWZhbWlseS1zeXN0ZW06IHN5c3RlbS11aSwgLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCAnU2Vnb2UgVUknLCBSb2JvdG8sIE94eWdlbi1TYW5zLCBVYnVudHUsIENhbnRhcmVsbCwgJ0hlbHZldGljYSBOZXVlJywgQXJpYWwsIHNhbnMtc2VyaWY7XG4gIC0temQtZm9udC1zaXplLXhzOiAxMHB4O1xuICAtLXpkLWZvbnQtc2l6ZS1zbTogMTJweDtcbiAgLS16ZC1mb250LXNpemUtbWQ6IDE0cHg7XG4gIC0temQtZm9udC1zaXplLWxnOiAxOHB4O1xuICAtLXpkLWZvbnQtc2l6ZS14bDogMjJweDtcbiAgLS16ZC1mb250LXNpemUteHhsOiAyNnB4O1xuICAtLXpkLWZvbnQtc2l6ZS14eHhsOiAzNnB4O1xuICAtLXpkLWZvbnQtc2l6ZS1zbS1tb25vc3BhY2U6IDExcHg7XG4gIC0temQtZm9udC1zaXplLW1kLW1vbm9zcGFjZTogMTNweDtcbiAgLS16ZC1mb250LXNpemUtbGctbW9ub3NwYWNlOiAxN3B4O1xuICAtLXpkLWZvbnQtd2VpZ2h0LXRoaW46IDEwMDtcbiAgLS16ZC1mb250LXdlaWdodC1leHRyYWxpZ2h0OiAyMDA7XG4gIC0temQtZm9udC13ZWlnaHQtbGlnaHQ6IDMwMDtcbiAgLS16ZC1mb250LXdlaWdodC1yZWd1bGFyOiA0MDA7XG4gIC0temQtZm9udC13ZWlnaHQtbWVkaXVtOiA1MDA7XG4gIC0temQtZm9udC13ZWlnaHQtc2VtaWJvbGQ6IDYwMDtcbiAgLS16ZC1mb250LXdlaWdodC1ib2xkOiA3MDA7XG4gIC0temQtZm9udC13ZWlnaHQtZXh0cmFib2xkOiA4MDA7XG4gIC0temQtZm9udC13ZWlnaHQtYmxhY2s6IDkwMDtcbiAgLS16ZC1mb250LXdlaWdodC11bHRyYWxpZ2h0OiAyMDA7XG4gIC0temQtZm9udC13ZWlnaHQtdWx0cmFib2xkOiA4MDA7XG4gIC0temQtZm9udC13ZWlnaHQtaGVhdnk6IDkwMDtcbiAgLS16ZC1saW5lLWhlaWdodC1zbTogMTZweDtcbiAgLS16ZC1saW5lLWhlaWdodC1tZDogMjBweDtcbiAgLS16ZC1saW5lLWhlaWdodC1sZzogMjRweDtcbiAgLS16ZC1saW5lLWhlaWdodC14bDogMjhweDtcbiAgLS16ZC1saW5lLWhlaWdodC14eGw6IDMycHg7XG4gIC0temQtbGluZS1oZWlnaHQteHh4bDogNDRweDtcbiAgLS16ZC1zcGFjaW5nLXh4czogNHB4O1xuICAtLXpkLXNwYWNpbmcteHM6IDhweDtcbiAgLS16ZC1zcGFjaW5nLXNtOiAxMnB4O1xuICAtLXpkLXNwYWNpbmc6IDIwcHg7XG4gIC0temQtc3BhY2luZy1sZzogMzJweDtcbiAgLS16ZC1zcGFjaW5nLXhsOiA0MHB4O1xuICAtLXpkLXNwYWNpbmcteHhsOiA0OHB4O1xufVxuIiwiQGltcG9ydCBcIkB6ZW5kZXNrZ2FyZGVuL2Nzcy12YXJpYWJsZXNcIjtcblxuLmRlZmF1bHQge1xuICBjb21wb3NlczogYy1jYWxsb3V0IGZyb20gXCJ+QHplbmRlc2tnYXJkZW4vY3NzLWNhbGxvdXRzL2Rpc3QvaW5kZXguY3NzXCI7XG59XG5cbi5zdWNjZXNzIHtcbiAgY29tcG9zZXM6IGMtY2FsbG91dCBjLWNhbGxvdXQtLXN1Y2Nlc3MgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbn1cblxuLndhcm5pbmcge1xuICBjb21wb3NlczogYy1jYWxsb3V0IGMtY2FsbG91dC0td2FybmluZyBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xufVxuXG4uZXJyb3Ige1xuICBjb21wb3NlczogYy1jYWxsb3V0IGMtY2FsbG91dC0tZXJyb3IgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbn1cblxuLmluZm8ge1xuICBjb21wb3NlczogYy1jYWxsb3V0IGMtY2FsbG91dC0taW5mbyBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjZjhmOWY5O1xufVxuXG4ucmVtb3ZlIHtcbiAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQgIWltcG9ydGFudDtcbiAgY29tcG9zZXM6IGMtY2FsbG91dF9fY2xvc2UgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbiAgcGFkZGluZzogMDtcbn1cblxuLnJlbW92ZTpmb2N1cy12aXNpYmxlIHtcbiAgb3V0bGluZTogMXB4IHNvbGlkIHZhcigtLXpkLWNvbG9yLWdyZXktODAwKTtcbn1cblxuLnRpdGxlIHtcbiAgY29tcG9zZXM6IGMtY2FsbG91dF9fdGl0bGUgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbn1cblxuLnJ0bCB7XG4gIGNvbXBvc2VzOiBpcy1ydGwgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbn1cblxuLmZsb2F0aW5nIHtcbiAgY29tcG9zZXM6IGMtY2FsbG91dC0tZGlhbG9nIGZyb20gXCJ+QHplbmRlc2tnYXJkZW4vY3NzLWNhbGxvdXRzL2Rpc3QvaW5kZXguY3NzXCI7XG59XG5cbi8qIFJlc2V0IHN0eWxlcyBmb3IgbGlua3Mgd2l0aGluIG5vdGlmaWNhdGlvbnMgKi9cbi5ub3RpZmljYXRpb24gYSB7XG4gIGFsbDogaW5pdGlhbDtcbiAgZm9udC1zaXplOiBpbmhlcml0O1xuICBmb250LWZhbWlseTogaW5oZXJpdDtcbiAgY29sb3I6ICMwMDcyZWY7XG4gIGN1cnNvcjogcG9pbnRlcjtcbn1cbi5ub3RpZmljYXRpb24gYTpob3Zlcixcbi5ub3RpZmljYXRpb24gYTpmb2N1cyB7XG4gIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lO1xufVxuIl0sInNvdXJjZVJvb3QiOiIifQ== */</style><style>.gG1SKx_8sRWXWUqBql1Ygd7tnyV_z43E {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  width: 360px;
+  z-index: 2147483647;
+}
+
+[dir="rtl"] .gG1SKx_8sRWXWUqBql1Ygd7tnyV_z43E {
+  right: 0;
+  left: 16px;
+}
+
+.gG1SKx_8sRWXWUqBql1Ygd7tnyV_z43E > * {
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3VpL2NvbXBvbmVudHMvTm90aWZpY2F0aW9ucy9zdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZUFBZTtFQUNmLFNBQVM7RUFDVCxXQUFXO0VBQ1gsWUFBWTtFQUNaLG1CQUFtQjtBQUNyQjs7QUFFQTtFQUNFLFFBQVE7RUFDUixVQUFVO0FBQ1o7O0FBRUE7RUFDRSxtQkFBbUI7QUFDckIiLCJzb3VyY2VzQ29udGVudCI6WyIubm90aWZpY2F0aW9ucyB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgdG9wOiAxNnB4O1xuICByaWdodDogMTZweDtcbiAgd2lkdGg6IDM2MHB4O1xuICB6LWluZGV4OiAyMTQ3NDgzNjQ3O1xufVxuXG5bZGlyPVwicnRsXCJdIC5ub3RpZmljYXRpb25zIHtcbiAgcmlnaHQ6IDA7XG4gIGxlZnQ6IDE2cHg7XG59XG5cbi5ub3RpZmljYXRpb25zID4gKiB7XG4gIG1hcmdpbi1ib3R0b206IDEwcHg7XG59Il0sInNvdXJjZVJvb3QiOiIifQ== */</style><style>.NjHrlmSUIMtSlY7gtg7w7dtpuhz62MEa {
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3VpL2phdmFzY3JpcHRzL2VuZHVzZXIvbW9kdWxlcy9zZXR1cE5vdGlmaWNhdGlvbnMvaW5kZXguY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBRUEiLCJzb3VyY2VzQ29udGVudCI6WyIubm90aWZpY2F0aW9uQm9keSB7XG4gIGNvbXBvc2VzOiBjLWNhbGxvdXRfX3BhcmFncmFwaCBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xufVxuIl0sInNvdXJjZVJvb3QiOiIifQ== */</style><script type="text/javascript" src="https://static.zdassets.com/ekr/snippet.js?key=web_widget/mmhmm.zendesk.com" charset="utf-8" async="" id="ze-snippet"></script><link rel="stylesheet" href="https://ml.api.mmhmm.app/hcb/css/chat.css"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+<body class=""><div></div>
+  
+  
+
+  <a class="lt-skip-navigation" tabindex="1" href="#main-content">Skip to main content</a>
+
+
+<!-- RIGHTPAGE HEAD CODE BELOW-->
+<!-- <script id="rightpage-widget-script" data-rightpage-widget-id="adba4f8b-b997-4fc2-ae9f-5e74b251df5e" async src='https://www.widget.rightpage.com/widget/index.js'></script> -->
+<!-- RIGHTPAGE HEAD CODE ABOVE-->
+<!-- SENSAI CODE BELOW -->
+<script async="" src="https://ml.api.mmhmm.app/hcb/js/chat.js"></script>
+<!-- SENASI CODE ABOVE-->
+<div class="lt-layout">
+  <div class="custom-header">
+    <div width="100%" opacity="1" class="Box-sc-aicdj4-0 Navigation___StyledBox-sc-1g8gyo0-0 dlQuVs fiLrLV"><div display="none,,flex" height="10rem" class="Box-sc-aicdj4-0 Width-sc-pt340y-0 ediFvr kzZjnY"><div display="flex" class="Box-sc-aicdj4-0 cgLUQK"><span display="flex" role="menu" class="Box-sc-aicdj4-0 eJXYhZ"><nav aria-label="Main" data-orientation="horizontal" dir="ltr" class="DesktopNavigation___StyledNavigationMenuRoot-sc-vs7s12-3 ixhnRL"><div style="position: relative;"><ul data-orientation="horizontal" class="DesktopNavigation___StyledNavigationMenuList-sc-vs7s12-4 hOJmtM" dir="ltr"><li><a class="Link__StyledAnchor-sc-467a3d-0 bVhCOz" aria-label="Visit/ return to mmhmm home page." href="/hc/en-us"><img src="//theme.zdassets.com/theme_assets/10052972/cf5a1405db8e082aded64afff60f1046763a9410.png"></a></li><li><button id="radix-6-trigger-radix-1" data-state="closed" aria-expanded="false" aria-controls="radix-6-content-radix-1" class="DesktopNavigation___StyledNavigationMenuTrigger-sc-vs7s12-5 jiiocs" data-radix-collection-item=""><div class="Box-sc-aicdj4-0 DesktopNavigation___StyledBox-sc-vs7s12-6 jTgKOS fSfiDw">Product<svg width="15" height="15" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="IconBase-sc-19dxre4-0 jfzOfp DesktopNavigation___StyledChevron-sc-vs7s12-7 jnZCZJ"><path fill="black" d="M4.4 14.994c.37 0 .72-.144.987-.391l5.063-5.248 5.191 5.227c.31.268.618.391.968.391.761 0 1.379-.638 1.379-1.4 0-.37-.144-.72-.391-.966l-6.18-6.216C11.11 6.123 10.8 6 10.45 6c-.37 0-.72.144-.988.391l-6.03 6.216c-.226.226-.39.576-.432.967.02.803.638 1.42 1.4 1.42z"></path></svg></div>
+    <div class="menu-links">
+      <a href="https://www.mmhmm.app/product/?utm_source=helpcenter" class="menu-link">Features</a>
+      <a href="https://www.mmhmm.app/why-mmhmm/?utm_source=helpcenter" class="menu-link">Why mmhmm</a>
+      <a href="https://www.mmhmm.app/solutions/?utm_source=helpcenter" class="menu-link">Solutions</a>
+    </div>
+    </button></li><li><a class="Link__StyledAnchor-sc-467a3d-0 dWiINW DesktopNavigation___StyledLink3-sc-vs7s12-11 jOHnFX" color="rgba(0, 0, 0, 1)" data-test="nav-link" role="menuitem" href="https://www.mmhmm.app/en/for-teams">For Teams</a></li><li><a class="Link__StyledAnchor-sc-467a3d-0 dWiINW DesktopNavigation___StyledLink3-sc-vs7s12-11 jOHnFX" color="rgba(0, 0, 0, 1)" data-test="nav-link" role="menuitem" href="https://www.mmhmm.app/pricing/?utm_source=helpcenter">Pricing</a></li>
+
+            
+
+<li><a class="Link__StyledAnchor-sc-467a3d-0 bVhCOz"></a></li><li><button id="radix-6-trigger-radix-1" data-state="closed" aria-expanded="false" aria-controls="radix-6-content-radix-1" class="DesktopNavigation___StyledNavigationMenuTrigger-sc-vs7s12-5 jiiocs" data-radix-collection-item=""><div class="Box-sc-aicdj4-0 DesktopNavigation___StyledBox-sc-vs7s12-6 jTgKOS fSfiDw">Resources<svg width="15" height="15" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="IconBase-sc-19dxre4-0 jfzOfp DesktopNavigation___StyledChevron-sc-vs7s12-7 jnZCZJ"><path fill="black" d="M4.4 14.994c.37 0 .72-.144.987-.391l5.063-5.248 5.191 5.227c.31.268.618.391.968.391.761 0 1.379-.638 1.379-1.4 0-.37-.144-.72-.391-.966l-6.18-6.216C11.11 6.123 10.8 6 10.45 6c-.37 0-.72.144-.988.391l-6.03 6.216c-.226.226-.39.576-.432.967.02.803.638 1.42 1.4 1.42z"></path></svg></div>
+    <div class="menu-links">
+      <a href="https://www.mmhmm.app/blog/?utm_source=helpcenter" class="menu-link">Blog</a>
+      <a href="https://www.mmhmm.app/hybrid-hub/?utm_source=helpcenter" class="menu-link">The hybrid work guide</a>
+      <a href="https://www.mmhmm.app/templates/?utm_source=helpcenter" class="menu-link">Templates</a>
+    </div>
+    </button></li>      
+      
+      
+      
+      <li><a class="Link__StyledAnchor-sc-467a3d-0 dWiINW DesktopNavigation___StyledLink3-sc-vs7s12-11 jOHnFX" color="rgba(0, 0, 0, 1)" data-test="nav-link" role="menuitem" href="https://www.mmhmm.app/about/?utm_source=helpcenter">About</a></li></ul></div></nav></span></div><span class="Box-sc-aicdj4-0 cLYwEl"> 
+      
+          <div class="lt-dropdown lt-dropdown--topbar lt-dropdown--language-selector language-selector">
+            <button class="lt-dropdown-toggle lt-topbar__link" aria-haspopup="true">
+              English (US)
+            </button>
+            <span class="lt-dropdown-menu lt-dropdown-menu--topbar" role="menu">
+              
+                <a href="/hc/change_language/de?return_to=%2Fhc%2Fde" dir="ltr" rel="nofollow" role="menuitem">
+                  Deutsch
+                </a>
+              
+                <a href="/hc/change_language/es?return_to=%2Fhc%2Fes" dir="ltr" rel="nofollow" role="menuitem">
+                  Español
+                </a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja" dir="ltr" rel="nofollow" role="menuitem">
+                  日本語
+                </a>
+              
+            </span>
+          </div>
+        
+        <a href="https://www.mmhmm.app/launch" class="CTA__StyledCTA-sc-12472f-0 fOWEod gtm__navigation-registration">Launch App</a>
+     </span></div><lotus-alerts></lotus-alerts></div>
+
+    <div class="mob">
+      <div class="mob-header">
+        <div width="100%" opacity="1" class="Box-sc-aicdj4-0 Navigation___StyledBox-sc-1g8gyo0-0 dlQuVs fiLrLV"><div display="flex,,none" height="10rem" class="Box-sc-aicdj4-0 Width-sc-pt340y-0 catZHH kzZjnY"><a class="Link__StyledAnchor-sc-467a3d-0 bVhCOz" aria-label="Visit/ return to mmhmm home page." href="/hc/en-us"><img src="//theme.zdassets.com/theme_assets/10052972/cf5a1405db8e082aded64afff60f1046763a9410.png" alt=""></a><div display="flex" class="Box-sc-aicdj4-0 cgLUQK">
+           
+          <div class="lt-dropdown lt-dropdown--topbar lt-dropdown--language-selector language-selector">
+            <button class="lt-dropdown-toggle lt-topbar__link" aria-haspopup="true">
+              English (US)
+            </button>
+            <span class="lt-dropdown-menu lt-dropdown-menu--topbar" role="menu">
+              
+                <a href="/hc/change_language/de?return_to=%2Fhc%2Fde" dir="ltr" rel="nofollow" role="menuitem">
+                  Deutsch
+                </a>
+              
+                <a href="/hc/change_language/es?return_to=%2Fhc%2Fes" dir="ltr" rel="nofollow" role="menuitem">
+                  Español
+                </a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja" dir="ltr" rel="nofollow" role="menuitem">
+                  日本語
+                </a>
+              
+            </span>
+          </div>
+        
+          <div role="menu" aria-label="navigation" aria-hidden="true" class="Hamburger__Toggle-sc-5q6ylt-0 eYPCsM"><span class="Hamburger__Line-sc-5q6ylt-1 Hamburger__FirstLine-sc-5q6ylt-2 dNYeZg byghbW"></span><span class="Hamburger__Line-sc-5q6ylt-1 Hamburger__SecondLine-sc-5q6ylt-3 dNYeZg cgrFeo"></span><span class="Hamburger__Line-sc-5q6ylt-1 Hamburger__ThirdLine-sc-5q6ylt-4 dNYeZg cMbyum"></span></div></div></div></div>
+      </div>
+      <div width="100%" height="calc(100vh - 10rem)" class="Box-sc-aicdj4-0 iKPTtA"><div display="flex" role="menu" class="Box-sc-aicdj4-0 Width-sc-pt340y-0 iewzdC kzZjnY"><div class="MobileNavigation___StyledAccordionRoot-sc-1g9bv3t-4 dxNMAJ" data-orientation="vertical"><div data-state="closed" data-orientation="vertical" class="AccordionItem"><button type="button" aria-controls="radix-61" aria-expanded="false" data-state="closed" data-orientation="vertical" id="radix-62" data-radix-collection-item="" class="mob-nav"><div class="Box-sc-aicdj4-0 MobileNavigation___StyledBox-sc-1g9bv3t-5 jTgKOS juwpuQ">Product<svg width="15" height="15" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="IconBase-sc-19dxre4-0 jfzOfp MobileNavigation___StyledChevron-sc-1g9bv3t-6 cWFqjH"><path fill="black" d="M4.4 14.994c.37 0 .72-.144.987-.391l5.063-5.248 5.191 5.227c.31.268.618.391.968.391.761 0 1.379-.638 1.379-1.4 0-.37-.144-.72-.391-.966l-6.18-6.216C11.11 6.123 10.8 6 10.45 6c-.37 0-.72.144-.988.391l-6.03 6.216c-.226.226-.39.576-.432.967.02.803.638 1.42 1.4 1.42z"></path></svg></div>
+      
+      </button>
+        <ul class="mob-nav__list">
+          <li>
+              <a href="">Features</a>
+          </li>
+          <li>
+            <a href=""></a>
+          </li>
+          <li>
+             <a href=""></a>
+          </li>
+         
+         
+        </ul>
+        
+        </div><div data-state="closed" data-orientation="vertical" class="AccordionItem"><a class="Link__StyledAnchor-sc-467a3d-0 fRvqiX" color="rgba(0, 0, 0, 1)" data-test="nav-link" role="menuitem" href="https://www.mmhmm.app/en/for-teams">For Teams</a></div><div data-state="closed" data-orientation="vertical" class="AccordionItem"><a class="Link__StyledAnchor-sc-467a3d-0 fRvqiX" color="rgba(0, 0, 0, 1)" data-test="nav-link" role="menuitem" href="https://www.mmhmm.app/pricing/?utm_source=helpcenter">Pricing</a></div><div data-state="closed" data-orientation="vertical" class="AccordionItem"><a class="Link__StyledAnchor-sc-467a3d-0 fRvqiX" color="rgba(0, 0, 0, 1)" data-test="nav-link" role="menuitem" href="https://www.mmhmm.app/about/?utm_source=helpcenter">About</a></div><div data-state="closed" data-orientation="vertical" class="AccordionItem"><a class="Link__StyledAnchor-sc-467a3d-0 fRvqiX" color="rgba(0, 0, 0, 1)" data-test="nav-link" role="menuitem" href="">Blog</a></div></div><div class="Box-sc-aicdj4-0 MobileNavigation___StyledBox3-sc-1g9bv3t-10 jTgKOS eXnLSw">
+           <a href="https://www.mmhmm.app/launch" class="Link__StyledAnchor-sc-467a3d-0 dWiINW DesktopNavigation___StyledLink3-sc-vs7s12-11 jOHnFX">Launch App</a>
+        </div></div></div>
+    </div>
+  </div>
+ 
+  <div class="lt-layout__main">
+
+  <main role="main">
+    <div class="lt-hero-unit lt-container" data-hero-unit="">
+  <div class="lt-container-inner lt-search-box lt-search-box--hero-unit" data-search-box="">
+    <div class="h1 lt-fs-2 lt-fs-md-1 lt-hero-unit__title lt-mb-8">
+      
+        Welcome to the mmhmm help center!
+      
+    </div>
+    <form role="search" class="search" data-search="" data-instant="true" autocomplete="off" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓" autocomplete="off"><input type="search" name="query" id="query" placeholder="Search our articles" autocomplete="off" aria-label="Search..." class="aa-input" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-labelledby="query" aria-owns="algolia-autocomplete-listbox-0" style="" dir="auto"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: &quot;Roboto&quot;, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: normal; text-indent: 0px; text-rendering: optimizelegibility; text-transform: none;"></pre>
+<input type="submit" name="commit" value="Search"></form>
+    
+  </div>
+   
+    <div class="lt-container lt-custom-blocks lt-pt-4 lt-mt-9 lt-pb-2" id="custom-blocks" x-data="Theme.customBlocks()">
+      <div class="lt-container-inner">
+        <div class="lt-custom-blocks__items">
+          <div class="lt-row lt-row-cols-lg-4 lt-justify-content-center lt-custom-blocks__items lt-gy-5">
+            <template x-for="(item, index) in customBlocks" :key="index">
+              <div class="lt-custom-block lt-d-flex">
+                <a class="lt-custom-block__link lt-d-flex lt-flex-sm-column lt-p-5" x-bind:href="item.url">
+                  <img class="lt-custom-block__icon lt-flex-shrink-0 lt-mb-4" data-svg="" x-bind:src="item.imageUrl">
+                  <div class="lt-custom-block__content lt-ms-3 lt-ms-sm-0 lt-mt-sm-3">
+                    <div class="h3 lt-custom-block__title lt-mb-2" x-text="item.title"></div>
+                    <div class="lt-custom-block__text" x-text="item.text"></div>
+                  </div>
+                </a>
+              </div>
+            </template>
+          
+              <div class="lt-custom-block lt-d-flex">
+                <a class="lt-custom-block__link lt-d-flex lt-flex-sm-column lt-p-5" x-bind:href="item.url" href="https://help.mmhmm.app/hc/articles/360050985073">
+                  <img class="lt-custom-block__icon lt-flex-shrink-0 lt-mb-4" data-svg="" x-bind:src="item.imageUrl" src="//theme.zdassets.com/theme_assets/10052972/23221215858abf22a112e6dcfe3a062933c4a9cb.png">
+                  <div class="lt-custom-block__content lt-ms-3 lt-ms-sm-0 lt-mt-sm-3">
+                    <div class="h3 lt-custom-block__title lt-mb-2" x-text="item.title">Get started guide</div>
+                    <div class="lt-custom-block__text" x-text="item.text">New to mmhmm? We've got you covered.</div>
+                  </div>
+                </a>
+              </div>
+            
+              <div class="lt-custom-block lt-d-flex">
+                <a class="lt-custom-block__link lt-d-flex lt-flex-sm-column lt-p-5" x-bind:href="item.url" href="https://help.mmhmm.app/hc/sections/9507727115671">
+                  <img class="lt-custom-block__icon lt-flex-shrink-0 lt-mb-4" data-svg="" x-bind:src="item.imageUrl" src="//theme.zdassets.com/theme_assets/10052972/dc57c523faf77b1851398483557cf7abd1288267.png">
+                  <div class="lt-custom-block__content lt-ms-3 lt-ms-sm-0 lt-mt-sm-3">
+                    <div class="h3 lt-custom-block__title lt-mb-2" x-text="item.title">Troubleshoot</div>
+                    <div class="lt-custom-block__text" x-text="item.text">Find quick fixes for common issues, such as error messages and technical problems.</div>
+                  </div>
+                </a>
+              </div>
+            
+              <div class="lt-custom-block lt-d-flex">
+                <a class="lt-custom-block__link lt-d-flex lt-flex-sm-column lt-p-5" x-bind:href="item.url" href="https://help.mmhmm.app/hc/categories/9507497805079">
+                  <img class="lt-custom-block__icon lt-flex-shrink-0 lt-mb-4" data-svg="" x-bind:src="item.imageUrl" src="//theme.zdassets.com/theme_assets/10052972/5c0b7a1885accdf0369a71c5119816d98a0975ac.png">
+                  <div class="lt-custom-block__content lt-ms-3 lt-ms-sm-0 lt-mt-sm-3">
+                    <div class="h3 lt-custom-block__title lt-mb-2" x-text="item.title">Accounts and billing</div>
+                    <div class="lt-custom-block__text" x-text="item.text">Everything about billing, payment, and managing your account.</div>
+                  </div>
+                </a>
+              </div>
+            
+              <div class="lt-custom-block lt-d-flex">
+                <a class="lt-custom-block__link lt-d-flex lt-flex-sm-column lt-p-5" x-bind:href="item.url" href="/hc/en-us/requests/new">
+                  <img class="lt-custom-block__icon lt-flex-shrink-0 lt-mb-4" data-svg="" x-bind:src="item.imageUrl" src="//theme.zdassets.com/theme_assets/10052972/615fa262389a341eb6a316a6d2851ee3edd85266.png">
+                  <div class="lt-custom-block__content lt-ms-3 lt-ms-sm-0 lt-mt-sm-3">
+                    <div class="h3 lt-custom-block__title lt-mb-2" x-text="item.title">Contact support</div>
+                    <div class="lt-custom-block__text" x-text="item.text">Get help from the support team by submitting a ticket.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  
+</div>
+
+<div id="main-content">
+<div class="lt-container lt-pt-9">
+<div x-data="window.Theme.TopArticles(4)" x-init="fetchArticles()">
+  <div class="lt-container-inner">
+    <ul class="lt-row lt-row-cols-4 lt-list-unstyled top-articles">
+      <li class="top-list ">
+        <h2 class="lt-fs-4 lt-fs-lg-2 lt-fw-bold">Promoted articles</h2>
+        <template x-for="(article, index) in promotedArticles" :key="article.id">
+          <li>
+            <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url">
+            
+              <span x-text="article.name"></span>
+            </a>
+          </li>
+        </template>
+      
+          <li>
+            <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/19562890075671-Share-a-copy-of-your-presentation">
+            
+              <span x-text="article.name">Share a copy of your presentation</span>
+            </a>
+          </li>
+        
+          <li>
+            <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/18891538024727-Use-Elgato-s-Stream-Deck-with-mmhmm">
+            
+              <span x-text="article.name">Use Elgato's Stream Deck with mmhmm</span>
+            </a>
+          </li>
+        
+          <li>
+            <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/18195075797783-Mini-remote-control-overview">
+            
+              <span x-text="article.name">Mini remote control overview</span>
+            </a>
+          </li>
+        
+          <li>
+            <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/360050663154-Keyboard-shortcuts-hotkeys-and-gestures">
+            
+              <span x-text="article.name">Keyboard shortcuts, hotkeys, and gestures</span>
+            </a>
+          </li>
+        </li>
+      <li class="top-list">
+        <h2 class="lt-fs-4 lt-fs-lg-2 lt-fw-bold"> Recently added articles</h2>
+        <ul class="lt-list-unstyled">
+          <template x-for="(article, index) in recentArticles" :key="article.id">
+            <li>
+              <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url">
+             
+                <span x-text="article.name"></span>
+              </a>
+            </li>
+          </template>
+        
+            <li>
+              <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/11101373433239-This-is-not-a-valid-link">
+             
+                <span x-text="article.name">This is not a valid link</span>
+              </a>
+            </li>
+          
+            <li>
+              <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/360052332613-Background-and-slide-content-are-flipped-in-Zoom-or-Google-Meet">
+             
+                <span x-text="article.name">Background and slide content are flipped in Zoom or Google Meet</span>
+              </a>
+            </li>
+          
+            <li>
+              <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/5978770468247-Adjust-your-video-privacy-settings">
+             
+                <span x-text="article.name">Adjust your video privacy settings</span>
+              </a>
+            </li>
+          
+            <li>
+              <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/360052332593-Green-screen-best-practices">
+             
+                <span x-text="article.name">Green screen best practices</span>
+              </a>
+            </li>
+          </ul>
+      </li>
+      <li class="top-list">
+        <h2 class="lt-fs-4 lt-fs-lg-2 lt-fw-bold"> Most popular articles </h2>
+        <ul class="lt-list-unstyled">
+          <template x-for="(article, index) in mostLikedArticles" :key="article.id">
+            <li>
+              <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url">
+                <span x-text="article.name"></span>
+              </a>
+            </li>
+          </template>
+        
+            <li>
+              <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/360050985073-Get-started-with-mmhmm">
+                <span x-text="article.name">Get started with mmhmm</span>
+              </a>
+            </li>
+          
+            <li>
+              <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/360052332613-Background-and-slide-content-are-flipped-in-Zoom-or-Google-Meet">
+                <span x-text="article.name">Background and slide content are flipped in Zoom or Google Meet</span>
+              </a>
+            </li>
+          
+            <li>
+              <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/360056032414-Remove-the-mmhmm-logo-from-your-presentation">
+                <span x-text="article.name">Remove the mmhmm logo from your presentation</span>
+              </a>
+            </li>
+          
+            <li>
+              <a class="lt-d-flex lt-mb-2 lt-align-items-start" :href="article.html_url" href="https://help.mmhmm.app/hc/en-us/articles/360051142853-Optimize-your-webcam-setup-for-mmhmm">
+                <span x-text="article.name">Optimize your webcam setup for mmhmm</span>
+              </a>
+            </li>
+          </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+</div>
+  
+
+  
+   <div class="lt-container lt-mb-9 lt-pt-5" id="footer-submit-ticket">
+      <div class="lt-container-inner">
+        <div class="lt-custom-banner lt-footer-submit-ticket">
+          <img class="lt-custom-banner__img" src="//theme.zdassets.com/theme_assets/10052972/cb38a182fd04602115e30d53070826cf6ab1b6dd.svg" alt="">
+          <div class="lt-custom-banner__content">
+            <h3 class="lt-custom-banner__title">
+              
+              Join a video call with an mmhmm expert
+            
+            </h3>
+            <p class="lt-custom-banner__text">
+                
+              We will answer your questions, give you a tour of the application, and get you up and running with mmhmm.
+            
+            </p>
+          </div>
+          <a href="  
+              https://calendly.com/mmhmm-onboarding/mmhmm-introduction?utm_source=helpcenter 
+            " class="lt-custom-banner__link lt-btn lt-btn--primary lt-footer-submit-ticket__btn">
+              
+              Book a call
+            
+          </a>
+        </div>
+      </div>
+   </div>
+  
+
+  
+    <div class="lt-container lt-info-block-container lt-mb-9" x-data="window.Theme.featuredArticles('featured', 5)" x-init="fetchArticles()">
+      <div class="lt-container-inner" x-show="featuredArticlesList.length > 0">
+        <h2 class="lt-fs-4 lt-fs-lg-2 lt-fw-bold lt-mb-6 lt-text-center">   
+              Frequently asked questions (FAQ)
+            </h2>
+        <ul class="lt-row lt-row-cols-4 lt-list-unstyled lt-featured-list">
+          <template x-for="(article, index) in featuredArticlesList" :key="index">
+            <li class="lt-mb-4">
+              <a :href="article.html_url" class="featured-link">
+                <span class="lt-fw-bold lt-d-sm-block lt-mb-2 featured-link__title" x-text="article.name"></span>
+                <span class="lt-fs-lg-6 lt-d-sm-block" x-text="LotusUtils.truncate(article.body, 85)"></span>
+              </a>
+            </li>
+          </template>
+        
+            <li class="lt-mb-4">
+              <a :href="article.html_url" class="featured-link" href="https://help.mmhmm.app/hc/en-us/articles/360058898273-How-much-does-mmhmm-cost">
+                <span class="lt-fw-bold lt-d-sm-block lt-mb-2 featured-link__title" x-text="article.name">How much does mmhmm cost?</span>
+                <span class="lt-fs-lg-6 lt-d-sm-block" x-text="LotusUtils.truncate(article.body, 85)">Learn about mmhmm's pricing model. Every new user can try mmhmm for  free for 30 days...</span>
+              </a>
+            </li>
+          
+            <li class="lt-mb-4">
+              <a :href="article.html_url" class="featured-link" href="https://help.mmhmm.app/hc/en-us/articles/12211391915927-Check-which-version-of-mmhmm-you-re-using">
+                <span class="lt-fw-bold lt-d-sm-block lt-mb-2 featured-link__title" x-text="article.name">Check which version of mmhmm you're using</span>
+                <span class="lt-fs-lg-6 lt-d-sm-block" x-text="LotusUtils.truncate(article.body, 85)">Learn how to identify which version of mmhmm you're using.
+Icon style
+
+Operating syst...</span>
+              </a>
+            </li>
+          
+            <li class="lt-mb-4">
+              <a :href="article.html_url" class="featured-link" href="https://help.mmhmm.app/hc/en-us/articles/360051452154-Submit-a-feature-request-or-product-idea">
+                <span class="lt-fw-bold lt-d-sm-block lt-mb-2 featured-link__title" x-text="article.name">Submit a feature request or product idea</span>
+                <span class="lt-fs-lg-6 lt-d-sm-block" x-text="LotusUtils.truncate(article.body, 85)">Have a great idea for mmhmm? Tell us about it! Send us an email at help@mmhmm.app.
+
+D...</span>
+              </a>
+            </li>
+          
+            <li class="lt-mb-4">
+              <a :href="article.html_url" class="featured-link" href="https://help.mmhmm.app/hc/en-us/articles/360052331753-Which-file-formats-work-with-mmhmm">
+                <span class="lt-fw-bold lt-d-sm-block lt-mb-2 featured-link__title" x-text="article.name">Which file formats work with mmhmm?</span>
+                <span class="lt-fs-lg-6 lt-d-sm-block" x-text="LotusUtils.truncate(article.body, 85)">The following file formats work with mmhmm:
+Presentations
+
+PowerPoint (.ppt and .pptx...</span>
+              </a>
+            </li>
+          </ul>
+      </div>
+    </div>
+  
+
+
+
+    
+    <div class="lt-container lt-mb-9 lt-pt-5" id="footer-submit-ticket">
+      <div class="lt-container-inner">
+        <section class="lt-footer-submit-ticket lt-px-5 lt-py-7">
+          <div class="h2 lt-footer-submit-ticket__title">
+            
+              Join the mmhmm Community
+            
+          </div>
+          <div class="h3 lt-footer-submit-ticket__subtitle">
+            
+              Get inspired, learn more about everything you can do in mmhmm, and collaborate with fellow mmhmm users!
+            
+          </div>
+          <a href="https://community.mmhmm.app/home/?utm_source=helpcenter " class="lt-btn lt-btn--primary lt-footer-submit-ticket__btn">Learn more</a>
+          
+        </section>
+      </div>
+    </div>
+  
+
+  
+  
+
+  
+
+  
+</div>
+
+
+  </main>
+
+  </div>
+<div class="custom-footer">
+  <footer class="Box-sc-aicdj4-0 iJUxdn"><div display="flex" class="Box-sc-aicdj4-0 Width-sc-pt340y-0 faocY kzZjnY"><div width="100%,,0.4166666666666667" class="Box-sc-aicdj4-0 bZJhBB"><div class="Box-sc-aicdj4-0 bqDNtg"><svg fill="none" width="57" height="65" viewBox="0 0 287 330" data-test="footer-brandmark" class="Brandmark__Asset-sc-ord4ha-0 hJpeia"><path fill-rule="evenodd" clip-rule="evenodd" d="M276.747 252.937l-21.058 13.243a6.342 6.342 0 01-6.448.181 6.348 6.348 0 01-3.279-5.555v-35.768a1.32 1.32 0 00-1.823-1.218 1.318 1.318 0 00-.637.558l-25.197 43.312a4.813 4.813 0 01-6.209 1.932l-23.999-11.292a1.32 1.32 0 00-1.717.551 1.332 1.332 0 00-.165.635v43.073a13.152 13.152 0 01-6.164 11.148l-15.692 9.867a39.327 39.327 0 01-41.878 0l-14.962-9.408a13.165 13.165 0 01-6.163-11.148v-42.882a1.325 1.325 0 00-.615-1.111 1.318 1.318 0 00-1.267-.075l-23.932 11.263a4.81 4.81 0 01-6.214-1.931l-25.129-43.216a1.32 1.32 0 00-2.46.669v35.586a6.347 6.347 0 01-6.527 6.344 6.354 6.354 0 01-3.2-.97l-21.924-13.788A21.955 21.955 0 01.003 234.159V95.571a21.947 21.947 0 0110.085-18.807L122.48 6.088a39.053 39.053 0 0141.878 0l112.388 70.676a21.952 21.952 0 0110.09 18.807v138.588a21.964 21.964 0 01-10.09 18.778zM233.593 81.391l-80.134-50.607c-4.715-2.973-12.363-2.973-17.083.02l-25.167 15.919c-4.72 2.983-4.726 7.811-.012 10.794l22.239 14.046a1.183 1.183 0 01.707 1.08 1.184 1.184 0 01-.707 1.08l-9.401 5.948a3.509 3.509 0 01-3.418 0L98.379 65.625c-4.714-2.973-12.362-2.973-17.082.02l-25.17 15.919c-4.72 2.983-4.726 7.811-.012 10.794l80.135 50.607c4.713 2.974 12.361 2.974 17.083-.019l25.167-15.91c4.72-2.992 4.726-7.821.011-10.804l-22.239-14.045a1.178 1.178 0 01-.708-1.076 1.169 1.169 0 01.708-1.075l9.402-5.947a3.482 3.482 0 013.416-.01l22.24 14.045c4.713 2.984 12.361 2.974 17.082-.009l25.166-15.92c4.724-2.992 4.728-7.82.015-10.803z" fill="#ffffff"></path></svg></div><p class="Text-sc-rx4a1g-0 yUhUH">mmhmm is a video presentation app that makes you more engaging on video calls and recordings. Try it anytime you want to make an impression.</p><div display="flex" width="100%,,0.3333333333333333" class="Box-sc-aicdj4-0 SocialIconList__StyledBox-sc-emwkds-0 etWCPo jqgHPd"><a href="https://twitter.com/mmhmmapp" target="_blank" rel="noopener noreferrer" class="Link__StyledAnchor-sc-467a3d-0 bVhCOz" data-test="footer-social"><div width="4rem,3.4rem" height="4rem,3.4rem" class="Box-sc-aicdj4-0 crufcr"><span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 40 40" height="40" width="40">
+<path fill="#fff" d="M8.76919 9.4118L17.8395 21.5397L8.71191 31.4001H10.7662L18.7573 22.7671L25.214 31.4001H32.2047L22.6241 18.5901L31.1199 9.4118H29.0657L21.7062 17.3626L15.7599 9.4118H8.76919ZM11.7901 10.925H15.0017L29.1833 29.8867H25.9718L11.7901 10.925Z"></path>
+</svg></span></span></div></a><a href="https://www.instagram.com/mmhmmapp" target="_blank" rel="noopener noreferrer" class="Link__StyledAnchor-sc-467a3d-0 bVhCOz" data-test="footer-social"><div width="4rem,3.4rem" height="4rem,3.4rem" class="Box-sc-aicdj4-0 crufcr"><span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;"><svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.0036 21.9175C14.3077 21.9175 12.0906 19.7259 12.0906 17.0045C12.0906 14.3078 14.3069 12.0915 17.0036 12.0915C19.7251 12.0915 21.9166 14.3086 21.9166 17.0045C21.9166 19.7251 19.7243 21.9175 17.0036 21.9175ZM17.0036 13.9848C15.3385 13.9848 13.9839 15.3394 13.9839 17.0045C13.9839 18.6696 15.3385 20.0242 17.0036 20.0242C18.6687 20.0242 20.0233 18.6696 20.0233 17.0045C20.0233 15.3394 18.6687 13.9848 17.0036 13.9848Z" fill="#fff"></path>
+<path d="M21.6252 13.0501C22.2963 13.0501 22.8475 12.4989 22.8475 11.8278C22.8475 11.1568 22.2963 10.6056 21.6252 10.6056C20.9542 10.6056 20.403 11.1568 20.403 11.8278C20.403 12.4989 20.9542 13.0501 21.6252 13.0501Z" fill="#fff"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.4327 26.471C10.1848 26.471 7.53711 23.8233 7.53711 20.5754V13.4336C7.53711 10.1856 10.1848 7.53796 13.4327 7.53796H20.5985C23.8231 7.53796 26.4701 10.1863 26.4701 13.4336V20.5994C26.4701 23.824 23.8218 26.471 20.5745 26.471H13.4327ZM13.4327 9.4073C11.2164 9.4073 9.40645 11.2173 9.40645 13.4336V20.5994C9.40645 22.8157 11.2164 24.6256 13.4327 24.6256H20.5985C22.8148 24.6256 24.6248 22.8157 24.6248 20.5994V13.4336C24.6248 11.2173 22.8148 9.4073 20.5985 9.4073H13.4327Z" fill="#fff"></path>
+</svg></span></span></div></a><a href="https://www.linkedin.com/company/mmhmmapp" target="_blank" rel="noopener noreferrer" class="Link__StyledAnchor-sc-467a3d-0 bVhCOz" data-test="footer-social"><div width="4rem,3.4rem" height="4rem,3.4rem" class="Box-sc-aicdj4-0 crufcr"><span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+<path d="M26.6138 18.2993V24.6439C26.6147 24.6813 26.608 24.7184 26.5943 24.7532C26.5805 24.788 26.56 24.8197 26.5338 24.8464C26.5077 24.8732 26.4765 24.8944 26.442 24.9089C26.4075 24.9234 26.3705 24.9309 26.3331 24.9308H23.0516C23.0142 24.9309 22.9772 24.9234 22.9427 24.9089C22.9083 24.8944 22.877 24.8732 22.8509 24.8464C22.8247 24.8197 22.8042 24.788 22.7905 24.7532C22.7767 24.7184 22.7701 24.6813 22.7709 24.6439V18.7235C22.7709 17.1701 22.2157 16.1096 20.8245 16.1096C20.3903 16.1115 19.9675 16.2482 19.6144 16.5007C19.2612 16.7533 18.9952 17.1093 18.8531 17.5195C18.7479 17.8261 18.7034 18.1503 18.7221 18.474V24.6439C18.7229 24.6813 18.7163 24.7184 18.7026 24.7532C18.6888 24.788 18.6683 24.8197 18.6421 24.8464C18.616 24.8732 18.5847 24.8944 18.5503 24.9089C18.5158 24.9234 18.4788 24.9309 18.4414 24.9308H15.1662C15.1282 24.9317 15.0905 24.9249 15.0553 24.9107C15.0201 24.8966 14.9882 24.8755 14.9613 24.8487C14.9345 24.8219 14.9134 24.7899 14.8993 24.7547C14.8852 24.7195 14.8783 24.6818 14.8792 24.6439C14.8792 23.0718 14.9229 15.4483 14.8792 13.6578C14.8783 13.6199 14.8852 13.5822 14.8993 13.547C14.9134 13.5118 14.9345 13.4799 14.9613 13.453C14.9882 13.4262 15.0201 13.4051 15.0553 13.391C15.0905 13.3769 15.1282 13.37 15.1662 13.3709H18.4351C18.5096 13.3709 18.581 13.4005 18.6336 13.4531C18.6863 13.5057 18.7159 13.5772 18.7159 13.6516V14.9804V15.0178V14.9804C19.0696 14.3815 19.5803 13.8906 20.1927 13.5608C20.8051 13.231 21.496 13.0747 22.1907 13.1089C24.6861 13.1089 26.6138 14.7621 26.6138 18.3118V18.2993ZM9.1959 24.962H12.4836C12.521 24.962 12.558 24.9546 12.5925 24.9401C12.627 24.9256 12.6582 24.9044 12.6843 24.8776C12.7105 24.8509 12.731 24.8192 12.7448 24.7844C12.7585 24.7496 12.7652 24.7125 12.7643 24.6751V13.6516C12.7643 13.5772 12.7348 13.5057 12.6821 13.4531C12.6295 13.4005 12.5581 13.3709 12.4836 13.3709H9.1959C9.12086 13.3709 9.0488 13.4002 8.99515 13.4527C8.94151 13.5052 8.91056 13.5766 8.90893 13.6516V24.6439C8.90453 24.6841 8.90868 24.7248 8.92112 24.7633C8.93356 24.8018 8.954 24.8372 8.9811 24.8673C9.0082 24.8973 9.04135 24.9213 9.07837 24.9376C9.11539 24.954 9.15544 24.9623 9.1959 24.962Z" fill="#fff"></path>
+<path d="M10.7179 11.8969C11.8549 11.8969 12.7766 10.9752 12.7766 9.83819C12.7766 8.7012 11.8549 7.77948 10.7179 7.77948C9.5809 7.77948 8.65918 8.7012 8.65918 9.83819C8.65918 10.9752 9.5809 11.8969 10.7179 11.8969Z" fill="#fff"></path>
+</svg>
+</span></span></div></a><a href="https://www.facebook.com/mmhmmapp" target="_blank" rel="noopener noreferrer" class="Link__StyledAnchor-sc-467a3d-0 bVhCOz" data-test="footer-social"><div width="4rem,3.4rem" height="4rem,3.4rem" class="Box-sc-aicdj4-0 crufcr"><span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;"><svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25.299 24.4079C25.299 24.8824 24.9143 25.2671 24.4398 25.2671H20.4725V19.2379H22.4962L22.7994 16.8885H20.4725V15.3885C20.4725 14.7083 20.6616 14.2443 21.637 14.2443L22.8813 14.2439V12.1426C22.6658 12.1138 21.9275 12.0497 21.0683 12.0497C19.2744 12.0497 18.0463 13.1447 18.0463 15.1557V16.8885H16.0175V19.2379H18.0463V25.2671H10.5897C10.1151 25.2671 9.73047 24.8824 9.73047 24.4079V10.5578C9.73047 10.0833 10.1151 9.69861 10.5897 9.69861H24.4398C24.9143 9.69861 25.299 10.0833 25.299 10.5578V24.4079Z" fill="#fff"></path>
+</svg></span></span></div></a><a href="https://www.youtube.com/channel/UC_vA4GOnvEmEyuD0iTg4xzA" target="_blank" rel="noopener noreferrer" class="Link__StyledAnchor-sc-467a3d-0 bVhCOz" data-test="footer-social"><div width="4rem,3.4rem" height="4rem,3.4rem" class="Box-sc-aicdj4-0 crufcr"><span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;"><svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+<g clip-path="url(#clip0_4466:6390)">
+<path d="M24.5945 9.5863H10.4332C8.42428 9.5863 6.81055 11.2 6.81055 13.209V20.7836C6.81055 22.7926 8.42428 24.4063 10.4332 24.4063H24.5945C26.6035 24.4063 28.2172 22.7926 28.2172 20.7836V13.209C28.2172 11.2 26.6035 9.5863 24.5945 9.5863ZM21.6964 17.128L15.2744 20.4214C15.2085 20.4543 15.1097 20.4214 15.0439 20.3555C15.0439 20.3226 15.0109 20.3226 15.0109 20.2896V13.703C15.0109 13.6042 15.0768 13.5383 15.1756 13.5383C15.2085 13.5383 15.2415 13.5383 15.2415 13.5712L21.6635 16.8646C21.7293 16.8975 21.7623 16.9963 21.7293 17.0951C21.7623 17.0951 21.7293 17.128 21.6964 17.128Z" fill="#fff"></path>
+</g>
+<defs>
+<clipPath id="clip0_4466:6390">
+<rect width="21.4067" height="14.82" fill="white" transform="translate(6.81055 9.5863)"></rect>
+</clipPath>
+</defs>
+</svg></span></span></div></a></div></div><div display="grid" width="100%,,0.5833333333333334" class="Box-sc-aicdj4-0 cfQUev"><div order="1,," class="Box-sc-aicdj4-0 gfEFQQ"><div width="100%" class="Box-sc-aicdj4-0 Footer___StyledBox-sc-pl01v4-2 iAibXU erFRRu"><h2 class="Subhead-sc-1mbwyc5-0 XGqtZ">Product</h2></div><ul display="grid" class="List-sc-1r2ci57-0 hGDwZP"><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/product/?utm_source=helpcenter">Features</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/why-mmhmm/?utm_source=helpcenter">Why mmhmm</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/solutions/?utm_source=helpcenter">Solutions</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/en/for-teams">For Teams</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/pricing/?utm_source=helpcenter">Pricing</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/download">Download</a></li></ul></div><div order="1,," class="Box-sc-aicdj4-0 gfEFQQ"><div width="100%" class="Box-sc-aicdj4-0 Footer___StyledBox-sc-pl01v4-2 iAibXU erFRRu"><h2 class="Subhead-sc-1mbwyc5-0 XGqtZ">Resources</h2></div><ul display="grid" class="List-sc-1r2ci57-0 hGDwZP"><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="/hc/en-us">Help center</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/blog/?utm_source=helpcenter">Blog</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://community.mmhmm.app/home/?utm_source=helpcenter">Community</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/community-events/?utm_source=helpcenter">Events</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://ooo.mmhmm.app/learn/?utm_source=helpcenter">Tutorials</a></li></ul></div><div order="1,," class="Box-sc-aicdj4-0 gfEFQQ"><div width="100%" class="Box-sc-aicdj4-0 Footer___StyledBox-sc-pl01v4-2 iAibXU erFRRu"><h2 class="Subhead-sc-1mbwyc5-0 XGqtZ">Company</h2></div><ul display="grid" class="List-sc-1r2ci57-0 hGDwZP"><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/about/?utm_source=helpcenter">About</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/jobs?utm_source=helpcenter">Jobs</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/contact-sales/?utm_source=helpcenter">Contact sales</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="mailto:press@mmhmm.app">Media inquiries</a></li><li class="Footer__ListItem-sc-pl01v4-0 kQWuUH"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" href="https://www.mmhmm.app/creativeservices/?utm_source=helpcenter">Creative services</a></li></ul></div></div></div><div display="flex" class="Box-sc-aicdj4-0 Width-sc-pt340y-0 gxTpEs kzZjnY"><div display="flex" class="Box-sc-aicdj4-0 iewzdC"><div font-size="1.2rem" class="Box-sc-aicdj4-0 Footer__LegalFooterText-sc-pl01v4-1 epclQK dvvQYm"><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" data-test="footer-legal-link" href="https://www.mmhmm.app/legal/privacy-policy/?utm_source=helpcenter">Privacy policy</a><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" data-test="footer-legal-link" href="https://www.mmhmm.app/legal/terms-of-service/?utm_source=helpcenter">Terms of service</a><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" data-test="footer-legal-link" href="https://www.mmhmm.app/legal/trust-center/?utm_source=helpcenter">Trust center</a><a class="Link__StyledAnchor-sc-467a3d-0 jQWhHQ" data-test="footer-legal-link" href="https://www.mmhmm.app/patents-and-trademarks?utm_source=helpcenter">Patents &amp; trademarks</a></div><div display="block,,none" class="Box-sc-aicdj4-0 hBsXoa"><div class="Box-sc-aicdj4-0 dKeQBe"><div class=" css-3t3k92-container"><span id="react-select-footer_locale_switcher-live-region" class="css-7pg0cj-a11yText"></span><span aria-live="polite" aria-atomic="false" aria-relevant="additions text" class="css-7pg0cj-a11yText"></span></div></div></div><div display="flex" class="Box-sc-aicdj4-0 RrUBN"><a href="https://www.all-turtles.com/" target="_blank" color="black" rel="noopener noreferrer" class="Link__StyledAnchor-sc-467a3d-0 fQniiO" aria-label="Visit the All Turtles website." data-test="footer-endorsement"><svg width="162" height="25" fill="none"><path fill="#979797" d="M33.932 0h-.827v24.029h.828V0z"></path><path fill="#EB4646" d="M4.414 8.497c-.662-1.655.138-3.67 1.352-3.973l-.028-.11c-2.897 0-4.607 1.545-4.745 3.366l3.366.827.055-.11zm7.256 5.6V8.525c0-2.814-1.849-4-5.38-4.083l-.028.082C7.2 4.8 7.504 6.18 7.504 7.2l.027 5.518c-.027 2.703 1.518 3.724 3.67 3.724h1.572v-.055c-.11-.11-.359-.193-.607-.442-.22-.22-.497-.44-.497-1.848z"></path><path fill="#EB4646" d="M0 13.573c0 3.448 5.242 3.917 6.924.745l-.027-.028c-1.159.966-2.98.083-2.98-1.627 0-1.545 1.16-2.483 3.035-2.814.083 0 .166-.028.248-.028v-.359c-.082 0-.165.028-.248.028C1.932 10.097 0 11.394 0 13.573zm18.842-4.331l1.904-.249.082-.33h-2.317V4.606h-.22c-.856 2.373-3.146 4-6.125 4.414h-.11v.414c1.296-.055 2.317-.083 2.317-.083v7.2c-.027 2.704 1.517 3.725 3.67 3.725h1.572v-.055c-.11-.11-.359-.194-.607-.442-.249-.248-.524-.469-.524-1.876v-8.33c.027-.193.165-.331.358-.331z"></path><path fill="#000" d="M48.609 13.435h-3.862l-.828 2.07H42.65l3.504-8.25h1.02l3.477 8.25h-1.27l-.772-2.07zm-.386-.938l-.993-2.455c-.221-.524-.387-1.02-.552-1.49h-.028c-.165.47-.33.938-.551 1.49l-.966 2.455h3.09zm4.387-2.179v.91c.44-.717 1.103-1.131 1.875-1.131 1.242 0 1.959.745 1.959 2.042v3.365h-1.049v-2.952c0-1.048-.386-1.517-1.213-1.517-.91 0-1.518.745-1.518 1.876v2.566h-1.048v-5.16h.993zm14.041 3.117H62.79l-.828 2.07h-1.269l3.504-8.25h1.02l3.477 8.25h-1.27l-.772-2.07zm-.386-.938l-.993-2.455c-.22-.524-.386-1.02-.552-1.49h-.028c-.165.47-.33.938-.551 1.49l-.966 2.455h3.09zm3.31-5.545h1.049v8.552h-1.049V6.952zm2.87 0h1.048v8.552h-1.048V6.952zm5.517 1.324V7.228h6.731v1.048h-2.786v7.228h-1.131V8.276h-2.814zm10.456 7.228v-.883c-.442.745-1.131 1.104-1.821 1.104-1.159 0-1.848-.745-1.848-2.097v-3.31h1.048v2.98c0 1.02.386 1.461 1.159 1.461.827 0 1.462-.745 1.462-1.876v-2.565h1.048v5.186h-1.048zm2.372-5.186h.966v1.02c.441-.882.993-1.241 1.683-1.241.524 0 .91.276 1.13.883l-.882.524-.11-.028c-.138-.303-.304-.413-.552-.413-.58 0-1.159.744-1.159 2.041v2.4h-1.048v-5.186h-.028zm7.67 5.214a2.9 2.9 0 01-.994.165c-1.02 0-1.6-.58-1.6-1.6v-2.924h-.965v-.883h.993V8.718l.883-.525h.165v2.097h1.517v.883h-1.517v2.62c0 .718.193.939.773.939.22 0 .413-.055.634-.166l.11.055v.91zm1.24-8.58h1.049v8.552h-1.048V6.952zm3.367 6.124v.056c0 1.048.689 1.682 1.627 1.682.635 0 1.104-.303 1.49-.91l.083-.027.8.44c-.524.911-1.352 1.38-2.4 1.38-1.628 0-2.704-1.158-2.704-2.814 0-1.682 1.104-2.814 2.648-2.814 1.518 0 2.566 1.049 2.566 2.787v.193h-4.11v.027zm.027-.744h2.952c-.055-.856-.607-1.38-1.435-1.38-.8 0-1.379.524-1.517 1.38zm4.993 2.234l.745-.524h.055c.304.524.745.8 1.297.8.607 0 .966-.276.966-.69 0-.33-.166-.579-1.159-.91-1.352-.497-1.71-.993-1.71-1.71 0-.8.689-1.49 1.875-1.49.911 0 1.628.441 1.904 1.103l-.662.442h-.11c-.194-.442-.607-.69-1.132-.69-.524 0-.827.276-.827.607 0 .303.138.524 1.159.91 1.296.497 1.71.938 1.71 1.738 0 .883-.8 1.545-2.014 1.545-.938.028-1.683-.386-2.097-1.13zm8.497-1.656c0-1.654 1.104-2.813 2.704-2.813 1.021 0 1.903.441 2.455 1.407l-.8.497-.083-.028c-.441-.69-.91-.966-1.545-.966-.937 0-1.627.718-1.627 1.876 0 1.187.69 1.904 1.627 1.904.663 0 1.132-.276 1.545-.966l.083-.027.773.496c-.525.966-1.435 1.435-2.456 1.435-1.6 0-2.676-1.159-2.676-2.814zm5.876 0c0-1.572 1.214-2.813 2.87-2.813 1.655 0 2.869 1.214 2.869 2.814 0 1.572-1.242 2.814-2.869 2.814-1.628 0-2.87-1.242-2.87-2.814zm4.663 0c0-1.047-.745-1.847-1.766-1.847s-1.765.827-1.765 1.848c0 1.048.772 1.876 1.765 1.876.993-.028 1.766-.828 1.766-1.876zm10.483-.771v3.365h-1.048V12.58c0-1.049-.387-1.517-1.131-1.517-.8 0-1.407.827-1.407 1.958v2.51h-1.049V12.58c0-1.049-.386-1.517-1.131-1.517-.8 0-1.407.827-1.407 1.958v2.51h-1.048v-5.213h1.048v.91c.414-.717 1.021-1.131 1.766-1.131.883 0 1.462.441 1.683 1.297.441-.883 1.158-1.297 1.903-1.297 1.104 0 1.821.717 1.821 2.042zm1.103-1.821h1.049v.91c.441-.717 1.131-1.131 1.959-1.131 1.406 0 2.4 1.104 2.4 2.786 0 1.656-1.049 2.87-2.456 2.87-.745 0-1.489-.387-1.876-1.049v3.393h-1.048v-7.78h-.028zm4.304 2.565c0-1.158-.579-1.82-1.572-1.82-.994 0-1.711.772-1.711 1.875 0 1.104.69 1.849 1.683 1.849.993-.028 1.6-.745 1.6-1.904zm6.787 1.931v.745c-.276.083-.469.138-.773.138-.524 0-.827-.276-.883-.745-.551.552-1.048.773-1.738.773-.938 0-1.517-.552-1.517-1.407 0-.966.883-1.628 3.173-1.931v-.304c0-.745-.304-1.048-.883-1.048-.58 0-1.076.303-1.462.883h-.083l-.69-.47a2.747 2.747 0 012.345-1.351c1.159 0 1.848.635 1.848 1.793v2.649c0 .22.083.303.249.303.11 0 .165-.028.331-.083l.083.055zm-3.09.083c.524 0 .965-.22 1.352-.607v-1.214c-1.545.249-2.097.607-2.097 1.16 0 .44.248.661.745.661zm5.103-4.579v.91c.442-.717 1.104-1.131 1.876-1.131 1.242 0 1.959.745 1.959 2.042v3.365H154.6v-2.952c0-1.048-.386-1.517-1.214-1.517-.91 0-1.517.745-1.517 1.876v2.566h-1.049v-5.16h.993zm6.511 4.69l-2.097-4.69h1.214l1.435 3.641h.027l1.518-3.641h1.186l-3.531 7.724h-1.186l1.434-3.034z"></path></svg></a><div font-size="1.2rem" class="Box-sc-aicdj4-0 dmkulL">© mmhmm inc., 2020-2023</div></div></div><div display="none,,flex" class="Box-sc-aicdj4-0 doktnc"><div class="Box-sc-aicdj4-0 dKeQBe"><div class=" css-3t3k92-container"><span id="react-select-footer_locale_switcher-live-region" class="css-7pg0cj-a11yText"></span><span aria-live="polite" aria-atomic="false" aria-relevant="additions text" class="css-7pg0cj-a11yText"></span></div></div></div></div></footer>
+</div>
+  
+</div>
+
+<button class="lt-scroll-to-top fa fa-angle-up lt-d-print-none lt-p-0 lt-d-none lt-d-md-flex lt-justify-content-center lt-align-items-center" data-scroll-to-top="">
+  <div class="sr-only">Return to top</div>
+</button>
+
+
+  <div data-lt-i18n-dictionary="" hidden="">
+    <div data-lt-i18n="search_placeholder">
+    </div>
+  </div>
+
+  <script>
+    var $ltDictionary = $('[data-lt-i18n-dictionary]');
+    $('[role="search"] input[type="search"]').each(function (index, el) {
+      $(el).attr('placeholder', $ltDictionary.find('[data-lt-i18n="search_placeholder"]').html());
+    });
+  </script>
+
+
+<div class="lt-backdrop" x-data="" x-bind:class="{'is-active': $store.mobileMenu.isOpen}" x-on:click="$store.mobileMenu.isOpen = false">
+</div>
+
+
+
+  <div data-custom-blocks-data="" hidden="">
+    <div data-field="url">
+      
+        
+          https://help.mmhmm.app/hc/articles/360050985073
+        
+      
+    </div>
+    <div data-field="imageUrl">//theme.zdassets.com/theme_assets/10052972/23221215858abf22a112e6dcfe3a062933c4a9cb.png</div>
+    <div data-field="title">
+      
+        Get started guide
+      
+    </div>
+    <div data-field="text">
+      
+        New to mmhmm? We've got you covered.
+      
+    </div>
+  </div>
+
+
+
+  <div data-custom-blocks-data="" hidden="">
+    <div data-field="type">custom</div>
+    <div data-field="url">
+      
+        
+          https://help.mmhmm.app/hc/sections/9507727115671
+        
+      
+    </div>
+    <div data-field="imageUrl">//theme.zdassets.com/theme_assets/10052972/dc57c523faf77b1851398483557cf7abd1288267.png</div>
+    <div data-field="title">
+      
+        Troubleshoot
+      
+    </div>
+    <div data-field="text">
+      
+        Find quick fixes for common issues, such as error messages and technical problems.
+      
+    </div>
+  </div>
+
+
+
+  <div data-custom-blocks-data="" hidden="">
+    <div data-field="type">custom</div>
+    <div data-field="url">
+      
+        
+          https://help.mmhmm.app/hc/categories/9507497805079
+        
+      
+    </div>
+    <div data-field="imageUrl">//theme.zdassets.com/theme_assets/10052972/5c0b7a1885accdf0369a71c5119816d98a0975ac.png</div>
+    <div data-field="title">
+      
+        Accounts and billing
+      
+    </div>
+    <div data-field="text">
+      
+        Everything about billing, payment, and managing your account.
+      
+    </div>
+  </div>
+
+
+
+  <div data-custom-blocks-data="" hidden="">
+    <div data-field="type">new_request</div>
+    <div data-field="url">
+      
+        /hc/en-us/requests/new
+      
+    </div>
+    <div data-field="imageUrl">//theme.zdassets.com/theme_assets/10052972/615fa262389a341eb6a316a6d2851ee3edd85266.png</div>
+    <div data-field="title">
+      
+        Contact support
+      
+    </div>
+    <div data-field="text">
+      
+        Get help from the support team by submitting a ticket.
+      
+    </div>
+  </div>
+
+
+
+
+
+<div data-popular-searches="" hidden="">
+  
+    
+  
+</div>
+<script src="//theme.zdassets.com/theme_assets/10052972/3f39537c791a304492285b54d7be9b2bde7cb64d.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/66b3e8e9b581fd27eaf568565b5930f40b1c4d5e.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/aede6f8a3078f6d2feb2ef3e3cbda81c258bec48.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/26dedb4cc0d4eb19d23f137df8d9dc226c983537.js"></script>
+<script src="//theme.zdassets.com/theme_assets/10052972/dd883f0c50042256a6e1db070e9fae3dad2f92b8.js"></script>
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.799adce4dfbb87d2bed1.js"></script>
+  <script src="https://mmhmm.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="360005047994" data-return-to="https://help.mmhmm.app/hc/en-us" data-theme="hc" data-locale="en-us" data-auth-origin="360005047994,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"mmhmm","environment":"production","name":"mmhmm"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":null,"shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"front_page_viewed","data":"BAh7BjoKX21ldGF7DDoPYWNjb3VudF9pZGkDbGWZOhNoZWxwX2NlbnRlcl9pZGwrCDqCuNFTADoNYnJhbmRfaWRsKwi6FvnRUwA6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY6BkVUOgtsb2NhbGVJIgplbi11cwY7C1Q6GmFub255bW91c190cmFja2luZ19pZDA=--3994bb49ad37bac04965a58da53f6e8c63d196e9","url":"https://help.mmhmm.app/hc/activity"},"current_record_id":null,"current_record_url":null,"current_record_title":null,"search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":360005047994,"account_id":10052972,"name":"mmhmm","active":true,"deleted_at":null,"created_at":"2020-06-25T19:21:41Z","updated_at":"2023-09-21T15:12:07Z","route_id":3626419,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://mmhmm.zendesk.com","current_host_mapping":"help.mmhmm.app","current_path":null,"authentication_domain":"https://mmhmm.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":true,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://help.mmhmm.app/hc/en-us","arrange_content_url":"https://help.mmhmm.app/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://help.mmhmm.app/hc/admin/general_settings?locale=en-us","user_segments_url":"https://mmhmm.zendesk.com/knowledge/user_segments?brand_id=360005047994","has_gather":true,"has_ckeditor":false,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"has_suppress_request_email_modal":true,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fmmhmm.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":false,"arrange_articles_url":"https://mmhmm.zendesk.com/knowledge/arrange?brand_id=360005047994","article_verification_url":"https://mmhmm.zendesk.com/knowledge/verification?brand_id=360005047994","has_article_verification":false,"guide_language_settings_url":"https://help.mmhmm.app/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://mmhmm.zendesk.com/knowledge/import_articles?brand_id=360005047994","content_tags_url":"https://mmhmm.zendesk.com/knowledge/content_tags?brand_id=360005047994","community_badges_url":"https://mmhmm.zendesk.com/knowledge/community_badges?brand_id=360005047994","community_settings_url":"https://mmhmm.zendesk.com/knowledge/community_settings?brand_id=360005047994","gather_plan_state":"subscribed","search_settings_url":"https://mmhmm.zendesk.com/knowledge/search_settings?brand_id=360005047994","has_multibrand_search_in_plan":false,"has_search_settings_in_plan":true,"theming_api_version":2,"theming_settings":{"toggle_translations":true,"contact_support":"Contact support","body_bg":"#fff","brand_primary":"#4234f2","text_color":"#000","link_color":"#4234f2","button_color":"#4234f2","border_color":"#eceeef","block_bg":"#f2f4fa","block_hover_bg":"#ff6f48","brand_info":"#5bc0de","brand_success":"#0c9","brand_warning":"#f7b637","brand_danger":"#ff5252","font_size_base":"16px","heading_font_weight":"700","line_height_base":"1.5","logo":"//theme.zdassets.com/theme_assets/10052972/cf5a1405db8e082aded64afff60f1046763a9410.png","logo_height":"25px","favicon":"//theme.zdassets.com/theme_assets/10052972/f8d6c6a2881986f47f4a08fb925997fd4a99065a.png","border_radius_base":"8px","border_width":"1px","topbar_bg":"rgba(241, 243, 248, 1)","topbar_text_color":"#000","topbar_link_color":"#121325","topbar_button_color":"#1a73e8","show_help_center_name":false,"help_center_name":"Help Center","show_category_menu":false,"show_sign_in":false,"show_submit_a_request":false,"topbar_link_1_toggle":false,"topbar_link_1_title":"Link 1","topbar_link_1_url":"#link1","topbar_link_2_toggle":false,"topbar_link_2_title":"Link 2","topbar_link_2_url":"#link2","topbar_link_3_toggle":false,"topbar_link_3_title":"Link 3","topbar_link_3_url":"#link3","footer_bg":"#f7f7f9","footer_text_color":"#121325","footer_link_color":"#101010","footer_social_link_color":"#101010","toggle_footer_creator_text":true,"footer_social_icon_height":"1.5rem","show_info_block":false,"toggle_custom_blocks":true,"toggle_featured_articles":true,"toggle_custom_banner":true,"featured_articles_title":"hc_homepage_faq_title","toggle_promoted_articles":false,"show_categories":false,"promoted_articles_type":"accordion","category_tree_type":"accordion","toggle_recent_activities":false,"toggle_contact_boxes":false,"toggle_bottom_cta":true,"categories_per_line":2,"promoted_articles_per_line":4,"hero_button_bg":"#4234f2","hero_title":"hc_headertitle","search_placeholder":"Search...","show_hero_unit_button":true,"show_popular_searches":false,"popular_searches_label":"hc_search_popular","popular_searches_keywords":"","info_block_title":"Information","info_block_text":"COVID-19 might have sent us home, but we are still there for you via email and chat. Delivery info COVID-19 Your parcel will arrive on time. All orders can be processed normally. The highest hygiene standards apply in our warehouse as well as at delivery. This also applies to your package and the products you order.","custom_banner_img":"//theme.zdassets.com/theme_assets/10052972/cb38a182fd04602115e30d53070826cf6ab1b6dd.svg","custom_banner_title":"hc_onboardingbanner_title","custom_banner_text":"hc_onboardingbanner_text","custom_banner_link":"hc_onboardingbanner_button","custom_banner_url":"hc_onboardingbanner_url","custom_blocks_per_line":4,"custom_blocks_bg":"#000000","custom_blocks_text_color":"#ffffff","icon_height":"48px","custom_block_1_toggle":true,"custom_block_1_type":"custom","custom_block_1_icon":"//theme.zdassets.com/theme_assets/10052972/23221215858abf22a112e6dcfe3a062933c4a9cb.png","custom_block_1_title":"hc_customblock_getstarted_title","custom_block_1_text":"hc_customblock_getstarted_text","custom_block_1_url":"hc_customblock_getstarted_url","custom_block_2_toggle":true,"custom_block_2_type":"custom","custom_block_2_icon":"//theme.zdassets.com/theme_assets/10052972/dc57c523faf77b1851398483557cf7abd1288267.png","custom_block_2_title":"hc_customblock_troubleshoot_title","custom_block_2_text":"hc_customblock_troubleshoot_text","custom_block_2_url":"hc_customblock_troubleshoot_url","custom_block_3_toggle":true,"custom_block_3_type":"custom","custom_block_3_icon":"//theme.zdassets.com/theme_assets/10052972/5c0b7a1885accdf0369a71c5119816d98a0975ac.png","custom_block_3_title":"hc_customblock_accounts_title","custom_block_3_text":"hc_customblock_accounts_text","custom_block_3_url":"hc_customblock_accounts_url","custom_block_4_toggle":true,"custom_block_4_type":"new_request","custom_block_4_icon":"//theme.zdassets.com/theme_assets/10052972/615fa262389a341eb6a316a6d2851ee3edd85266.png","custom_block_4_title":"hc_customblock_contact_title","custom_block_4_text":"hc_customblock_contact_text","custom_block_4_url":"#","custom_block_5_toggle":false,"custom_block_5_type":"custom","custom_block_5_icon":"//theme.zdassets.com/theme_assets/10052972/6c8c97365904a886dbc19ff68e1308275d62f3b1.svg","custom_block_5_title":"Hidden","custom_block_5_text":"Custom block text","custom_block_5_url":"#","custom_block_6_toggle":false,"custom_block_6_type":"custom","custom_block_6_icon":"//theme.zdassets.com/theme_assets/10052972/a818baac601e7415e6a5134af8d1c5bee29b6d50.svg","custom_block_6_title":"Hidden","custom_block_6_text":"Custom block text","custom_block_6_url":"#","bottom_cta_bg":"#000","bottom_cta_title_color":"#fff","bottom_cta_subtitle_color":"#fff","bottom_cta_button_color":"#4234f2","bottom_cta_title":"hc_communitybanner_title","bottom_cta_subtitle":"hc_communitybanner_slogan","contact_boxes_title":"More Resources","contact_boxes_per_line":4,"contact_boxes_icon_size":"2rem","contact_box_1_toggle":true,"contact_box_1_link_toggle":false,"contact_box_1_url":"#","contact_box_1_icon":"//theme.zdassets.com/theme_assets/10052972/770b0d2798243c0d3a6d5171ecdb7e93b350370a.svg","contact_box_1_title":"Register your product","contact_box_1_text":"You can get support that’s tailored to you, owner exclusives and more","contact_box_2_toggle":true,"contact_box_2_link_toggle":false,"contact_box_2_url":"#","contact_box_2_icon":"//theme.zdassets.com/theme_assets/10052972/27ae40cf6b67d0c10fb31b0e44b2605e706cb341.svg","contact_box_2_title":"Our helpline hours:","contact_box_2_text":"8:00am - 8:00pm CST Monday to Friday; 9:00am - 6:00pm CST Saturday","contact_box_3_toggle":true,"contact_box_3_link_toggle":false,"contact_box_3_url":"#","contact_box_3_icon":"//theme.zdassets.com/theme_assets/10052972/977f3e77f41c51c38889ea7876a4534183ac76e1.svg","contact_box_3_title":"Follow us on Twitter","contact_box_3_text":"Get the latest news and updates first","contact_box_4_toggle":true,"contact_box_4_link_toggle":true,"contact_box_4_url":"#","contact_box_4_icon":"//theme.zdassets.com/theme_assets/10052972/834f5353afc2b4836d7d44da33be4f3fc4d161db.svg","contact_box_4_title":"YouTube Support","contact_box_4_text":"For how-to and support videos please visit our channel","toggle_facebook_icon":true,"facebook_url":"https://facebook.com","toggle_twitter_icon":true,"twitter_url":"https://twitter.com","toggle_youtube_icon":true,"youtube_url":"https://youtube.com","toggle_linkedin_icon":true,"linkedin_url":"https://linkedin.com","toggle_instagram_icon":true,"instagram_url":"https://www.instagram.com/","show_articles_in_section":true,"show_article_author":true,"show_article_comments":false,"show_follow_article":false,"show_print_article":true,"show_article_sharing":true,"show_article_boxes":true,"article_boxes_icon_size":"2rem","article_box_1_toggle":false,"article_box_1_link_toggle":true,"article_box_1_url":"#","article_box_1_icon":"//theme.zdassets.com/theme_assets/10052972/770b0d2798243c0d3a6d5171ecdb7e93b350370a.svg","article_box_1_title":"Register your product","article_box_1_text":"You can get support that’s tailored to you, owner exclusives and more","article_box_2_toggle":false,"article_box_2_link_toggle":true,"article_box_2_url":"#","article_box_2_icon":"//theme.zdassets.com/theme_assets/10052972/27ae40cf6b67d0c10fb31b0e44b2605e706cb341.svg","article_box_2_title":"Our helpline hours:","article_box_2_text":"8:00am - 8:00pm CST Monday to Friday; 9:00am - 6:00pm CST Saturday","article_box_3_toggle":false,"article_box_3_link_toggle":true,"article_box_3_url":"#","article_box_3_icon":"//theme.zdassets.com/theme_assets/10052972/977f3e77f41c51c38889ea7876a4534183ac76e1.svg","article_box_3_title":"Follow us on Twitter","article_box_3_text":"Get the latest news and updates first","article_box_4_toggle":false,"article_box_4_link_toggle":true,"article_box_4_url":"#","article_box_4_icon":"//theme.zdassets.com/theme_assets/10052972/834f5353afc2b4836d7d44da33be4f3fc4d161db.svg","article_box_4_title":"YouTube Support","article_box_4_text":"Fow how-to and support videos please visit our channel","show_follow_section":true,"show_follow_community_post":false,"show_print_post":false,"show_community_post_sharing":false,"show_follow_community_topic":false,"show_new_request_tip":true,"new_request_tip_background":"rgba(243, 237, 255, 1)","new_request_tip_text":"hc_hours_of_operation","error_page_articles_title":"hc_error_suggested","request_list_beta":false},"has_pci_credit_card_custom_field":false,"current_brand_id":360005047994,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_request_list_custom_fields":true,"has_docs_importer":false,"user_preferred_locale":"en-us","has_end_user_session_renewal":true,"has_reload_page_after_changing_password":true,"has_user_session_cookie_enabled":false,"has_end_user_2fa":true,"has_custom_statuses_enabled":true,"version":"v24031"};
+</script>
+
+  
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-09e97cc22f634a9bcaa79cb3610b57dc.js"></script>
+  <script type="text/javascript" src="//p23.zdassets.com/hc/theming_assets/10052972/360005047994/script.js?digest=19550511890455"></script>
+  
+<script>(function(){var js = "window['__CF$cv$params']={r:'84748efcdcdb9367',t:'MTcwNTU1NzAwNy42MjgwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><iframe style="position: absolute; top: 0px; left: 0px; border: medium none; visibility: hidden;" width="1" height="1"></iframe>
+<div id="chat-container"><div id="chat-bubble"><svg id="ic_bubble" fill="#FFFFFF" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg></div><div id="chat-box" class="closed"><iframe id="hcb_iframe" src="https://ml.api.mmhmm.app/hcb/chat.html?botLang=en-US&amp;botName=HCB.1.3.03" style="height: 100%; width: 100%;" frameborder="0"></iframe></div></div><span class="algolia-autocomplete" style="position: absolute; z-index: 100; display: none; direction: ltr;"><span class="aa-dropdown-menu" style="display: block; left: 0px; right: auto;" role="listbox" id="algolia-autocomplete-listbox-0"><div class="aa-powered-by">
+  Search by <a href="https://www.algolia.com/?utm_source=zendesk&amp;utm_medium=link&amp;utm_campaign=autocomplete-mmhmm" class="aa-powered-by-link">
+  Algolia
+</a>
+</div><div class="aa-dataset-articles"></div></span></span><iframe data-product="web_widget" title="No content" tabindex="-1" allow="microphone *" aria-hidden="true" style="width: 0px; height: 0px; border: 0px none; position: absolute; top: -9999px;" src="about:blank"></iframe></body></html>

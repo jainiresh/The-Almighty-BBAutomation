@@ -1,0 +1,480 @@
+<html class="js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="fr"><head><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">.fancybox-margin{margin-right:12px;}</style></head><body id="page-1" class="no-touch">Error :  <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--><!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]--><!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]--><!--[if gt IE 8]><!-->   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> <base href="https://www.docip.org/"> <link rel="shortcut icon" href="https://www.docip.org/favicon.ico" type="image/x-icon; charset=binary"> <link rel="icon" href="https://www.docip.org/favicon.ico" type="image/x-icon; charset=binary"> <title>Accueil - DOCIP</title> <meta name="description" content="DOCIP. DOCIP. Accueil"> <meta name="author" content="DOCIP (www.docip.org)"> <meta name="revisit" content="5"> <meta name="copyright" content="DOCIP (www.docip.org)"> <meta name="compatible" content="IE=edge,chrome=1"> <meta name="viewport" content="width=device-width, initial-scale=1"> <meta name="distribution" content="global"> <meta name="rating" content="general"> <meta name="revisit-after" content="5"> <meta name="keywords" content="DOCIP, DOCIP, Accueil"> <link rel="stylesheet" type="text/css" href="https://www.docip.org/typo3temp/compressor/merged-952787765b3d3d8a5b89d21f458001e9-90c645c6f42d655f122f5c667c1f9d32.css?1673096077" media="all"> <script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W56DSK"></script><script src="https://connect.facebook.net/signals/config/562414581173767?v=2.9.140&amp;r=stable&amp;domain=www.docip.org" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://www.docip.org/typo3temp/compressor/merged-a5684216ade5b4e5914825ae6df5b208-39c84bab18ae71d58e490715c5e78c79.js?1673096008" type="text/javascript"></script><script src="https://www.docip.org/typo3temp/compressor/merged-f971846e1fb53111d677469f193f93d0-5e39a350f41ce61ca3c289ee42ec3d8d.js?1673096008" type="text/javascript"></script><meta name="robots" content="index,follow,archive"> <!--[if lt IE 9]>
+<script src="https://www.docip.org/fileadmin/templates/js/respond.min.js"></script>
+<![endif]--><script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '562414581173767');
+  fbq('track', 'PageView');
+</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=562414581173767&ev=PageView&noscript=1"/></noscript>   <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W56DSK"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W56DSK');</script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G7TCCTTET0"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G7TCCTTET0');
+</script><a href="https://www.docip.org/fr/#content" class="only-for-screen-reader">Skip to main content</a> <div class="eupopup eupopup-container eupopup-container-block" id="eupopup" style="display: block;"><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c574"><div class="eupopup-markup"><div class="eupopup-head"><p>Ce site utilise des cookies</p></div><div class="eupopup-body"><p>Cher visiteur, nous utilisons les cookies pour faciliter votre navigation et pour analyser les fluxs des visites sur notre site Internet. Nous tenons à vous informer que nous ne gardons aucune information personnelle. Veuillez s'il vous plaît accepter l'utilisation de cookies pour continuer la navigation sur notre site Internet</p></div><div class="eupopup-buttons"><p> <a href="https://www.docip.org/fr/" class="eupopup-button eupopup-button_1">Continuer</a>&nbsp;<a href="https://www.docip.org/fr/misc/cookies/" title="Cookies" class="internal-link">En savoir plus</a></p></div><div class="clearfix"></div><p> <a href="https://www.docip.org/fr/" class="eupopup-closebutton">x</a> </p></div></article></div></div></div> <header class="fixed hidden-print"> <div class="wrapper"> <div class="wrapper-outer logo-top"> <div class="wrapper logo-top"> <div class="row"> <div class="col-xs-12 col-sm-6" id="logo-top"><a href="https://www.docip.org/fr/"><img src="https://www.docip.org/fileadmin/templates/images/docip-logo-top-fr.png" class="logo" alt="" width="612" height="126" border="0"></a></div> <div class="hidden-xs col-sm-6"> <div id="langue-search" class="hidden-print hidden-xs right"> <div id="langue" class="hidden-print hidden-xs right langue"><a id="fontLarge" class="fontLarge" href="javascript:void(0);" title="Increase Font"><img src="https://www.docip.org/fileadmin/templates/images/picto-fontplus.png"></a><a id="fontSmall" class="fontSmall" href="javascript:void(0);" title="Decrease Font"><img src="https://www.docip.org/fileadmin/templates/images/picto-fontminus.png"></a><a href="javascript:void(0);" class="button-toggle-contrast button-toggle-highcontrast" title="Change contrast of the page"><img src="https://www.docip.org/fileadmin/templates/images/picto-contrast.png"></a>&nbsp;<a href="https://www.docip.org/en/">en</a>&nbsp;|&nbsp;<a href="https://www.docip.org/es/">es</a>&nbsp;|&nbsp;<a href="https://www.docip.org/fr/" class="active">fr</a>&nbsp;|&nbsp;<a href="https://www.docip.org/ru/">ru</a></div> <div id="searchbox"><div id="indexedsearchbox"><form action="https://www.docip.org/fr/misc/recherche/" method="post" id="indexedsearch"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input name="tx_indexedsearch[sword]" value="" class="searchbox-sword" type="text"></td><td align="right">&nbsp;<input type="hidden" name="tx_indexedsearch[sections]" value="0"><input name="tx_indexedsearch[submit_button]" value="Search" type="hidden"></td></tr></tbody></table></form></div></div> </div> </div> </div> </div> </div> <div class="wrapper-outer navigation hidden-print"> <div class="navbar navbar-default" role="navigation"> <div class="navbar-header"> <span><img src="https://www.docip.org/fileadmin/templates/images/picto-menu-bars-off.png" class="fa bars" rel="bars" id="navbar"></span> <span><img src="https://www.docip.org/fileadmin/templates/images/picto-menu-langue-off.png" class="fa language" rel="language" id="language-mobile"></span> <span><img src="https://www.docip.org/fileadmin/templates/images/picto-menu-search-off.png" class="fa search" rel="search" id="search-mobile"></span> </div> <div class="wrapper-outer collapse navbar-collapse navbar-ex1-collapse"> <ul class="nav navbar-nav" id="menu-top"><li class="dropdown"><a href="https://www.docip.org/fr/peuples-autochtones-a-lonu/" class="dropdown-toogle" data-toogle="dropdown">Peuples autochtones à l'ONU</a><ul class="dropdown-menu"><li class="dropdown-submenu"><a href="https://www.docip.org/fr/peuples-autochtones-a-lonu/instance-permanente/" class="dropdown-toogle" data-toogle="dropdown">Instance permanente</a><ul class="dropdown-menu"><li><a href="https://www.docip.org/fr/peuples-autochtones-a-lonu/instance-permanente/unpfii-informations-sur-la-22e-session/">UNPFII: Informations sur la 22e session</a></li></ul></li><li class="dropdown-submenu"><a href="https://www.docip.org/fr/peuples-autochtones-a-lonu/mecanisme-dexperts/" class="dropdown-toogle" data-toogle="dropdown">Mécanisme d'experts</a><ul class="dropdown-menu"><li><a href="https://www.docip.org/fr/peuples-autochtones-a-lonu/mecanisme-dexperts/medpa-informations-sur-la-16e-session/">MEDPA: Informations sur la 16e session</a></li></ul></li><li><a href="https://www.docip.org/fr/peuples-autochtones-a-lonu/procedures-speciales/">Procédures spéciales</a></li><li><a href="https://www.docip.org/fr/peuples-autochtones-a-lonu/programmes-et-instruments-juridiques/">Programmes et instruments juridiques</a></li><li><a href="https://www.docip.org/fr/peuples-autochtones-a-lonu/fonds/">Fonds</a></li><li><a href="https://www.docip.org/fr/peuples-autochtones-a-lonu/autres-processus/">Autres processus</a></li></ul></li><li class="dropdown"><a href="https://www.docip.org/fr/peuples-autochtones-a-lue/" class="dropdown-toogle" data-toogle="dropdown">Peuples Autochtones à l'UE</a><ul class="dropdown-menu"><li><a href="https://www.docip.org/fr/peuples-autochtones-a-lue/agir-avec-lue/">Agir avec l'UE</a></li><li><a href="https://www.docip.org/fr/peuples-autochtones-a-lue/le-systeme-de-lue/">Le système de l'UE</a></li><li class="dropdown-submenu"><a href="https://www.docip.org/fr/peuples-autochtones-a-lue/rencontres-des-peuples-autochtones-avec-lue/" class="dropdown-toogle" data-toogle="dropdown">Rencontres des Peuples Autochtones avec l'UE</a><ul class="dropdown-menu"><li><a href="https://www.docip.org/fr/peuples-autochtones-a-lue/rencontres-des-peuples-autochtones-avec-lue/strategie-biodiversite-2030-de-lue/">Stratégie biodiversité 2030 de l’UE</a></li><li><a href="https://www.docip.org/fr/peuples-autochtones-a-lue/rencontres-des-peuples-autochtones-avec-lue/solutions-fondees-sur-la-nature/">Solutions fondées sur la nature</a></li></ul></li></ul></li><li class="dropdown"><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/" class="dropdown-toogle" data-toogle="dropdown">Droits et libertés autochtones</a><ul class="dropdown-menu"><li><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/droits-humains/">Droits humains</a></li><li><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/terre-territoire-et-environnement/">Terre, territoire et environnement</a></li><li><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/sante/">Santé</a></li><li><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/culture-et-education/">Culture et éducation</a></li><li><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/femmes-et-enfants/">Femmes et enfants</a></li><li><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/personnes-handicapees/">Personnes handicapées</a></li></ul></li><li class="dropdown"><a href="https://www.docip.org/fr/histoire-orale-et-memoire/" class="dropdown-toogle" data-toogle="dropdown">Histoire orale et mémoire</a><ul class="dropdown-menu"><li><a href="https://www.docip.org/fr/histoire-orale-et-memoire/processus-historique/">Processus historique</a></li><li><a href="https://www.docip.org/fr/histoire-orale-et-memoire/symposiums/">Symposiums</a></li><li><a href="https://www.docip.org/fr/histoire-orale-et-memoire/implication-des-jeunes/">Implication des jeunes</a></li></ul></li><li class="dropdown"><a href="https://www.docip.org/fr/nos-services-solutions/" class="dropdown-toogle" data-toogle="dropdown">Nos services-solutions</a><ul class="dropdown-menu"><li><a href="https://www.docip.org/fr/nos-services-solutions/centre-de-documentation/">Centre de documentation</a></li><li><a href="https://www.docip.org/fr/nos-services-solutions/secretariat-technique/">Secrétariat technique</a></li><li><a href="https://www.docip.org/fr/nos-services-solutions/support-strategique/">Support stratégique</a></li><li><a href="https://www.docip.org/fr/nos-services-solutions/renforcement-de-capacites/">Renforcement de capacités</a></li><li><a href="https://www.docip.org/fr/nos-services-solutions/nos-services-en-ue/">Nos services en UE</a></li><li><a href="https://www.docip.org/fr/nos-services-solutions/gestion-de-linformation/">Gestion de l'information</a></li><li><a href="https://www.docip.org/fr/nos-services-solutions/actualites/">Actualités</a></li><li><a href="https://www.docip.org/fr/nos-services-solutions/agenda/">Agenda</a></li></ul></li><li class="dropdown"><a href="https://www.docip.org/fr/docip/" class="dropdown-toogle" data-toogle="dropdown">Docip</a><ul class="dropdown-menu"><li><a href="https://www.docip.org/fr/docip/organisation/">Organisation</a></li><li><a href="https://www.docip.org/fr/docip/principes-et-gouvernance/">Principes et gouvernance</a></li><li><a href="https://www.docip.org/fr/docip/financement-institutionnel/">Financement institutionnel</a></li><li><a href="https://www.docip.org/fr/docip/soutenir-le-docip/">Soutenir le Docip</a></li><li><a href="https://www.docip.org/fr/docip/les-concepts/">Les concepts</a></li><li><a href="https://www.docip.org/fr/docip/reseau-volontaire/">Réseau volontaire</a></li></ul></li></ul> </div> <div class="wrapper collapse langage-collapse navbar-ex1-collapse" id="language-mobile"><ul class="nav language-mobile-nav"> <li><div id="language-mobile-cnt"><a id="fontLarge" class="fontLarge" href="javascript:void(0);" title="Increase Font"><img src="https://www.docip.org/fileadmin/templates/images/picto-fontplus.png"></a><a id="fontSmall" class="fontSmall" href="javascript:void(0);" title="Decrease Font"><img src="https://www.docip.org/fileadmin/templates/images/picto-fontminus.png"></a><a href="javascript:void(0);" class="button-toggle-contrast button-toggle-highcontrast" title="Change contrast of the page"><img src="https://www.docip.org/fileadmin/templates/images/picto-contrast.png"></a>&nbsp;<a href="https://www.docip.org/en/">en</a>&nbsp;|&nbsp;<a href="https://www.docip.org/es/">es</a>&nbsp;|&nbsp;<a href="https://www.docip.org/fr/" class="active">fr</a>&nbsp;|&nbsp;<a href="https://www.docip.org/ru/">ru</a></div></li> </ul></div> <div class="wrapper collapse share-collapse navbar-ex1-collapse" id="share-mobile"><ul class="nav share-mobile-nav"> <li><a href="https://www.facebook.com/pages/docip/xxx2534964405909" target="_blank">facebook</a></li> <li><a href="https://www.linkedin.com/company/docip" target="_blank">linkedin</a></li> <li><a href="https://www.youtube.com/docip" target="_blank">you tube</a></li> </ul></div> <div class="wrapper collapse searchfield-collapse" id="search-mobile"><ul class="nav search-mobile-nav"><li id="search-mobile-box"><div id="indexedsearchbox"><form action="https://www.docip.org/fr/misc/recherche/" method="post" id="indexedsearch"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input name="tx_indexedsearch[sword]" value="" class="searchbox-sword" type="text"></td><td align="right">&nbsp;<input type="hidden" name="tx_indexedsearch[sections]" value="0"><input name="tx_indexedsearch[submit_button]" value="Search" type="hidden"></td></tr></tbody></table></form></div></li></ul></div> </div> </div> </div></header> <header-mask class="fixed hidden-print hidden-xs"> <div class="wrapper"></div> </header-mask> <div id="headerprint" class="hidden-xs visible-print-block center"><img src="https://www.docip.org/fileadmin/templates/images/docip-logo-top-fr_print.png" alt="" width="612" height="126" border="0"></div> <!--TYPO3SEARCH_begin--><section id="content"><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c623"> <div id="" class="tx-imagecycle-pi3 slider-wrapper theme-default slider-news nivoSlider"> <div class="tx-imagecycle-pi3-images nivoSlider" id="slider-news"> <img src="https://www.docip.org/typo3temp/_processed_/csm_docip-yearend-bande-2023-fr_91460287c7.jpg" alt="" title="#news-2384" class="img-responsive" style="width: 100%; display: inline;"> <img src="https://www.docip.org/typo3temp/_processed_/csm_PO-bande02_a236bd_dc8423_4edce6_76_1fa9ab22e9.jpg" alt="" title="#news-2380" class="img-responsive" style="width: 100%; display: inline;"> <img src="https://www.docip.org/typo3temp/_processed_/csm_PO-bande02_a236bd_dc8423_4edce6_75_186d08bf69.jpg" alt="" title="#news-2376" class="img-responsive" style="width: 100%; display: inline;"> <img class="nivo-main-image" src="https://www.docip.org/typo3temp/_processed_/csm_docip-yearend-bande-2023-fr_91460287c7.jpg" style="display: inline;"><div class="nivo-caption" style="display: block;"> <h1><a href="https://www.docip.org/fr/nos-services-solutions/actualites/detail-actualite/article/actualites-hebdomadaires-du-docip-no-380/" title="" class="readmore">Actualités hebdomadaires du Docip no. 380</a></h1><br>MEILLEURS VŒUXChère amie, cher ami,Nous voici arrivés à la fin du mois de décembre, et notre bureau ferme ses...</div><div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div></div> </div> <div id="news-2384" class="nivo-caption"> <h1><a href="https://www.docip.org/fr/nos-services-solutions/actualites/detail-actualite/article/actualites-hebdomadaires-du-docip-no-380/" title="" class="readmore">Actualités hebdomadaires du Docip no. 380</a></h1><br>MEILLEURS VŒUXChère amie, cher ami,Nous voici arrivés à la fin du mois de décembre, et notre bureau ferme ses...</div> <div id="news-2380" class="nivo-caption"> <h1><a href="https://www.docip.org/fr/nos-services-solutions/actualites/detail-actualite/article/actualites-hebdomadaires-du-docip-no-379/" title="" class="readmore">Actualités hebdomadaires du Docip no. 379</a></h1><br>JANVIER 2024 95e session du Comité des droits de l'enfant15 janvier - 2 février 2024, Palais Wilson, Genève,...</div> <div id="news-2376" class="nivo-caption"> <h1><a href="https://www.docip.org/fr/nos-services-solutions/actualites/detail-actualite/article/actualites-hebdomadaires-du-docip-no-378/" title="" class="readmore">Actualités hebdomadaires du Docip no. 378</a></h1><br>10 - 16 DÉCEMBRE 2023 Conférence des parties à la convention-cadre des Nations unies sur les changements climatiques...</div> <link rel="stylesheet" type="text/css" href="https://www.docip.org/typo3conf/ext/imagecycle/res/css/nivoslider/style.css?1449246732" media="all"> <link rel="stylesheet" type="text/css" href="https://www.docip.org/typo3conf/ext/imagecycle/res/css/nivoslider/default/style.css?1449246732" media="all"> <script src="https://www.docip.org/typo3conf/ext/imagecycle/res/jquery/js/jquery.nivoslider-3.2.min.js?1449246732" type="text/javascript"></script><style>
+.nivo-caption{
+	background:none;
+}
+/* nivo slider */
+.nivo-caption{
+	width:42%;
+	left:auto;
+	right:0 !important;
+/*	left:0 !important; */
+	top:0;
+	padding-top:20px;
+	background:none;
+	color:#fff;
+
+	font-size:0.85em;
+	line-height:1em;
+
+	background:url(fileadmin/templates/images/banner-black-gradient.png) repeat;
+	width:62%;
+	padding-left:20%;
+	padding-right:50px;
+
+	opacity:1;
+    -moz-opacity: 1;
+    filter: alpha(opacity=100);
+}
+
+.nivo-caption h1{
+	margin:0;
+	padding:0;
+	color:#fff;
+	font-size:2.4em;
+/*	line-height:3.2em; */
+	width:85%;
+	padding-bottom:5px;
+
+	font-size:1.8em;
+	padding-top:20px;
+}
+.theme-default .nivoSlider .nivo-caption a {
+    display:inline !important;
+	color:#fff;
+	filter: alpha(opacity=100);
+    opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    -khtml-opacity: 1;
+	border-bottom:none;
+
+	text-decoration:none;
+}
+.theme-default .nivoSlider .nivo-caption a:hover {
+	text-decoration:underline;
+}
+
+.theme-default .nivoSlider a {
+	background-color:transparent;
+}
+
+@media only screen and (max-width: 992px) {
+
+/* nivo slider */
+.nivo-caption{
+	padding-top:30px;
+
+	font-size:0.85em;
+	line-height:1em;
+
+	background:url(fileadmin/templates/images/banner-black-gradient.png) repeat;
+	width:80%;
+	padding-left:20%;
+}
+
+.nivo-caption h1{
+	font-size:1.6em;
+	line-height:1.4em;
+/*	line-height:3.2em; */
+	width:90%;
+	padding-bottom:2px;
+}
+
+}
+
+@media only screen and (max-width: 480px) {
+
+	/* nivo slider */
+	.nivoSlider {
+		height: 150px !important;
+		background:#333;
+	}
+	.theme-default .nivoSlider {
+		background:none !important;
+	}
+
+	.nivo-caption{
+		background:url(fileadmin/templates/images/banner-black-gradient.png) repeat;
+
+		padding-top:50px;
+		width:98%;
+		padding-left:5px;
+		padding-right:5px;
+	}
+	.nivo-caption h1{
+		font-size:1.3em;
+		line-height:1.3em;
+		width:100%;
+		padding-bottom:2px;
+		margin-bottom:-10px;
+	}
+
+}
+
+</style><script type="text/javascript">
+jQuery(window).load(function() {
+   jQuery('#slider-news').nivoSlider({
+	effect: 'sliceDown',
+	controlNav: false,
+	pauseTime: 5000,
+	pauseOnHover: true
+   });
+});
+</script></article></div></div><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c2"><div class="row"><div class=" col-md-3 "><div class="wrapper-outer bg-white csc-frame-0"><div class="clearfix"><article id="c368"><div class="csc-header csc-header-n1"><h2 class="csc-firstHeader"><a href="http://cendoc.docip.org/cgi-bin/library.cgi?e=p-00100-00---off-0upd_fr--00-2----0-10-0---0---0direct-10----4-------0-1l--10-fr-50---20-about---00-3-1-00-10--4--0--0-0-01-10-0utfZz-8-00&amp;a=d&amp;cl=CL1">NOS PUBLICATIONS</a></h2></div><p class="notice"><a href="http://cendoc.docip.org/collect/upd_fr/index/assoc/HASH01f7/01b8b548.dir/Summary%20Notes%20EMRIP%2015th%20session_FR.pdf">Note de synthèse 14 (Août 2022)</a></p> <p><span style="font-style: italic;">Cette Synthèse présente les discussions qui se sont tenues, en personne et en ligne, au cours de la 15e session du MEDPA, 4 au 8 juillet 2022.</span> </p> <p><a href="http://cendoc.docip.org/cgi-bin/library.cgi?e=p-00100-00---off-0upd_fr--00-2----0-10-0---0---0direct-10----4-------0-1l--10-fr-50---20-about---00-3-1-00-10--4--0--0-0-01-10-0utfZz-8-00&amp;a=d&amp;cl=CL1" title="Numéros précédents" target="_blank">Publications précédentes</a></p></article></div></div><div class="wrapper-outer bg-white csc-frame-0"><div class="clearfix"><article id="c372"><div class="row"><div class="col-xs-9 col-md-6 "><div class="csc-header csc-header-n1"><h1 class="csc-firstHeader">Médias sociaux</h1></div><div class="tx-twitterbox"> <h2>Tweets by @Docip_en</h2> </div></div><div class="col-xs-3 col-md-6 "><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c370"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><div class="csc-textpic-image csc-textpic-last"><a href="https://www.facebook.com/docip.org/"><img src="https://www.docip.org/fileadmin/images/picto/picto-facebook.png" alt="icône facebook" class="img-responsive" style="display: block; width: 100%;" width="35" height="34" border="0"></a></div></div></div> <div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><div class="csc-textpic-image csc-textpic-last"><a href="https://twitter.com/docip_en"><img src="https://www.docip.org/fileadmin/images/picto/picto-tweeter.png" alt="icône twitter" class="img-responsive" style="display: block; width: 100%;" width="35" height="34" border="0"></a></div></div></div> <div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><div class="csc-textpic-image csc-textpic-last"><a href="https://www.linkedin.com/company/1808965/"><img src="https://www.docip.org/fileadmin/images/picto/picto-linkedin.png" alt="icône linkedin" class="img-responsive" style="display: block; width: 100%;" width="35" height="35" border="0"></a></div></div></div> <div class="csc-textpic-imagerow csc-textpic-imagerow-last"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><div class="csc-textpic-image csc-textpic-last"><a href="https://www.youtube.com/channel/UCWISnFGmRRjUw-51lpvHdHA"><img src="https://www.docip.org/fileadmin/images/picto/picto-youtube.png" alt="icône youtube" class="img-responsive" style="display: block; width: 100%;" width="35" height="34" border="0"></a></div></div></div></div></div></div></div></article></div></div></div></div></article></div></div><div class="wrapper-outer bg-white csc-frame-0"><div class="clearfix"><article id="c1641"><div class="csc-header csc-header-n3"><h1>Agenda</h1></div><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c1646"><p><strong><a href="https://www.docip.org/fr/nos-services-solutions/agenda/detail-agenda/?tx_sfeventmgt_pievent%5Bevent%5D=2824&amp;tx_sfeventmgt_pievent%5Baction%5D=detail&amp;tx_sfeventmgt_pievent%5Bcontroller%5D=Event">COMITÉ DES DROITS DE L'ENFANT / 95E SESSION</a></strong></p><em>15.01.2024 - 02.02.2024</em><p></p></article></div></div><p class="notice"><a href="https://www.docip.org/fr/nos-services-solutions/agenda/" title="Tous les événements" class="internal-link">Tous les événements</a></p></article></div></div><div class="wrapper-outer bg-red csc-frame-0"><div class="clearfix"><article id="c375"><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c864"> <div class="news-latest-container"> <div class="news-header-list-container"> <div class="news-header-list-date">22.12.2023</div> <div class="news-header-list-title"> <a href="https://www.docip.org/fr/nos-services-solutions/actualites/detail-actualite/article/actualites-hebdomadaires-du-docip-no-380/" title="Actualités hebdomadaires du Docip no. 380">Actualités hebdomadaires du Docip no. 380</a></div> </div> <div class="news-header-list-container"> <div class="news-header-list-date">15.12.2023</div> <div class="news-header-list-title"> <a href="https://www.docip.org/fr/nos-services-solutions/actualites/detail-actualite/article/actualites-hebdomadaires-du-docip-no-379/" title="Actualités hebdomadaires du Docip no. 379">Actualités hebdomadaires du Docip no. 379</a></div> </div> <div class="news-header-list-container"> <div class="news-header-list-date">08.12.2023</div> <div class="news-header-list-title"> <a href="https://www.docip.org/fr/nos-services-solutions/actualites/detail-actualite/article/actualites-hebdomadaires-du-docip-no-378/" title="Actualités hebdomadaires du Docip no. 378">Actualités hebdomadaires du Docip no. 378</a></div> </div> </div> </article></div></div><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c373"><p><span style="font-weight: bold;"><br>Pour être informés des actualités sur les&nbsp;questions autochtones, inscrivez- vous à&nbsp;notre liste de diffusion</span></p></article></div></div><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c374"> <form accept-charset="UTF-8" action="https://madmimi.com/signups/subscribe/104615" id="ema_signup_form" method="post" target="_blank"> <div style="margin:0;padding:0;display:inline"> <input name="utf8" type="hidden" value="✓"> </div> <div class="mimi_field required"> <label for="signup_email">E-mail*</label> <br> <input id="signup_email" name="signup[email]" type="text" data-required-field="Ce champ est requis" placeholder="vous@exemple.com"> </div> <div class="mimi_field"> <input type="submit" class="submit" value="Inscription" id="webform_submit_button" data-default-text="Inscription" data-submitting-text="Envoi..." data-invalid-text="↑ Vous avez oublié des champs obligatoires" data-choose-list="↑ Choisir une liste" data-thanks="Merci !"> </div> </form> <script type="text/javascript">
+(function(global) {
+  function serialize(form){if(!form||form.nodeName!=="FORM"){return }var i,j,q=[];for(i=form.elements.length-1;i>=0;i=i-1){if(form.elements[i].name===""){continue}switch(form.elements[i].nodeName){case"INPUT":switch(form.elements[i].type){case"text":case"hidden":case"password":case"button":case"reset":case"submit":q.push(form.elements[i].name+"="+encodeURIComponent(form.elements[i].value));break;case"checkbox":case"radio":if(form.elements[i].checked){q.push(form.elements[i].name+"="+encodeURIComponent(form.elements[i].value))}break;case"file":break}break;case"TEXTAREA":q.push(form.elements[i].name+"="+encodeURIComponent(form.elements[i].value));break;case"SELECT":switch(form.elements[i].type){case"select-one":q.push(form.elements[i].name+"="+encodeURIComponent(form.elements[i].value));break;case"select-multiple":for(j=form.elements[i].options.length-1;j>=0;j=j-1){if(form.elements[i].options[j].selected){q.push(form.elements[i].name+"="+encodeURIComponent(form.elements[i].options[j].value))}}break}break;case"BUTTON":switch(form.elements[i].type){case"reset":case"submit":case"button":q.push(form.elements[i].name+"="+encodeURIComponent(form.elements[i].value));break}break}}return q.join("&")};
+
+
+  function extend(destination, source) {
+    for (var prop in source) {
+      destination[prop] = source[prop];
+    }
+  }
+
+  if (!Mimi) var Mimi = {};
+  if (!Mimi.Signups) Mimi.Signups = {};
+
+  Mimi.Signups.EmbedValidation = function() {
+    this.initialize();
+
+    var _this = this;
+    if (document.addEventListener) {
+      this.form.addEventListener('submit', function(e){
+        _this.onFormSubmit(e);
+      });
+    } else {
+      this.form.attachEvent('onsubmit', function(e){
+        _this.onFormSubmit(e);
+      });
+    }
+  };
+
+  extend(Mimi.Signups.EmbedValidation.prototype, {
+    initialize: function() {
+      this.form         = document.getElementById('ema_signup_form');
+      this.submit       = document.getElementById('webform_submit_button');
+      this.callbackName = 'jsonp_callback_' + Math.round(100000 * Math.random());
+      this.validEmail   = /.+@.+\..+/
+    },
+
+    onFormSubmit: function(e) {
+      e.preventDefault();
+
+      this.validate();
+      if (this.isValid) {
+        this.submitForm();
+      } else {
+        this.revalidateOnChange();
+      }
+    },
+
+    validate: function() {
+      this.isValid = true;
+      this.emailValidation();
+      this.fieldAndListValidation();
+      this.updateFormAfterValidation();
+    },
+
+    emailValidation: function() {
+      var email = document.getElementById('signup_email');
+
+      if (this.validEmail.test(email.value)) {
+        this.removeTextFieldError(email);
+      } else {
+        this.textFieldError(email);
+        this.isValid = false;
+      }
+    },
+
+    fieldAndListValidation: function() {
+      var fields = this.form.querySelectorAll('.mimi_field.required');
+
+      for (var i = 0; i < fields.length; ++i) {
+        var field = fields[i],
+            type  = this.fieldType(field);
+        if (type === 'checkboxes' || type === 'radio_buttons') {
+          this.checkboxAndRadioValidation(field);
+        } else {
+          this.textAndDropdownValidation(field, type);
+        }
+      }
+    },
+
+    fieldType: function(field) {
+      var type = field.querySelectorAll('.field_type');
+
+      if (type.length) {
+        return type[0].getAttribute('data-field-type');
+      } else if (field.className.indexOf('checkgroup') >= 0) {
+        return 'checkboxes';
+      } else {
+        return 'text_field';
+      }
+    },
+
+    checkboxAndRadioValidation: function(field) {
+      var inputs   = field.getElementsByTagName('input'),
+          selected = false;
+
+      for (var i = 0; i < inputs.length; ++i) {
+        var input = inputs[i];
+        if((input.type === 'checkbox' || input.type === 'radio') && input.checked) {
+          selected = true;
+        }
+      }
+
+      if (selected) {
+        field.className = field.className.replace(/ invalid/g, '');
+      } else {
+        if (field.className.indexOf('invalid') === -1) {
+          field.className += ' invalid';
+        }
+
+        this.isValid = false;
+      }
+    },
+
+    textAndDropdownValidation: function(field, type) {
+      var inputs = field.getElementsByTagName('input');
+
+      for (var i = 0; i < inputs.length; ++i) {
+        var input = inputs[i];
+        if (input.name.indexOf('signup') >= 0) {
+          if (type === 'text_field') {
+            this.textValidation(input);
+          } else {
+            this.dropdownValidation(field, input);
+          }
+        }
+      }
+      this.htmlEmbedDropdownValidation(field);
+    },
+
+    textValidation: function(input) {
+      if (input.id === 'signup_email') return;
+
+      if (input.value) {
+        this.removeTextFieldError(input);
+      } else {
+        this.textFieldError(input);
+        this.isValid = false;
+      }
+    },
+
+    dropdownValidation: function(field, input) {
+      if (input.value) {
+        field.className = field.className.replace(/ invalid/g, '');
+      } else {
+        if (field.className.indexOf('invalid') === -1) field.className += ' invalid';
+        this.onSelectCallback(input);
+        this.isValid = false;
+      }
+    },
+
+    htmlEmbedDropdownValidation: function(field) {
+      var dropdowns = field.querySelectorAll('.mimi_html_dropdown');
+      var _this = this;
+
+      for (var i = 0; i < dropdowns.length; ++i) {
+        var dropdown = dropdowns[i];
+
+        if (dropdown.value) {
+          field.className = field.className.replace(/ invalid/g, '');
+        } else {
+          if (field.className.indexOf('invalid') === -1) field.className += ' invalid';
+          this.isValid = false;
+          dropdown.onchange = (function(){ _this.validate(); });
+        }
+      }
+    },
+
+    textFieldError: function(input) {
+      input.className   = 'required invalid';
+      input.placeholder = input.getAttribute('data-required-field');
+    },
+
+    removeTextFieldError: function(input) {
+      input.className   = 'required';
+      input.placeholder = '';
+    },
+
+    onSelectCallback: function(input) {
+      if (typeof Widget === 'undefined' || !Widget.BasicDropdown) return;
+
+      var dropdownEl = input.parentNode,
+          instances  = Widget.BasicDropdown.instances,
+          _this = this;
+
+      for (var i = 0; i < instances.length; ++i) {
+        var instance = instances[i];
+        if (instance.wrapperEl === dropdownEl) {
+          instance.onSelect = function(){ _this.validate() };
+        }
+      }
+    },
+
+    updateFormAfterValidation: function() {
+      this.form.className   = this.setFormClassName();
+      this.submit.value     = this.submitButtonText();
+      this.submit.disabled  = !this.isValid;
+      this.submit.className = this.isValid ? 'submit' : 'disabled';
+    },
+
+    setFormClassName: function() {
+      var name = this.form.className;
+
+      if (this.isValid) {
+        return name.replace(/\s?mimi_invalid/, '');
+      } else {
+        if (name.indexOf('mimi_invalid') === -1) {
+          return name += ' mimi_invalid';
+        } else {
+          return name;
+        }
+      }
+    },
+
+    submitButtonText: function() {
+      var invalidFields = document.querySelectorAll('.invalid'),
+          text;
+
+      if (this.isValid || !invalidFields) {
+        text = this.submit.getAttribute('data-default-text');
+      } else {
+        if (invalidFields.length || invalidFields[0].className.indexOf('checkgroup') === -1) {
+          text = this.submit.getAttribute('data-invalid-text');
+        } else {
+          text = this.submit.getAttribute('data-choose-list');
+        }
+      }
+      return text;
+    },
+
+    submitForm: function() {
+      this.formSubmitting();
+
+      var _this = this;
+      window[this.callbackName] = function(response) {
+        delete window[this.callbackName];
+        document.body.removeChild(script);
+        _this.onSubmitCallback(response);
+      };
+
+      var script = document.createElement('script');
+      script.src = this.formUrl('json');
+      document.body.appendChild(script);
+    },
+
+    formUrl: function(format) {
+      var action  = this.form.action;
+      if (format === 'json') action += '.json';
+      return action + '?callback=' + this.callbackName + '&' + serialize(this.form);
+    },
+
+    formSubmitting: function() {
+      this.form.className  += ' mimi_submitting';
+      this.submit.value     = this.submit.getAttribute('data-submitting-text');
+      this.submit.disabled  = true;
+      this.submit.className = 'disabled';
+    },
+
+    onSubmitCallback: function(response) {
+      if (response.success) {
+        this.onSubmitSuccess(response.result);
+      } else {
+        top.location.href = this.formUrl('html');
+      }
+    },
+
+    onSubmitSuccess: function(result) {
+      if (result.has_redirect) {
+        top.location.href = result.redirect;
+      } else if(result.single_opt_in || !result.confirmation_html) {
+        this.disableForm();
+        this.updateSubmitButtonText(this.submit.getAttribute('data-thanks'));
+      } else {
+        this.showConfirmationText(result.confirmation_html);
+      }
+    },
+
+    showConfirmationText: function(html) {
+      var fields = this.form.querySelectorAll('.mimi_field');
+
+      for (var i = 0; i < fields.length; ++i) {
+        fields[i].style['display'] = 'none';
+      }
+
+      (this.form.querySelectorAll('fieldset')[0] || this.form).innerHTML = html;
+    },
+
+    disableForm: function() {
+      var elements = this.form.elements;
+      for (var i = 0; i < elements.length; ++i) {
+        elements[i].disabled = true;
+      }
+    },
+
+    updateSubmitButtonText: function(text) {
+      this.submit.value = text;
+    },
+
+    revalidateOnChange: function() {
+      var fields = this.form.querySelectorAll(".mimi_field.required"),
+          _this = this;
+
+      for (var i = 0; i < fields.length; ++i) {
+        var inputs = fields[i].getElementsByTagName('input');
+        for (var j = 0; j < inputs.length; ++j) {
+          if (this.fieldType(fields[i]) === 'text_field') {
+            inputs[j].onkeyup = function() {
+              var input = this;
+              if (input.getAttribute('name') === 'signup[email]') {
+                if (_this.validEmail.test(input.value)) _this.validate();
+              } else {
+                if (input.value.length === 1) _this.validate();
+              }
+            }
+          } else {
+            inputs[j].onchange = function(){ _this.validate() };
+          }
+        }
+      }
+    }
+  });
+
+  if (document.addEventListener) {
+    document.addEventListener("DOMContentLoaded", function() {
+      new Mimi.Signups.EmbedValidation();
+    });
+  }
+  else {
+    window.attachEvent('onload', function() {
+      new Mimi.Signups.EmbedValidation();
+    });
+  }
+})(this);
+</script></article></div></div></article></div></div></div><div class=" col-md-4 "><div class="wrapper-outer bg-white csc-frame-0"><div class="clearfix"><article id="c5"><div class="csc-header csc-header-n1"><h2 class="csc-firstHeader"><a href="https://www.docip.org/fr/nos-services-solutions/">Nos services-solutions</a></h2></div><div class="csc-textpic csc-textpic-center csc-textpic-below"><div class="csc-textpic-text"><p>Le Docip offre des services-solutions de secrétariat technique et de secrétariat-technique mobile; de traduction et d'interprétation; d'accompagnement et de support stratégique; de transfert de capacités et de formation; de gestion de l'information. <a href="https://www.docip.org/fr/nos-services-solutions/" title="Nos services-solutions" class="internal-link">Pour en savoir plus …</a></p></div><div class="csc-textpic-imagewrap"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><div class="csc-textpic-image csc-textpic-last"><a href="https://www.docip.org/fr/nos-services-solutions/"><img src="https://www.docip.org/fileadmin/images/Accueil/AC-bloc-nosservices02.jpg" alt="" class="img-responsive" style="display: block; width: 100%;" width="580" height="240" border="0"></a></div></div></div></div></div></article></div></div><div class="wrapper-outer bg-white csc-frame-0"><div class="clearfix"><article id="c96"><div class="csc-header csc-header-n2"><h2><a href="http://cendoc.docip.org/cgi-bin/library.cgi?a=p&amp;p=home&amp;l=fr&amp;w=utf-8">Documentation</a></h2></div><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c97"><p>Le Docip met à disposition de ses utilisat<span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">·</span></span></span></span>eur<span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">·</span></span></span></span><span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">ice </span></span></span></span><span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">·</span></span></span></span><span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">s </span></span></span></span>et de ses visiteu<span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">·</span></span></span></span>r<span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">·</span></span></span></span><span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">euse</span></span></span></span><span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">·</span></span></span></span><span style="font-variant: normal"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">s</span></span></span></span> une base de données en ligne qui contient des milliers de documents sur les questions autochtones (ex.: documents historiques, déclarations des délégués autochtones et autres acteurs internationaux lors des conférences, instruments juridiques internationaux, etc.). <a href="https://www.docip.org/fr/nos-services-solutions/centre-de-documentation/" title="Centre de documentation" class="internal-link">Pour en savoir plus ...</a> </p> <p>Recherche dans la documentation en ligne par mots clés:</p></article></div></div><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c98"><form target="GST" action="https://cendoc.docip.org/cgi-bin/library.cgi" method="get" name="searchform" id="searchform" style="margin:0px; padding:0px; "> <input type="hidden" name="a" value="q"> <input type="hidden" name="r" value="1"> <input type="hidden" name="hs" value="1"> <input type="hidden" name="fqf" value="TX"> <input type="hidden" name="e" value="q-00100-00---off-0crocolsearch-upd_fr,cendocdo-01-2----0-10-0---0---0direct-10----4-------0-1l--10-fr-50---20-preferences---00-3-1-00-10--4--0--0-0-01-10-0utfZz-8-00"> <table> <tbody><tr><td><input name="q" type="text"></td></tr></tbody></table> </form></article></div></div></article></div></div><div class="wrapper-outer bg-red csc-frame-0"><div class="clearfix"><article id="c100"><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c17"><div class="csc-header csc-header-n1"><h2 class="csc-firstHeader"><a href="https://www.docip.org/fr/docip/reseau-volontaire/">volontaires</a></h2></div><div class="csc-textpic csc-textpic-center csc-textpic-below"><div class="csc-textpic-text"><p>Être volontaire pour le Docip, c’est mettre ses compétences au service des délégués autochtones lors de leur participation sur la scène onusienne.</p></div><div class="csc-textpic-imagewrap"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><div class="csc-textpic-image csc-textpic-last"><a href="https://www.docip.org/fr/docip/reseau-volontaire/"><img src="https://www.docip.org/fileadmin/images/Accueil/AC-bloc-volontaires02.jpg" alt="" class="img-responsive" style="display: block; width: 100%;" width="580" height="257" border="0"></a></div></div></div></div></div></article></div></div></article></div></div></div><div class=" col-md-5 "><div class="wrapper-outer bg-white csc-frame-0"><div class="clearfix"><article id="c577"><div class="csc-header csc-header-n1"><h2 class="csc-firstHeader"><a href="https://www.docip.org/fr/histoire-orale-et-memoire/">Histoire orale</a></h2></div><p>L'histoire des Peuples Autochtones racontée par les aînés et portée par les jeunes d'une façon créative pour les générations futures : la transmission de l'oralité exprimée via des ateliers sur le terrain. <a href="https://www.docip.org/fr/histoire-orale-et-memoire/" title="Histoire orale" class="internal-link">Pour en savoir plus …</a></p></article></div></div><div class="wrapper-outer bg-white csc-frame-0"><div class="clearfix"><article id="c91"><div class="csc-header csc-header-n2"><h2><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/">Droits et libertés autochtones</a></h2></div><div class="row"><div class=" col-sm-6 image-caption-bloc"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><div class="csc-textpic-image csc-textpic-last"><table><caption class="csc-textpic-caption"><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/droits-humains/"><div class="full-caption-cover">Droits humains</div></a></caption><tbody><tr><td><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/droits-humains/"><img src="https://www.docip.org/fileadmin/images/Accueil/AC-DL-hr02.jpg" alt="Droits humains" class="img-responsive" style="display: block; width: 100%;" width="404" height="95" border="0"></a></td></tr></tbody></table></div></div></div> <div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><div class="csc-textpic-image csc-textpic-last"><table><caption class="csc-textpic-caption"><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/sante/"><div class="full-caption-cover">Santé</div></a></caption><tbody><tr><td><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/sante/"><img src="https://www.docip.org/fileadmin/images/Accueil/AC-DL-sante01.jpg" alt="Santé" class="img-responsive" style="display: block; width: 100%;" width="404" height="95" border="0"></a></td></tr></tbody></table></div></div></div> <div class="csc-textpic-imagerow csc-textpic-imagerow-last"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><div class="csc-textpic-image csc-textpic-last"><table><caption class="csc-textpic-caption"><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/femmes-et-enfants/"><div class="full-caption-cover">Femmes et enfants</div></a></caption><tbody><tr><td><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/femmes-et-enfants/"><img src="https://www.docip.org/fileadmin/images/Accueil/AC-DL-femmes01.jpg" alt="Femmes et enfants" class="img-responsive" style="display: block; width: 100%;" width="404" height="95" border="0"></a></td></tr></tbody></table></div></div></div></div></div></div></div></div><div class=" col-sm-6 image-caption-bloc"><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c89"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><div class="csc-textpic-image csc-textpic-last"><table><caption class="csc-textpic-caption"><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/terre-territoire-et-environnement/"><div class="full-caption-cover">Terre, territoire et environnement</div></a></caption><tbody><tr><td><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/terre-territoire-et-environnement/"><img src="https://www.docip.org/fileadmin/images/Accueil/AC-DL-terre01.jpg" alt="Terre, territoire et environnement" class="img-responsive" style="display: block; width: 100%;" width="404" height="95" border="0"></a></td></tr></tbody></table></div></div></div> <div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><div class="csc-textpic-image csc-textpic-last"><table><caption class="csc-textpic-caption"><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/culture-et-education/"><div class="full-caption-cover">Culture et éducation</div></a></caption><tbody><tr><td><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/culture-et-education/"><img src="https://www.docip.org/fileadmin/images/Accueil/AC-DL-culture01.jpg" alt="Culture et éducation" class="img-responsive" style="display: block; width: 100%;" width="404" height="95" border="0"></a></td></tr></tbody></table></div></div></div> <div class="csc-textpic-imagerow csc-textpic-imagerow-last"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><div class="csc-textpic-image csc-textpic-last"><table><caption class="csc-textpic-caption"><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/personnes-handicapees/"><div class="full-caption-cover">Personnes handicapées</div></a></caption><tbody><tr><td><a href="https://www.docip.org/fr/droits-et-libertes-autochtones/personnes-handicapees/"><img src="https://www.docip.org/fileadmin/images/Accueil/AC-DL-handicap01.jpg" alt="Personnes handicapées" class="img-responsive" style="display: block; width: 100%;" width="404" height="95" border="0"></a></td></tr></tbody></table></div></div></div></div></div></div></div></article></div></div></div></div></article></div></div><div class="wrapper-outer bg-white csc-frame-0"><div class="clearfix"><article id="c158"><div class="csc-header csc-header-n3"><h2>Participation autochtone</h2></div><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c8"><p>Pour la reconnaissance de leurs droit et de leurs libertés fondamentales, les Peuples Autochtones se dirigent vers les instances internationale et européenne.</p></article></div></div><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c41"><div class="row"><div class=" col-sm-6 image-caption-bloc"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><div class="csc-textpic-image csc-textpic-last"><table><caption class="csc-textpic-caption"><a href="https://www.docip.org/fr/peuples-autochtones-a-lonu/"><div class="full-caption-cover">Aux Nations Unies</div></a></caption><tbody><tr><td><a href="https://www.docip.org/fr/peuples-autochtones-a-lonu/"><img src="https://www.docip.org/fileadmin/images/Accueil/AC-bloc-pa-onu01.jpg" alt="Aux Nations Unies" class="img-responsive" style="display: block; width: 100%;" width="404" height="95" border="0"></a></td></tr></tbody></table></div></div></div></div></div></div><div class=" col-sm-6 image-caption-bloc"><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c82"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><div class="csc-textpic-image csc-textpic-last"><table><caption class="csc-textpic-caption"><a href="https://www.docip.org/fr/peuples-autochtones-a-lue/"><div class="full-caption-cover">A l'Union Européenne</div></a></caption><tbody><tr><td><a href="https://www.docip.org/fr/peuples-autochtones-a-lue/"><img src="https://www.docip.org/fileadmin/images/Accueil/AC-bloc-pa-ue01.jpg" alt="A l'Union Européenne" class="img-responsive" style="display: block; width: 100%;" width="404" height="95" border="0"></a></td></tr></tbody></table></div></div></div></div></div></article></div></div></div></div></article></div></div></article></div></div></div></div></article></div></div></section> <!--TYPO3SEARCH_end--><footer class="fixed hidden-print"> <div class="wrapper"> <div class="row"> <div class="col-xs-12 col-sm-7 left"> <div id="contact-bottom" class="contact-bottom"><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c45"><div class="row"><div class="hidden-xs col-sm-4 "><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c46"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><div class="csc-textpic-image csc-textpic-last"><a href="https://goo.gl/maps/PGJB9CaX2Up" target="_blank"><img src="https://www.docip.org/fileadmin/images/map-footer.png" alt="" width="152" height="81" border="0"></a></div></div></div></div></div></article></div></div></div><div class="col-xs-12 col-sm-8 "><div class="wrapper csc-frame-0"><div class="clearfix"><article id="c47"><p><span style="font-weight: bold;">Contacter le Docip </span> </p> <p> Tél. : +41 22 740 34 33 <br>Email : <a href="javascript:linkTo_UnCryptMailto('ocknvq,fqekrBfqekr0qti');">docip(at)docip.org</a><br>Adresse : 1-3, chemin du Champ-Baron, CH-1209 Genève<br>Notre centre de documentation est ouvert au public</p></article></div></div></div></div></article></div></div></div> </div> <div class="col-xs-12 col-sm-5 left center-xs"> <div id="don-bottom" class="don-bottom"><div class="wrapper-outer bg-red csc-frame-0"><div class="clearfix"><article id="c48"><p class="notice"><a href="https://www.docip.org/fr/docip/soutenir-le-docip/" class="internal-link">Soutenir les projets du Docip</a></p></article></div></div></div> <br> <div id="menu-footer"><ul><li class="first"><a href="https://www.docip.org/fr/misc/faq/">faq</a></li><li><a href="https://www.docip.org/fr/misc/liste-des-acronymes/">liste des acronymes</a></li><li><a href="https://www.docip.org/fr/misc/plan-du-site/">plan du site</a></li><li><a href="https://www.docip.org/fr/misc/contact/">contact</a></li><li class="last"><a href="https://www.docip.org/fr/misc/copyright/">copyright</a></li></ul></div> </div> </div> </div> </footer> <div id="footerprint" class="hidden-xs visible-print-block center"> <div class="wrapper" id="footerprintcnt"><p>Tél.: +41 22 740 34 33 - Email: docip@docip.org - 1-3, chemin du Champ-Baron, CH-1209 Genève - www.docip.org<br>Ce document est sous licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.</p></div> </div>  <script src="https://www.docip.org/typo3temp/compressor/merged-3638ea091c7fdc36e185ea2c4a612dde-50f8cb764d61ee5bd78391e3adaae18c.js?1673096008" type="text/javascript"></script><script src="https://www.docip.org/typo3temp/compressor/merged-4e89650ff455b55a879f4ea0d0074830-6420b6470a3295367fb8e104566d9bb0.js?1673096077" type="text/javascript"></script>  
+</body></html>

@@ -1,0 +1,16 @@
+<html><head><title>Index of /</title></head>
+<body>
+<h1>Index of /</h1><hr><pre><a href="../">../</a>
+<a href="almalinux/">almalinux/</a>                                         11-Dec-2023 10:58                   -
+<a href="centos/">centos/</a>                                            16-Nov-2021 12:47                   -
+<a href="centos-stream/">centos-stream/</a>                                     24-Aug-2021 13:03                   -
+<a href="custom/">custom/</a>                                            31-Jul-2023 14:55                   -
+<a href="debian/">debian/</a>                                            12-Dec-2023 08:40                   -
+<a href="fedora/">fedora/</a>                                            28-Feb-2022 17:34                   -
+<a href="linux/">linux/</a>                                             27-Feb-2022 00:26                   -
+<a href="lost%2Bfound/">lost+found/</a>                                        11-Dec-2023 12:40                   -
+<a href="rockylinux/">rockylinux/</a>                                        22-Nov-2023 20:37                   -
+<a href="ubuntu/">ubuntu/</a>                                            12-Dec-2023 13:57                   -
+</pre><hr>
+
+</body></html>

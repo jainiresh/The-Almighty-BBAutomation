@@ -1,0 +1,61 @@
+<html><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Refresh" content="300">
+    <title>SmokePing Latency Page for Network Latency Grapher</title>
+    <link rel="stylesheet" type="text/css" href="/css/smokeping-print.css" media="print">
+    <link rel="stylesheet" type="text/css" href="/css/smokeping-screen.css" media="screen">
+</head>
+<body id="body">
+
+<div class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+        <div class="logo">
+            <a href="https://oss.oetiker.ch/smokeping/counter.cgi/2.007003"><img alt="Smokeping" src="/images/smokeping.png"></a>
+        </div>
+        <div class="logo">
+            <a href="https://oss.oetiker.ch/rrdtool/"><img alt="RRDtool" src="/images/rrdtool.png"></a>
+        </div>
+    </div>
+
+    <div class="sidebar-menu">
+        <form method="get" action="http://smokeping.terrahost.com/smokeping.cgi" enctype="multipart/form-data" name="hswitch"><div class="filter"><label for="filter" class="filter-label">Filter:</label><div class="filter-text"><input type="text" name="filter" size="15" id="filter" onchange="hswitch.submit()" placeholder="Filter menu..."></div></div></form><ul class="menu">
+<li class="menuitem"><a class="menulink" href="?target=_charts">Charts</a>
+</li><li class="menuitem"><a class="menulink" href="?target=Transit">&gt; Peering and transit</a>
+</li><li class="menuitem"><a class="menulink" href="?target=DNS">&gt; DNS</a>
+</li></ul>
+
+    </div>
+</div>
+
+<div class="navbar">
+    <div class="navbar-menu"><a id="menu-button" href="#">Toggle Menu</a></div>
+    <div class="navbar-user"><div class="icon-person"></div>Guest</div>
+</div>
+
+<div class="main">
+    <h1>Network Latency Grapher</h1>
+    <h2></h2>
+
+    <div class="overview">
+        
+    </div>
+
+    <div class="details">
+        
+    </div>
+</div>
+<hr>
+<div class="footer">
+    <p class="footer-right"><small>Running on <a href="https://oss.oetiker.ch/smokeping/counter.cgi/2.007003">SmokePing-2.7.3</a> by <a href="https://tobi.oetiker.ch/">Tobi&nbsp;Oetiker</a> and Niko&nbsp;Tyni</small></p>
+    <p><small>Maintained by <a href="mailto:noc@terrahost.no">Terrahost AS</a></small></p>
+</div>
+
+<script src="/js/prototype/prototype.js" type="text/javascript"></script>
+<script src="/js/scriptaculous/scriptaculous.js?load=builder,effects,dragdrop" type="text/javascript"></script><script type="text/javascript" src="https://smokeping.terrahost.com/js/scriptaculous/builder.js"></script><script type="text/javascript" src="https://smokeping.terrahost.com/js/scriptaculous/effects.js"></script><script type="text/javascript" src="https://smokeping.terrahost.com/js/scriptaculous/dragdrop.js"></script>
+<script src="/js/cropper/cropper.js" type="text/javascript"></script>
+<script src="/js/smokeping.js" type="text/javascript"></script>
+<script src="/js/traceping.js" type="text/javascript"></script>
+
+
+
+</body></html>

@@ -1,0 +1,34 @@
+
+[0;33mRunning a Full scan on [0m138.197.61.183
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+[0K
+[0K
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+[0K
+[0K
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      Golang net/http server (Go-IPFS json-rpc or InfluxDB API)
+|_http-title: Site doesn't have a title (text/plain; charset=utf-8).
+443/tcp open  ssl/https
+|_http-title: Site doesn't have a title.
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 0 seconds
+[0m

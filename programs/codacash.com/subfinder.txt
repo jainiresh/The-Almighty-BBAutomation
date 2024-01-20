@@ -1,0 +1,9 @@
+mail.codacash.com
+webdisk.codacash.com
+webmail.codacash.com
+codacash.com
+cpanel.codacash.com
+wallet-api.codacash.com
+blog.codacash.com
+www.blog.codacash.com
+www.codacash.com

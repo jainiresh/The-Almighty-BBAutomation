@@ -1,0 +1,14 @@
+cendoc.docip.org
+ns.docip.org
+cloud.docip.org
+www.docip.org
+analytics.docip.org
+sectec.docip.org
+training.docip.org
+storage.docip.org
+beta.docip.org
+dns.docip.org
+old.docip.org
+mvw.docip.org
+doc.docip.org
+switzerlandwww.docip.org

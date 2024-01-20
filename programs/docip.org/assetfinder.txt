@@ -1,0 +1,16 @@
+cloud.docip.org
+docip.org
+www.docip.org
+storage.docip.org
+cendoc.docip.org
+analytics.docip.org
+www.docip.org
+sectec.docip.org
+training.docip.org
+beta.docip.org
+doc.docip.org
+docip.org
+sectec.docip.org
+storage.docip.org
+training.docip.org
+www.docip.org

@@ -1,0 +1,13 @@
+# Nmap 7.93 scan initiated Fri Nov 24 00:26:58 2023 as: /usr/bin/nmap -sCV -p80,443 --open -oN nmap/Full_Extra_75.2.85.205.nmap --system-dns --stats-every 2s 75.2.85.205
+Nmap scan report for a9f154d2954dfc992.awsglobalaccelerator.com (75.2.85.205)
+Host is up (0.029s latency).
+
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      Caddy httpd
+|_http-title: Site doesn't have a title.
+|_http-server-header: Caddy
+443/tcp open  ssl/https
+|_http-title: Site doesn't have a title.
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Nov 24 00:27:15 2023 -- 1 IP address (1 host up) scanned in 16.39 seconds

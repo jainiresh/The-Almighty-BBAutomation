@@ -1,0 +1,584 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>软件商店</title>
+    <link rel="stylesheet" href="/static/css/store-66a03a0f26.css">
+</head>
+<body>
+<div class="banner">
+    <img src="/static/images/bannerstore.png">
+</div>
+<div class="wrapper pt80">
+    <!-- header star -->
+
+    <div class="header home">
+      <div class="input-box">
+        <input type="text" class="search" readonly="">
+        <p class="note"><span>应用搜索</span></p>
+      </div>
+    </div>
+    <!-- header end -->
+    <section>
+      <div class="new-game">
+        <div class="title-box">
+          <a href="/home/store/required"><img src="/static/images/arrow_r.png" alt="" class="arrow-r"></a>
+		            <span class="title">装机必备</span>
+        </div>
+        <ul class="clearfix" id="topULList">
+				  <li pkg="com.ss.android.ugc.aweme" card="0" version="23520449">
+            <img class="pic lazy" src="https://store.heytapimage.com/img/202305/23/f781b71279a743d4fd700e417cf1bca5.png.w96-h0-q75.webp">
+            <h3>抖音</h3>
+            <p class="describe">261.6 亿次</p>
+            <input class="down-btn" type="button" value="安装">
+          </li>
+          		  <li pkg="com.dragon.read" card="0" version="23929698">
+            <img class="pic lazy" src="https://store.heytapimage.com/img/202401/05/96ab95f1e262e5d0833d2a8d676ee2dc.png.w96-h0-q75.webp">
+            <h3>番茄免费小说</h3>
+            <p class="describe">31.9 亿次</p>
+            <input class="down-btn" type="button" value="安装">
+          </li>
+          		  <li pkg="com.ss.android.ugc.aweme.lite" card="0" version="23952248">
+            <img class="pic lazy" src="https://store.heytapimage.com/img/202310/12/376c137ad77077be5b06f90d7860f733.png.w96-h0-q75.webp">
+            <h3>抖音极速版</h3>
+            <p class="describe">85.3 亿次</p>
+            <input class="down-btn" type="button" value="安装">
+          </li>
+          		  <li pkg="com.kuaishou.nebula" card="0" version="23952973">
+            <img class="pic lazy" src="https://store.heytapimage.com/img/202302/06/3c3b348976c45d117eed14da87cef70a.png.w96-h0-q75.webp">
+            <h3>快手极速版</h3>
+            <p class="describe">123 亿次</p>
+            <input class="down-btn" type="button" value="安装">
+          </li>
+                  </ul>
+      </div>
+
+      <!-- app-list-box star -->
+      <div class="app-list-box">
+		        <h3>今日排行</h3>
+        <ul id="appList">
+		          <li pkg="com.tencent.mm" card="0" version="22926538" wait="1">
+            <div class="detail"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202204/06/8070c8c3f95892cafc04b64af27a1010.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>微信</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="3.04159" class="star"></span></span>
+                <span class="size">238 MB</span>
+              </p>
+              <p class="describe">126.8 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装">
+          </li>
+                  <li pkg="com.tencent.mobileqq" card="0" version="22825153" wait="1">
+            <div class="detail"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202109/15/edd039a3799dc2d2a8db5172d23ce5af.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>QQ</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="3.13424" class="star"></span></span>
+                <span class="size">299 MB</span>
+              </p>
+              <p class="describe">138.5 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装">
+          </li>
+                  <li pkg="com.smile.gifmaker" card="0" version="23952757" wait="1">
+            <div class="detail"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202302/06/1272b2b14ae62082c287aae0b62a646a.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>快手</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="4.65585" class="star"></span></span>
+                <span class="size">117 MB</span>
+              </p>
+              <p class="describe">250.1 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装">
+          </li>
+                  <li pkg="com.xunmeng.pinduoduo" card="0" version="23951985" wait="1">
+            <div class="detail"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202401/12/8681b4787e545b6bf51791add48451ca.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>拼多多</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="2.24473" class="star"></span></span>
+                <span class="size">25.9 MB</span>
+              </p>
+              <p class="describe">300.4 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装">
+          </li>
+                  <li pkg="com.quark.browser" card="0" version="23950376" wait="1">
+            <div class="detail"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202307/12/ce275562d9ec4fc3d7f507c9d1cbe77f.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>夸克（新生代智能搜索）</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="4.31044" class="star"></span></span>
+                <span class="size">99.0 MB</span>
+              </p>
+              <p class="describe">8.8 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装">
+          </li>
+        		<!--首页固定5个-->
+										<li pkg="com.eg.android.AlipayGphone" card="0" version="23952551" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202401/18/6775f955fdedf82df5a60a4679e5b898.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>支付宝</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="3.76035" class="star"></span></span>
+                <span class="size">131 MB</span>
+              </p>
+              <p class="describe">126.1 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="com.kugou.android" card="0" version="23950493" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202302/08/bc722751939357c32ede96cd4c48edb7.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>酷狗音乐</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="4.56281" class="star"></span></span>
+                <span class="size">139 MB</span>
+              </p>
+              <p class="describe">77 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="com.xingin.xhs" card="0" version="23946221" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202308/25/12ee6b439af6e577c096e7e3ff8e0625.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>小红书</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="4.56602" class="star"></span></span>
+                <span class="size">155 MB</span>
+              </p>
+              <p class="describe">52.6 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="com.baidu.homework" card="0" version="23948368" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202309/20/4d961190b2709f7791ae76ee0fdc12d4.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>作业帮</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="4.23806" class="star"></span></span>
+                <span class="size">160 MB</span>
+              </p>
+              <p class="describe">37.7 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="com.baidu.searchbox" card="0" version="23945268" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202307/10/de3e2217f0bcc46e3f99560802618007.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>百度</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="4.25034" class="star"></span></span>
+                <span class="size">152 MB</span>
+              </p>
+              <p class="describe">143.6 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+											<li pkg="com.kuaiduizuoye.scan" card="0" version="23945289" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202112/23/71b368b9dfec3270dd954d18067e6e56.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>快对</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="4.60446" class="star"></span></span>
+                <span class="size">62.0 MB</span>
+              </p>
+              <p class="describe">8.9 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="com.snda.wifilocating" card="0" version="23932245" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202309/21/bf2901806917bb4a08b9a7d624135278.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>WiFi万能钥匙（免费安全上网）</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="3.54272" class="star"></span></span>
+                <span class="size">49.2 MB</span>
+              </p>
+              <p class="describe">215.3 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="com.taobao.taobao" card="0" version="23949268" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202401/09/c5d6f8b92d28d226633cefcac86e7c20.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>淘宝</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="3.17325" class="star"></span></span>
+                <span class="size">62.6 MB</span>
+              </p>
+              <p class="describe">175.3 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="tv.danmaku.bili" card="0" version="23950037" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202311/22/a63f484c94325cf8be894452232a683d.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>哔哩哔哩</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="3.59911" class="star"></span></span>
+                <span class="size">119 MB</span>
+              </p>
+              <p class="describe">36.1 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="com.autonavi.minimap" card="0" version="23923383" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202103/17/d87513660e64932709c708e6ca064638.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>高德地图（高德打车）</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="3.48411" class="star"></span></span>
+                <span class="size">169 MB</span>
+              </p>
+              <p class="describe">82.6 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+											<li pkg="com.ss.android.article.video" card="0" version="23950095" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202401/17/7a0eb697fa0a49e902489492e4b9310e.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>西瓜视频</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="4.57056" class="star"></span></span>
+                <span class="size">63.0 MB</span>
+              </p>
+              <p class="describe">82.7 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="com.greenpoint.android.mc10086.activity" card="0" version="23926762" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202303/29/7a769f4301170ce4f62a4db642d873f5.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>中国移动</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="3.14286" class="star"></span></span>
+                <span class="size">212 MB</span>
+              </p>
+              <p class="describe">16.3 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="com.lemon.lv" card="0" version="23940755" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202401/11/cb2d4bffc9f64e1abb184bc9fd5f8a21.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>剪映</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="4.61768" class="star"></span></span>
+                <span class="size">159 MB</span>
+              </p>
+              <p class="describe">21.6 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="com.jingdong.app.mall" card="0" version="23934576" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202401/09/a614ff32244a8a97d3d751b017e92f54.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>京东</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="3.28731" class="star"></span></span>
+                <span class="size">97.5 MB</span>
+              </p>
+              <p class="describe">88.2 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+						<li pkg="com.UCMobile" card="0" version="23945527" wait="1">
+            <div class="detail" onclick="" appid="2366667"></div>
+            <div class="view">
+              <img class="pic lazy" src="https://store.heytapimage.com/img/202310/16/6aa2673de08d355d8507e007a72cc662.png.w96-h0-q75.webp">
+            </div>
+            <div class="info">
+              <h3>UC浏览器（好搜好看好好用）</h3>
+              <p class="size-wrap">
+                <span class="star-wrap"><span grade="3.96671" class="star"></span></span>
+                <span class="size">103 MB</span>
+              </p>
+              <p class="describe">67.5 亿次</p>
+            </div>
+            <input class="down-btn" type="button" appid="" verid="" pkgname="" value="安装" onclick="">
+			</li>
+					        </ul>
+      </div>
+
+
+      <!-- app-list-box end -->
+    </section>
+
+
+
+  </div>
+<script type="html/template" id="topListTpl">
+<li pkg="{{pkg}}" card="{{card}}">
+    <img class="pic lazy" src="{{img}}">
+    <h3>{{name}}</h3>
+    <p class="describe">{{desc}}</p>
+    <input class="down-btn" type="button" value="安装">
+</li>
+</script>
+<script type="html/template" id="appTpl">
+<li pkg="{{pkg}}" card="{{card}}" version="{{version}}" wait>
+<div class="detail"></div>
+<div class="view">
+<img class="pic lazy" src="{{img}}">
+</div>
+<div class="info">
+<h3>{{name}}</h3>
+<p class="size-wrap">
+<span class="star-wrap"><span grade="{{grade}}" class="star"></span></span>
+<span class="size">{{size}}</span>
+</p>
+<p class="describe">{{desc}}</p>
+</div>
+<input class="down-btn" type="button" value="安装">
+</li> 
+</script>
+<script src="/static/js/jquery.js?v=917"></script>
+<script>
+    //页面已下线
+    var actId=2464,channelId=2101,systemId=2,moduleId=getUrlQuery('module')||1,pageId='9000',enterId=15;
+    webReport({type:1,actid:actId});
+    var topLink=$('.title-box a');topLink.attr('href',topLink.attr('href')+'?module='+moduleId);
+    function jsonToHtml(obj, tpl) {
+        var html = tpl || '', reg;
+        for (var k in obj) {
+            reg = new RegExp('{{' + k + '}}', 'g');
+            html = html.replace(reg, obj[k]);
+        }
+        return html;
+    }
+	function jsonListToHtml(arr,tpl){
+        var html = [];
+        for (var i = 0, n = arr.length; i < n; i++) {
+            html.push(jsonToHtml(arr[i], tpl))
+        }
+        return html.join('');
+    }
+	function translateGradeStar(){
+        $('#appList').find('li .star[grade]').each(function(){
+            var sw=$(this),p=(sw.attr('grade')/5)*100;
+            sw.css('width',p+'%').removeAttr('grade');
+        })
+    }
+	$('#topULList').on('click','li img',function(){
+        var li=$(this).closest('li'),card=li.attr('card'),apppos=li.index()+ 1,cardpos=1,version=li.attr('version');
+        webReport({type:7,actid:actId,data:'click_top'+apppos});
+        clickReport(card,cardpos,apppos,version,2);
+        openAppDetail(li.attr('pkg'),false,card,cardpos,apppos);
+	});
+	$('#topULList').on('click','li .down-btn',function(){
+        var li=$(this).closest('li'),card=li.attr('card'),apppos=li.index()+ 1,cardpos=1,version=li.attr('version');
+        clickReport(card,cardpos,apppos,version,1);
+		openAppDetail(li.attr('pkg'),true,card,cardpos,apppos);
+	});
+    topLink.on('click',function(e){
+        e.preventDefault();
+        var card=$('#topULList').find('[card]').attr('card'),pos=1;
+        newWapReport({action:502,channelid:channelId,systemid:systemId},
+                {page_id:pageId,b_module:moduleId,card_id:card,card_pos:pos});
+        location.assign(topLink.attr('href'));
+    });
+    $('.header').on('click','.note',function(){
+        var url="softmarket://market_search_result?gb=1&params="+encodeURIComponent("out_package_name=&out_app_name=&out_start_download=false&enter_id=100");
+        webReport({type:7,actid:actId,data:'click_search'});
+        window.open(url);
+    });
+	function openAppDetail(pkg,download,card,cardpos,apppos){
+        var act=actId|| 0;
+        var url="softmarket://market_appdetail?pn=com.oppo.market&gb=1&params=",
+            param="enter_id="+enterId+"&out_package_name="+pkg+"&out_start_download="+download+"&enter_params=out_operator#";
+        var enter_mod={w_page_id:pageId,w_b_module:moduleId,w_c_type:(download?1:2),w_card_id:card,w_card_pos:cardpos,w_app_pos:apppos};
+        param+=JSON.stringify(enter_mod).replace(/,/g,'|').replace(/:/g,'*');
+        url+=encodeURIComponent(param);
+        if(download){
+            webReport({type:3,actid:actId,data:pkg});
+        }else{
+            webReport({type:7,actid:actId,data:'app_detail|index'});
+        }
+        window.open(url);
+	}
+    translateGradeStar();
+	
+	
+var winH,limitBottom=400,bodyH,imgSuffix='.w96-h0-q75.webp';
+	$(document).ready(function(){
+		winH=window.innerHeight;
+		bodyH=$('body').height();
+	});
+	$(window).on('scroll',function(){
+		if(bodyH-winH-window.scrollY<=limitBottom){
+			console.log('load more');
+			loadMore();
+		}		
+	});
+	var currentStart=0,pageSize=5,loading,noMoreData=false;
+	var appListDiv=$('#appList');
+	function loadMore(){
+		if(loading){return}
+		if(noMoreData){return}
+		loading=true;
+		var n=(currentStart+1)*pageSize;
+		$.get('/home/store/index.json',{start:n},onLoadMore,'json').error(onLoadError);
+	}
+	function onLoadMore(d){
+		loading=false;
+		if(d.data.isEnd==1){noMoreData=true}
+        if(!d.data.cards){return}
+        currentStart+=1;
+		var arr=formatList(d.data.cards);
+		appListDiv.append(jsonListToHtml(arr,$('#appTpl').html()));
+		bodyH=$('body').height();
+        translateGradeStar();
+        checkAppStatus();
+	}
+	function onLoadError(d){
+		loading=false;
+		console.log(d)
+	}
+	function formatList(cards){
+		var jsonL=[];
+		$.each(cards,function(i,card){
+			$.each(card.apps,function(j,obj){
+				jsonL.push({
+				name:obj.appName,
+				grade:obj.grade,
+				desc:obj.dlDesc,
+				size:obj.sizeDesc,
+				img:obj.iconUrl.replace(/^http:/,'')+imgSuffix,
+				pkg:obj.pkgName,
+                version:obj.verId,
+                card:card.key||0
+				})			
+			});
+		});
+		return jsonL;
+	}
+    function checkAppStatus(){
+        if(window.OppoWebPage&&OppoWebPage.isApkInstalled){
+            appListDiv.find('li[wait]').each(function(i,li){
+                li=$(li);if(OppoWebPage.isApkInstalled(li.attr('pkg'))){li.hide().find('.down-btn').val('打开');}
+                li.removeAttr('wait');
+            });
+            bodyH=$('body').height();
+        }
+    }
+    function clickReport(card,cardpos,apppos,appversion,type){//type;1-安装2-详情
+        newWapReport({action:503,channelid:channelId,systemid:systemId},
+                {page_id:pageId,b_module:moduleId,card_id:card,card_pos:cardpos,app_pos:apppos,opt_obj:appversion,c_type:type})
+    }
+    newWapReport({action:501,channelid:channelId,systemid:systemId},{page_id:pageId,b_module:moduleId});
+	appListDiv.on('click','li .detail',function(){
+        var li=$(this).closest('li'),card=li.attr('card'),apppos=li.index()+ 1,cardpos= 2,version=li.attr('version');
+        clickReport(card,cardpos,apppos,version,2);
+		openAppDetail(li.attr('pkg'),false,card,cardpos,apppos);
+	});
+	appListDiv.on('click','li .down-btn',function(){
+        var li=$(this).closest('li'),card=li.attr('card'),apppos=li.index()+ 1,cardpos=2,version=li.attr('version');
+        clickReport(card,cardpos,apppos,version,1);
+		openAppDetail(li.attr('pkg'),true,card,cardpos,apppos);
+	});
+    var localKey={date:'update_date',list:'card_list'};
+    function getMoreData(callback){
+        var today=new Date(),lastUpdate=localStorage.getItem(localKey.date),localData=localStorage.getItem(localKey.list);
+        today=''+today.getFullYear()+(today.getMonth()+1)+today.getDate();
+
+            $.get('/home/store/required.json?start=1&size=3',function(d){
+                if(d.errno==0&&d.data.cards){
+                    var app=formatList(d.data.cards);
+                    //localStorage.setItem(localKey.date,today);
+                    //localStorage.setItem(localKey.list,JSON.stringify(app));
+                    callback(app)
+                }
+            });
+
+    }
+    function replaceMore(need,list){
+        var selected=0,check= 0,arr=[],topULList=$('#topULList');
+        while(selected<need&&check<list.length){
+            if(!OppoWebPage.isApkInstalled(list[check].pkg)){
+                arr.push(list[check]);selected++;
+            }check++;
+        }
+        if(selected==need){
+            topULList.find('li.remove').remove();
+            topULList.append(jsonListToHtml(arr,$('#topListTpl').html()));
+        }else{
+            topULList.find('.down-btn').val('打开');
+        }
+    }
+    getMoreData(function(d){//安装检测
+        if(window.OppoWebPage&&OppoWebPage.isApkInstalled){
+            var topULList=$('#topULList'),add=0;
+            topULList.find('li[pkg]').each(function(i,li){
+                li=$(li);var p=li.attr('pkg');
+                if(OppoWebPage.isApkInstalled(p)){
+                    li.addClass('remove');add++;
+                }
+            });
+            if(add>0){replaceMore(add,d)}
+        }
+    });
+    checkAppStatus();
+</script>
+
+
+</body></html>

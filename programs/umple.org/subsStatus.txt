@@ -1,0 +1,7 @@
+https://jenkins.umple.org [[32m200[0m] [[35m34512[0m]
+https://academic-teams.umple.org [[32m200[0m] [[35m562[0m]
+https://manual.umple.org [[33m302[0m,[32m200[0m] [[35m56606[0m] [[35mhttps://cruise.umple.org/umple/GettingStarted.html[0m]
+https://cruise.umple.org [[33m302[0m,[32m200[0m] [[35m14454[0m] [[35mhttps://cruise.umple.org/index.shtml[0m]
+https://www.umple.org [[33m302[0m,[33m301[0m,[32m200[0m] [[35m13667[0m] [[35mhttps://cruise.umple.org/umple/[0m]
+https://umple.org [[33m302[0m,[33m301[0m,[32m200[0m] [[35m13667[0m] [[35mhttps://cruise.umple.org/umple/[0m]
+https://try.umple.org [[33m302[0m,[33m301[0m,[32m200[0m] [[35m42060[0m] [[35mhttps://cruise.umple.org/umpleonline/[0m]

@@ -1,0 +1,148 @@
+[caa-fingerprint] [dns] [info] ptms-d-sts.autovu.cloud
+[caa-fingerprint] [dns] [info] ptms-d-es.autovu.cloud
+[caa-fingerprint] [dns] [info] azurewebtools.autovu.cloud
+[caa-fingerprint] [dns] [info] portal.autovu.cloud
+[dns-saas-service-detection] [dns] [info] tracking.autovu.cloud [api.elasticemail.com]
+[dmarc-detect] [dns] [info] _dmarc.autovu.cloud ["v=DMARC1; p=none; rua=mailto:ops@curbsense.com;"]
+[caa-fingerprint] [dns] [info] autovu.cloud
+[caa-fingerprint] [dns] [info] tracking.autovu.cloud
+[txt-fingerprint] [dns] [info] autovu.cloud ["v=spf1 a mx include:_spf.elasticemail.com ~all"]
+[dns-waf-detect:cloudflare] [dns] [info] autovu.cloud
+[mx-fingerprint] [dns] [info] autovu.cloud [1 mx.inbound.elasticemail.com.]
+[nameserver-fingerprint] [dns] [info] autovu.cloud [aron.ns.cloudflare.com.,hans.ns.cloudflare.com.]
+[options-method] [http] [info] https://tracking.autovu.cloud [GET, POST, PUT, OPTIONS, DELETE, PATCH]
+[google-floc-disabled] [http] [info] https://portal.autovu.cloud
+[microsoft-iis-version] [http] [info] https://tracking.autovu.cloud [Microsoft-IIS/10.0]
+[tech-detect:cloudflare] [http] [info] https://ptms-d-sts.autovu.cloud
+[tech-detect:cloudflare] [http] [info] https://portal.autovu.cloud
+[tech-detect:cloudflare] [http] [info] https://ptms-d-es.autovu.cloud
+[tech-detect:ms-iis] [http] [info] https://tracking.autovu.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://azurewebtools.autovu.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://azurewebtools.autovu.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://azurewebtools.autovu.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://azurewebtools.autovu.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://azurewebtools.autovu.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://azurewebtools.autovu.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://azurewebtools.autovu.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://azurewebtools.autovu.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://azurewebtools.autovu.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://ptms-d-sts.autovu.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ptms-d-sts.autovu.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ptms-d-sts.autovu.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://ptms-d-sts.autovu.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://ptms-d-sts.autovu.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ptms-d-sts.autovu.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ptms-d-sts.autovu.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://ptms-d-sts.autovu.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://ptms-d-sts.autovu.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://ptms-d-sts.autovu.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://portal.autovu.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://portal.autovu.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://portal.autovu.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://portal.autovu.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://portal.autovu.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://portal.autovu.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://ptms-d-es.autovu.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://ptms-d-es.autovu.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://ptms-d-es.autovu.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ptms-d-es.autovu.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://ptms-d-es.autovu.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ptms-d-es.autovu.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ptms-d-es.autovu.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ptms-d-es.autovu.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://ptms-d-es.autovu.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://ptms-d-es.autovu.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://ptms-d-es.autovu.cloud
+[http-missing-security-headers:strict-transport-security] [http] [info] https://tracking.autovu.cloud
+[http-missing-security-headers:clear-site-data] [http] [info] https://tracking.autovu.cloud
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://tracking.autovu.cloud
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://tracking.autovu.cloud
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://tracking.autovu.cloud
+[http-missing-security-headers:referrer-policy] [http] [info] https://tracking.autovu.cloud
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://tracking.autovu.cloud
+[http-missing-security-headers:content-security-policy] [http] [info] https://tracking.autovu.cloud
+[http-missing-security-headers:permissions-policy] [http] [info] https://tracking.autovu.cloud
+[http-missing-security-headers:x-frame-options] [http] [info] https://tracking.autovu.cloud
+[http-missing-security-headers:x-content-type-options] [http] [info] https://tracking.autovu.cloud
+[keycloak-openid-config] [http] [info] https://ptms-d-sts.autovu.cloud/.well-known/openid-configuration
+[robots-txt-endpoint] [http] [info] https://tracking.autovu.cloud/robots.txt
+[robots-txt-endpoint] [http] [info] https://ptms-d-sts.autovu.cloud/robots.txt
+[robots-txt-endpoint] [http] [info] https://portal.autovu.cloud/robots.txt
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-es.autovu.cloud [false]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-es.autovu.cloud [client transfer prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-es.autovu.cloud [2020-09-16T09:44:48.040Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-es.autovu.cloud [Genetec Inc]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-es.autovu.cloud [CA]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-es.autovu.cloud [aron.ns.cloudflare.com,hans.ns.cloudflare.com]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-es.autovu.cloud [2023-10-10T16:07:09.232Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-es.autovu.cloud [2024-09-16T09:44:48.040Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-es.autovu.cloud [Quebec,CA]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-sts.autovu.cloud [2023-10-10T16:07:09.232Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-sts.autovu.cloud [Genetec Inc]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-sts.autovu.cloud [aron.ns.cloudflare.com,hans.ns.cloudflare.com]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-sts.autovu.cloud [false]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-sts.autovu.cloud [client transfer prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-sts.autovu.cloud [2020-09-16T09:44:48.040Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-sts.autovu.cloud [2024-09-16T09:44:48.040Z]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-sts.autovu.cloud [Quebec,CA]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/ptms-d-sts.autovu.cloud [CA]
+[rdap-whois:status] [http] [info] https://rdap.registry.cloud/rdap/domain/azurewebtools.autovu.cloud [client transfer prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/azurewebtools.autovu.cloud [2020-09-16T09:44:48.040Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.registry.cloud/rdap/domain/azurewebtools.autovu.cloud [2024-09-16T09:44:48.040Z]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.registry.cloud/rdap/domain/azurewebtools.autovu.cloud [CA]
+[rdap-whois:secureDNS] [http] [info] https://rdap.registry.cloud/rdap/domain/azurewebtools.autovu.cloud [false]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.registry.cloud/rdap/domain/azurewebtools.autovu.cloud [2023-10-10T16:07:09.232Z]
+[rdap-whois:registrantOrg] [http] [info] https://rdap.registry.cloud/rdap/domain/azurewebtools.autovu.cloud [Genetec Inc]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.registry.cloud/rdap/domain/azurewebtools.autovu.cloud [Quebec,CA]
+[rdap-whois:nameServers] [http] [info] https://rdap.registry.cloud/rdap/domain/azurewebtools.autovu.cloud [aron.ns.cloudflare.com,hans.ns.cloudflare.com]
+[missing-sri] [http] [info] https://portal.autovu.cloud/ [https://app.getbeamer.com/js/beamer-embed.js]
+[missing-sri] [http] [info] https://ptms-d-es.autovu.cloud/ [https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.6.0.min.js,https://ajax.aspnetcdn.com/ajax/jquery.ui/1.13.2/jquery-ui.min.js]
+[favicon-detect:react] [http] [info] https://azurewebtools.autovu.cloud/favicon.ico [path="images/"]
+[oidc-detect] [http] [info] https://ptms-d-sts.autovu.cloud/.well-known/openid-configuration
+[ssl-issuer] [ssl] [info] portal.autovu.cloud:443 [Google Trust Services LLC]
+[ssl-dns-names] [ssl] [info] portal.autovu.cloud:443 [autovu.cloud,*.autovu.cloud]
+[wildcard-tls] [ssl] [info] portal.autovu.cloud:443 [CN: autovu.cloud, SAN: [autovu.cloud *.autovu.cloud]]
+[ssl-issuer] [ssl] [info] ptms-d-sts.autovu.cloud:443 [Google Trust Services LLC]
+[ssl-dns-names] [ssl] [info] ptms-d-sts.autovu.cloud:443 [autovu.cloud,*.autovu.cloud]
+[wildcard-tls] [ssl] [info] ptms-d-sts.autovu.cloud:443 [CN: autovu.cloud, SAN: [autovu.cloud *.autovu.cloud]]
+[ssl-issuer] [ssl] [info] tracking.autovu.cloud:443 [Sectigo Limited]
+[mismatched-ssl-certificate] [ssl] [low] tracking.autovu.cloud:443 [CN: api.elasticemail.com]
+[ssl-dns-names] [ssl] [info] tracking.autovu.cloud:443 [api.elasticemail.com,www.api.elasticemail.com]
+[ssl-issuer] [ssl] [info] ptms-d-es.autovu.cloud:443 [Google Trust Services LLC]
+[ssl-dns-names] [ssl] [info] ptms-d-es.autovu.cloud:443 [autovu.cloud,*.autovu.cloud]
+[wildcard-tls] [ssl] [info] ptms-d-es.autovu.cloud:443 [CN: autovu.cloud, SAN: [autovu.cloud *.autovu.cloud]]
+[ssl-issuer] [ssl] [info] azurewebtools.autovu.cloud:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] azurewebtools.autovu.cloud:443 [azurewebtools.autovu.cloud]
+[deprecated-tls] [ssl] [info] portal.autovu.cloud:443 [tls10]
+[deprecated-tls] [ssl] [info] ptms-d-es.autovu.cloud:443 [tls10]
+[deprecated-tls] [ssl] [info] ptms-d-sts.autovu.cloud:443 [tls10]
+[deprecated-tls] [ssl] [info] ptms-d-es.autovu.cloud:443 [tls11]
+[deprecated-tls] [ssl] [info] portal.autovu.cloud:443 [tls11]
+[deprecated-tls] [ssl] [info] ptms-d-sts.autovu.cloud:443 [tls11]
+[deprecated-tls] [ssl] [info] tracking.autovu.cloud:443 [tls10]
+[deprecated-tls] [ssl] [info] tracking.autovu.cloud:443 [tls11]
+[tls-version] [ssl] [info] portal.autovu.cloud:443 [tls10]
+[tls-version] [ssl] [info] ptms-d-sts.autovu.cloud:443 [tls10]
+[tls-version] [ssl] [info] ptms-d-es.autovu.cloud:443 [tls10]
+[tls-version] [ssl] [info] tracking.autovu.cloud:443 [tls10]
+[tls-version] [ssl] [info] portal.autovu.cloud:443 [tls11]
+[tls-version] [ssl] [info] ptms-d-sts.autovu.cloud:443 [tls11]
+[tls-version] [ssl] [info] ptms-d-es.autovu.cloud:443 [tls11]
+[tls-version] [ssl] [info] portal.autovu.cloud:443 [tls12]
+[tls-version] [ssl] [info] ptms-d-es.autovu.cloud:443 [tls12]
+[tls-version] [ssl] [info] ptms-d-sts.autovu.cloud:443 [tls12]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ptms-d-sts.autovu.cloud:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ptms-d-es.autovu.cloud:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] portal.autovu.cloud:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] azurewebtools.autovu.cloud:443 [tls12]
+[tls-version] [ssl] [info] tracking.autovu.cloud:443 [tls11]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tracking.autovu.cloud:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] portal.autovu.cloud:443 [tls13]
+[tls-version] [ssl] [info] azurewebtools.autovu.cloud:443 [tls13]
+[tls-version] [ssl] [info] ptms-d-sts.autovu.cloud:443 [tls13]
+[tls-version] [ssl] [info] ptms-d-es.autovu.cloud:443 [tls13]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ptms-d-es.autovu.cloud:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ptms-d-sts.autovu.cloud:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] portal.autovu.cloud:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] tracking.autovu.cloud:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tracking.autovu.cloud:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]

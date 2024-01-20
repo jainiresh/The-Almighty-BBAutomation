@@ -1,0 +1,33 @@
+Version: [32m2.0.16-static[0m
+OpenSSL 1.1.1u-dev  xx XXX xxxx
+[0m
+[32mConnected to 104.16.51.111[0m
+
+Testing SSL server [32m104.16.51.111[0m on port [32m443[0m using SNI name [32m104.16.51.111[0m
+
+  [1;34mSSL/TLS Protocols:[0m
+SSLv2     [32mdisabled[0m
+SSLv3     [32mdisabled[0m
+TLSv1.0   [32mdisabled[0m
+TLSv1.1   [32mdisabled[0m
+TLSv1.2   disabled
+TLSv1.3   [33mdisabled[0m
+
+  [1;34mTLS Fallback SCSV:[0m
+[33mConnection failed[0m - unable to determine TLS Fallback SCSV support
+
+  [1;34mTLS renegotiation:[0m
+Session renegotiation [32mnot supported[0m
+
+  [1;34mTLS Compression:[0m
+Compression [32mdisabled[0m
+
+  [1;34mHeartbleed:[0m
+
+  [1;34mSupported Server Cipher(s):[0m
+    Unable to parse certificate
+    Unable to parse certificate
+    Unable to parse certificate
+    Unable to parse certificate
+Certificate information cannot be retrieved.
+

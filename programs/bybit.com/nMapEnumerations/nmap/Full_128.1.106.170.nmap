@@ -1,0 +1,45 @@
+# Nmap 7.93 scan initiated Tue Nov 14 18:49:40 2023 as: /usr/bin/nmap -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_128.1.106.170.nmap --system-dns --stats-every 3s 128.1.106.170
+Warning: 128.1.106.170 giving up on port because retransmission cap hit (1).
+Nmap scan report for 128.1.106.170
+Host is up (0.013s latency).
+Not shown: 65347 closed tcp ports (reset), 153 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT      STATE SERVICE
+80/tcp    open  http
+443/tcp   open  https
+3306/tcp  open  mysql
+3478/tcp  open  stun
+6379/tcp  open  redis
+8000/tcp  open  http-alt
+8066/tcp  open  toad-bi-appsrvr
+8080/tcp  open  http-proxy
+8081/tcp  open  blackice-icecap
+8082/tcp  open  blackice-alerts
+8090/tcp  open  opsmessaging
+8443/tcp  open  https-alt
+9000/tcp  open  cslistener
+9091/tcp  open  xmltec-xmlmail
+9092/tcp  open  XmlIpcRegSvc
+9292/tcp  open  armtechdaemon
+9325/tcp  open  unknown
+9326/tcp  open  unknown
+9875/tcp  open  sapv1
+10060/tcp open  unknown
+10070/tcp open  unknown
+10080/tcp open  amanda
+10090/tcp open  unknown
+10443/tcp open  cirrossp
+10997/tcp open  unknown
+12100/tcp open  unknown
+12101/tcp open  unknown
+12110/tcp open  unknown
+12111/tcp open  unknown
+20003/tcp open  commtact-https
+30001/tcp open  pago-services1
+30003/tcp open  amicon-fpsu-ra
+41081/tcp open  unknown
+50080/tcp open  unknown
+65530/tcp open  unknown
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Tue Nov 14 18:51:53 2023 -- 1 IP address (1 host up) scanned in 132.60 seconds

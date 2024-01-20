@@ -1,0 +1,92 @@
+
+[0;33mRunning a Full scan on [0m194.78.246.103
+[0m
+[0;33mNo ping detected.. Will not use ping scans!
+[0m
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+[0K
+[0K
+PORT    STATE SERVICE
+443/tcp open  https
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+[0K
+[0K
+PORT    STATE SERVICE   VERSION
+443/tcp open  ssl/https
+| ssl-cert: Subject: commonName=*.liantis.be
+| Subject Alternative Name: DNS:*.liantis.be, DNS:liantis.be
+| Not valid before: 2023-01-06T18:15:29
+|_Not valid after:  2024-02-07T18:15:28
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 404 
+|     Content-Type: text/html;charset=UTF-8
+|     Content-Length: 1031
+|     Date: Sat, 16 Dec 2023 05:13:55 GMT
+|     Set-Cookie: NSC_WTSW_MC_BDD_IUUQT_BN=ffffffff09f3bd0a45525d5f4f58455e445a4a4216cb;expires=Sat, 16-Dec-2023 15:13:54 GMT;path=/;secure;httponly
+|     Connection: close
+|     <!DOCTYPE html>
+|     <html lang="en">
+|     <head>
+|     <meta charset="UTF-8"/>
+|     <title>An unexpected error occurred ...</title>
+|     </head>
+|     <body>
+|     <!--
+|     This is an error page, Internet Explorer needs at least 512 bytes
+|     this comments is just existing in order to make Internet Explorer to accept the error page
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|   GetRequest: 
+|     HTTP/1.1 404 
+|     Content-Type: text/html;charset=UTF-8
+|     Content-Length: 1031
+|     Date: Sat, 16 Dec 2023 05:13:53 GMT
+|     Set-Cookie: NSC_WTSW_MC_BDD_IUUQT_BN=ffffffff09f3bd0a45525d5f4f58455e445a4a4216cb;expires=Sat, 16-Dec-2023 15:13:53 GMT;path=/;secure;httponly
+|     Connection: close
+|     <!DOCTYPE html>
+|     <html lang="en">
+|     <head>
+|     <meta charset="UTF-8"/>
+|     <title>An unexpected error occurred ...</title>
+|     </head>
+|     <body>
+|     <!--
+|     This is an error page, Internet Explorer needs at least 512 bytes
+|     this comments is just existing in order to make Internet Explorer to accept the error page
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|   HTTPOptions: 
+|     HTTP/1.1 200 
+|     Allow: OPTIONS, GET, HEAD, POST
+|     Content-Length: 0
+|     Date: Sat, 16 Dec 2023 05:13:53 GMT
+|     Connection: close
+|     Keep-Alive: timeout=290
+|_    Set-Cookie: NSC_WTSW_MC_BDD_IUUQT_BN=ffffffff09f3bd0a45525d5f4f58455e445a4a4216cb;expires=Sat, 16-Dec-2023 15:13:54 GMT;path=/;secure;httponly
+|_http-title: An unexpected error occurred ...
+|_ssl-date: TLS randomness does not represent time
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 0 seconds
+[0m

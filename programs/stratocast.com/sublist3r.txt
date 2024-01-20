@@ -1,0 +1,17 @@
+www.stratocast.com
+dashboardservice.stratocast.com
+go.stratocast.com
+go2test.stratocast.com
+help.stratocast.com
+iscwest.stratocast.com
+link.stratocast.com
+my.stratocast.com
+preview.stratocast.com
+alpha.preview.stratocast.com
+dev.preview.stratocast.com
+test.dev.preview.stratocast.com
+integration.preview.stratocast.com
+preprod.preview.stratocast.com
+staging.preview.stratocast.com
+test.staging.preview.stratocast.com
+test.preview.stratocast.com

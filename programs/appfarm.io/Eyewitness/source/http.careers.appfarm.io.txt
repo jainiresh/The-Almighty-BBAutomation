@@ -1,0 +1,1533 @@
+<html dir="ltr" class="h-screen fontawesome-i2svg-active fontawesome-i2svg-complete" lang="en-GB"><head><style type="text/css">:root, :host {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+  --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+  --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+  --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+  --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+  --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+
+svg:not(:root).svg-inline--fa, svg:not(:host).svg-inline--fa {
+  overflow: visible;
+  box-sizing: content-box;
+}
+
+.svg-inline--fa {
+  display: var(--fa-display, inline-block);
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-2xs {
+  vertical-align: 0.1em;
+}
+.svg-inline--fa.fa-xs {
+  vertical-align: 0em;
+}
+.svg-inline--fa.fa-sm {
+  vertical-align: -0.0714285705em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.2em;
+}
+.svg-inline--fa.fa-xl {
+  vertical-align: -0.25em;
+}
+.svg-inline--fa.fa-2xl {
+  vertical-align: -0.3125em;
+}
+.svg-inline--fa.fa-pull-left {
+  margin-right: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-pull-right {
+  margin-left: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-li {
+  width: var(--fa-li-width, 2em);
+  top: 0.25em;
+}
+.svg-inline--fa.fa-fw {
+  width: var(--fa-fw-width, 1.25em);
+}
+
+.fa-layers svg.svg-inline--fa {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: 1em;
+}
+.fa-layers svg.svg-inline--fa {
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: var(--fa-counter-background-color, #ff253a);
+  border-radius: var(--fa-counter-border-radius, 1em);
+  box-sizing: border-box;
+  color: var(--fa-inverse, #fff);
+  line-height: var(--fa-counter-line-height, 1);
+  max-width: var(--fa-counter-max-width, 5em);
+  min-width: var(--fa-counter-min-width, 1.5em);
+  overflow: hidden;
+  padding: var(--fa-counter-padding, 0.25em 0.5em);
+  right: var(--fa-right, 0);
+  text-overflow: ellipsis;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-counter-scale, 0.25));
+          transform: scale(var(--fa-counter-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: var(--fa-bottom, 0);
+  right: var(--fa-right, 0);
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: var(--fa-bottom, 0);
+  left: var(--fa-left, 0);
+  right: auto;
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  top: var(--fa-top, 0);
+  right: var(--fa-right, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: var(--fa-left, 0);
+  right: auto;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-2xs {
+  font-size: 0.625em;
+  line-height: 0.1em;
+  vertical-align: 0.225em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+  line-height: 0.0833333337em;
+  vertical-align: 0.125em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+  line-height: 0.0714285718em;
+  vertical-align: 0.0535714295em;
+}
+
+.fa-lg {
+  font-size: 1.25em;
+  line-height: 0.05em;
+  vertical-align: -0.075em;
+}
+
+.fa-xl {
+  font-size: 1.5em;
+  line-height: 0.0416666682em;
+  vertical-align: -0.125em;
+}
+
+.fa-2xl {
+  font-size: 2em;
+  line-height: 0.03125em;
+  vertical-align: -0.1875em;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: var(--fa-li-margin, 2.5em);
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: calc(var(--fa-li-width, 2em) * -1);
+  position: absolute;
+  text-align: center;
+  width: var(--fa-li-width, 2em);
+  line-height: inherit;
+}
+
+.fa-border {
+  border-color: var(--fa-border-color, #eee);
+  border-radius: var(--fa-border-radius, 0.1em);
+  border-style: var(--fa-border-style, solid);
+  border-width: var(--fa-border-width, 0.08em);
+  padding: var(--fa-border-padding, 0.2em 0.25em 0.15em);
+}
+
+.fa-pull-left {
+  float: left;
+  margin-right: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-pull-right {
+  float: right;
+  margin-left: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-beat {
+  -webkit-animation-name: fa-beat;
+          animation-name: fa-beat;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-bounce {
+  -webkit-animation-name: fa-bounce;
+          animation-name: fa-bounce;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+}
+
+.fa-fade {
+  -webkit-animation-name: fa-fade;
+          animation-name: fa-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-beat-fade {
+  -webkit-animation-name: fa-beat-fade;
+          animation-name: fa-beat-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-flip {
+  -webkit-animation-name: fa-flip;
+          animation-name: fa-flip;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-shake {
+  -webkit-animation-name: fa-shake;
+          animation-name: fa-shake;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 2s);
+          animation-duration: var(--fa-animation-duration, 2s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin-reverse {
+  --fa-animation-direction: reverse;
+}
+
+.fa-pulse,
+.fa-spin-pulse {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, steps(8));
+          animation-timing-function: var(--fa-animation-timing, steps(8));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fa-beat,
+.fa-bounce,
+.fa-fade,
+.fa-beat-fade,
+.fa-flip,
+.fa-pulse,
+.fa-shake,
+.fa-spin,
+.fa-spin-pulse {
+    -webkit-animation-delay: -1ms;
+            animation-delay: -1ms;
+    -webkit-animation-duration: 1ms;
+            animation-duration: 1ms;
+    -webkit-animation-iteration-count: 1;
+            animation-iteration-count: 1;
+    -webkit-transition-delay: 0s;
+            transition-delay: 0s;
+    -webkit-transition-duration: 0s;
+            transition-duration: 0s;
+  }
+}
+@-webkit-keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@-webkit-keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@-webkit-keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@-webkit-keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@-webkit-keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@-webkit-keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1);
+}
+
+.fa-flip-both,
+.fa-flip-horizontal.fa-flip-vertical {
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+}
+
+.fa-rotate-by {
+  -webkit-transform: rotate(var(--fa-rotate-angle, none));
+          transform: rotate(var(--fa-rotate-angle, none));
+}
+
+.fa-stack {
+  display: inline-block;
+  vertical-align: middle;
+  height: 2em;
+  position: relative;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: var(--fa-stack-z-index, auto);
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}
+
+.sr-only,
+.fa-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.sr-only-focusable:not(:focus),
+.fa-sr-only-focusable:not(:focus) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.fad.fa-inverse,
+.fa-duotone.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}</style><style type="text/css">.turbo-progress-bar {
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: #0076ff;
+  z-index: 2147483647;
+  transition:
+    width 300ms ease-out,
+    opacity 150ms 150ms ease-in;
+  transform: translate3d(0, 0, 0);
+}
+</style>
+    
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="turbo-cache-control" content="">
+
+    <title>Careers - Appfarm</title>
+
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="nBSsVImtUqyWPqWLP/YAvXe0Sez5qJSdZSrUWIbHTBViWrDJIYuXGScQPzCZOb4bbOwgIbCAPrTp1R7OPPCw3g==">
+    <meta name="csp-nonce">
+
+    
+    <link rel="icon" type="image/png" href="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/favicon-v3/image_uploads/6ec2b710-b843-4e9f-8101-71e9cf6e3062/original.png"><link rel="apple-touch-icon" href="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/favicon_apple-v3/image_uploads/6ec2b710-b843-4e9f-8101-71e9cf6e3062/original.png" sizes="180x180">
+    <meta name="description" content="">
+    <meta name="keywords" content="Job opportunities, Jobs, Career, Career site">
+    
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="Blog Posts" href="/blog/posts.rss"><link rel="alternate" type="application/rss+xml" title="Jobs" href="/jobs.rss">
+
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Careers - Appfarm">
+    <meta property="og:site_name" content="Appfarm">
+    <meta property="og:url" content="https://careers.appfarm.io/">
+    <meta property="og:description" content="">
+    
+        <meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/tt-screenshots/35f373ec-f876-4a92-9c0e-4a449a72557a-facebook.png?update=1696572494">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="630">
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="https://s3-eu-west-1.amazonaws.com/tt-screenshots/35f373ec-f876-4a92-9c0e-4a449a72557a-twitter.png?update=1696572494">
+        <meta name="twitter:title" content="Careers - Appfarm">
+        <meta name="twitter:description" content="">
+      
+    
+    
+
+    <script src="https://assets.teamtailor-cdn.com/assets/packs/js/runtime-908128566a5f782c7035.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets.teamtailor-cdn.com/assets/packs/js/9608-2b0109dfdb6046e22147.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets.teamtailor-cdn.com/assets/packs/js/cookies-830d3e44279123cade59.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets.teamtailor-cdn.com/assets/packs/js/6394-e9342e85dc27462fe7b7.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets.teamtailor-cdn.com/assets/packs/js/9960-d6c2cfdcd8f399e50908.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets.teamtailor-cdn.com/assets/packs/js/5708-bc4ee91455dde7bc0356.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets.teamtailor-cdn.com/assets/packs/js/908-97d51adf00b3409ebecf.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets.teamtailor-cdn.com/assets/packs/js/5552-6d8337f028ae1cb03e4f.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets.teamtailor-cdn.com/assets/packs/js/careersite-6a0b6c693b5948a4d546.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets.teamtailor-cdn.com/assets/packs/js/6164-13fdd7e90254078f9973.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets.teamtailor-cdn.com/assets/packs/js/1164-feda87e02816d10b0892.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets.teamtailor-cdn.com/assets/packs/js/font-awesome-c005b600fb5624427b47.js" data-turbo-track="reload" defer="defer"></script>
+    <link rel="stylesheet" href="https://assets.teamtailor-cdn.com/assets/packs/css/careersite-7e6548de.css" data-turbo-track="reload" media="screen">
+
+    <style media="screen">
+  :root {
+    --company-primary-bg-color: 0, 0, 0;
+    --company-secondary-bg-color: 247, 255, 238;
+    --company-secondary-bg-light-5-color: 255, 255, 255;
+    --company-secondary-bg-fallback-color: 247, 255, 238;
+    --company-primary-text-color: 247, 255, 238;
+    --company-primary-text-dark-5-color: 235, 255, 212;
+    --company-primary-text-dark-10-color: 223, 255, 187;
+    --company-primary-text-light-50-color: 255, 255, 255;
+    --company-primary-text-light-77-color: 255, 255, 255;
+    --company-secondary-text-color: 0, 0, 0;
+    --company-secondary-text-light-5-color: 13, 13, 13;
+    --company-secondary-text-light-15-color: 38, 38, 38;
+    --company-link-color: 247, 255, 238;
+    --company-color: 247, 255, 238;
+
+    --company-button-text-color: 0, 0, 0;
+    --company-button-bg-color: 247, 255, 238;
+
+    --company-button-bg-light-5-color: 255, 255, 255;
+    --company-button-bg-light-15-color: 255, 255, 255;
+
+    --company-border-radius: 30px;
+
+    --company-header-font-family: "Inter";
+    --company-header-font-weight: 700;
+    --company-body-font-family: "Inter";
+    --company-body-font-weight: 300;
+  }
+    
+</style>
+  <meta name="theme-color" content="#f7ffee">
+
+    
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;700" type="text/css">
+
+
+  <link rel="stylesheet" type="text/css" href="https://assets.teamtailor-cdn.com/assets/packs/css/9349-6d5833c6.css"><link rel="stylesheet" type="text/css" href="https://assets.teamtailor-cdn.com/assets/packs/css/1084-51ecba33.css"><link rel="stylesheet" type="text/css" href="https://assets.teamtailor-cdn.com/assets/packs/css/2348-e29ec1e9.css"></head>
+
+  <body class="font-company-body min-h-screen flex flex-col text-company-primary bg-company-primary company-link-style--bold companies show" data-controller="careersite--referrer-cookie careersite--preload" data-block-scripts="true">
+    
+    
+
+    <dialog data-controller="common--cookies--alert" data-common--cookies--alert-block-scripts-value="true" data-common--cookies--alert-takeover-modal-value="false" data-common--cookies--alert-show-cookie-widget-value="true" class="fixed shadow-form w-auto items-center rounded p-4 bg-company-primary text-company-primary overflow-y-auto border-none max-h-[80vh] z-cookie-alert lg:gap-x-6 lg:max-h-[calc(100vh-40px)] flex-col inset-x-4 bottom-4 mb-0 mt-auto justify-between !translate-y-0 !top-0 lg:p-10 lg:flex-row lg:inset-x-[40px] lg:mb-6 flex" open="">
+
+  <div class="w-full max-w-screen-xl overflow-y-auto">
+    <h1 class="font-bold block text-md mb-2">This website uses cookies to ensure you get the best experience on our website.</h1>
+    <p class="mb-2">
+      Appfarm and selected partners use cookies and similar technologies to ensure you get the best experience on this website.
+
+        If you consent to it, we will use cookies for analytics purposes.
+    </p>
+
+    <p class="mb-2">See our <a class="company-link" href="https://careers.appfarm.io/cookie-policy">Cookie Policy</a> to read more about the cookies we set.</p>
+    <p>You can withdraw and manage your consent at any time, by clicking "Manage cookies" at the bottom of each website page.</p>
+</div>
+  <div class="flex flex-col items-center gap-[10px] mt-6 flex-shrink-0 mb-2 w-full md:flex-row md:w-auto lg:flex-col">
+    <button class="careersite-button w-full" data-action="click->common--cookies--alert#acceptAll">Accept all cookies</button>
+
+      <button class="careersite-button w-full" data-action="click->common--cookies--alert#disableAll">Disable non-necessary cookies</button>
+
+    <button class="font-medium p-2 company-link hover:opacity-animated" data-action="click->common--cookies--alert#openPreferences">Cookie preferences</button>
+  </div>
+</dialog>
+      <dialog data-controller="common--cookies--preferences" data-common--cookies--preferences-checked-categories-value="[]" data-action="open-cookie-preferences@window->common--cookies--preferences#open" class="bg-company-primary text-company-primary shadow-form inset-x-4 mb-4 rounded max-w-screen-sm p-4 overflow-auto max-h-[80vh] z-cookie-alert backdrop:bg-[rgba(0,0,0,0.6)] sm:p-10 sm:mb-auto sticky top-2">
+  <div class="mb-5 text-center;">
+    <h1 class="font-bold mb-2 text-lg">Select which cookies you accept</h1>
+    <p class="text-left mb-2">On this site, we always set cookies that are strictly necessary, meaning they are necessary for the site to function properly.</p>
+    <p class="text-left mb-2">If you consent to it, we will also set other types of cookies. You can provide or withdraw your consent to the different types of cookies using the toggles below. You can change or withdraw your consent at any time, by clicking the link “Manage Cookies”, which is always available at the bottom of the site.</p>
+    <p class="text-left">To learn more about what the different types of cookies do, how your data is used when they are set etc, see our <a href="https://careers.appfarm.io/cookie-policy" class="underline text-company-link">Cookie Policy</a>.</p>
+  </div>
+
+  <div class="mb-10 text-sm leading-snug">
+    <div class="flex mb-3 items-start sm:mb-5 cursor-default" data-preference-type="strictly_necessary">
+  <div class="label-switch label-switch--disabled">
+    <input type="checkbox" disabled="disabled" id="strictly_necessary" checked="checked" class="peer">
+    <div class="checkbox peer-focus:ring-2 peer-focus:ring-blue-600"></div>
+</div>
+  <div class="ml-4 flex flex-col">
+    <label class="font-semibold" for="strictly_necessary">Strictly necessary</label>
+    <p>These cookies are necessary to make the site work properly, and are always set when you visit the site.</p>
+
+      <span>
+        <strong>Vendors</strong>
+        <span>Teamtailor</span>
+      </span>
+</div></div>
+    <div class="flex mb-3 items-start sm:mb-5" data-preference-type="analytics">
+  <div class="label-switch">
+    <input type="checkbox" id="analytics" class="peer" data-common--cookies--preferences-target="categoryInput" data-action="input->common--cookies--preferences#handleCategoryToggle">
+    <div class="checkbox peer-focus:ring-2 peer-focus:ring-blue-600"></div>
+</div>
+  <div class="ml-4 flex flex-col">
+    <label class="font-semibold cursor-pointer" for="analytics">Analytics</label>
+    <p>These cookies collect information to help us understand how the site is being used.</p>
+
+      <span>
+        <strong>Vendors</strong>
+        <span>Teamtailor</span>
+      </span>
+</div></div>
+    
+    
+  </div>
+
+  <div class="flex flex-col items-center gap-6">
+    <button class="careersite-button w-full" data-action="click->common--cookies--preferences#handleAccept">Accept these cookies</button>
+    <button class="careersite-button w-full" data-action="click->common--cookies--preferences#handleDecline">Decline non-necessary cookies</button>
+  </div>
+
+</dialog>
+
+    <main class="flex flex-col flex-grow">
+  
+  <header class="header z-career-header flex w-full h-20 relative" style="--header-text-color: #f7ffee;--header-background-color: #252525;--navigation-text-color: #f7ffee;--navigation-background-color: #252525;--navigation-highlight-color: #252525;">
+  <div class="absolute top-0 w-full h-full ltr:left-0 rtl:right-0">
+          <div data-controller="common--header--menu" data-common--header--menu-open-value="false" class="flex items-center h-full ltr:ml-2 rtl:mr-2">
+  <button class="relative flex items-center gap-4 px-4 no-underline cursor-pointer h-14 sm:w-auto bg-opacity-80 sm:bg-transparent z-career-header-menu-button focus-visible-header" data-action="click->common--header--menu#toggle" data-common--header--menu-target="button" title="Career menu">
+    <span class="header-menu-burger" data-common--header--menu-target="burger">
+        <span class="header-menu-burger__item"></span>
+        <span class="header-menu-burger__item"></span>
+        <span class="header-menu-burger__item"></span>
+        <span class="header-menu-burger__item"></span>
+    </span>
+  </button>
+  <div class="absolute inset-0 hidden w-full h-screen py-20 m-0 overflow-y-auto bottom header__nav z-career-header-menu-content" data-common--header--menu-target="menu">
+    <nav class="w-full main-nav-menu sm:h-full">
+      <ul class="w-full sm:py-12">
+          <li>
+            <a class="text-xl sm:text-4xl py-3 px-8 sm:px-[20%] block font-bold w-full no-underline hover:bg-gradient-header focus-visible:outline-none focus-visible:bg-gradient-header rtl:degree-[90deg]" href="https://careers.appfarm.io/">Home</a>
+</li>      </ul>
+    </nav>
+    <div class="flex flex-col items-end px-8 py-8 overflow-auto md:max-h-full scrollbar-hide main-nav-misc sm:text-right sm:fixed top-16 ltr:right-8 rtl:left-8 sm:px-0 sm:py-0">
+      <span class="text-lg font-bold">Employee</span>
+      <a class="hover:underline focus-visible-header self-end" href="https://app.teamtailor.com/companies/F4KDTawuqTA/dashboard">Log in</a>
+        <span class="mt-12 text-lg font-bold">Candidate</span>
+        <a class="hover:underline focus-visible-header self-end" href="https://careers.appfarm.io/connect/login">Log in to Connect</a>
+        <span class="mt-12 text-lg font-bold">Homepage</span>
+        <a class="hover:underline focus-visible-header self-end" href="https://appfarm.io">appfarm.io</a>
+    </div>
+  </div>
+</div>
+
+
+</div>
+<div class="flex items-center mx-auto">
+        <a class="relative h-18 flex items-center justify-center text-center focus-visible-header" id="e0f10dead3144b649987245319199ceb6" data-turbo-permanent="true" href="https://careers.appfarm.io/">
+    <img alt="Appfarm career site" class="mx-auto max-w-[180px] sm:max-w-[200px] max-h-[90%]" src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/d2e0a22b-2d7b-4647-88e1-be004eed750b/original.png">
+</a>
+
+</div>
+</header>
+
+      <section id="section-25140092" style="--block-base-text-color: var(--company-primary-text-color);--block-base-link-color: var(--company-link-color);--block-base-background-color: var(--company-primary-bg-color);--block-base-highlight-color: var(--company-color);" class="block--hero  bg-company-primary text-company-primary" data-section-route="section" data-section-model="25140092">
+    
+    <style type="text/css">
+  @media screen and (max-width: 650px) {
+    header + .block--hero > section > div {
+      padding-top: 200px;
+    }
+  }
+</style>
+
+  
+<link rel="preload" fetchpriority="high" as="image" href="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/hero_picture_small-v6/image_uploads/5d89213c-33da-4f94-a9cb-7437278db2de/original.png" media="(max-width: 640px)">
+
+<link rel="preload" fetchpriority="high" as="image" href="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/hero_picture_medium-v6/image_uploads/5d89213c-33da-4f94-a9cb-7437278db2de/original.png" media="(min-width: 640px), (max-width: 1280px)">
+
+<link rel="preload" fetchpriority="high" as="image" href="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/hero_picture_large_full_cover-v6/image_uploads/5d89213c-33da-4f94-a9cb-7437278db2de/original.png" media="(min-width: 1280px)">
+
+<style>
+  .block-cover-bg {
+    background-image: var(--block-bg-background-small);
+  }
+
+  @media (min-width: 640px) {
+    .block-cover-bg {
+      background-image: var(--block-bg-background-medium);
+    }
+  }
+
+  @media (min-width: 1280px) {
+    .block-cover-bg {
+      background-image: var(--block-bg-background-full);
+    }
+  }
+</style>
+
+
+<section class="w-full bg-cover bg-center bg-company-secondary-fallback relative lg:h-screen lg:min-h-[700px] block-px flex justify-center items-center block-cover-bg block-cover-text" style="--block-bg-overlay-text-color: #f7ffee;--block-bg-overlay-background-color: #ffffff;--block-bg-overlay-opacity: 0%;--block-bg-background-small: url(https://images.teamtailor-cdn.com/images/s3/teamtailor-production/hero_picture_small-v6/image_uploads/5d89213c-33da-4f94-a9cb-7437278db2de/original.png);--block-bg-background-medium: url(https://images.teamtailor-cdn.com/images/s3/teamtailor-production/hero_picture_medium-v6/image_uploads/5d89213c-33da-4f94-a9cb-7437278db2de/original.png);--block-bg-background-full: url(https://images.teamtailor-cdn.com/images/s3/teamtailor-production/hero_picture_large_full_cover-v6/image_uploads/5d89213c-33da-4f94-a9cb-7437278db2de/original.png)">
+  <div class="relative z-career-block-content w-full text-center block-max-w--lg py-25 mx-auto md:max-w-[75%]">
+    <h2 class="w-full font-company-header text-4xl md:text-6xl leading-tight" data-controller="fit-title" style="hyphens: inherit;"><span class="textFitted" style="display: inline-block; font-size: 55px;">Do you want to be a part of our exciting journey?</span></h2>
+    <h3 class="text-xl mt-4 sm:mt-6">We are challenging the principles of how great software should be made, and we need more amazing people to join our mission.</h3>
+      <div class="mt-8 flex justify-center">
+        <a class="careersite-button min-w-[220px] group" rel="noopener" href="https://careers.appfarm.io/en-GB/connect?utm_campaign=page_3336237_cta_25140092&amp;utm_content=https%3A%2F%2Fcareers.appfarm.io&amp;utm_medium=cta-block&amp;utm_source=teamtailor-page">
+  <div class="flex items-center justify-center gap-x-3">
+    <span class="truncate">Connect with us!</span>
+    <svg class="svg-inline--fa fa-chevron-right transition duration-200 transform group-hover:translate-x-1 rtl:group-hover:-translate-x-1 rtl:-scale-x-100" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"></path></svg>
+  </div>
+</a>
+      </div>
+  </div>
+  <div class="absolute inset-0 z-career-block-overlay block-cover-overlay"></div>
+</section>
+</section>
+    <section id="section-25140093" style="--block-base-text-color: 247, 255, 238;--block-base-link-color: 247, 255, 238;--block-base-background-color: 37, 37, 37;--block-base-highlight-color: 234, 236, 252;--block-background-color: #252525;--block-title-color: #f7ffee;--block-text-color: 247, 255, 238;--block-link-color: #f7ffee;" class="block--jobs  block-padding bg-block-preset-custom bg-block-background text-block-text" data-section-route="section" data-section-model="25140093">
+    
+      
+
+
+
+
+
+
+  <div class="w-full text-lg relative block-px" data-layout="card-image" data-controller="blocks--jobs" data-blocks--jobs-show-map-value="false" data-blocks--jobs-split-view-value="false" data-blocks--jobs-split-view-candidate-value="false" data-blocks--jobs-blocks--jobs--filters-outlet="#blocks-jobs-filters-form" data-blocks--jobs-first-block-value="false" data-blocks--jobs-overflow-auto-class="lg:overflow-auto" data-blocks--jobs-overflow-hidden-class="lg:overflow-hidden" data-blocks--jobs-sibling-element-padding-class="lg:[&amp;.bg-block-preset-primary:not(.keep-block-padding)]:!pt-20" data-blocks--jobs-main-snap-scroll-class="lg:overflow-auto lg:h-[100vh] lg:snap-y lg:snap-proximity relative" data-blocks--jobs-jobs-section-snap-scroll-class="lg:pb-0" data-blocks--jobs-snap-always-scroll-class="lg:snap-start lg:snap-always " data-blocks--jobs-snap-normal-scroll-class="lg:snap-start lg:snap-normal" data-blocks--jobs-disabled-map-view-toggle-class="cursor-not-allowed" id="jobs">
+
+    
+
+      <div class="block-px jobs-text">
+        <div class="mb-15 md:mb-18 lg:mb-20 mx-auto block-max-w--sm">
+          <h2 class="text-4xl text-center font-company-header text-block-title" data-controller="fit-title" style="hyphens: inherit;"><span class="textFitted" style="display: inline-block; font-size: 40px;">Open Positions</span></h2>
+          
+</div></div>
+
+    <div class="jobs-container" data-blocks--jobs-target="jobsContainer">
+        
+
+      <div class="relative">
+        
+          <div class="bg-block-background relative z-career-jobs-list" data-blocks--jobs-target="jobsListContainer">
+            <div>
+                <div class="mx-auto text-lg block-max-w--md">
+    <ul class="block-grid justify-center" id="jobs_list_container">
+        <li class="block-grid-item border border-block-base-text border-opacity-15 min-h-[360px] items-center justify-center rounded overflow-hidden relative z-career-job-card-image">
+  <a class="block h-full w-full hover:bg-company-primary-text hover:bg-opacity-3 overflow-hidden group" data-turbo="false" href="https://careers.appfarm.io/jobs/2830493-senior-account-executive">
+    <div class="relative w-full overflow-hidden pb-2/3">
+      <div class="absolute inset-0 transition-transform duration-200 origin-center transform bg-block-base-text bg-opacity-15 group-hover:scale-105">
+          <figure>
+  <picture>
+    <source srcset="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_800-v9/image_uploads/26f53a55-576a-4351-a6df-f2d64db19972/original.png?outputFormat=webp" type="image/webp">
+
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_800-v9/image_uploads/26f53a55-576a-4351-a6df-f2d64db19972/original.png" alt="Senior Account Executive image" loading="lazy" class="w-full">
+</picture>  
+</figure>
+      </div>
+    </div>
+    <div class="flex flex-col justify-center p-3 text-center min-h-[180px]">
+      <span class="text-block-base-link company-link-style" title="Senior Account Executive">Senior Account Executive</span>
+      <div class="mt-1 text-md">
+        
+
+
+    <span>Oslo ( Rebel )</span>
+
+    <span class="mx-[2px]">·</span>
+  <span class="inline-flex items-center gap-x-2">
+    Hybrid Remote
+    <svg class="svg-inline--fa fa-wifi w-4 h-5 text-xs" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="wifi" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M54.2 202.9C123.2 136.7 216.8 96 320 96s196.8 40.7 265.8 106.9c12.8 12.2 33 11.8 45.2-.9s11.8-33-.9-45.2C549.7 79.5 440.4 32 320 32S90.3 79.5 9.8 156.7C-2.9 169-3.3 189.2 8.9 202s32.5 13.2 45.2 .9zM320 256c56.8 0 108.6 21.1 148.2 56c13.3 11.7 33.5 10.4 45.2-2.8s10.4-33.5-2.8-45.2C459.8 219.2 393 192 320 192s-139.8 27.2-190.5 72c-13.3 11.7-14.5 31.9-2.8 45.2s31.9 14.5 45.2 2.8c39.5-34.9 91.3-56 148.2-56zm64 160a64 64 0 1 0 -128 0 64 64 0 1 0 128 0z"></path></svg>
+</span>
+      </div>
+    </div>
+</a></li>
+        <li class="block-grid-item border border-block-base-text border-opacity-15 min-h-[360px] items-center justify-center rounded overflow-hidden relative z-career-job-card-image">
+  <a class="block h-full w-full hover:bg-company-primary-text hover:bg-opacity-3 overflow-hidden group" data-turbo="false" href="https://careers.appfarm.io/jobs/2124616-open-application">
+    <div class="relative w-full overflow-hidden pb-2/3">
+      <div class="absolute inset-0 transition-transform duration-200 origin-center transform bg-block-base-text bg-opacity-15 group-hover:scale-105">
+          <figure>
+  <picture>
+    <source srcset="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_800-v9/image_uploads/26f53a55-576a-4351-a6df-f2d64db19972/original.png?outputFormat=webp" type="image/webp">
+
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_800-v9/image_uploads/26f53a55-576a-4351-a6df-f2d64db19972/original.png" alt="Open application image" loading="lazy" class="w-full">
+</picture>  
+</figure>
+      </div>
+    </div>
+    <div class="flex flex-col justify-center p-3 text-center min-h-[180px]">
+      <span class="text-block-base-link company-link-style" title="Open application">Open application</span>
+      <div class="mt-1 text-md">
+        
+
+
+    <span>Oslo ( Rebel )</span>
+
+    <span class="mx-[2px]">·</span>
+  <span class="inline-flex items-center gap-x-2">
+    Hybrid Remote
+    <svg class="svg-inline--fa fa-wifi w-4 h-5 text-xs" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="wifi" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M54.2 202.9C123.2 136.7 216.8 96 320 96s196.8 40.7 265.8 106.9c12.8 12.2 33 11.8 45.2-.9s11.8-33-.9-45.2C549.7 79.5 440.4 32 320 32S90.3 79.5 9.8 156.7C-2.9 169-3.3 189.2 8.9 202s32.5 13.2 45.2 .9zM320 256c56.8 0 108.6 21.1 148.2 56c13.3 11.7 33.5 10.4 45.2-2.8s10.4-33.5-2.8-45.2C459.8 219.2 393 192 320 192s-139.8 27.2-190.5 72c-13.3 11.7-14.5 31.9-2.8 45.2s31.9 14.5 45.2 2.8c39.5-34.9 91.3-56 148.2-56zm64 160a64 64 0 1 0 -128 0 64 64 0 1 0 128 0z"></path></svg>
+</span>
+      </div>
+    </div>
+</a></li>
+</ul></div>
+
+            </div>
+
+</div>          <div class="flex justify-center mx-auto mt-12">
+            <a href="/jobs" class="careersite-button min-w-[220px] group" data-turbo="false">
+  <span class="flex items-center justify-center gap-x-3">
+    
+    <span class="truncate">All jobs</span>
+      <svg class="svg-inline--fa fa-chevron-right transition duration-200 transform mt-[-1px] group-hover:translate-x-1 rtl:group-hover:-translate-x-1 rtl:-scale-x-100" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"></path></svg>
+  </span>
+</a>
+          </div>
+</div></div></div>
+
+</section>
+    <section id="section-25140094" style="--block-base-text-color: 37, 37, 37;--block-base-link-color: 57, 131, 247;--block-base-background-color: 247, 255, 238;--block-base-highlight-color: var(--company-color);--block-background-color: #f7ffee;--block-title-color: #252525;--block-text-color: 37, 37, 37;--block-link-color: #3983f7;" class="block--faq  block-padding bg-block-preset-custom bg-block-background text-block-text" data-section-route="section" data-section-model="25140094">
+    
+    <div data-controller="blocks-faq" class="px-5 text-lg company-links">
+  <div class="mx-auto max-w-[750px]">
+      <h2 class="mb-6 text-4xl text-center font-company-header text-block-title" data-controller="fit-title" style="hyphens: inherit;"><span class="textFitted" style="display: inline-block; font-size: 40px;">What is important to you?</span></h2>
+    <ul>
+        <li data-controller="blocks--faq--item" data-blocks--faq--item-open-value="false" class="border-b border-block-base-text border-opacity-15 last:border-b-0">
+  <h3>
+    <button class="relative flex items-center justify-between w-full py-4 pr-2 font-medium leading-snug focus-visible-company gap-x-4 text-unset" aria-expanded="false" data-action="click->blocks--faq--item#toggle" data-blocks--faq--item-target="button">
+      Culture?
+      <span data-blocks--faq--item-target="toggleIcon" class="transition-all duration-500 transform">
+        <svg class="svg-inline--fa fa-plus w-6 h-6" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"></path></svg>
+      </span>
+    </button>
+  </h3>
+  <div class="overflow-hidden prose transition-all duration-500 ltr:pr-12 rtl:pl-12 text-md max-w-none max-h-0 company-links hidden" data-blocks--faq--item-target="bodyContainer" style="max-height: 0px;">
+    <p>At Appfarm we are committed to provide a healthy and happy work environment where everyone is respected, welcomed and included. We encourage knowledge sharing between departments, and have monthly events where we get the possibility to learn from and praise each others work. We believe in asking for help instead of getting stuck on problems to enable the speed we aim to deliver at. Furthermore, we pay it forward by expressing our gratitude when receiving help from others and responding quickly when others ask for our help. </p>
+  </div>
+</li>
+
+        <li data-controller="blocks--faq--item" data-blocks--faq--item-open-value="false" class="border-b border-block-base-text border-opacity-15 last:border-b-0">
+  <h3>
+    <button class="relative flex items-center justify-between w-full py-4 pr-2 font-medium leading-snug focus-visible-company gap-x-4 text-unset" aria-expanded="false" data-action="click->blocks--faq--item#toggle" data-blocks--faq--item-target="button">
+      Career development? 
+      <span data-blocks--faq--item-target="toggleIcon" class="transition-all duration-500 transform">
+        <svg class="svg-inline--fa fa-plus w-6 h-6" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"></path></svg>
+      </span>
+    </button>
+  </h3>
+  <div class="overflow-hidden prose transition-all duration-500 ltr:pr-12 rtl:pl-12 text-md max-w-none max-h-0 company-links hidden" data-blocks--faq--item-target="bodyContainer" style="max-height: 0px;">
+    <p>Your career and professional development is important to us, and we do everything we can to ensure the happiness and professional growth of our employees. At Appfarm, we try our best to accommodate for all employees to do what they love and are passionate about. We are still a small company that is quickly developing, meaning that there is a lot of room for you to shape your own career by taking on responsibilities in areas that you are interested in.</p>
+  </div>
+</li>
+
+        <li data-controller="blocks--faq--item" data-blocks--faq--item-open-value="false" class="border-b border-block-base-text border-opacity-15 last:border-b-0">
+  <h3>
+    <button class="relative flex items-center justify-between w-full py-4 pr-2 font-medium leading-snug focus-visible-company gap-x-4 text-unset" aria-expanded="false" data-action="click->blocks--faq--item#toggle" data-blocks--faq--item-target="button">
+      Social events? 
+      <span data-blocks--faq--item-target="toggleIcon" class="transition-all duration-500 transform">
+        <svg class="svg-inline--fa fa-plus w-6 h-6" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"></path></svg>
+      </span>
+    </button>
+  </h3>
+  <div class="overflow-hidden prose transition-all duration-500 ltr:pr-12 rtl:pl-12 text-md max-w-none max-h-0 company-links hidden" data-blocks--faq--item-target="bodyContainer" style="max-height: 0px;">
+    <p>We love to do fun things together! The four major annual events are the summer party, christmas table, cabin trip and trip abroad. This year's cabin trip went to Hafjell, where we combined workshops about growth and tech with skiing, jacuzzis, karaoke and good food. Our trip abroad went to Sotogrande in southern Spain, where we had our own Amazing Race, played padel and, you guessed it, enjoyed a lot of good food. In addition to the major events, we also do smaller, more ad hoc things, like LAN parties, padel tournaments, wine lotteries and quizzes. &nbsp;</p>
+  </div>
+</li>
+
+        <li data-controller="blocks--faq--item" data-blocks--faq--item-open-value="false" class="border-b border-block-base-text border-opacity-15 last:border-b-0">
+  <h3>
+    <button class="relative flex items-center justify-between w-full py-4 pr-2 font-medium leading-snug focus-visible-company gap-x-4 text-unset" aria-expanded="false" data-action="click->blocks--faq--item#toggle" data-blocks--faq--item-target="button">
+      Flexibility?
+      <span data-blocks--faq--item-target="toggleIcon" class="transition-all duration-500 transform">
+        <svg class="svg-inline--fa fa-plus w-6 h-6" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"></path></svg>
+      </span>
+    </button>
+  </h3>
+  <div class="overflow-hidden prose transition-all duration-500 ltr:pr-12 rtl:pl-12 text-md max-w-none max-h-0 company-links hidden" data-blocks--faq--item-target="bodyContainer" style="max-height: 0px;">
+    <p>At Appfarm, we believe that our employees know best when and in what surroundings they are most productive. We trust our employees to get their work done without micro managing their work schedule. Are you an early bird who loves to be at the office at 8 am every morning? Great! Do you perform your best focus work at home? Also great! However, with the best employee lunch in town, it's very difficult to stay away from the office. Our core work hours are 9 am to 3 pm, and we generally avoid scheduling meeting outside these hours. We are also firm believers in putting family before work when needed.</p>
+  </div>
+</li>
+
+    </ul>
+  </div>
+</div>
+
+</section>
+    <section id="section-25140095" style="--block-base-text-color: 247, 255, 238;--block-base-link-color: 247, 255, 238;--block-base-background-color: 37, 37, 37;--block-base-highlight-color: var(--company-color);--block-background-color: #252525;--block-title-color: #f7ffee;--block-text-color: 247, 255, 238;--block-link-color: #f7ffee;" class="block--text  block-padding bg-block-preset-custom bg-block-background text-block-text" data-section-route="section" data-section-model="25140095">
+    
+    <div class="text-lg block-px" data-controller="careersite--responsive-video">
+    <div class="mx-auto block-max-w--lg md:grid md:grid-cols-2 md:gap-15">
+    <div class="flex items-center justify-center mb-5 md:mb-0">
+      <figure>
+  <picture>
+    <source srcset="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_1200-v8/image_uploads/34e7ecba-6fd4-46d8-af19-5f7b5410e15c/original.png?outputFormat=webp" type="image/webp">
+
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_1200-v8/image_uploads/34e7ecba-6fd4-46d8-af19-5f7b5410e15c/original.png" loading="lazy" class="rounded">
+</picture>  
+</figure>
+    </div>
+  <div class="flex flex-col justify-center">
+      <h2 class="mb-4 text-4xl text-center md:text-unset font-company-header text-block-title">
+        What is Appfarm all about?
+      </h2>
+      <div class="prose prose-block font-company-body company-links"><p><strong></strong><strong>Our mission is to enable anyone to build exceptional digital solutions as fast and hassle-free as possible.</strong> Appfarm's no-code platform allows our customers and partners to develop customized systems, solutions and web applications extremely fast and cost-efficient. It is the only tool you need to build complete, full-stack web applications from idea to deployment - without having to write a single line of code.</p></div>
+  </div>
+</div>
+
+</div>
+</section>
+    <section id="section-25140096" style="--block-base-text-color: 247, 255, 238;--block-base-link-color: 37, 37, 37;--block-base-background-color: 37, 37, 37;--block-base-highlight-color: 247, 255, 238;--block-background-color: #252525;--block-title-color: #f7ffee;--block-text-color: 247, 255, 238;--block-link-color: #252525;" class="block--numbers  block-padding bg-block-preset-custom bg-block-background text-block-text" data-section-route="section" data-section-model="25140096">
+    
+    <div class="w-full text-lg block-px font-company-body" style="--number-text-color: rgb(var(--block-base-highlight-color));">
+  <div class="grid grid-cols-1 gap-[48px] mx-auto block-max-w--lg w-full md:grid-cols-3">
+      <div class="mb-8 w-full flex flex-col justify-start opacity-0 animate__animated animate__faster" data-controller="common--number" data-common--number-number-value="36.0" data-common--number-index-value="0" data-common--number-animated-value="true" data-common--number-language-value="en-GB">
+  <div class="flex items-center justify-center w-full text-[105px] font-bold text-center">
+    <span class="text-number w-full leading-none text-block-highlight w-full" data-common--number-target="number">36</span>
+</div>  <h3 class="mt-8 text-xl text-center">successful internships</h3>
+</div>
+      <div class="mb-8 w-full flex flex-col justify-start opacity-0 animate__animated animate__faster" data-controller="common--number" data-common--number-number-value="45.0" data-common--number-index-value="1" data-common--number-animated-value="true" data-common--number-language-value="en-GB">
+  <div class="flex items-center justify-center w-full text-[105px] font-bold text-center">
+    <span class="text-number w-full leading-none text-block-highlight w-full" data-common--number-target="number">45</span>
+</div>  <h3 class="mt-8 text-xl text-center">employees</h3>
+</div>
+      <div class="mb-8 w-full flex flex-col justify-start opacity-0 animate__animated animate__faster" data-controller="common--number" data-common--number-number-value="38" data-common--number-index-value="2" data-common--number-suffix-value="" data-common--number-abbreviated-value="true" data-common--number-animated-value="true" data-common--number-language-value="en-GB">
+  <div class="flex items-center justify-center w-full text-[105px] font-bold text-center">
+    <span class="text-number w-full leading-none text-block-highlight w-full" data-common--number-target="number">38</span>
+</div>  <h3 class="mt-8 text-xl text-center">percent of them are women</h3>
+</div>
+      <div class="mb-8 w-full flex flex-col justify-start opacity-0 animate__animated animate__faster" data-controller="common--number" data-common--number-number-value="12.0" data-common--number-index-value="3" data-common--number-animated-value="true" data-common--number-language-value="en-GB">
+  <div class="flex items-center justify-center w-full text-[105px] font-bold text-center">
+    <span class="text-number w-full leading-none text-block-highlight w-full" data-common--number-target="number">12</span>
+</div>  <h3 class="mt-8 text-xl text-center">nationalities</h3>
+</div>
+      <div class="mb-8 w-full flex flex-col justify-start opacity-0 animate__animated animate__faster" data-controller="common--number" data-common--number-number-value="31.0" data-common--number-index-value="4" data-common--number-animated-value="true" data-common--number-language-value="en-GB">
+  <div class="flex items-center justify-center w-full text-[105px] font-bold text-center">
+    <span class="text-number w-full leading-none text-block-highlight w-full" data-common--number-target="number">31</span>
+</div>  <h3 class="mt-8 text-xl text-center">average age</h3>
+</div>
+      <div class="mb-8 w-full flex flex-col justify-start opacity-0 animate__animated animate__faster" data-controller="common--number" data-common--number-number-value="6.0" data-common--number-index-value="5" data-common--number-animated-value="true" data-common--number-language-value="en-GB">
+  <div class="flex items-center justify-center w-full text-[105px] font-bold text-center">
+    <span class="text-number w-full leading-none text-block-highlight w-full" data-common--number-target="number">6</span>
+</div>  <h3 class="mt-8 text-xl text-center">Appfarm's age</h3>
+</div>
+</div></div>
+</section>
+  
+    <section id="section-25140098" style="--block-base-text-color: 247, 255, 238;--block-base-link-color: 247, 255, 238;--block-base-background-color: 37, 37, 37;--block-base-highlight-color: var(--company-color);--block-background-color: #252525;--block-title-color: #f7ffee;--block-text-color: 247, 255, 238;--block-link-color: #f7ffee;--block-text-align: left;--block-border-radius: 9999px;" class="block--list  block-padding bg-block-preset-custom bg-block-background text-block-text" data-section-route="section" data-section-model="25140098">
+    
+    <div class="text-lg block-px">
+    <div class="mx-auto mb-10 block-max-w--md">
+      <h2 class="text-4xl text-center font-company-header text-block-title">What Appfarmers say:</h2>
+      
+    </div>
+    <div class="mx-auto block-max-w--lg">
+  <ul class="flex flex-wrap md:-mx-6 overflow-hidden">
+      <li class="mb-6 w-full md:w-[33.333%] md:px-6">
+        <div class="relative rounded-block pb-2/3 w-2/3 mx-auto shadow-form">
+          <div class="absolute inset-0 flex flex-col justify-center items-center overflow-hidden rounded-block bg-block-base-text bg-opacity-15">
+            <figure>
+  <picture>
+    <source srcset="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_800_square-v3/image_uploads/1a5b6cc1-bdfe-44a7-8617-bc52badba184/original.jpeg?outputFormat=webp" type="image/webp">
+
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_800_square-v3/image_uploads/1a5b6cc1-bdfe-44a7-8617-bc52badba184/original.jpeg" loading="lazy" class="w-full h-auto rounded-block">
+</picture>  
+</figure>
+</div></div>        <div class="px-2 mt-6 block-text-align">
+          <h3 class="text-xl font-semibold">Inge Ketele - Head of Operations</h3>
+          <div class="mt-2 prose prose-block font-company-body company-links"><p>"One of the best things about Appfarm is the working environment. Not only is everyone super skilled at what they do, but everyone is also so kind and nice. There are also great opportunities to develop and challenge yourself at Appfarm: there are no fixed boundaries on what you can (and cannot) do, and I really appreciate the opportunity to be able to grow together with the company in a natural way!"</p></div>
+        </div>
+      </li>
+      <li class="mb-6 w-full md:w-[33.333%] md:px-6">
+        <div class="relative rounded-block pb-2/3 w-2/3 mx-auto shadow-form">
+          <div class="absolute inset-0 flex flex-col justify-center items-center overflow-hidden rounded-block bg-block-base-text bg-opacity-15">
+            <figure>
+  <picture>
+    <source srcset="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_800_square-v3/image_uploads/32df0a34-a8e7-496a-866f-ced320cf400b/original.jpeg?outputFormat=webp" type="image/webp">
+
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_800_square-v3/image_uploads/32df0a34-a8e7-496a-866f-ced320cf400b/original.jpeg" loading="lazy" class="w-full h-auto rounded-block">
+</picture>  
+</figure>
+</div></div>        <div class="px-2 mt-6 block-text-align">
+          <h3 class="text-xl font-semibold">Ida Nedregård - Platform Engineer</h3>
+          <div class="mt-2 prose prose-block font-company-body company-links"><p>"Besides the fact that I think no-code is one of the coolest things you can program and a product I truly believe in, it’s the culture I love most at Appfarm. I am lucky to work with a group of talented and committed people who want to create something great together."</p></div>
+        </div>
+      </li>
+      <li class="mb-6 w-full md:w-[33.333%] md:px-6">
+        <div class="relative rounded-block pb-2/3 w-2/3 mx-auto shadow-form">
+          <div class="absolute inset-0 flex flex-col justify-center items-center overflow-hidden rounded-block bg-block-base-text bg-opacity-15">
+            <figure>
+  <picture>
+    <source srcset="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_800_square-v3/image_uploads/6ef06561-7986-4497-bed7-75718c008521/original.jpeg?outputFormat=webp" type="image/webp">
+
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/user_picture_800_square-v3/image_uploads/6ef06561-7986-4497-bed7-75718c008521/original.jpeg" loading="lazy" class="w-full h-auto rounded-block">
+</picture>  
+</figure>
+</div></div>        <div class="px-2 mt-6 block-text-align">
+          <h3 class="text-xl font-semibold">Ole Borgersen - CTO</h3>
+          <div class="mt-2 prose prose-block font-company-body company-links"><p><br>"I look forward to going to work every day to meet all the wonderful people who work here. I love what I do because I know that what we produce and develop is of great benefit to so many people every single day."</p></div>
+        </div>
+      </li>
+</ul></div>
+
+</div>
+
+</section>
+    <section id="section-25140100" style="--block-base-text-color: var(--company-primary-text-color);--block-base-link-color: var(--company-link-color);--block-base-background-color: var(--company-primary-bg-color);--block-base-highlight-color: var(--company-color);" class="block--gallery  bg-company-primary text-company-primary" data-section-route="section" data-section-model="25140100">
+    
+      <div class="w-full items-center justify-center sm:grid sm:grid-flow-col" data-controller="blocks--gallery-row">
+        <figure>
+  <picture>
+    <source srcset="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/4eb54ca8-dad2-425c-bcd7-2dc43a351318/original.png?outputFormat=webp" type="image/webp">
+
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/4eb54ca8-dad2-425c-bcd7-2dc43a351318/original.png" alt="" loading="lazy" data-blocks--gallery-row-target="image" class="invisible animate__animated animate__faster">
+</picture>  
+</figure>
+        <figure>
+  <picture>
+    <source srcset="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/f2d245d1-c49f-4fcc-8956-3cbc799fd6e4/original.png?outputFormat=webp" type="image/webp">
+
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/f2d245d1-c49f-4fcc-8956-3cbc799fd6e4/original.png" alt="" loading="lazy" data-blocks--gallery-row-target="image" class="invisible animate__animated animate__faster">
+</picture>  
+</figure>
+        <figure>
+  <picture>
+    <source srcset="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/93695cd4-a14b-47c4-9ff7-41f892ed9e97/original.jpeg?outputFormat=webp" type="image/webp">
+
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/93695cd4-a14b-47c4-9ff7-41f892ed9e97/original.jpeg" alt="" loading="lazy" data-blocks--gallery-row-target="image" class="invisible animate__animated animate__faster">
+</picture>  
+</figure>
+        <figure>
+  <picture>
+    <source srcset="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/59a38f27-5c62-48b0-a472-a618900127d1/original.png?outputFormat=webp" type="image/webp">
+
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/59a38f27-5c62-48b0-a472-a618900127d1/original.png" alt="" loading="lazy" data-blocks--gallery-row-target="image" class="invisible animate__animated animate__faster">
+</picture>  
+</figure>
+</div>
+</section>
+    <section id="section-25140101" style="--block-base-text-color: 247, 255, 238;--block-base-link-color: 247, 255, 238;--block-base-background-color: 37, 37, 37;--block-base-highlight-color: 234, 236, 252;--block-background-color: #252525;--block-title-color: #f7ffee;--block-text-color: 247, 255, 238;--block-link-color: #f7ffee;" class="block--people  block-padding bg-block-preset-custom bg-block-background text-block-text" data-section-route="section" data-section-model="25140101">
+    
+    <div id="people" class="block-px">
+  <div class="mx-auto text-center block-max-w--md">
+    <div class="mb-10 mx-auto block-max-w--md company-links">
+      <h2 class="text-4xl text-center text-block-title font-company-header" data-controller="fit-title" style="hyphens: inherit;"><span class="textFitted" style="display: inline-block; font-size: 40px;">Got any questions?</span></h2>
+      
+    </div>
+    
+      <div class="grid mx-auto gap-y-9 grid-cols-1">
+      <a href="https://careers.appfarm.io/en-GB/people/1452363-malin" class="group flex flex-col items-center px-4 text-center focus-visible:outline-none">
+        <div class="group-hover:ring-2 group-hover:ring-company-link group-hover:ring-offset-2 group-focus-visible:ring-2 group-focus-visible:ring-company-link group-focus-visible:ring-offset-2 bg-gray-300 relative h-[226px] w-[226px] rounded-full">
+    <figure class="w-full h-full">
+  <picture>
+    <source srcset="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/square_226-v4/image_uploads/70385fbd-f591-4b75-828e-153f5a80cb03/original.jpeg?outputFormat=webp 1x, https://images.teamtailor-cdn.com/images/s3/teamtailor-production/square_452-v4/image_uploads/70385fbd-f591-4b75-828e-153f5a80cb03/original.jpeg?outputFormat=webp 2x" type="image/webp">
+
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/square_226-v4/image_uploads/70385fbd-f591-4b75-828e-153f5a80cb03/original.jpeg" alt="Picture of Malin" loading="lazy" class="w-full h-full object-cover rounded-full" width="226" height="226">
+</picture>  
+</figure>
+</div>
+        <div class="mt-2 text-md transition text-company-link text-block-link group-hover:opacity-animated group-focus-visible:opacity-animated text-block-text">
+          Malin
+        </div>
+          <div class="text-sm text-block-text">
+            Talent Manager
+          </div>
+</a></div>
+
+
+  </div>
+</div>
+
+</section>
+
+
+  <section class="block--about company-links bg-company-primary-text bg-opacity-3 block-px mt-auto">
+  <div class="py-20 mx-auto block-max-w--sm">
+    <div class="mx-auto block-max-w--sm">
+    <h2 class="mb-4 text-4xl text-center font-company-header text-block-title" data-controller="fit-title" style="hyphens: inherit;"><span class="textFitted" style="display: inline-block; font-size: 40px;">About Appfarm</span></h2>
+    <div class="prose prose-block font-company-body company-links"><p>Our mission is to enable anyone to build exceptional digital solutions as fast and hassle-free as possible.<br></p></div>
+</div>
+
+    <div class="flex flex-wrap mt-8 text-lg gap-y-4">
+    </div>
+  </div>
+</section>
+<footer class="justify-self-end block-px mt-auto">
+    <div class="text-lg block-px block-padding sm:text-base">
+  <div class="flex flex-col items-center mx-auto block-max-w--lg">
+      <ul class="flex flex-col mb-10 text-center footer-nav-menu sm:flex-row">
+          <li><a class="block py-1 my-1 sm:my-0 sm:py-0 px-4 company-link" href="https://careers.appfarm.io/">Home</a></li>
+          <li><a class="block py-1 my-1 sm:my-0 sm:py-0 px-4 company-link" href="/data-privacy">Data &amp; privacy</a></li>
+          <li>
+            <button data-controller="cookie-preferences" data-action="click->cookie-preferences#openCookiePreferences" class="company-link font-company-body py-1 my-1 sm:my-0 sm:py-0 px-4">Manage cookies</button>
+          </li>
+      </ul>
+      <div class="flex mb-8">
+          <a class="text-company-primary hover:text-company-link focus-visible-company focus-visible:rounded" target="_blank" title="x-twitter" href="https://twitter.com/appfarm_io">
+            <svg class="svg-inline--fa fa-x-twitter w-6 h-6 p-1 mx-2 text-lg" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="x-twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>
+</a>          <a class="text-company-primary hover:text-company-link focus-visible-company focus-visible:rounded" target="_blank" title="facebook" href="https://www.facebook.com/appfarmers/">
+            <svg class="svg-inline--fa fa-facebook w-6 h-6 p-1 mx-2 text-lg" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>
+</a>          <a class="text-company-primary hover:text-company-link focus-visible-company focus-visible:rounded" target="_blank" title="linkedin" href="https://www.linkedin.com/company/appfarm-as">
+            <svg class="svg-inline--fa fa-linkedin w-6 h-6 p-1 mx-2 text-lg" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>
+</a>          <a class="text-company-primary hover:text-company-link focus-visible-company focus-visible:rounded" target="_blank" title="instagram" href="https://www.instagram.com/appfarm/">
+            <svg class="svg-inline--fa fa-instagram w-6 h-6 p-1 mx-2 text-lg" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>
+</a>      </div>
+    <a class="text-company-primary hover:text-company-link focus-visible-company focus-visible:rounded" href="https://appfarm.io">appfarm.io</a>
+  </div>
+</div>
+
+  <div class="flex flex-col py-4 mx-auto text-center border-t sm:text-unset block-max-w--lg border-company-primary-text border-opacity-15 sm:justify-between sm:flex-row">
+    <div class="flex justify-center w-full sm:w-auto">
+    <a class="text-company-primary hover:text-company-link focus-visible-company focus-visible:rounded" href="https://app.teamtailor.com/companies/F4KDTawuqTA/dashboard">Employee login</a>
+      <span class="mx-2">·</span>
+      <a class="text-company-primary hover:text-company-link focus-visible-company focus-visible:rounded" href="/sso_login">SSO</a>
+</div>
+
+    <div class="flex justify-center w-full sm:w-auto">
+        <a class="text-company-primary hover:text-company-link focus-visible-company focus-visible:rounded" href="/connect/login">Candidate Connect login</a>
+    </div>
+  </div>
+</footer>
+  <section class="relative block-px mt-15 z-career-autojoin mb-[27px] md:mb-[35px]" id="section-auto-join">
+  <div class="w-full px-4 pt-12 mx-auto rounded pb-18 block-max-w--lg bg-company-secondary text-company-secondary block-shadow" data-controller="blocks--auto-join--form">
+    <h2 class="text-center font-company-header text-4xl text-shadow" data-controller="fit-title" style="hyphens: inherit;"><span class="textFitted" style="display: inline-block; font-size: 40px;">Already working at Appfarm?</span></h2>
+    <p class="text-center text-xl text-opacity-80 text-company-secondary text-shadow">Let’s recruit together and find your next colleague.</p>
+      <div dir="ltr" class="relative mx-auto max-w-[500px] w-full py-5 pl-8 mt-6 rounded cursor-pointer bg-company-secondary-text text-company-secondary bg-opacity-15 pr-14 focus-within:bg-white focus-within:text-gray-800 focus-within:outline focus-within:outline-2 focus-within:outline-offset-2 focus-within:outline-company-secondary-text" data-action="click->blocks--auto-join--form#focusEmailField">
+  <form class="flex items-center leading-tight text-md" data-turbo="false" data-blocks--auto-join--form-target="form" data-action="turbo:submit-start->blocks--auto-join--form#handleBefore turbo:submit-end->blocks--auto-join--form#handleComplete" action="/auto_join" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BB8MQ/lC8xqFsVxBuPYb1nx4R7SmED8Cu1J0SZxpcroCUw59VlYpQOg97FTfdBTRDDVPug0hYZMRoeB/iFl91A==" autocomplete="off">
+    <input value="appfarm.io" data-blocks--auto-join--form-target="domainField" autocomplete="off" type="hidden" name="domain" id="domain">
+    <input data-blocks--auto-join--form-target="emailField" autocomplete="off" type="hidden" name="email" id="email">
+    <input tabindex="-1" required="required" type="email" autocomplete="off" aria-label="Email address without domain" class="absolute inset-0 opacity-0" data-blocks--auto-join--form-target="fullEmailField" name="full_email" id="full_email">
+    <div class="auto-join__form__email focus:outline-none" data-blocks--auto-join--form-target="emailEdit" data-placeholder="name" contenteditable="true"></div>
+    <div class="items-center truncate">
+      <span class="font-medium" data-blocks--auto-join--form-target="currentDomain">
+        @appfarm.io
+      </span>
+</div>    <button type="submit" title="Log in" aria-label="Log in" class="absolute right-2 flex items-center justify-center p-2 text-current hover:opacity-80 focus-visible-company-secondary focus-visible:rounded" data-event-tracking="click" data-event-category="Account" data-event-name="Auto Joined: Create" data-event-label="Click" data-blocks--auto-join--form-target="submit">
+      <svg class="svg-inline--fa fa-circle-chevron-right text-3xl" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="circle-chevron-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M480 256A224 224 0 1 1 32 256a224 224 0 1 1 448 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM235.3 379.3l112-112c6.2-6.2 6.2-16.4 0-22.6l-112-112c-6.2-6.2-16.4-6.2-22.6 0s-6.2 16.4 0 22.6L313.4 256 212.7 356.7c-6.2 6.2-6.2 16.4 0 22.6s16.4 6.2 22.6 0z"></path></svg>
+</button>    <div class="absolute top-0 bottom-0 right-0 items-center justify-center hidden pr-5 text-current" data-blocks--auto-join--form-target="loading">
+      <svg class="svg-inline--fa fa-spinner text-3xl fa-spin" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="spinner" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 48a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zm0 416a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zM48 304a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm464-48a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zM142.9 437A48 48 0 1 0 75 369.1 48 48 0 1 0 142.9 437zm0-294.2A48 48 0 1 0 75 75a48 48 0 1 0 67.9 67.9zM369.1 437A48 48 0 1 0 437 369.1 48 48 0 1 0 369.1 437z"></path></svg>
+    </div>
+</form></div>
+
+</div>  
+</section>
+
+</main>
+
+      <footer class="relative z-career-footer flex items-center justify-center flex-shrink-0 font-sans font-normal bg-company-primary h-[152px] text-company-primary" style="display: flex !important; visibility: visible !important;" id="eb42e04c045a5705da4569450b12d624c" data-turbo-permanent="">
+  <a rel="noopener" target="_blank" class="flex flex-col items-center group focus-visible-company focus-visible:rounded p-1" style="display: flex !important; visibility: visible !important;" href="https://www.teamtailor.com/?utm_campaign=poweredby&amp;utm_content=careers.appfarm.io&amp;utm_medium=referral&amp;utm_source=career-site">
+    <svg xmlns="http://www.w3.org/2000/svg" width="115" height="25">
+      <g fill="currentColor" fill-rule="evenodd" transform="translate(-672 -913)">
+        <g fill="currentColor" fill-rule="nonzero">
+          <path d="M787 923.44v-.118a1.75 1.75 0 00-.669-.917 3.397 3.397 0 00-1.095-.529 3.773 3.773 0 00-1.137-.142c-.366.013-.632.061-.8.142-.507.272-1.216.8-2.128 1.587a54.45 54.45 0 00-2.992 2.807 85.662 85.662 0 00-3.307 3.518 61.987 61.987 0 00-3.075 3.722 62.408 62.408 0 012.528-3.56 68.673 68.673 0 012.4-2.97c.76-.88 1.44-1.62 2.044-2.216.604-.597 1.06-1.044 1.369-1.343.168-.135.168-.298 0-.488s-.408-.372-.716-.549a6.329 6.329 0 00-.969-.447c-.337-.123-.604-.184-.8-.184-.225.001-.632.28-1.221.835-.59.556-1.25 1.275-1.98 2.156a74.632 74.632 0 00-2.296 2.929 58.057 58.057 0 00-2.19 3.132c-.661 1.016-1.201 1.94-1.622 2.766-.421.828-.632 1.445-.632 1.851 0 .19.105.441.315.753.211.311.449.597.716.855.267.257.534.433.8.528.267.095.47.034.612-.183l.168-.326c.533-.84 1.229-1.795 2.085-2.867.857-1.071 1.762-2.156 2.718-3.255a94.114 94.114 0 012.865-3.152 47.015 47.015 0 012.612-2.563c-.197.326-.492.732-.885 1.221-.393.487-.78.976-1.159 1.464s-.716.95-1.011 1.382c-.295.435-.442.747-.442.936 0 .19.07.394.21.61.141.217.33.42.57.61.238.19.49.352.758.488.266.136.526.203.78.203.224 0 .49-.087.8-.264.309-.176.625-.4.948-.671.322-.27.645-.57.968-.895.322-.325.596-.637.821-.935.196-.244.253-.38.169-.407-.084-.027-.225-.013-.421.04a9.853 9.853 0 00-.59.183c-.197.068-.31.089-.337.062-.057-.054.042-.217.295-.488.252-.271.575-.61.969-1.017.392-.407.828-.84 1.305-1.302.478-.46.92-.901 1.327-1.322.407-.42.738-.794.99-1.119.19-.245.3-.428.332-.55zM770.474 923.861a6.553 6.553 0 00-1.407-1.093 7.914 7.914 0 00-1.659-.73c-.574-.175-1.085-.222-1.533-.142-.615.136-1.294.473-2.036 1.013a15.695 15.695 0 00-2.225 2.005 23.315 23.315 0 00-2.12 2.653 26.517 26.517 0 00-1.744 2.875c-.489.946-.86 1.837-1.112 2.674-.252.836-.322 1.538-.21 2.105.056.27.294.56.713.871.42.31.889.595 1.408.851a9.135 9.135 0 001.554.607c.517.148.902.209 1.154.183.588-.082 1.252-.378 1.995-.892.741-.512 1.496-1.153 2.267-1.923.77-.77 1.518-1.627 2.246-2.572a26.917 26.917 0 001.89-2.774c.531-.904.944-1.755 1.238-2.552.294-.796.399-1.437.315-1.923-.083-.405-.329-.817-.734-1.236zm-1.995 1.054c-.308.688-.77 1.512-1.386 2.47a59.244 59.244 0 01-2.099 3.037 54.619 54.619 0 01-2.289 2.916c-.741.878-1.4 1.58-1.972 2.106-.575.527-.945.723-1.114.587-.196-.135-.133-.553.19-1.255.32-.702.783-1.532 1.385-2.49a51.59 51.59 0 012.058-3.018 53.449 53.449 0 012.246-2.876c.728-.863 1.38-1.552 1.953-2.065.573-.513.972-.715 1.197-.608.195.109.138.507-.169 1.196z"></path>
+          <path d="M765.502 913h-.01a.805.805 0 00-.124.009c-.254.054-.683.379-1.289.973a43.891 43.891 0 00-2.155 2.312 91.378 91.378 0 00-2.704 3.246 156.58 156.58 0 00-5.724 7.647 78.008 78.008 0 00-2.388 3.59 35.656 35.656 0 00-1.669 2.941c-.423.852-.634 1.468-.634 1.846 0 .19.07.4.211.63.142.229.324.439.55.628.225.19.479.352.76.487.282.135.55.203.803.203.225 0 .493-.087.803-.264.31-.175.626-.398.951-.67.323-.269.647-.573.971-.912.323-.337.598-.655.824-.954.197-.242.253-.378.168-.405-.084-.027-.225-.013-.421.04a6.717 6.717 0 00-.613.203c-.212.082-.332.109-.36.082-.085-.082.049-.447.402-1.096.351-.65.866-1.494 1.542-2.536a88.884 88.884 0 012.45-3.55 152.058 152.058 0 013.105-4.137 135.884 135.884 0 013.486-4.3 113.092 113.092 0 013.592-4.057c.225-.244.246-.487.063-.73a2.69 2.69 0 00-.78-.67 3.924 3.924 0 00-1.1-.446 3.322 3.322 0 00-.71-.11zM751.373 922.6c-.588.568-1.255 1.298-1.998 2.19a65.73 65.73 0 00-2.315 2.96 68.014 68.014 0 00-2.209 3.162 32.52 32.52 0 00-1.662 2.797c-.435.838-.652 1.46-.652 1.865 0 .19.07.4.21.63.141.229.33.439.568.628.238.189.49.351.758.486.266.136.526.203.778.203.224 0 .49-.087.8-.263a7.37 7.37 0 00.967-.67c.337-.269.66-.573.967-.912.31-.337.59-.655.842-.953.196-.242.245-.378.147-.405-.098-.027-.245-.013-.441.04a5.187 5.187 0 00-.589.203c-.196.081-.31.109-.337.081-.112-.107-.021-.432.273-.973.295-.54.695-1.196 1.2-1.966a47.602 47.602 0 011.746-2.474c.658-.878 1.297-1.716 1.915-2.514.616-.796 1.17-1.5 1.662-2.108.49-.608.82-1.006.988-1.196.14-.162.134-.338-.02-.527a2.354 2.354 0 00-.652-.527 5.74 5.74 0 00-.926-.425c-.337-.122-.604-.183-.8-.183-.224 0-.63.284-1.22.851zm5.008-1.905c.42-.27.84-.581 1.262-.933.42-.35.792-.71 1.115-1.074.322-.365.484-.656.484-.872 0-.27-.091-.5-.274-.69a2.134 2.134 0 00-.694-.465 3.881 3.881 0 00-.904-.264 3.475 3.475 0 00-.905-.04c-.197.027-.436.156-.715.385-.281.23-.583.494-.905.79a15.36 15.36 0 00-.946.953c-.31.338-.589.643-.842.912-.225.243-.267.48-.126.71.14.23.364.425.673.588.309.161.638.29.99.384.35.096.623.116.82.062.223-.027.545-.176.967-.446zM744.875 922.937a12.627 12.627 0 00-.61-.548 8.882 8.882 0 00-.714-.549 3.495 3.495 0 00-.736-.385 1.205 1.205 0 00-.715-.061c-.896.162-1.814.575-2.754 1.239a19.037 19.037 0 00-2.732 2.375 29.652 29.652 0 00-2.502 2.985 38.885 38.885 0 00-2.06 3.087c-.588.988-1.052 1.882-1.388 2.68-.336.8-.504 1.388-.504 1.767 0 .19.07.4.21.63.14.23.33.44.568.63.237.189.49.351.757.487.266.135.525.203.778.203.112 0 .328-.122.65-.365.323-.245.702-.57 1.136-.976a70.611 70.611 0 003.133-3.126 11.1 11.1 0 00-.714 1.461c-.169.434-.253.786-.253 1.056 0 .19.07.4.21.63.14.23.33.44.568.63.238.189.49.351.757.487.266.135.526.203.778.203.224 0 .49-.087.799-.264.308-.176.63-.4.967-.67.336-.27.658-.575.966-.914.309-.338.588-.656.84-.955.197-.243.246-.379.148-.406-.098-.027-.245-.012-.441.04a5.183 5.183 0 00-.589.204c-.196.081-.309.109-.336.081-.113-.108-.042-.419.21-.934.253-.514.616-1.13 1.093-1.848a78.588 78.588 0 011.619-2.335c.602-.838 1.184-1.63 1.744-2.376.56-.744 1.073-1.4 1.535-1.97.463-.568.792-.96.988-1.177.14-.162.133-.339-.021-.528-.154-.19-.378-.366-.673-.528a7.047 7.047 0 00-.925-.426c-.322-.122-.582-.183-.777-.183-.226-.001-.562.216-1.01.649zm-10.111 10.477c.294-.595.72-1.306 1.282-2.132a44.424 44.424 0 011.934-2.62 29.451 29.451 0 012.25-2.538c.77-.771 1.513-1.407 2.228-1.908.715-.501 1.325-.724 1.829-.67a40.591 40.591 0 00-2.291 2.66 51.075 51.075 0 00-2.46 3.35 110.65 110.65 0 01-1.766 1.828c-.588.596-1.12 1.13-1.597 1.604-.477.474-.87.846-1.178 1.116-.308.271-.476.393-.504.365-.113-.107-.021-.46.273-1.055z"></path>
+          <path d="M733.82 918.468c-.448 0-.806.101-1.072.304a3.815 3.815 0 00-.738.75 3.822 3.822 0 00-.484.913c-.099.284.049.426.442.426h1.347a140.814 140.814 0 00-3.284 4.339 114.968 114.968 0 00-3.073 4.42c-.927 1.406-1.685 2.65-2.274 3.73-.59 1.082-.884 1.813-.884 2.19 0 .19.07.4.21.63.14.23.33.44.569.629.238.189.49.351.757.486.267.136.526.203.78.203.224 0 .49-.087.8-.263.308-.176.631-.399.968-.67.337-.269.66-.573.968-.912.309-.337.59-.655.842-.953.196-.243.246-.379.148-.406-.099-.027-.246-.012-.442.04a5.192 5.192 0 00-.59.203c-.196.082-.309.11-.336.082-.141-.108.027-.588.504-1.44.478-.852 1.144-1.926 2-3.224a92.282 92.282 0 013.053-4.32c1.18-1.581 2.414-3.169 3.705-4.765h1.516c.42 0 .779-.127 1.073-.385.295-.257.568-.533.821-.83.224-.298.4-.569.527-.812.125-.243-.036-.365-.485-.365h-1.431l1.01-1.095c.14-.163.133-.338-.02-.528a2.295 2.295 0 00-.674-.527 7.263 7.263 0 00-.927-.426c-.322-.122-.583-.182-.779-.182-.224 0-.61.25-1.158.75-.547.5-1.186 1.17-1.916 2.007h-1.472v.001zM720.882 929.035c-.677.95-1.282 1.851-1.817 2.705a25.624 25.624 0 00-1.31 2.319c-.338.692-.506 1.214-.506 1.566 0 .19.07.4.21.63.141.231.331.442.57.632.24.19.493.352.761.488s.529.203.782.203c.226 0 .492-.087.803-.264.31-.176.634-.4.972-.671.338-.27.661-.576.971-.916.31-.338.592-.657.845-.956.197-.243.247-.38.148-.407-.099-.027-.246-.012-.443.04a5.171 5.171 0 00-.591.204c-.198.082-.31.11-.339.082-.112-.108-.02-.434.275-.977.295-.542.697-1.2 1.204-1.973.507-.773 1.092-1.6 1.754-2.48.662-.882 1.295-1.723 1.901-2.523.605-.8 1.155-1.505 1.647-2.115.493-.61.838-1.01 1.035-1.2.141-.136.134-.299-.02-.489a2.684 2.684 0 00-.655-.549 5.168 5.168 0 00-.908-.447c-.324-.123-.586-.184-.782-.184h-.042c-.339 0-.987.38-1.944 1.14-.958.759-2.036 1.735-3.232 2.928a79.135 79.135 0 00-3.697 3.966 71.467 71.467 0 00-3.422 4.21 46.779 46.779 0 012.62-3.722 92.25 92.25 0 012.535-3.112 50.318 50.318 0 012.112-2.338 65.549 65.549 0 011.395-1.404c.168-.136.168-.298 0-.488a2.843 2.843 0 00-.719-.55 6.33 6.33 0 00-.972-.447c-.338-.122-.606-.183-.802-.183-.339 0-.987.38-1.944 1.139-.958.76-2.035 1.736-3.232 2.928a79.135 79.135 0 00-3.697 3.966 71.467 71.467 0 00-3.422 4.21 46.779 46.779 0 012.62-3.722 92.25 92.25 0 012.535-3.111 50.318 50.318 0 012.112-2.339 65.549 65.549 0 011.395-1.404c.168-.135.168-.298 0-.488a2.843 2.843 0 00-.719-.55 6.304 6.304 0 00-.972-.447c-.338-.122-.606-.183-.802-.183-.226 0-.628.279-1.204.834-.578.556-1.24 1.275-1.986 2.156a54.91 54.91 0 00-2.303 2.929 65.748 65.748 0 00-2.176 3.132 35.412 35.412 0 00-1.648 2.766c-.436.828-.655 1.445-.655 1.852 0 .19.106.44.317.752.211.311.457.597.74.855.28.258.555.434.823.528.268.095.458.034.571-.183a.95.95 0 01.169-.244 37.684 37.684 0 011.796-2.563 88.162 88.162 0 012.302-2.908 63.597 63.597 0 012.514-2.868 64.22 64.22 0 012.43-2.481 85.624 85.624 0 00-2.008 2.685 46.78 46.78 0 00-1.774 2.644 25.857 25.857 0 00-1.268 2.258c-.324.664-.486 1.173-.486 1.525 0 .19.106.441.317.753.211.311.45.597.718.854.268.258.535.434.803.53.267.094.472.033.613-.184l.338-.57c.507-.758 1.113-1.6 1.817-2.522a72.81 72.81 0 012.261-2.807c.803-.949 1.62-1.87 2.45-2.765a58.964 58.964 0 012.345-2.4 78.454 78.454 0 00-2.03 2.725zM707.462 922.937a13.23 13.23 0 00-.61-.548 8.651 8.651 0 00-.714-.549 3.495 3.495 0 00-.736-.385 1.203 1.203 0 00-.715-.061c-.897.162-1.815.575-2.753 1.239-.94.663-1.85 1.455-2.733 2.375a29.652 29.652 0 00-2.502 2.985 38.885 38.885 0 00-2.06 3.087c-.588.988-1.051 1.882-1.388 2.68-.336.8-.504 1.388-.504 1.767 0 .19.07.4.21.63.14.23.33.44.568.63.238.189.49.351.757.487.266.135.525.203.778.203.111 0 .329-.122.651-.365.322-.245.7-.57 1.136-.976a70.71 70.71 0 003.132-3.126c-.309.542-.547 1.029-.715 1.461-.168.434-.252.786-.252 1.056 0 .19.07.4.21.63.14.23.329.44.567.63.238.189.49.351.757.487.266.135.525.203.778.203.224 0 .49-.087.799-.264.308-.176.63-.4.967-.67.336-.27.658-.575.967-.914.308-.338.588-.656.84-.955.196-.243.245-.379.148-.406-.099-.027-.246-.012-.442.04a5.183 5.183 0 00-.588.204c-.197.081-.309.109-.337.081-.112-.108-.042-.419.21-.934.253-.514.617-1.13 1.094-1.848a77.469 77.469 0 011.618-2.335c.602-.838 1.184-1.63 1.745-2.376a67.2 67.2 0 011.535-1.97c.463-.568.792-.96.988-1.177.14-.162.133-.339-.02-.528-.155-.19-.38-.366-.674-.528a7.047 7.047 0 00-.925-.426c-.322-.122-.582-.183-.778-.183-.224-.001-.56.216-1.009.649zm-10.111 10.477c.294-.595.721-1.306 1.282-2.132a44.424 44.424 0 011.934-2.62 29.355 29.355 0 012.25-2.538c.77-.771 1.513-1.407 2.228-1.908.714-.501 1.324-.724 1.829-.67a40.591 40.591 0 00-2.292 2.66 51.075 51.075 0 00-2.46 3.35c-.588.623-1.176 1.233-1.765 1.828-.588.596-1.121 1.13-1.598 1.604-.477.474-.87.846-1.177 1.116-.31.271-.477.393-.504.365-.113-.107-.021-.46.273-1.055zM689.66 923.096c-.775.57-1.537 1.241-2.283 2.014a22.683 22.683 0 00-2.115 2.542 17.417 17.417 0 00-1.65 2.787 13.047 13.047 0 00-.952 2.766c-.198.909-.198 1.743 0 2.501.084.3.281.57.592.814.31.244.662.454 1.057.63.394.177.804.306 1.227.387.423.082.761.108 1.015.082.366-.028.818-.163 1.354-.407a11.68 11.68 0 001.65-.936c.563-.38 1.12-.807 1.671-1.281a15.11 15.11 0 001.502-1.485c.281-.325.373-.529.275-.61-.1-.081-.332.014-.698.286-.565.38-1.121.746-1.671 1.098a22.88 22.88 0 01-1.545.915c-.48.258-.91.462-1.29.61-.38.15-.684.224-.91.224-.733-.055-1.014-.535-.845-1.445.169-.908.605-2.013 1.31-3.315.395.298.84.577 1.334.834.492.258.965.333 1.417.223.705-.162 1.452-.596 2.242-1.301.79-.706 1.53-1.485 2.221-2.34a17.574 17.574 0 001.714-2.501c.45-.813.69-1.424.718-1.83.028-.326-.141-.664-.507-1.018a5.177 5.177 0 00-1.354-.915 7.233 7.233 0 00-1.713-.569c-.607-.122-1.121-.115-1.545.02-.704.244-1.445.65-2.22 1.22zm-.57 5.756c.508-.61 1.05-1.213 1.629-1.81a24.586 24.586 0 011.755-1.648 19.262 19.262 0 011.608-1.24c.366-.217.564-.299.592-.245.028.055-.042.231-.211.53-.395.65-.903 1.335-1.523 2.053a23.897 23.897 0 01-1.904 1.973 16.31 16.31 0 01-1.84 1.485c-.578.393-1.036.604-1.374.63a15.73 15.73 0 011.268-1.728z"></path>
+          <path d="M675.05 938c.218-.075.533-.243.945-.504a13.928 13.928 0 001.607-1.181c.492-.42.838-.78 1.035-1.079.197-.298.028-.38-.507-.243-.536.136-.726-.211-.57-1.038.154-.828.592-1.934 1.31-3.318.719-1.384 1.691-2.95 2.917-4.7 1.226-1.751 2.67-3.508 4.333-5.272a.641.641 0 00.17-.53 1.56 1.56 0 00-.233-.589 2.787 2.787 0 00-.507-.59 4.379 4.379 0 00-.655-.489 59.048 59.048 0 014.1.061c1.325.068 2.523.17 3.594.306.282.027.529-.136.74-.488.212-.353.374-.773.487-1.262.112-.489.162-.97.148-1.445-.015-.474-.12-.82-.317-1.038-.17-.162-.677-.264-1.523-.305-.846-.04-1.896-.04-3.15 0s-2.614.136-4.079.285c-1.466.15-2.896.333-4.291.55a39.94 39.94 0 00-3.827.773c-1.156.299-2.029.625-2.621.977-.17.081-.296.298-.38.651a2.438 2.438 0 00-.021 1.058c.07.353.225.638.464.855.24.217.599.244 1.079.082.873-.298 1.972-.53 3.297-.692a49.526 49.526 0 014.27-.325c-.592.461-1.268 1.153-2.029 2.075a50.325 50.325 0 00-2.368 3.134 56.704 56.704 0 00-2.367 3.684 93.45 93.45 0 00-2.071 3.683c-.62 1.167-1.114 2.212-1.48 3.134-.367.922-.55 1.6-.55 2.035 0 .08.091.223.275.427.183.204.415.407.697.61.282.204.592.38.93.53.187.081.364.141.533.178h.614z"></path>
+        </g>
+      </g>
+    </svg>
+    <span class="mt-2 text-sm">
+      <span class="mt-2 text-sm underline group-hover:text-teamtailor-pink">Career site</span>
+      by Teamtailor
+    </span>
+</a></footer>
+
+
+    <script>
+
+  function trackPageView(url) {
+    var searchParams = new URLSearchParams(window.location.search);
+    var utmSource = searchParams.get('utm_source');
+
+    var payload = {
+      ed: 'PB0dR+OXn+46PPMSFvH7hbpdtM9F7RCf6fXkIgzwxCxRlgzEFgfNTo+gVfGHWf8o79zVpL3ESHtT+/kMZqlVRmOL8ntYATF2/Cpn40SRZBr+0/F2urBSrOi1+Y5vCh/wZ/WM97157c1niy8qV49igycyQhC/KZL8CV8PEBU=--6qIPINdnho+b62/s--NwEFhRAYA/E4v0eW9mB9YQ==',
+      visitor_uuid: window.visitor_uuid,
+      referrer: utmSource || document.referrer,
+      data: {
+        ua: navigator.userAgent,
+      },
+      url: url,
+    };
+
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.open('POST', '/pageview', true);
+    xmlhttp.setRequestHeader('Content-Type', 'application/json;charset=UTF-8');
+    xmlhttp.withCredentials = true;
+    xmlhttp.addEventListener('readystatechange', function () {
+      if (xmlhttp.readyState === XMLHttpRequest.DONE) {
+        const status = xmlhttp.status;
+        if (status === 0 || (status >= 200 && status < 400)) {
+          window.visitor_uuid = xmlhttp.responseText;
+        }
+      }
+    })
+
+    xmlhttp.send(JSON.stringify(payload));
+  }
+
+  window.trackPageView = trackPageView;
+
+  if (!window.analyticsPageviewCallback) {
+    window.analyticsPageviewCallback = true;
+    window.addEventListener('turbo:load', function(data){
+      window.trackPageView();
+    });
+  }
+</script>
+
+    
+
+      <div class="opacity-0 transition-opacity duration-100 ease-in-out z-candidate-chat" data-controller="common--chat" data-common--chat-subdomain-host-value="careers.appfarm.io">
+  
+      <div>
+        <iframe id="messenger-frame" loading="lazy" class="hidden" data-src="https://careers.appfarm.io/messenger" data-url="https://careers.appfarm.io" allowtransparency="true" translations="{&quot;awesome&quot;:&quot;Awesome&quot;,&quot;error&quot;:&quot;Something went wrong&quot;,&quot;email_is_taken&quot;:&quot;Email address is taken.&quot;}" frameborder="0"></iframe>
+        <iframe id="messenger-launcher-frame" loading="lazy" class="" data-src="https://careers.appfarm.io/messenger/launcher?inverted_colors=true" allowtransparency="true" frameborder="0"></iframe>
+      </div>
+    
+</div>
+
+</body></html>

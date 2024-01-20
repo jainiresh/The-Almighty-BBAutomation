@@ -1,0 +1,392 @@
+[caa-fingerprint] [dns] [info] btcpay.terrahost.com
+[caa-fingerprint] [dns] [info] api.terrahost.com
+[caa-fingerprint] [dns] [info] matomo.terrahost.com
+[caa-fingerprint] [dns] [info] ai.playground.terrahost.com
+[caa-fingerprint] [dns] [info] asstats.ams-nl.terrahost.com
+[caa-fingerprint] [dns] [info] la-ng.terrahost.com
+[caa-fingerprint] [dns] [info] host1-ams-nl.pve.terrahost.com
+[caa-fingerprint] [dns] [info] ams-nl.terrahost.com
+[caa-fingerprint] [dns] [info] lg.terrahost.com
+[caa-fingerprint] [dns] [info] lg.ams-nl.terrahost.com
+[caa-fingerprint] [dns] [info] enigma.terrahost.com
+[caa-fingerprint] [dns] [info] mirror.kc-us.terrahost.com
+[caa-fingerprint] [dns] [info] minio4-kc-us.terrahost.com
+[caa-fingerprint] [dns] [info] minio8-kc-us.terrahost.com
+[caa-fingerprint] [dns] [info] minio5-kc-us.terrahost.com
+[caa-fingerprint] [dns] [info] minio2-kc-us.terrahost.com
+[caa-fingerprint] [dns] [info] lg.la-ng.terrahost.com
+[mx-service-detector:Google Apps] [dns] [info] terrahost.com
+[mx-fingerprint] [dns] [info] terrahost.com [6 aspmx2.googlemail.com.,1 aspmx.l.google.com.,10 aspmx3.googlemail.com.,2 alt1.aspmx.l.google.com.,5 alt2.aspmx.l.google.com.]
+[caa-fingerprint] [dns] [info] tacacsgui.terrahost.com
+[caa-fingerprint] [dns] [info] terrahost.com
+[caa-fingerprint] [dns] [info] playground.terrahost.com
+[caa-fingerprint] [dns] [info] minio3-kc-us.terrahost.com
+[caa-fingerprint] [dns] [info] secure.terrahost.com
+[nameserver-fingerprint] [dns] [info] terrahost.com [emely.ns.cloudflare.com.,kip.ns.cloudflare.com.]
+[caa-fingerprint] [dns] [info] tp.terrahost.com
+[caa-fingerprint] [dns] [info] minio1-kc-us.terrahost.com
+[caa-fingerprint] [dns] [info] www.terrahost.com
+[caa-fingerprint] [dns] [info] smokeping.terrahost.com
+[caa-fingerprint] [dns] [info] uk.terrahost.com
+[dns-waf-detect:cloudflare] [dns] [info] terrahost.com
+[options-method] [http] [info] https://tacacsgui.terrahost.com [GET,POST,OPTIONS,HEAD]
+[tech-detect:cloudflare] [http] [info] https://api.terrahost.com
+[tech-detect:google-font-api] [http] [info] https://tacacsgui.terrahost.com
+[cookies-without-httponly-secure] [http] [info] https://lg.ams-nl.terrahost.com/
+[tech-detect:bootstrap] [http] [info] https://lg.ams-nl.terrahost.com/
+[tech-detect:jsdelivr] [http] [info] https://lg.ams-nl.terrahost.com/
+[cookies-without-httponly-secure] [http] [info] https://terrahost.com
+[metatag-cms] [http] [info] https://terrahost.com [OctoberCMS]
+[tech-detect:cloudflare] [http] [info] https://terrahost.com
+[tech-detect:jsdelivr] [http] [info] https://terrahost.com
+[tech-detect:bootstrap] [http] [info] https://terrahost.com
+[tech-detect:google-font-api] [http] [info] https://terrahost.com
+[tech-detect:google-font-api] [http] [info] https://enigma.terrahost.com/
+[tech-detect:cloudflare] [http] [info] https://enigma.terrahost.com/
+[tech-detect:font-awesome] [http] [info] https://enigma.terrahost.com/
+[tech-detect:cloudflare] [http] [info] http://enigma.terrahost.com
+[tech-detect:nginx] [http] [info] https://docs.terrahost.com/
+[tech-detect:nginx] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://tacacsgui.terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://tacacsgui.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://tacacsgui.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://tacacsgui.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://tacacsgui.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://tacacsgui.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://tacacsgui.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://tacacsgui.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://tacacsgui.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://tacacsgui.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://tacacsgui.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://lg.ams-nl.terrahost.com/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lg.ams-nl.terrahost.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lg.ams-nl.terrahost.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://lg.ams-nl.terrahost.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lg.ams-nl.terrahost.com/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lg.ams-nl.terrahost.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://lg.ams-nl.terrahost.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://lg.ams-nl.terrahost.com/
+[http-missing-security-headers:referrer-policy] [http] [info] https://lg.ams-nl.terrahost.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lg.ams-nl.terrahost.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lg.ams-nl.terrahost.com/
+[http-missing-security-headers:clear-site-data] [http] [info] http://matomo.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://mirror.kc-us.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://matomo.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://matomo.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://matomo.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://ai.playground.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://matomo.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://ai.playground.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://btcpay.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://mirror.kc-us.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://asstats.ams-nl.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://ai.playground.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://btcpay.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://enigma.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://mirror.kc-us.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://matomo.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://tp.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://asstats.ams-nl.terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://lg.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://tp.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://asstats.ams-nl.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://smokeping.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://btcpay.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://ai.playground.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://www.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://lg.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://smokeping.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://tp.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://asstats.ams-nl.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://mirror.kc-us.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://btcpay.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://asstats.kc-us.terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://enigma.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://ai.playground.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://matomo.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://www.terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://asstats.kc-us.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://lg.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://ai.playground.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://mirror.kc-us.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://smokeping.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://matomo.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://enigma.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://tp.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://asstats.ams-nl.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://btcpay.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://www.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://smokeping.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://tp.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://matomo.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://asstats.ams-nl.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://enigma.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://smokeping.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://lg.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://mirror.kc-us.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://tp.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://www.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://btcpay.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://ai.playground.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://asstats.kc-us.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://matomo.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://smokeping.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://matomo.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://mirror.kc-us.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://smokeping.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://ai.playground.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://mirror.kc-us.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://asstats.kc-us.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://www.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://btcpay.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://enigma.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://asstats.ams-nl.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://tp.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://lg.terrahost.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://www.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://enigma.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://asstats.ams-nl.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://asstats.kc-us.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://www.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://ai.playground.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://enigma.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://mirror.kc-us.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://smokeping.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://lg.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://tp.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://btcpay.terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://www.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://smokeping.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://asstats.ams-nl.terrahost.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://btcpay.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://ai.playground.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://mirror.kc-us.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://asstats.kc-us.terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://tp.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://enigma.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://lg.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://www.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://ai.playground.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://asstats.kc-us.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://enigma.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://smokeping.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://mirror.kc-us.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://lg.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://www.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://asstats.ams-nl.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://tp.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://btcpay.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://btcpay.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://www.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://tp.terrahost.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://lg.terrahost.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://enigma.terrahost.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://asstats.kc-us.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://lg.terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://smokeping.terrahost.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://asstats.ams-nl.terrahost.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://enigma.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://lg.terrahost.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://docs.terrahost.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://asstats.kc-us.terrahost.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://asstats.kc-us.terrahost.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://asstats.kc-us.terrahost.com
+[robots-txt] [http] [info] https://matomo.terrahost.com/robots.txt
+[missing-sri] [http] [info] https://terrahost.com/api [https://code.jquery.com/jquery-3.6.0.min.js,https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js,https://terrahost.com/themes/terrahost/assets/js/app.js]
+[missing-sri] [http] [info] https://www.terrahost.com/ [https://code.jquery.com/jquery-3.6.0.min.js,https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js,https://www.terrahost.com/themes/terrahost/assets/js/app.js]
+[missing-sri] [http] [info] https://lg.terrahost.com/ [https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js]
+[missing-sri] [http] [info] https://enigma.terrahost.com/ [https://js.stripe.com/v3/]
+[missing-sri] [http] [info] https://terrahost.com/ [https://code.jquery.com/jquery-3.6.0.min.js,https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js,https://terrahost.com/themes/terrahost/assets/js/app.js]
+[missing-sri] [http] [info] https://lg.ams-nl.terrahost.com/ [https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js]
+[octobercms-detect] [http] [info] https://www.terrahost.com/
+[octobercms-detect] [http] [info] https://terrahost.com
+[waf-detect:apachegeneric] [http] [info] http://lg.ams-nl.terrahost.com/
+[waf-detect:apachegeneric] [http] [info] http://lg.terrahost.com/
+[waf-detect:apachegeneric] [http] [info] https://tacacsgui.terrahost.com/
+[waf-detect:cloudflare] [http] [info] https://api.terrahost.com/
+[ssh-auth-methods] [javascript] [info] btcpay.terrahost.com:22 [["publickey","password"]]
+[ssh-server-enumeration] [javascript] [info] btcpay.terrahost.com:22 [SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6]
+[ssh-server-enumeration] [javascript] [info] vdshost1-ams-nl.pve.terrahost.com:22 [SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u1]
+[ssh-password-auth] [javascript] [info] vdshost1-ams-nl.pve.terrahost.com:22
+[ssh-sha1-hmac-algo] [javascript] [info] vdshost1-ams-nl.pve.terrahost.com:22
+[ssh-password-auth] [javascript] [info] btcpay.terrahost.com:22
+[ssh-sha1-hmac-algo] [javascript] [info] btcpay.terrahost.com:22
+[ssh-server-enumeration] [javascript] [info] smokeping.terrahost.com:22 [SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6]
+[ssh-auth-methods] [javascript] [info] smokeping.terrahost.com:22 [["publickey","password"]]
+[ssh-auth-methods] [javascript] [info] host1-kc-us.pve.terrahost.com:22 [["publickey","password"]]
+[openssh-detect] [tcp] [info] host1-ams-nl.pve.terrahost.com:22 [SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u2]
+[openssh-detect] [tcp] [info] btcpay.terrahost.com:22 [SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6]
+[openssh-detect] [tcp] [info] smokeping.terrahost.com:22 [SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6]
+[openssh-detect] [tcp] [info] host1-kc-us.pve.terrahost.com:22 [SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u1]
+[openssh-detect] [tcp] [info] vdshost1-ams-nl.pve.terrahost.com:22 [SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u1]
+[rpcbind-portmapper-detect] [tcp] [info] host1-ams-nl.pve.terrahost.com:111
+[rpcbind-portmapper-detect] [tcp] [info] matomo.terrahost.com:111
+[rpcbind-portmapper-detect] [tcp] [info] host1-kc-us.pve.terrahost.com:111
+[rpcbind-portmapper-detect] [tcp] [info] vdshost1-ams-nl.pve.terrahost.com:111
+[ssl-issuer] [ssl] [info] enigma.terrahost.com:443 [Google Trust Services LLC]
+[ssl-dns-names] [ssl] [info] enigma.terrahost.com:443 [terrahost.com,*.terrahost.com]
+[wildcard-tls] [ssl] [info] enigma.terrahost.com:443 [CN: terrahost.com, SAN: [terrahost.com *.terrahost.com]]
+[ssl-issuer] [ssl] [info] api.terrahost.com:443 [Google Trust Services LLC]
+[ssl-dns-names] [ssl] [info] api.terrahost.com:443 [terrahost.com,*.terrahost.com]
+[wildcard-tls] [ssl] [info] api.terrahost.com:443 [CN: terrahost.com, SAN: [terrahost.com *.terrahost.com]]
+[ssl-issuer] [ssl] [info] minio1-kc-us.terrahost.com:443 [Let's Encrypt]
+[expired-ssl] [ssl] [low] minio1-kc-us.terrahost.com:443 [2022-07-20 08:06:29 +0000 UTC]
+[mismatched-ssl-certificate] [ssl] [low] minio1-kc-us.terrahost.com:443 [CN: s3.us-central-1.terrahost.no]
+[revoked-ssl-certificate] [ssl] [low] minio1-kc-us.terrahost.com:443
+[ssl-dns-names] [ssl] [info] minio1-kc-us.terrahost.com:443 [*.s3.us-central-1.terrahost.no,s3.us-central-1.terrahost.no]
+[wildcard-tls] [ssl] [info] minio1-kc-us.terrahost.com:443 [CN: s3.us-central-1.terrahost.no, SAN: [*.s3.us-central-1.terrahost.no s3.us-central-1.terrahost.no]]
+[ssl-issuer] [ssl] [info] minio2-kc-us.terrahost.com:443 [Let's Encrypt]
+[expired-ssl] [ssl] [low] minio2-kc-us.terrahost.com:443 [2022-07-20 08:06:29 +0000 UTC]
+[mismatched-ssl-certificate] [ssl] [low] minio2-kc-us.terrahost.com:443 [CN: s3.us-central-1.terrahost.no]
+[revoked-ssl-certificate] [ssl] [low] minio2-kc-us.terrahost.com:443
+[ssl-dns-names] [ssl] [info] minio2-kc-us.terrahost.com:443 [*.s3.us-central-1.terrahost.no,s3.us-central-1.terrahost.no]
+[wildcard-tls] [ssl] [info] minio2-kc-us.terrahost.com:443 [CN: s3.us-central-1.terrahost.no, SAN: [*.s3.us-central-1.terrahost.no s3.us-central-1.terrahost.no]]
+[ssl-issuer] [ssl] [info] minio3-kc-us.terrahost.com:443 [Let's Encrypt]
+[expired-ssl] [ssl] [low] minio3-kc-us.terrahost.com:443 [2022-07-20 08:06:29 +0000 UTC]
+[mismatched-ssl-certificate] [ssl] [low] minio3-kc-us.terrahost.com:443 [CN: s3.us-central-1.terrahost.no]
+[revoked-ssl-certificate] [ssl] [low] minio3-kc-us.terrahost.com:443
+[ssl-dns-names] [ssl] [info] minio3-kc-us.terrahost.com:443 [s3.us-central-1.terrahost.no,*.s3.us-central-1.terrahost.no]
+[wildcard-tls] [ssl] [info] minio3-kc-us.terrahost.com:443 [CN: s3.us-central-1.terrahost.no, SAN: [*.s3.us-central-1.terrahost.no s3.us-central-1.terrahost.no]]
+[ssl-issuer] [ssl] [info] terrahost.com:443 [Google Trust Services LLC]
+[ssl-dns-names] [ssl] [info] terrahost.com:443 [*.terrahost.com,terrahost.com]
+[wildcard-tls] [ssl] [info] terrahost.com:443 [CN: terrahost.com, SAN: [terrahost.com *.terrahost.com]]
+[ssl-issuer] [ssl] [info] btcpay.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] btcpay.terrahost.com:443 [btcpay.terrahost.com]
+[ssl-issuer] [ssl] [info] asstats.ams-nl.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] asstats.ams-nl.terrahost.com:443 [asstats.ams-nl.terrahost.com]
+[ssl-issuer] [ssl] [info] lg.ams-nl.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] lg.ams-nl.terrahost.com:443 [lg.ams-nl.terrahost.com]
+[ssl-issuer] [ssl] [info] www.terrahost.com:443 [Google Trust Services LLC]
+[ssl-dns-names] [ssl] [info] www.terrahost.com:443 [*.terrahost.com,terrahost.com]
+[wildcard-tls] [ssl] [info] www.terrahost.com:443 [CN: terrahost.com, SAN: [terrahost.com *.terrahost.com]]
+[ssl-issuer] [ssl] [info] matomo.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] matomo.terrahost.com:443 [matomo.terrahost.com]
+[ssl-issuer] [ssl] [info] smokeping.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] smokeping.terrahost.com:443 [smokeping.terrahost.com]
+[ssl-issuer] [ssl] [info] tacacsgui.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] tacacsgui.terrahost.com:443 [tacacsgui.terrahost.com]
+[ssl-issuer] [ssl] [info] asstats.kc-us.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] asstats.kc-us.terrahost.com:443 [asstats.kc-us.terrahost.com]
+[ssl-issuer] [ssl] [info] docs.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] docs.terrahost.com:443 [docs.terrahost.com]
+[ssl-issuer] [ssl] [info] lg.kc-us.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] lg.kc-us.terrahost.com:443 [lg.kc-us.terrahost.com]
+[ssl-issuer] [ssl] [info] mirror.kc-us.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] mirror.kc-us.terrahost.com:443 [mirror.kc-us.terrahost.com]
+[ssl-issuer] [ssl] [info] lg.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] lg.terrahost.com:443 [lg.terrahost.com]
+[ssl-issuer] [ssl] [info] tp.terrahost.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] tp.terrahost.com:443 [tp.terrahost.com]
+[deprecated-tls] [ssl] [info] api.terrahost.com:443 [tls10]
+[deprecated-tls] [ssl] [info] enigma.terrahost.com:443 [tls10]
+[deprecated-tls] [ssl] [info] api.terrahost.com:443 [tls11]
+[deprecated-tls] [ssl] [info] enigma.terrahost.com:443 [tls11]
+[deprecated-tls] [ssl] [info] asstats.ams-nl.terrahost.com:443 [tls10]
+[deprecated-tls] [ssl] [info] terrahost.com:443 [tls10]
+[deprecated-tls] [ssl] [info] terrahost.com:443 [tls11]
+[deprecated-tls] [ssl] [info] asstats.kc-us.terrahost.com:443 [tls10]
+[deprecated-tls] [ssl] [info] asstats.ams-nl.terrahost.com:443 [tls11]
+[deprecated-tls] [ssl] [info] minio1-kc-us.terrahost.com:443 [tls10]
+[deprecated-tls] [ssl] [info] minio2-kc-us.terrahost.com:443 [tls10]
+[deprecated-tls] [ssl] [info] minio3-kc-us.terrahost.com:443 [tls10]
+[deprecated-tls] [ssl] [info] www.terrahost.com:443 [tls10]
+[deprecated-tls] [ssl] [info] asstats.kc-us.terrahost.com:443 [tls11]
+[deprecated-tls] [ssl] [info] www.terrahost.com:443 [tls11]
+[deprecated-tls] [ssl] [info] minio1-kc-us.terrahost.com:443 [tls11]
+[deprecated-tls] [ssl] [info] minio2-kc-us.terrahost.com:443 [tls11]
+[deprecated-tls] [ssl] [info] minio3-kc-us.terrahost.com:443 [tls11]
+[tls-version] [ssl] [info] api.terrahost.com:443 [tls10]
+[tls-version] [ssl] [info] enigma.terrahost.com:443 [tls10]
+[tls-version] [ssl] [info] api.terrahost.com:443 [tls11]
+[tls-version] [ssl] [info] enigma.terrahost.com:443 [tls11]
+[tls-version] [ssl] [info] asstats.ams-nl.terrahost.com:443 [tls10]
+[tls-version] [ssl] [info] api.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] enigma.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] api.terrahost.com:443 [tls13]
+[tls-version] [ssl] [info] asstats.kc-us.terrahost.com:443 [tls10]
+[tls-version] [ssl] [info] enigma.terrahost.com:443 [tls13]
+[tls-version] [ssl] [info] asstats.ams-nl.terrahost.com:443 [tls11]
+[tls-version] [ssl] [info] minio1-kc-us.terrahost.com:443 [tls10]
+[tls-version] [ssl] [info] asstats.ams-nl.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] minio2-kc-us.terrahost.com:443 [tls10]
+[tls-version] [ssl] [info] minio3-kc-us.terrahost.com:443 [tls10]
+[tls-version] [ssl] [info] asstats.kc-us.terrahost.com:443 [tls11]
+[tls-version] [ssl] [info] minio1-kc-us.terrahost.com:443 [tls11]
+[tls-version] [ssl] [info] asstats.ams-nl.terrahost.com:443 [tls13]
+[tls-version] [ssl] [info] minio3-kc-us.terrahost.com:443 [tls11]
+[tls-version] [ssl] [info] asstats.kc-us.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] minio1-kc-us.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] lg.ams-nl.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] terrahost.com:443 [tls10]
+[tls-version] [ssl] [info] docs.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] btcpay.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] minio1-kc-us.terrahost.com:443 [tls13]
+[tls-version] [ssl] [info] minio3-kc-us.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] terrahost.com:443 [tls11]
+[tls-version] [ssl] [info] asstats.kc-us.terrahost.com:443 [tls13]
+[tls-version] [ssl] [info] lg.ams-nl.terrahost.com:443 [tls13]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.terrahost.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] minio2-kc-us.terrahost.com:443 [tls11]
+[weak-cipher-suites:tls-1.0] [ssl] [low] enigma.terrahost.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] www.terrahost.com:443 [tls10]
+[tls-version] [ssl] [info] btcpay.terrahost.com:443 [tls13]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.terrahost.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] enigma.terrahost.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] lg.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] minio3-kc-us.terrahost.com:443 [tls13]
+[weak-cipher-suites:tls-1.0] [ssl] [low] asstats.ams-nl.terrahost.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] asstats.kc-us.terrahost.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] minio2-kc-us.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] lg.terrahost.com:443 [tls13]
+[weak-cipher-suites:tls-1.1] [ssl] [low] asstats.ams-nl.terrahost.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] minio1-kc-us.terrahost.com:443 [[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] matomo.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] lg.kc-us.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] docs.terrahost.com:443 [tls13]
+[tls-version] [ssl] [info] minio2-kc-us.terrahost.com:443 [tls13]
+[weak-cipher-suites:tls-1.0] [ssl] [low] minio2-kc-us.terrahost.com:443 [[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] www.terrahost.com:443 [tls11]
+[weak-cipher-suites:tls-1.0] [ssl] [low] minio3-kc-us.terrahost.com:443 [[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] matomo.terrahost.com:443 [tls13]
+[weak-cipher-suites:tls-1.1] [ssl] [low] asstats.kc-us.terrahost.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] lg.kc-us.terrahost.com:443 [tls13]
+[tls-version] [ssl] [info] www.terrahost.com:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] minio1-kc-us.terrahost.com:443 [[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] www.terrahost.com:443 [tls13]
+[tls-version] [ssl] [info] tacacsgui.terrahost.com:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] minio2-kc-us.terrahost.com:443 [[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] minio3-kc-us.terrahost.com:443 [[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] terrahost.com:443 [tls13]
+[tls-version] [ssl] [info] mirror.kc-us.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] tacacsgui.terrahost.com:443 [tls13]
+[tls-version] [ssl] [info] smokeping.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] mirror.kc-us.terrahost.com:443 [tls13]
+[tls-version] [ssl] [info] smokeping.terrahost.com:443 [tls13]
+[weak-cipher-suites:tls-1.0] [ssl] [low] terrahost.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] terrahost.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.terrahost.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.terrahost.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] tp.terrahost.com:443 [tls12]
+[tls-version] [ssl] [info] tp.terrahost.com:443 [tls13]

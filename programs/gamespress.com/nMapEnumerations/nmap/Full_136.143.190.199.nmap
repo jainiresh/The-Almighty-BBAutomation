@@ -1,0 +1,10 @@
+# Nmap 7.93 scan initiated Mon Dec 11 15:38:40 2023 as: /usr/bin/nmap -Pn -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_136.143.190.199.nmap --system-dns --stats-every 3s 136.143.190.199
+Increasing send delay for 136.143.190.199 from 0 to 5 due to 11 out of 18 dropped probes since last increase.
+Increasing send delay for 136.143.190.199 from 5 to 10 due to 11 out of 21 dropped probes since last increase.
+Increasing send delay for 136.143.190.199 from 10 to 20 due to 11 out of 19 dropped probes since last increase.
+Increasing send delay for 136.143.190.199 from 20 to 40 due to 11 out of 19 dropped probes since last increase.
+Increasing send delay for 136.143.190.199 from 40 to 80 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 136.143.190.199 from 80 to 160 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 136.143.190.199 from 160 to 320 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 136.143.190.199 from 320 to 640 due to 11 out of 18 dropped probes since last increase.
+Increasing send delay for 136.143.190.199 from 640 to 1000 due to 11 out of 14 dropped probes since last increase.

@@ -1,0 +1,602 @@
+<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>
+	客户服务管理系统
+</title>
+    <script type="text/javascript" src="./Js/common/jquery.min.js?v=1"></script>
+    <script type="text/javascript" src="./js/common/md5.js?v=20161018_01"></script>
+    <script type="text/javascript" src="./js/common/aes.js?v=20161018_01"></script>
+    <script type="text/javascript" src="./js/biz.js?v=20161018_01"></script>
+    <script src="./Js/ocsmcommon.js?v=20180622_03"></script>
+    <script type="text/javascript">
+        var mac = getMac();
+        $(document).ready(function () {
+            if (mac != "" && mac != "0") {
+                mac = mac.replace(/:/g, "-");
+                $("#hidMacValue").val(mac);
+            }
+        });
+        // 打开系统检测
+        function openSys() {
+            window.open("WorkOrder/SystemDetection.aspx");
+        }
+
+        // 使用须知
+        function openUserNotice() {
+            window.open("Attach/OCSM_系统环境设置_20161126_V1.0.pdf");
+        }
+
+    </script>
+    <style type="text/css">
+        body, ul, p, dl, dd, input, button {
+            margin: 0;
+            padding: 0;
+        }
+
+        ul {
+            list-style: none;
+        }
+
+        body {
+            background: #F3F3F3;
+        }
+
+        body, input, button {
+            font: 14px/1.6 微软雅黑;
+        }
+
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+
+            a:hover {
+            }
+
+        html, body {
+            height: 100%;
+        }
+
+        .wrap {
+            min-height: 100%;
+            margin-bottom: -60px;
+        }
+
+        footer {
+            height: 60px;
+            line-height: 60px;
+            background: #c7c7c7;
+            text-align: center;
+            color: #fff;
+        }
+
+        .login-top, .index-top p, nav, .main {
+            margin: 0 auto;
+            width: 1080px;
+        }
+
+        .main {
+            margin-top: 10px;
+            padding-bottom: 60px;
+        }
+
+        iframe {
+            vertical-align: top;
+        }
+
+        header, .login-box dd {
+            box-shadow: 0 0 4px #ccc;
+            background: #fff;
+        }
+        /*登录顶部*/
+        .login-top {
+            height: 100px;
+            line-height: 100px;
+            background: url(./_imgs/oppo.png) no-repeat 0 center;
+        }
+
+            .login-top img {
+                vertical-align: middle;
+            }
+
+            .login-top a, .index-top a {
+                float: right;
+                margin-left: 1em;
+            }
+        /*首页顶部*/
+        .index-top {
+            background: #58595E;
+        }
+
+            .index-top p {
+                line-height: 40px;
+                height: 40px;
+            }
+
+            .index-top a {
+                color: #fff;
+            }
+
+                .index-top a span {
+                    background: #FF5656;
+                    border-radius: 1em;
+                    padding: 0 .5em;
+                    margin-left: .5em;
+                }
+        /*登录框*/
+        .login-box {
+            margin-bottom: 5px;
+            margin-top: 10px;
+        }
+
+            .login-box dt {
+                font-size: 32px;
+                font-weight: bold;
+                text-align: center;
+                margin-bottom: 30px;
+            }
+
+            .login-box dd {
+                padding: 100px 80px;
+                overflow: hidden;
+                background: #fff url(./_imgs/logo.png) no-repeat 80px center;
+            }
+
+            .login-box .top {
+                text-align: center;
+                font-size: 24px;
+                margin-bottom: 1em;
+                margin-top: -20px;
+            }
+
+            .login-box ul {
+                float: right;
+                border-left: 1px solid #efefef;
+                padding-left: 80px;
+            }
+
+                .login-box ul input, .login-box ul button {
+                    width: 350px;
+                    border: 1px solid #ddd;
+                    box-sizing: border-box;
+                }
+
+                .login-box ul input {
+                    text-indent: 2em;
+                    height: 3.5em;
+                    line-height: 3.5em;
+                }
+
+                .login-box ul button {
+                    margin-top: 2em;
+                    height: 3em;
+                    line-height: 3em;
+                    background: #0BBC8D;
+                    border: 0;
+                    color: #fff;
+                    cursor: pointer;
+                }
+
+        #txtPassword {
+            border-top: 0;
+            border-top-right-radius: 0;
+            border-top-left-radius: 0;
+        }
+
+        #txtUserCode {
+            border-bottom-right-radius: 0;
+            border-bottom-left-radius: 0;
+        }
+
+        #divMessage {
+            color: red;
+            margin-bottom: -20px;
+        }
+
+        #detesystem {
+            cursor: pointer;
+        }
+
+        #usernotice {
+            cursor: pointer;
+        }
+
+        .help-info {
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+
+        .help-info-title {
+            color: red;
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        .help-info-content {
+            list-style: none;
+        }
+
+            .help-info-content li {
+                color: #343938;
+                line-height: 26px;
+            }
+
+                .help-info-content li:not(:first-child) {
+                    float: left;
+                    width: 50%;
+                }
+
+            .help-info-content .attention {
+                color: red;
+                font-weight: bolder;
+            }
+
+        .clearfix {
+            zoom: 1;
+        }
+
+            .clearfix:after {
+                content: " ";
+                display: block;
+                clear: both;
+                height: 0;
+            }
+
+        #cmdOK {
+            margin-top: 2em;
+            height: 3em;
+            line-height: 3em;
+            background: #0BBC8D;
+            border: 0;
+            color: #fff;
+            cursor: pointer;
+            text-indent: 0em;
+        }
+
+        #btnverifycode {
+            font-size: 12px;
+            text-align: left;
+            vertical-align: middle;
+            Height: 48px;
+            Width: 110px;
+            margin-bottom: .45em;
+            margin-left: .3em;
+        }
+
+        #divIsMsg {
+            width: 160px;
+            float: right;
+            margin-top: 7px;
+        }
+
+        #CheckCodeType input {
+            height: 1em;
+            width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <header>
+            <p class="login-top">
+                <a onclick="addFavorite(window.location,document.title)" href="javascript:void(0)">
+                    <span id="lblAddFav">加入收藏 </span>
+                </a>
+                <a onclick="openUserNotice()" id="usernotice">
+                    <span id="Label1">使用须知</span>
+                </a>
+                <a onclick="openSys()" id="detesystem">
+                    <span id="lblDete">检测系统</span>
+                </a>
+                <a onclick="openApp()" id="getapp" style="cursor: pointer;">
+                    <span id="Label2">移动端下载</span>
+                </a>
+                <a onclick="openBinding()" id="binding" style="cursor: pointer;">
+                    <span id="Label3">设备绑定</span>
+                </a>
+            </p>
+        </header>
+        <div class="main">
+            <dl class="login-box">
+                <dt>
+                    <span id="lblAppName">客户服务管理系统</span>
+                </dt>
+                <dd>
+                    <form name="form1" method="post" action="./FLoginNew.aspx" id="form1" role="form" class="form-horizontal">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5MDcyMDUzMzIPZBYGAgEPZBYCAgMPZBYCZg8WAh4EVGV4dAUY5a6i5oi35pyN5Yqh566h55CG57O757ufZAINDw8WAh8ABRjlrqLmiLfmnI3liqHnrqHnkIbns7vnu59kZAIPD2QWCAIKDxYCHgdWaXNpYmxlaGQCCw9kFgICBQ8WAh8BaGQCDA8WAh8BaBYCAgEPEBYCHwFoZBQrAQECAWQCDQ8WAh8BaGRkIyBzks2K12lpB3G10y96TIElrYc=">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FE75D509">
+</div>
+                        <input name="hidSessionKey" type="hidden" id="hidSessionKey" value="5bc37b76f5344add">
+                        <input name="hidLogInType" type="hidden" id="hidLogInType" value="MD5">
+                        <input name="hidMacValue" type="hidden" id="hidMacValue">
+                        <span id="lblErrorUserCodeIsNull" style="display: none;">请输入用户名！</span>
+                        <span id="lblErrorPasswordIsNull" style="display: none;">请输入密码！</span>
+                        <span id="lblErrorCheckCodeExpired" style="display: none;">验证码已过期！请重新输入！</span>
+                        <span id="lblErrorCheckCode" style="display: none;">验证码错误！</span>
+
+                        <ul>
+                            <li class="top">
+                                <span id="lblPanelHeader" class="panel-title">登&nbsp;&nbsp;&nbsp;录</span>
+                            </li>
+                            <li>
+                                <input name="txtUserCode" type="text" maxlength="100" id="txtUserCode" tabindex="1001" class="form-control" placeholder="用户名">
+                            </li>
+                            <li>
+                                <input name="txtPassword" type="password" maxlength="100" id="txtPassword" tabindex="1002" class="form-control" placeholder="密码">
+                            </li>
+
+                            
+                            <li id="divCheckCode">
+                                <input name="txtCheckCode" type="text" maxlength="100" id="txtCheckCode" tabindex="1003" class="form-control" placeholder="验证码" style="margin-top: .5em; width: 16.5em; ime-mode: disabled">
+                                <img id="checkcode" onclick="this.src=this.src+'?'" src="./SystemSetting/CheckCode.aspx" style="border-width:0px;vertical-align: bottom; height: 48px; margin-top: .5em; margin-left: .3em;">
+                                
+                            </li>
+                            
+                            
+                            <li>
+                                <input name="loguser" type="hidden" id="loguser">
+                                <input type="submit" name="cmdOK" value="登&nbsp;&nbsp;&nbsp;录" id="cmdOK" class="btn btn-primary">
+                            </li>
+                            <li style="text-align: right; margin-top: 10px;">
+                                <a href="#" id="forgetpwd" style="color: #7b7b7b;">忘记密码？</a>
+                            </li>
+                            <li id="divMessage"></li>
+                        </ul>
+                    </form>
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+
+    <footer>Copyright © 2005 ~ 2016 广东欧珀移动通信有限公司 <a target="_blank" href="http://www.miitbeian.gov.cn" rel="nofollow">粤ICP备08130115号-8</a></footer>
+    <script type="text/javascript">
+        $(function () {
+            $("#txtPassword").focus(function () {
+                $(this).select();
+            });
+
+            $("#txtUserCode").focus();
+
+            $("#btnForgetPassword").click(function () {
+                onChangePassword();
+            });
+
+            $("#forgetpwd").click(function () {
+                window.showModalDialog("./SystemSetting/FPassWordForgetMP.aspx", window, 'dialogWidth:600px;dialogHeight:450px;');
+                return false;
+            });
+        });
+
+        function addFavorite(sURL, sTitle) {
+            sURL = encodeURI(sURL);
+            try {
+                window.external.addFavorite(sURL, sTitle);
+            } catch (e) {
+                try {
+                    window.sidebar.addPanel(sTitle, sURL, "");
+                } catch (e) {
+                    alert("加入收藏失败，请使用Ctrl+D进行添加 ,或手动在浏览器里进行设置.");
+                }
+            }
+        }
+        // 设为首页
+        function setHome(url) {
+            if (document.all) {
+                document.body.style.behavior = 'url(#default#homepage)';
+                document.body.setHomePage(url);
+
+            } else {
+                alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+            }
+        }
+
+        // 封装 CryptJS的AES加密算法
+        function encryptAES(data, keyString) {
+            var key = CryptoJS.enc.Utf8.parse(keyString);
+            var iv = CryptoJS.enc.Utf8.parse(keyString);
+            var encrypted = CryptoJS.AES.encrypt(CryptoJS.enc.Utf8.parse(data), key,
+                {
+                    keySize: 128 / 8,
+                    iv: iv,
+                    mode: CryptoJS.mode.CBC,
+                    padding: CryptoJS.pad.Pkcs7
+                });
+
+            return encrypted;
+        }
+
+        // 重新设定图片的位置
+        function resetContentDiv() {
+            var contentHeight = 440;
+            var loginPanelHeight = 380;
+            var ch = (document.documentElement.clientHeight || document.body.clientHeight);
+            $("#divContainer").css("height", ch);
+            $("#divRowContent").css("height", contentHeight);
+
+            $("#divPanelLogin").css("height", loginPanelHeight);
+            $("#divPanelLogin").css("top", (ch - contentHeight) / 2 + (contentHeight - loginPanelHeight) / 2);
+
+            $("#divRowTopLeft").css("top", (ch - contentHeight) / 2 - 28 - 15);
+            $("#divRowTopRight").css("top", (ch - contentHeight) / 2 - 12 - 15);
+        }
+
+        // 弹出修改密码的对话框
+        function onChangePassword() {
+            var usercode = $("#txtUserCode").val();
+            editWindow("./SystemSetting/FUserPassWordModifyMP.aspx?usercode=" + usercode, "", 350, 350);
+            return false;
+        }
+        $("#cmdOK").click(function () {
+            var password = $("#txtPassword").val();
+           
+            // 去掉MD5加密
+            var password_session_key = $("#hidSessionKey").val();
+            $("#txtPassword").val(encryptAES(password, password_session_key));
+
+            if ($("#chkIsSavePassword").prop("checked") == true) {
+                localStorage.setItem("xrm_save_password", true);
+                localStorage.setItem("xrm_password", password);
+                localStorage.setItem("xrm_user", $("#txtUserCode").val());
+            } else {
+                localStorage.setItem("xrm_save_password", false);
+                localStorage.setItem("xrm_password", "");
+                localStorage.setItem("xrm_user", "");
+            }
+            return true;
+        });
+
+        $(function () {
+            var isSavePassword = localStorage.getItem("xrm_save_password");
+            if (isSavePassword == "true") {
+                $("#txtUserCode").val(localStorage.getItem("xrm_user"));
+                $("#txtPassword").val(localStorage.getItem("xrm_password"));
+                $("#chkIsSavePassword").prop("checked", true);
+            }
+        });
+
+        function editWindow(url, param, width, height) {
+            ///	<summary>通过window.open的方式打开窗口,窗口关闭时，可以自动刷新父窗口 joesong 20121123</summary>
+            ///	<param name="param" type="String">控制窗口的特性，默认保持为空即可</param>
+            ///	<param name="param" type="Integer">窗口的宽度，如果不传值，则默认为 1000</param>
+            ///	<param name="param" type="height">窗口的高度，如果不传值，则默认为 600</param>
+            if (width == undefined)
+                width = 1000;
+            if (height == undefined)
+                height = 600;
+
+            if (param == undefined || param == "")
+                param = ',toolbar=no,menubar=no,scrollbars=yes, resizable=yes,location=no,status=no,width=' + width + ',height=' + height;
+
+            var win = window.open(url, '', param);
+
+            var s_height = window.screen.availHeight;
+            var s_width = window.screen.availWidth;
+            var w_height = height;
+            var w_width = width;
+            if (w_height > (s_height - 30))
+                w_height = s_height - 30;
+
+            if (w_width > (s_width - 10))
+                w_width = s_width - 10;
+
+            var itop = (s_height - 30 - w_height) / 2; //获得窗口的垂直位置;
+            var ileft = (s_width - 10 - w_width) / 2; //获得窗口的水平位置;
+            win.moveTo(ileft, itop);
+        }
+
+
+        // 发送短信验证码
+        function sendVerifyCode() {
+            var txtUserCode = $("#txtUserCode").val();
+            if (txtUserCode === "" || txtUserCode === undefined || txtUserCode === null) {
+                alert("请输入用户名！");
+                return false;
+            }
+          
+            var password = $("#txtPassword").val();
+            if (password === "" || password === undefined || password === null) {
+                alert("请输入密码！");
+                return false;
+            }
+
+            var param = { phone: txtUserCode, password: password, random: Math.random() };
+            $("#reload_verifycode").show();
+            CommonScript.AjaxQuery("ashx/Ocsm_SendLoginVerifyCode.ashx", param, function (obj) {
+                if (obj != null && obj.code == "-1") {
+                    alert(obj.msg);
+                }
+                else {
+                    addCookie("secondsremained", 60, 60); // 添加cookie记录,有效时间60s
+                    settime($("#btnverifycode")); // 开始倒计时
+                }
+                $("#reload_verifycode").hide();
+            }, function (textStatus) {
+                if (textStatus === "timeout") {
+                    alert("验证码获取超时，请重新获取！");
+                }
+                else {
+                    addCookie("secondsremained", 60, 60); // 添加cookie记录,有效时间60s
+                    settime($("#btnverifycode")); // 开始倒计时
+                }
+                $("#reload_verifycode").hide();
+            });
+        }
+
+        // 发送短信验证码 开始倒计时
+        var countdown;
+        function settime(obj) {
+            countdown = getCookieValue("secondsremained");
+            if (countdown == 0) {
+                obj.removeAttr("disabled");
+                obj.val("获取验证码");
+                return;
+            } else {
+                obj.attr("disabled", true);
+                obj.val("重新获取(" + countdown + ")");
+                countdown--;
+                editCookie("secondsremained", countdown, countdown + 1);
+            }
+            setTimeout(function () { settime(obj) }, 1000) // 每1000毫秒执行一次
+        }
+
+        // 发送短信验证码 添加cookie
+        function addCookie(name, value, expiresHours) {
+            var cookieString = name + "=" + escape(value);
+            // 判断是否设置过期时间,0代表关闭浏览器时失效
+            if (expiresHours > 0) {
+                var date = new Date();
+                date.setTime(date.getTime() + expiresHours * 1000);
+                cookieString = cookieString + ";expires=" + date.toUTCString();
+            }
+            document.cookie = cookieString;
+        }
+
+        // 发送短信验证码 修改cookie的值
+        function editCookie(name, value, expiresHours) {
+            var cookieString = name + "=" + escape(value);
+            if (expiresHours > 0) {
+                var date = new Date();
+                date.setTime(date.getTime() + expiresHours * 1000); // 单位是毫秒
+                cookieString = cookieString + ";expires=" + date.toGMTString();
+            }
+            document.cookie = cookieString;
+        }
+
+        // 发送短信验证码 根据名字获取cookie的值
+        function getCookieValue(name) {
+            var strCookie = document.cookie;
+            var arrCookie = strCookie.split("; ");
+            for (var i = 0; i < arrCookie.length; i++) {
+                var arr = arrCookie[i].split("=");
+                if (arr[0] == name) {
+                    return unescape(arr[1]);
+                    break;
+                } else {
+                    return "";
+                    break;
+                }
+            }
+        }
+        function openApp() {
+            window.open("/getapp.html");
+        }
+        function openBinding() {
+            window.showModalDialog("./SystemSetting/BindLogin.aspx", window, 'dialogWidth:500px;dialogHeight:350px;');
+        }
+    </script>
+    <!--[if lt IE 8]>
+      <script type="text/javascript">
+          document.getElementById("cmdOK").disabled = true;
+          document.getElementById("divMessage").innerText = "当前浏览器不支持！IE浏览器必须是IE8及以上版本";
+      </script>
+    <![endif]-->
+    <noscript>
+        您的浏览器已经禁用了JavaScript，请启用JavaScript的支持或者将当前站点加入到受信任站点中！
+    </noscript>
+
+
+</body></html>

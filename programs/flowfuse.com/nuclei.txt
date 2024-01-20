@@ -1,0 +1,124 @@
+[caa-fingerprint] [dns] [info] dashboard.flowfuse.com [digicert.com,letsencrypt.org]
+[caa-fingerprint] [dns] [info] www.flowfuse.com
+[dns-saas-service-detection:discourse] [dns] [info] community.flowfuse.com [flowforge.hosted-by-discourse.com]
+[dns-saas-service-detection:github] [dns] [info] catalog.flowfuse.com [flowfuse.github.io]
+[caa-fingerprint] [dns] [info] flowfuse.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] app.flowfuse.com [ab4503813e32f4cd2a20728b38c9a275-1bd8b94053a2f3a6.elb.eu-west-1.amazonaws.com]
+[nameserver-fingerprint] [dns] [info] flowfuse.com [ns-cloud-c2.googledomains.com.,ns-cloud-c3.googledomains.com.,ns-cloud-c1.googledomains.com.,ns-cloud-c4.googledomains.com.]
+[caa-fingerprint] [dns] [info] app.flowfuse.com
+[caa-fingerprint] [dns] [info] status.flowfuse.com [letsencrypt.org]
+[mx-service-detector:Google Apps] [dns] [info] flowfuse.com
+[dns-saas-service-detection] [dns] [info] status.flowfuse.com [stats.uptimerobot.com]
+[mx-fingerprint] [dns] [info] flowfuse.com [5 alt1.aspmx.l.google.com.,1 aspmx.l.google.com.,5 alt2.aspmx.l.google.com.,10 alt3.aspmx.l.google.com.,10 alt4.aspmx.l.google.com.]
+[txt-fingerprint] [dns] [info] flowfuse.com ["v=spf1 include:_spf.google.com ~all"]
+[dns-saas-service-detection:github] [dns] [info] dashboard.flowfuse.com [flowforge.github.io]
+[dmarc-detect] [dns] [info] _dmarc.flowfuse.com ["v=DMARC1; p=quarantine; pct=0; rua=mailto:post-report@flowfuse.com"]
+[mx-fingerprint] [dns] [info] community.flowfuse.com [10 mx-corp1.discoursemail.com.]
+[caa-fingerprint] [dns] [info] community.flowfuse.com [letsencrypt.org]
+[caa-fingerprint] [dns] [info] catalog.flowfuse.com [digicert.com,letsencrypt.org]
+[detect-sentry] [http] [info] https://app.flowfuse.com [https://6a3f14c730324d745af15e247c24ca1a@o4505958485524480.ingest.sentry.io/4505958486441984]
+[addeventlistener-detect] [http] [info] https://flowfuse.com
+[addeventlistener-detect] [http] [info] https://community.flowfuse.com
+[email-extractor] [http] [info] https://community.flowfuse.com [stefano@poglianis.net]
+[tech-detect:vue.js] [http] [info] https://dashboard.flowfuse.com
+[tech-detect:jsdelivr] [http] [info] https://flowfuse.com
+[metatag-cms] [http] [info] https://community.flowfuse.com [Discourse 3.2.0.beta5-dev - https://github.com/discourse/discourse version 46f1c209be71d0c0d8c8a0be1ce4d3236d872807]
+[tech-detect:discourse] [http] [info] https://community.flowfuse.com
+[tech-detect:nginx] [http] [info] https://community.flowfuse.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://dashboard.flowfuse.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://dashboard.flowfuse.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://dashboard.flowfuse.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://dashboard.flowfuse.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://dashboard.flowfuse.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://dashboard.flowfuse.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://dashboard.flowfuse.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://dashboard.flowfuse.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://dashboard.flowfuse.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://dashboard.flowfuse.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://catalog.flowfuse.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://catalog.flowfuse.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://catalog.flowfuse.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://catalog.flowfuse.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://catalog.flowfuse.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://catalog.flowfuse.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://catalog.flowfuse.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://catalog.flowfuse.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://catalog.flowfuse.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://catalog.flowfuse.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://flowfuse.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://flowfuse.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://flowfuse.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://flowfuse.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://flowfuse.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://flowfuse.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://flowfuse.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://flowfuse.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://app.flowfuse.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://app.flowfuse.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://app.flowfuse.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://app.flowfuse.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://app.flowfuse.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://community.flowfuse.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://community.flowfuse.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://community.flowfuse.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://community.flowfuse.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://status.flowfuse.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://status.flowfuse.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://status.flowfuse.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://status.flowfuse.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://status.flowfuse.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://status.flowfuse.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://status.flowfuse.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://status.flowfuse.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://status.flowfuse.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://status.flowfuse.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://status.flowfuse.com
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/flowfuse.com [client transfer prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/flowfuse.com [2015-07-04T18:27:10Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/flowfuse.com [2023-07-10T09:38:55Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/flowfuse.com [2025-07-04T18:27:10Z]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/flowfuse.com [NS-CLOUD-C1.GOOGLEDOMAINS.COM,NS-CLOUD-C2.GOOGLEDOMAINS.COM,NS-CLOUD-C3.GOOGLEDOMAINS.COM,NS-CLOUD-C4.GOOGLEDOMAINS.COM]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/flowfuse.com [false]
+[robots-txt-endpoint] [http] [info] https://flowfuse.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://community.flowfuse.com/robots.txt
+[robots-txt] [http] [info] https://flowfuse.com/robots.txt
+[robots-txt] [http] [info] https://community.flowfuse.com/robots.txt
+[security-txt] [http] [info] https://flowfuse.com/.well-known/security.txt [ mailto:security@flowfuse.com]
+[security-txt] [http] [info] https://flowfuse.com/.well-known/security.txt [ mailto:security@flowfuse.com]
+[sitemap-detect] [http] [info] https://community.flowfuse.com/sitemap.xml
+[missing-sri] [http] [info] https://dashboard.flowfuse.com/ [https://www.googletagmanager.com/gtag/js?id=G-MNGVF5NCF7]
+[missing-sri] [http] [info] https://flowfuse.com/ [https://www.googletagmanager.com/gtag/js?id=G-2ZH9W82QL8,https://tag.clearbitscripts.com/v1/pk_a40db34c3e210290335fe7ad7f2a7197/tags.js,//js-eu1.hsforms.net/forms/embed/v2.js,https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.2.0/src/lite-yt-embed.min.js,//js-eu1.hs-scripts.com/26586079.js]
+[missing-sri] [http] [info] https://flowfuse.com/ [https://tag.clearbitscripts.com/v1/pk_a40db34c3e210290335fe7ad7f2a7197/tags.js,//js-eu1.hsforms.net/forms/embed/v2.js,https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.2.0/src/lite-yt-embed.min.js,//js-eu1.hs-scripts.com/26586079.js,https://www.googletagmanager.com/gtag/js?id=G-2ZH9W82QL8]
+[missing-sri] [http] [info] https://app.flowfuse.com/ [//js-eu1.hs-scripts.com/26586079.js]
+[waf-detect:varnish] [http] [info] https://catalog.flowfuse.com/
+[waf-detect:varnish] [http] [info] https://dashboard.flowfuse.com/
+[waf-detect:nginxgeneric] [http] [info] https://community.flowfuse.com/
+[ssl-issuer] [ssl] [info] status.flowfuse.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] status.flowfuse.com:443 [status.flowfuse.com]
+[ssl-issuer] [ssl] [info] flowfuse.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] flowfuse.com:443 [www.flowfuse.com,www.flowfuze.com,flowforge.com,flowfuse.com,flowfuze.com,www.flowforge.com]
+[ssl-issuer] [ssl] [info] app.flowfuse.com:443 [Amazon]
+[ssl-dns-names] [ssl] [info] app.flowfuse.com:443 [*.flowforge.com,*.flowforge.cloud,*.flowfuse.com,*.flowfuse.cloud]
+[wildcard-tls] [ssl] [info] app.flowfuse.com:443 [CN: *.flowforge.com, SAN: [*.flowforge.com *.flowforge.cloud *.flowfuse.com *.flowfuse.cloud]]
+[ssl-issuer] [ssl] [info] community.flowfuse.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] community.flowfuse.com:443 [community.flowfuse.com]
+[ssl-issuer] [ssl] [info] catalog.flowfuse.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] catalog.flowfuse.com:443 [catalog.flowfuse.com]
+[ssl-issuer] [ssl] [info] www.flowfuse.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] www.flowfuse.com:443 [flowfuze.com,www.flowforge.com,www.flowfuse.com,www.flowfuze.com,flowforge.com,flowfuse.com]
+[tls-version] [ssl] [info] www.flowfuse.com:443 [tls12]
+[tls-version] [ssl] [info] www.flowfuse.com:443 [tls13]
+[tls-version] [ssl] [info] flowfuse.com:443 [tls12]
+[ssl-issuer] [ssl] [info] dashboard.flowfuse.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] dashboard.flowfuse.com:443 [dashboard.flowfuse.com]
+[tls-version] [ssl] [info] dashboard.flowfuse.com:443 [tls12]
+[tls-version] [ssl] [info] flowfuse.com:443 [tls13]
+[tls-version] [ssl] [info] app.flowfuse.com:443 [tls12]
+[tls-version] [ssl] [info] dashboard.flowfuse.com:443 [tls13]
+[tls-version] [ssl] [info] catalog.flowfuse.com:443 [tls12]
+[tls-version] [ssl] [info] catalog.flowfuse.com:443 [tls13]
+[tls-version] [ssl] [info] app.flowfuse.com:443 [tls13]
+[tls-version] [ssl] [info] community.flowfuse.com:443 [tls12]
+[tls-version] [ssl] [info] community.flowfuse.com:443 [tls13]
+[tls-version] [ssl] [info] status.flowfuse.com:443 [tls12]
+[tls-version] [ssl] [info] status.flowfuse.com:443 [tls13]

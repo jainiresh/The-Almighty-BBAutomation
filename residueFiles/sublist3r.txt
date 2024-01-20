@@ -1,0 +1,3 @@
+opbr-api-cn.heytapmobi.com
+api-cn.store.heytapmobi.com
+api-id.store.heytapmobi.com

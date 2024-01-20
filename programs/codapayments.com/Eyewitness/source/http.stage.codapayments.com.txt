@@ -1,0 +1,17 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript">
+<!--
+11window.location="https://www.codapayments.com"
+//-->
+</script>
+</head>
+
+<body><h1>It doesn't work!</h1>
+<p>Computer Science is no more about computers than astronomy is about telescopes. - E. W. Dijkstra</p>
+<!--
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+-->
+
+</body></html>

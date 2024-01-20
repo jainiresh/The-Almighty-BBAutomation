@@ -1,0 +1,106 @@
+<html class="u-bg-transparent turbolinks-progress-bar" lang="en"><!--<![endif]--><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title>Zendesk Auth</title>
+  <link rel="stylesheet" media="screen" href="https://static.zdassets.com/classic/assets/themes/hc-32c8e5593ba8788fc203b6320160176e0cf9bafbaebbb4079b842343ba1ba6f8.css">
+  <!--[if lte IE 9]>
+  <link rel="stylesheet" media="screen" href="https://static.zdassets.com/classic/assets/ie_fixes-ed0b5724f364d90cf81cbac66463df3e65fc0fb3a3c4cfb8af3cac79e658e667.css" />
+  <![endif]-->
+
+  <link rel="stylesheet" media="screen" href="https://static.zdassets.com/classic/assets/zendeskgarden_bedrock-b3a2ac88db1c3c7bfbcf5df22bdce4dba93fc3090e33f64da5dbfc1b1d3c6c16.css">
+  <link rel="stylesheet" media="screen" href="https://static.zdassets.com/classic/assets/zendeskgarden_modals-48f7485d39033cb19f3b25119107c2a9242b166108252e10f0023f1b2b20eb7a.css">
+  <link rel="stylesheet" media="screen" href="https://static.zdassets.com/classic/assets/zendeskgarden_button-f46b8c2020555512d4cff7c4b28c5ad5fdef859a7560162b45aaa5bd7e55dd28.css">
+  <link rel="stylesheet" media="screen" href="https://static.zdassets.com/classic/assets/zendeskgarden_callouts-6e86539615686ab0aa2a19e14ecb7ffbe144878ed7960f3b4821e5b0bbc6515f.css">
+  <script src="https://static.zdassets.com/classic/assets/turbolinks-4934cb7314614db08582e0f8f532f0407f555f3b751fafeeaf6f1d2d3148d32c.js"></script>
+  <script src="https://static.zdassets.com/classic/assets/jstz-95c1a7f4b17b9627e40c082e215c03da19b6b1e3281358d2e0742225438d25cf.js"></script>
+  <script src="https://static.zdassets.com/auth/111e8e6e01b3952840fd6ff2ae791fb522c67b19/v2/auth-without-iframe.js"></script>
+  <script>
+    (function () {
+      var targetOrigin = "https://fi.support.codashop.com";
+      new App({targetOrigin: targetOrigin});
+    }).call();
+  </script><style>html.turbolinks-progress-bar::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2000;
+  background-color: #0076ff;
+  height: 3px;
+  opacity: 1;
+  width: 0%;
+  transition: width 300ms ease-out, opacity 150ms ease-in;
+  transform: translate3d(0,0,0);
+}</style>
+</head>
+<body dir="">
+<div class="modal signin" role="dialog" aria-labelledby="signin_title">
+  <div class="login help_center">
+    <div class="interface outer">
+      
+
+
+      <h2 class="updated_title" id="signin_title">
+        Kirjaudu kohteeseen Codashop Finland
+        <div class="roles_new" id="zendesk-js-login-roles">
+          <a class="switch_link role agent" mobile_deeplink="false" role="agent" target="_top" href="/access/sso?brand_id=4413666825871&amp;return_to=https%3A%2F%2Ffi.support.codashop.com%2Fhc&amp;role=agent"><span>Vaihda tukihenkilön kirjautumiseen</span><i class="chevron" alt-text=""></i></a>
+          
+        </div>
+      </h2>
+
+      <div class="interface inner">
+        
+
+        
+
+        <div class="services internal">
+          <form class="" id="login-form" autocomplete="off" action="https://codapayment.zendesk.com/access/login" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="exFH_4rY1MDPbu-4iCs8MKPmIs9RRzqTesSpI6ebNsSvL1-xzxik26ReZNlH4pYCm0LQtHU33QSN_ds3diz9Bg" autocomplete="off">
+            <input type="hidden" name="return_to_on_failure" id="return_to_on_failure" value="/auth/v2/login/signin?return_to=https%3A%2F%2Ffi.support.codashop.com%2Fhc&amp;theme=hc&amp;locale=fi&amp;brand_id=4413666825871&amp;auth_origin=4413666825871%2Ctrue%2Ctrue" autocomplete="off">
+            <input type="hidden" name="return_to" id="return_to" value="https://fi.support.codashop.com/hc" autocomplete="off">
+            <input type="hidden" name="brand_id" id="brand_id" value="4413666825871" autocomplete="off">
+            <input type="hidden" name="theme" id="theme" value="hc" autocomplete="off">
+            <input type="hidden" name="auth_origin" id="auth_origin" value="4413666825871,true,true" autocomplete="off">
+            <input type="hidden" name="form_origin" id="form_origin" value="other" autocomplete="off">
+            <div class="credentials">
+              <label for="user_email">Sähköposti</label>
+              <input autofocus="autofocus" autocomplete="email" required="required" type="email" name="user[email]" id="user_email">
+              <label for="user_password">Salasana</label>
+              <input autocomplete="current-password" class="text wide validate_password" required="required" aria-describedby="sr-password-requirements" aria-invalid="false" type="password" name="user[password]" id="user_password">
+
+                        <button name="show-hide-password-button" type="button" role="switch" id="show-password-toggle-button" aria-checked="false" aria-label="Näytä salasana">
+          <svg id="show-password-toggle-svg" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 12 12">  <g fill="currentColor">  <circle cx="6" cy="6" r="1.5"></circle>  <path d="M11.79 5.34C11.08 4.33 9.1 2 6 2S.92 4.33.21 5.34c-.28.4-.28.93 0 1.32C.92 7.67 2.9 10 6 10s5.08-2.33 5.79-3.34c.28-.39.28-.93 0-1.32zM6 8.5a2.5 2.5 0 0 1 0-5 2.5 2.5 0 0 1 0 5z"></path></g> </svg>
+</button>        <p aria-live="polite" id="sr-show-password-button-state" class="visually-hidden"></p>
+
+
+              <div class="forgot_password" id="zendesk-js-forgot-password">
+                
+              </div>
+            </div>
+
+                  <div id="required-input-error-message" class="visually-hidden" ,="" aria-live="polite">
+        Missing the following required fields: 
+      </div>
+      
+
+            <div class="clear"></div>
+
+            <button name="button" type="submit" id="sign-in-submit-button" class="c-btn c-btn--primary auth-actions">Kirjaudu sisään</button>
+</form>
+          <div class="clear"></div>
+        </div>
+
+        <div class="clear"></div>
+        <div class="clear"></div>
+      </div>
+    </div>
+
+      <div class="new_signin_footnotes">
+      </div>
+  </div>
+</div>
+
+
+<script>(function(){var js = "window['__CF$cv$params']={r:'848572a2bad99a95',t:'MTcwNTczNDEwMy43NjMwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><iframe style="position: absolute; top: 0px; left: 0px; border: medium none; visibility: hidden;" width="1" height="1"></iframe>
+
+</body></html>

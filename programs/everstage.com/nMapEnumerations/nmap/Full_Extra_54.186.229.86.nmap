@@ -1,0 +1,121 @@
+# Nmap 7.93 scan initiated Fri Dec  8 00:20:25 2023 as: /usr/bin/nmap -Pn -sCV -p80,443 --open -oN nmap/Full_Extra_54.186.229.86.nmap --system-dns --stats-every 2s 54.186.229.86
+Nmap scan report for ec2-54-186-229-86.us-west-2.compute.amazonaws.com (54.186.229.86)
+Host is up (0.24s latency).
+
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http
+|_http-title: Freshping Public Status Page
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 200 OK
+|     Date: Thu, 07 Dec 2023 18:50:32 GMT
+|     Content-Type: text/html; charset=utf-8
+|     Content-Length: 10684
+|     Connection: close
+|     Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+|     <!DOCTYPE html><html><head><meta charSet="utf-8"/><title>Freshping Public Status Page</title><link rel="shortcut icon" href="/favicon.ico"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><link rel="shortcut icon" href="https://statuspage.freshping.io/favicon.ico"/><meta name="Description" content="Create your own status page for free with Freshping."/><meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, viewport-fit=cover"/><meta name="next-head-count" content="7"/><link rel="preload" href="/_next/static/pS6dzVnFPxd5Eso59eeVo/pages/_app.js" as="script"/><link rel="preload" href="/_next/static/pS6dzVnFPxd5Eso59eeVo/pages/status.js" as="script"/><l
+|   HTTPOptions: 
+|     HTTP/1.1 200 OK
+|     Date: Thu, 07 Dec 2023 18:50:33 GMT
+|     Content-Type: text/html; charset=utf-8
+|     Content-Length: 10684
+|     Connection: close
+|     Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+|_    <!DOCTYPE html><html><head><meta charSet="utf-8"/><title>Freshping Public Status Page</title><link rel="shortcut icon" href="/favicon.ico"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><link rel="shortcut icon" href="https://statuspage.freshping.io/favicon.ico"/><meta name="Description" content="Create your own status page for free with Freshping."/><meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, viewport-fit=cover"/><meta name="next-head-count" content="7"/><link rel="preload" href="/_next/static/pS6dzVnFPxd5Eso59eeVo/pages/_app.js" as="script"/><link rel="preload" href="/_next/static/pS6dzVnFPxd5Eso59eeVo/pages/status.js" as="script"/><l
+443/tcp open  ssl/https
+| ssl-cert: Subject: commonName=statuspage.freshping.io
+| Subject Alternative Name: DNS:statuspage.freshping.io
+| Not valid before: 2023-03-28T00:00:00
+|_Not valid after:  2024-04-25T23:59:59
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 200 OK
+|     Date: Thu, 07 Dec 2023 18:50:39 GMT
+|     Content-Type: text/html; charset=utf-8
+|     Content-Length: 10687
+|     Connection: close
+|     Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+|     <!DOCTYPE html><html><head><meta charSet="utf-8"/><title>Freshping Public Status Page</title><link rel="shortcut icon" href="/favicon.ico"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><link rel="shortcut icon" href="https://statuspage.freshping.io/favicon.ico"/><meta name="Description" content="Create your own status page for free with Freshping."/><meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, viewport-fit=cover"/><meta name="next-head-count" content="7"/><link rel="preload" href="/_next/static/pS6dzVnFPxd5Eso59eeVo/pages/_app.js" as="script"/><link rel="preload" href="/_next/static/pS6dzVnFPxd5Eso59eeVo/pages/status.js" as="script"/><l
+|   HTTPOptions: 
+|     HTTP/1.1 200 OK
+|     Date: Thu, 07 Dec 2023 18:50:42 GMT
+|     Content-Type: text/html; charset=utf-8
+|     Content-Length: 10687
+|     Connection: close
+|     Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+|_    <!DOCTYPE html><html><head><meta charSet="utf-8"/><title>Freshping Public Status Page</title><link rel="shortcut icon" href="/favicon.ico"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><link rel="shortcut icon" href="https://statuspage.freshping.io/favicon.ico"/><meta name="Description" content="Create your own status page for free with Freshping."/><meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, viewport-fit=cover"/><meta name="next-head-count" content="7"/><link rel="preload" href="/_next/static/pS6dzVnFPxd5Eso59eeVo/pages/_app.js" as="script"/><link rel="preload" href="/_next/static/pS6dzVnFPxd5Eso59eeVo/pages/status.js" as="script"/><l
+|_http-title: Freshping Public Status Page
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.93%I=7%D=12/8%Time=657213F9%P=x86_64-pc-linux-gnu%r(GetR
+SF:equest,21F0,"HTTP/1\.1\x20200\x20OK\r\nDate:\x20Thu,\x2007\x20Dec\x2020
+SF:23\x2018:50:32\x20GMT\r\nContent-Type:\x20text/html;\x20charset=utf-8\r
+SF:\nContent-Length:\x2010684\r\nConnection:\x20close\r\nCache-Control:\x2
+SF:0private,\x20no-cache,\x20no-store,\x20max-age=0,\x20must-revalidate\r\
+SF:n\r\n<!DOCTYPE\x20html><html><head><meta\x20charSet=\"utf-8\"/><title>F
+SF:reshping\x20Public\x20Status\x20Page</title><link\x20rel=\"shortcut\x20
+SF:icon\"\x20href=\"/favicon\.ico\"/><meta\x20http-equiv=\"X-UA-Compatible
+SF:\"\x20content=\"IE=edge\"/><link\x20rel=\"shortcut\x20icon\"\x20href=\"
+SF:https://statuspage\.freshping\.io/favicon\.ico\"/><meta\x20name=\"Descr
+SF:iption\"\x20content=\"Create\x20your\x20own\x20status\x20page\x20for\x2
+SF:0free\x20with\x20Freshping\.\"/><meta\x20name=\"viewport\"\x20content=\
+SF:"initial-scale=1,\x20maximum-scale=1,\x20minimum-scale=1,\x20viewport-f
+SF:it=cover\"/><meta\x20name=\"next-head-count\"\x20content=\"7\"/><link\x
+SF:20rel=\"preload\"\x20href=\"/_next/static/pS6dzVnFPxd5Eso59eeVo/pages/_
+SF:app\.js\"\x20as=\"script\"/><link\x20rel=\"preload\"\x20href=\"/_next/s
+SF:tatic/pS6dzVnFPxd5Eso59eeVo/pages/status\.js\"\x20as=\"script\"/><l")%r
+SF:(HTTPOptions,2A8E,"HTTP/1\.1\x20200\x20OK\r\nDate:\x20Thu,\x2007\x20Dec
+SF:\x202023\x2018:50:33\x20GMT\r\nContent-Type:\x20text/html;\x20charset=u
+SF:tf-8\r\nContent-Length:\x2010684\r\nConnection:\x20close\r\nCache-Contr
+SF:ol:\x20private,\x20no-cache,\x20no-store,\x20max-age=0,\x20must-revalid
+SF:ate\r\n\r\n<!DOCTYPE\x20html><html><head><meta\x20charSet=\"utf-8\"/><t
+SF:itle>Freshping\x20Public\x20Status\x20Page</title><link\x20rel=\"shortc
+SF:ut\x20icon\"\x20href=\"/favicon\.ico\"/><meta\x20http-equiv=\"X-UA-Comp
+SF:atible\"\x20content=\"IE=edge\"/><link\x20rel=\"shortcut\x20icon\"\x20h
+SF:ref=\"https://statuspage\.freshping\.io/favicon\.ico\"/><meta\x20name=\
+SF:"Description\"\x20content=\"Create\x20your\x20own\x20status\x20page\x20
+SF:for\x20free\x20with\x20Freshping\.\"/><meta\x20name=\"viewport\"\x20con
+SF:tent=\"initial-scale=1,\x20maximum-scale=1,\x20minimum-scale=1,\x20view
+SF:port-fit=cover\"/><meta\x20name=\"next-head-count\"\x20content=\"7\"/><
+SF:link\x20rel=\"preload\"\x20href=\"/_next/static/pS6dzVnFPxd5Eso59eeVo/p
+SF:ages/_app\.js\"\x20as=\"script\"/><link\x20rel=\"preload\"\x20href=\"/_
+SF:next/static/pS6dzVnFPxd5Eso59eeVo/pages/status\.js\"\x20as=\"script\"/>
+SF:<l");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.93%T=SSL%I=7%D=12/8%Time=65721400%P=x86_64-pc-linux-gnu
+SF:%r(GetRequest,2A91,"HTTP/1\.1\x20200\x20OK\r\nDate:\x20Thu,\x2007\x20De
+SF:c\x202023\x2018:50:39\x20GMT\r\nContent-Type:\x20text/html;\x20charset=
+SF:utf-8\r\nContent-Length:\x2010687\r\nConnection:\x20close\r\nCache-Cont
+SF:rol:\x20private,\x20no-cache,\x20no-store,\x20max-age=0,\x20must-revali
+SF:date\r\n\r\n<!DOCTYPE\x20html><html><head><meta\x20charSet=\"utf-8\"/><
+SF:title>Freshping\x20Public\x20Status\x20Page</title><link\x20rel=\"short
+SF:cut\x20icon\"\x20href=\"/favicon\.ico\"/><meta\x20http-equiv=\"X-UA-Com
+SF:patible\"\x20content=\"IE=edge\"/><link\x20rel=\"shortcut\x20icon\"\x20
+SF:href=\"https://statuspage\.freshping\.io/favicon\.ico\"/><meta\x20name=
+SF:\"Description\"\x20content=\"Create\x20your\x20own\x20status\x20page\x2
+SF:0for\x20free\x20with\x20Freshping\.\"/><meta\x20name=\"viewport\"\x20co
+SF:ntent=\"initial-scale=1,\x20maximum-scale=1,\x20minimum-scale=1,\x20vie
+SF:wport-fit=cover\"/><meta\x20name=\"next-head-count\"\x20content=\"7\"/>
+SF:<link\x20rel=\"preload\"\x20href=\"/_next/static/pS6dzVnFPxd5Eso59eeVo/
+SF:pages/_app\.js\"\x20as=\"script\"/><link\x20rel=\"preload\"\x20href=\"/
+SF:_next/static/pS6dzVnFPxd5Eso59eeVo/pages/status\.js\"\x20as=\"script\"/
+SF:><l")%r(HTTPOptions,2A91,"HTTP/1\.1\x20200\x20OK\r\nDate:\x20Thu,\x2007
+SF:\x20Dec\x202023\x2018:50:42\x20GMT\r\nContent-Type:\x20text/html;\x20ch
+SF:arset=utf-8\r\nContent-Length:\x2010687\r\nConnection:\x20close\r\nCach
+SF:e-Control:\x20private,\x20no-cache,\x20no-store,\x20max-age=0,\x20must-
+SF:revalidate\r\n\r\n<!DOCTYPE\x20html><html><head><meta\x20charSet=\"utf-
+SF:8\"/><title>Freshping\x20Public\x20Status\x20Page</title><link\x20rel=\
+SF:"shortcut\x20icon\"\x20href=\"/favicon\.ico\"/><meta\x20http-equiv=\"X-
+SF:UA-Compatible\"\x20content=\"IE=edge\"/><link\x20rel=\"shortcut\x20icon
+SF:\"\x20href=\"https://statuspage\.freshping\.io/favicon\.ico\"/><meta\x2
+SF:0name=\"Description\"\x20content=\"Create\x20your\x20own\x20status\x20p
+SF:age\x20for\x20free\x20with\x20Freshping\.\"/><meta\x20name=\"viewport\"
+SF:\x20content=\"initial-scale=1,\x20maximum-scale=1,\x20minimum-scale=1,\
+SF:x20viewport-fit=cover\"/><meta\x20name=\"next-head-count\"\x20content=\
+SF:"7\"/><link\x20rel=\"preload\"\x20href=\"/_next/static/pS6dzVnFPxd5Eso5
+SF:9eeVo/pages/_app\.js\"\x20as=\"script\"/><link\x20rel=\"preload\"\x20hr
+SF:ef=\"/_next/static/pS6dzVnFPxd5Eso59eeVo/pages/status\.js\"\x20as=\"scr
+SF:ipt\"/><l");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Dec  8 00:21:28 2023 -- 1 IP address (1 host up) scanned in 62.69 seconds

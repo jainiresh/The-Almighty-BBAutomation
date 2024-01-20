@@ -1,0 +1,11 @@
+# Nmap 7.93 scan initiated Wed Dec 13 18:19:23 2023 as: /usr/bin/nmap -Pn -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_138.68.59.12.nmap --system-dns --stats-every 3s 138.68.59.12
+Warning: 138.68.59.12 giving up on port because retransmission cap hit (1).
+Increasing send delay for 138.68.59.12 from 0 to 5 due to 11 out of 26 dropped probes since last increase.
+Increasing send delay for 138.68.59.12 from 5 to 10 due to 19 out of 47 dropped probes since last increase.
+Increasing send delay for 138.68.59.12 from 10 to 20 due to 11 out of 22 dropped probes since last increase.
+Increasing send delay for 138.68.59.12 from 20 to 40 due to 11 out of 19 dropped probes since last increase.
+Increasing send delay for 138.68.59.12 from 40 to 80 due to 11 out of 20 dropped probes since last increase.
+Increasing send delay for 138.68.59.12 from 80 to 160 due to 11 out of 23 dropped probes since last increase.
+Increasing send delay for 138.68.59.12 from 160 to 320 due to 11 out of 23 dropped probes since last increase.
+Increasing send delay for 138.68.59.12 from 320 to 640 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 138.68.59.12 from 640 to 1000 due to 11 out of 17 dropped probes since last increase.

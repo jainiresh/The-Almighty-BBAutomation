@@ -1,0 +1,15 @@
+ar.genetec.cloud
+audit.genetec.cloud
+comp.genetec.cloud
+devx.genetec.cloud
+edge.genetec.cloud
+securitycenter.genetec.cloud
+securitycentersaas.genetec.cloud
+serviceregistry.genetec.cloud
+stratox.genetec.cloud
+synergis.genetec.cloud
+tds.genetec.cloud
+terraform.genetec.cloud
+unification.genetec.cloud
+va.genetec.cloud
+www.genetec.cloud

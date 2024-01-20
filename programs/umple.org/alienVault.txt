@@ -1,0 +1,13 @@
+academic-teams.umple.org
+architecture.umple.org
+cc.umple.org
+code.umple.org
+cruise.umple.org
+dl.umple.org
+grammar.umple.org
+jenkins.umple.org
+manual.umple.org
+metamodel.umple.org
+try.umple.org
+umple.org
+www.umple.org

@@ -1,0 +1,4 @@
+https://scfactory.genetec.one [[31m404[0m] [[35m0[0m] [traf-g1-prod.trafficmanager.net]
+https://aks-g1-2023-10-18-prod-eastus.genetec.one [[31m404[0m] [[35m0[0m]
+https://portal.genetec.one [[33m302[0m,[32m200[0m] [[35m2330[0m] [traf-g1-prod.trafficmanager.net] [[35mhttps://portal.genetec.one/login?returnUrl=%2F[0m]
+https://api.genetec.one [[33m302[0m,[32m200[0m] [[35m5655[0m] [traf-g1-prod.trafficmanager.net] [[35mhttps://api.genetec.one/swagger/index.html[0m]

@@ -1,0 +1,12 @@
+# Nmap 7.93 scan initiated Thu Nov  9 17:36:39 2023 as: /usr/bin/nmap -sCV -p80,443 --open -oN nmap/Full_Extra_142.250.183.147.nmap --system-dns --stats-every 2s 142.250.183.147
+Nmap scan report for bom07s31-in-f19.1e100.net (142.250.183.147)
+Host is up (0.052s latency).
+
+PORT    STATE SERVICE    VERSION
+80/tcp  open  http       Google httpd
+|_http-server-header: ghs
+|_http-title: Error 404 (Not Found)!!1
+443/tcp open  ssl/https?
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Nov  9 17:36:51 2023 -- 1 IP address (1 host up) scanned in 12.42 seconds

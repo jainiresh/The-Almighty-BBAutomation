@@ -1,0 +1,338 @@
+[mx-service-detector:Google Apps] [dns] [info] www.genians.com
+[mx-fingerprint] [dns] [info] www.genians.com [1 aspmx.l.google.com.,10 alt3.aspmx.l.google.com.,10 alt4.aspmx.l.google.com.,5 alt1.aspmx.l.google.com.,5 alt2.aspmx.l.google.com.]
+[dns-saas-service-detection] [dns] [info] www.genians.com [genians.com]
+[caa-fingerprint] [dns] [info] www.genians.com
+[nameserver-fingerprint] [dns] [info] www.genians.com [ns-1238.awsdns-26.org.,ns-14.awsdns-01.com.,ns-2037.awsdns-62.co.uk.,ns-830.awsdns-39.net.]
+[mx-service-detector:Google Apps] [dns] [info] docs.genians.com
+[mx-fingerprint] [dns] [info] docs.genians.com [10 alt3.aspmx.l.google.com.,10 alt4.aspmx.l.google.com.,5 alt1.aspmx.l.google.com.,5 alt2.aspmx.l.google.com.,1 aspmx.l.google.com.]
+[nameserver-fingerprint] [dns] [info] en.genians.com [ns-1238.awsdns-26.org.,ns-14.awsdns-01.com.,ns-2037.awsdns-62.co.uk.,ns-830.awsdns-39.net.]
+[dns-saas-service-detection] [dns] [info] survey.genians.com [survey.cs.zohohost.com]
+[caa-fingerprint] [dns] [info] cc50.genians.com
+[nameserver-fingerprint] [dns] [info] docs.genians.com [ns-1238.awsdns-26.org.,ns-14.awsdns-01.com.,ns-2037.awsdns-62.co.uk.,ns-830.awsdns-39.net.]
+[dns-saas-service-detection] [dns] [info] invoice.genians.com [7ro1er.books.cs.zohohost.com]
+[dns-saas-service-detection] [dns] [info] si.genians.com [www.genians.com]
+[mx-service-detector:Google Apps] [dns] [info] genians.com
+[mx-fingerprint] [dns] [info] genians.com [1 aspmx.l.google.com.,10 alt3.aspmx.l.google.com.,10 alt4.aspmx.l.google.com.,5 alt1.aspmx.l.google.com.,5 alt2.aspmx.l.google.com.]
+[nameserver-fingerprint] [dns] [info] genians.com [ns-1238.awsdns-26.org.,ns-14.awsdns-01.com.,ns-2037.awsdns-62.co.uk.,ns-830.awsdns-39.net.]
+[mx-service-detector:Google Apps] [dns] [info] en.genians.com
+[mx-fingerprint] [dns] [info] en.genians.com [10 alt3.aspmx.l.google.com.,10 alt4.aspmx.l.google.com.,5 alt1.aspmx.l.google.com.,5 alt2.aspmx.l.google.com.,1 aspmx.l.google.com.]
+[caa-fingerprint] [dns] [info] jira.genians.com
+[dns-saas-service-detection] [dns] [info] docs.genians.com [www.genians.com]
+[caa-fingerprint] [dns] [info] partner.genians.com
+[caa-fingerprint] [dns] [info] old.genians.com
+[caa-fingerprint] [dns] [info] my.genians.com
+[caa-fingerprint] [dns] [info] beta.genians.com
+[dmarc-detect] [dns] [info] _dmarc.genians.com ["v=DMARC1;p=quarantine;rua=mailto:admin@genians.com"]
+[caa-fingerprint] [dns] [info] docs.genians.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] pi-api.genians.com [d-e8jnib34yk.execute-api.ap-northeast-2.amazonaws.com]
+[mx-service-detector:Google Apps] [dns] [info] si.genians.com
+[mx-fingerprint] [dns] [info] si.genians.com [1 aspmx.l.google.com.,10 alt3.aspmx.l.google.com.,10 alt4.aspmx.l.google.com.,5 alt1.aspmx.l.google.com.,5 alt2.aspmx.l.google.com.]
+[caa-fingerprint] [dns] [info] genians.com
+[caa-fingerprint] [dns] [info] api.genians.com
+[caa-fingerprint] [dns] [info] status-service.genians.com
+[caa-fingerprint] [dns] [info] status.my.genians.com
+[dns-saas-service-detection] [dns] [info] en.genians.com [genians.com]
+[dns-saas-service-detection] [dns] [info] journey.genians.com [www.genians.com]
+[caa-fingerprint] [dns] [info] bp.genians.com
+[txt-fingerprint] [dns] [info] www.genians.com ["v=spf1 include:sender.zohobooks.com include:_spf.google.com include:mail.stibee.com include:zcsend.net include:amazonses.com ~all","google-site-verification=S3gxLIjB-rKIePF9z9aRinJJl10zJ91UOK_yk9akkNQ"]
+[dns-saas-service-detection] [dns] [info] jira.genians.com [ims.genians.com]
+[caa-fingerprint] [dns] [info] status.genians.com
+[caa-fingerprint] [dns] [info] status-web.genians.com
+[caa-fingerprint] [dns] [info] survey.genians.com [letsencrypt.org]
+[caa-fingerprint] [dns] [info] status-region.my.genians.com
+[caa-fingerprint] [dns] [info] invoice.genians.com [letsencrypt.org]
+[mx-service-detector:Google Apps] [dns] [info] journey.genians.com
+[mx-fingerprint] [dns] [info] journey.genians.com [10 alt3.aspmx.l.google.com.,10 alt4.aspmx.l.google.com.,5 alt1.aspmx.l.google.com.,5 alt2.aspmx.l.google.com.,1 aspmx.l.google.com.]
+[caa-fingerprint] [dns] [info] en.genians.com
+[caa-fingerprint] [dns] [info] journey.genians.com
+[caa-fingerprint] [dns] [info] si.genians.com
+[caa-fingerprint] [dns] [info] pi-api.genians.com
+[txt-fingerprint] [dns] [info] si.genians.com ["google-site-verification=S3gxLIjB-rKIePF9z9aRinJJl10zJ91UOK_yk9akkNQ","v=spf1 include:sender.zohobooks.com include:_spf.google.com include:mail.stibee.com include:zcsend.net include:amazonses.com ~all"]
+[txt-fingerprint] [dns] [info] genians.com ["google-site-verification=S3gxLIjB-rKIePF9z9aRinJJl10zJ91UOK_yk9akkNQ","v=spf1 include:sender.zohobooks.com include:_spf.google.com include:mail.stibee.com include:zcsend.net include:amazonses.com ~all"]
+[txt-fingerprint] [dns] [info] docs.genians.com ["google-site-verification=S3gxLIjB-rKIePF9z9aRinJJl10zJ91UOK_yk9akkNQ","v=spf1 include:sender.zohobooks.com include:_spf.google.com include:mail.stibee.com include:zcsend.net include:amazonses.com ~all"]
+[txt-fingerprint] [dns] [info] en.genians.com ["google-site-verification=S3gxLIjB-rKIePF9z9aRinJJl10zJ91UOK_yk9akkNQ","v=spf1 include:sender.zohobooks.com include:_spf.google.com include:mail.stibee.com include:zcsend.net include:amazonses.com ~all"]
+[txt-fingerprint] [dns] [info] journey.genians.com ["google-site-verification=S3gxLIjB-rKIePF9z9aRinJJl10zJ91UOK_yk9akkNQ","v=spf1 include:sender.zohobooks.com include:_spf.google.com include:mail.stibee.com include:zcsend.net include:amazonses.com ~all"]
+[nameserver-fingerprint] [dns] [info] si.genians.com [ns-2037.awsdns-62.co.uk.,ns-830.awsdns-39.net.,ns-1238.awsdns-26.org.,ns-14.awsdns-01.com.]
+[nameserver-fingerprint] [dns] [info] journey.genians.com [ns-1238.awsdns-26.org.,ns-14.awsdns-01.com.,ns-2037.awsdns-62.co.uk.,ns-830.awsdns-39.net.]
+[options-method] [http] [info] https://jira.genians.com [HEAD,GET,POST,OPTIONS]
+[options-method] [http] [info] https://invoice.genians.com [GET,OPTIONS]
+[options-method] [http] [info] https://survey.genians.com [GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS]
+[httponly-cookie-detect] [http] [info] https://partner.genians.com
+[apache-detect] [http] [info] https://partner.genians.com [Apache]
+[php-detect] [http] [info] https://partner.genians.com [8.2.13]
+[httponly-cookie-detect] [http] [info] https://survey.genians.com
+[xss-deprecated-header] [http] [info] https://survey.genians.com [1]
+[httponly-cookie-detect] [http] [info] https://invoice.genians.com
+[httponly-cookie-detect] [http] [info] https://api.genians.com
+[tech-detect:php] [http] [info] https://partner.genians.com
+[fingerprinthub-web-fingerprints:netflow-analyzer-zoho-traffic-management] [http] [info] https://invoice.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://jira.genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://jira.genians.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://jira.genians.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://jira.genians.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://jira.genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://jira.genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://jira.genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://jira.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://jira.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://jira.genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://pi-api.genians.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://pi-api.genians.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://pi-api.genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://pi-api.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://pi-api.genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://pi-api.genians.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://pi-api.genians.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://pi-api.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://pi-api.genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://pi-api.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://pi-api.genians.com
+[aws-detect:aws-api-gateway] [http] [info] https://pi-api.genians.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://partner.genians.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://partner.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://partner.genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://partner.genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://partner.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://partner.genians.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://partner.genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://partner.genians.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://partner.genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://partner.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://partner.genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://invoice.genians.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://invoice.genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://invoice.genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://invoice.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://invoice.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://invoice.genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://invoice.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://invoice.genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://my.genians.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://my.genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://my.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://my.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://my.genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://my.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://my.genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://my.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bp.genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bp.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://en.genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://en.genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://journey.genians.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://en.genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://journey.genians.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.genians.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.genians.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.genians.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bp.genians.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://docs.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://si.genians.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://bp.genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://docs.genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://en.genians.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://journey.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://si.genians.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://journey.genians.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.genians.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://genians.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://bp.genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://si.genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://bp.genians.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://docs.genians.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://si.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://docs.genians.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://si.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://bp.genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://docs.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bp.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://si.genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://journey.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://en.genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://genians.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://bp.genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://genians.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://journey.genians.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://en.genians.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://docs.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://si.genians.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://bp.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://journey.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://genians.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://docs.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://bp.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://en.genians.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://si.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://journey.genians.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://genians.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://journey.genians.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://en.genians.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://si.genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://genians.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://journey.genians.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://en.genians.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://si.genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://docs.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://journey.genians.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://en.genians.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://si.genians.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://en.genians.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://docs.genians.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://docs.genians.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://docs.genians.com
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/genians.com/v2.0/.well-known/openid-configuration [c86959ed-45e5-47f5-8ef5-308ca79916fc]
+[apple-app-site-association] [http] [info] https://invoice.genians.com/apple-app-site-association [TZ824L8Y37.com.zoho.zbooks]
+[robots-txt-endpoint] [http] [info] https://jira.genians.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://partner.genians.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://invoice.genians.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://survey.genians.com/robots.txt
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/genians.com [NS-14.AWSDNS-01.COM,NS-2037.AWSDNS-62.CO.UK,NS-830.AWSDNS-39.NET,NS-1238.AWSDNS-26.ORG]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/genians.com [false]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/genians.com [client transfer prohibited,client update prohibited,client delete prohibited]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/genians.com [2015-05-18T13:39:34Z]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/genians.com [2023-08-07T03:03:25Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/genians.com [2024-05-18T13:39:34Z]
+[robots-txt] [http] [info] https://survey.genians.com/robots.txt
+[missing-sri] [http] [info] https://invoice.genians.com/ [https://css.zohostatic.com/books/Jan_12_2024_1_25495//zbooks/assets/login.js]
+[missing-sri] [http] [info] https://www.zoho.com/survey/ [//www.zohowebstatic.com/sites/zweb/js/common/var_init.js,//www.zohowebstatic.com/sites/zweb/js/common/zcms.js,//www.zohowebstatic.com/sites/zweb/js/common/slick-plugin.js,//www.zohowebstatic.com/sites/zweb/js/common/zohocustom.js,//www.zohowebstatic.com/sites/zweb/js/product/survey.js,//www.zohowebstatic.com/sites/zweb/js/translation/survey/2870.js]
+[missing-sri] [http] [info] https://my.genians.com/ [https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js?ver=6.4.2,https://my.genians.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.3,https://my.genians.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2,https://my.genians.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.18.2,https://my.genians.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=4.5.2,https://my.genians.com/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=4.9.5,https://my.genians.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1,https://my.genians.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2,https://my.genians.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef,https://my.genians.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://my.genians.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1,https://my.genians.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.18.2,https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js?ver=6.4.2,https://my.genians.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.3,https://my.genians.com/wp-content/plugins/events-tracker-for-elementor/frontend/js/app.js?ver=1698668548,https://my.genians.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.18.2,https://my.genians.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0,https://my.genians.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.18.2,https://my.genians.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3,https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js?ver=6.4.2,https://my.genians.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://my.genians.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1,https://my.genians.com/wp-content/uploads/astra-addon/astra-addon-658038a7f2e1e7-62807319.js?ver=4.5.2,https://my.genians.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2]
+[missing-sri] [http] [info] https://my.genians.com/ [https://my.genians.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.3,https://my.genians.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2,https://my.genians.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2,https://my.genians.com/wp-content/plugins/events-tracker-for-elementor/frontend/js/app.js?ver=1698668548,https://my.genians.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0,https://my.genians.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.18.2,https://my.genians.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1,https://my.genians.com/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=4.9.5,https://my.genians.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3,https://my.genians.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,https://my.genians.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1,https://my.genians.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2,https://my.genians.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef,https://my.genians.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.18.2,https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js?ver=6.4.2,https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js?ver=6.4.2,https://my.genians.com/wp-content/uploads/astra-addon/astra-addon-658038a7f2e1e7-62807319.js?ver=4.5.2,https://my.genians.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.3,https://my.genians.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.18.2,https://my.genians.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0,https://my.genians.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1,https://my.genians.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.18.2,https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js?ver=6.4.2,https://my.genians.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=4.5.2]
+[jira-detect] [http] [info] https://jira.genians.com/jira/secure/Dashboard.jspa [9.4.14]
+[waf-detect:apachegeneric] [http] [info] https://jira.genians.com/
+[waf-detect:apachegeneric] [http] [info] https://partner.genians.com/
+[waf-detect:ats] [http] [info] https://my.genians.com/
+[waf-detect:ats] [http] [info] https://api.genians.com/
+[wordpress-detect:version_by_js] [http] [info] https://my.genians.com [6.4.2]
+[wordpress-detect:version_by_js] [http] [info] https://my.genians.com/ [6.4.2]
+[wordpress-astra-widgets:detected_version] [http] [info] https://si.genians.com/wp-content/plugins/astra-widgets/readme.txt [1.2.12] [last_version="1.2.12"]
+[wordpress-astra-widgets:detected_version] [http] [info] https://genians.com/wp-content/plugins/astra-widgets/readme.txt [1.2.12] [last_version="1.2.12"]
+[wordpress-astra-widgets:detected_version] [http] [info] https://www.genians.com/wp-content/plugins/astra-widgets/readme.txt [1.2.12] [last_version="1.2.12"]
+[wordpress-astra-widgets:detected_version] [http] [info] https://en.genians.com/wp-content/plugins/astra-widgets/readme.txt [1.2.12] [last_version="1.2.12"]
+[wordpress-astra-widgets:detected_version] [http] [info] https://journey.genians.com/wp-content/plugins/astra-widgets/readme.txt [1.2.12] [last_version="1.2.12"]
+[wordpress-hello-dolly:outdated_version] [http] [info] https://journey.genians.com/wp-content/plugins/hello-dolly/readme.txt [1.7.2] [last_version="1.7.3"]
+[wordpress-hello-dolly:outdated_version] [http] [info] https://si.genians.com/wp-content/plugins/hello-dolly/readme.txt [1.7.2] [last_version="1.7.3"]
+[wordpress-hello-dolly:outdated_version] [http] [info] https://genians.com/wp-content/plugins/hello-dolly/readme.txt [1.7.2] [last_version="1.7.3"]
+[wordpress-hello-dolly:outdated_version] [http] [info] https://www.genians.com/wp-content/plugins/hello-dolly/readme.txt [1.7.2] [last_version="1.7.3"]
+[wordpress-hello-dolly:outdated_version] [http] [info] https://en.genians.com/wp-content/plugins/hello-dolly/readme.txt [1.7.2] [last_version="1.7.3"]
+[wordpress-updraftplus:detected_version] [http] [info] https://www.genians.com/wp-content/plugins/updraftplus/readme.txt [1.23.16] [last_version="1.23.14"]
+[wordpress-updraftplus:detected_version] [http] [info] https://journey.genians.com/wp-content/plugins/updraftplus/readme.txt [1.23.16] [last_version="1.23.14"]
+[wordpress-updraftplus:detected_version] [http] [info] https://si.genians.com/wp-content/plugins/updraftplus/readme.txt [1.23.16] [last_version="1.23.14"]
+[wordpress-updraftplus:detected_version] [http] [info] https://genians.com/wp-content/plugins/updraftplus/readme.txt [1.23.16] [last_version="1.23.14"]
+[wordpress-w3-total-cache:detected_version] [http] [info] https://genians.com/wp-content/plugins/w3-total-cache/readme.txt [2.6.1] [last_version="2.6.0"]
+[wordpress-w3-total-cache:detected_version] [http] [info] https://journey.genians.com/wp-content/plugins/w3-total-cache/readme.txt [2.6.1] [last_version="2.6.0"]
+[wordpress-w3-total-cache:detected_version] [http] [info] https://www.genians.com/wp-content/plugins/w3-total-cache/readme.txt [2.6.1] [last_version="2.6.0"]
+[wordpress-w3-total-cache:detected_version] [http] [info] https://en.genians.com/wp-content/plugins/w3-total-cache/readme.txt [2.6.1] [last_version="2.6.0"]
+[wordpress-w3-total-cache:detected_version] [http] [info] https://si.genians.com/wp-content/plugins/w3-total-cache/readme.txt [2.6.1] [last_version="2.6.0"]
+[wordpress-wordpress-importer:detected_version] [http] [info] https://journey.genians.com/wp-content/plugins/wordpress-importer/readme.txt [0.8.1] [last_version="0.8.1"]
+[wordpress-wordpress-importer:detected_version] [http] [info] https://si.genians.com/wp-content/plugins/wordpress-importer/readme.txt [0.8.1] [last_version="0.8.1"]
+[wordpress-wordpress-importer:detected_version] [http] [info] https://www.genians.com/wp-content/plugins/wordpress-importer/readme.txt [0.8.1] [last_version="0.8.1"]
+[wordpress-wordpress-importer:detected_version] [http] [info] https://genians.com/wp-content/plugins/wordpress-importer/readme.txt [0.8.1] [last_version="0.8.1"]
+[wordpress-wordpress-importer:detected_version] [http] [info] https://en.genians.com/wp-content/plugins/wordpress-importer/readme.txt [0.8.1] [last_version="0.8.1"]
+[wordpress-wp-smushit:detected_version] [http] [info] https://journey.genians.com/wp-content/plugins/wp-smushit/readme.txt [3.15.3] [last_version="3.15.1"]
+[wordpress-wp-smushit:detected_version] [http] [info] https://si.genians.com/wp-content/plugins/wp-smushit/readme.txt [3.15.3] [last_version="3.15.1"]
+[wordpress-wp-smushit:detected_version] [http] [info] https://www.genians.com/wp-content/plugins/wp-smushit/readme.txt [3.15.3] [last_version="3.15.1"]
+[wordpress-wp-smushit:detected_version] [http] [info] https://en.genians.com/wp-content/plugins/wp-smushit/readme.txt [3.15.3] [last_version="3.15.1"]
+[wordpress-wp-smushit:detected_version] [http] [info] https://genians.com/wp-content/plugins/wp-smushit/readme.txt [3.15.3] [last_version="3.15.1"]
+[wordpress-wp-statistics:detected_version] [http] [info] https://si.genians.com/wp-content/plugins/wp-statistics/readme.txt [14.3.2] [last_version="14.2"]
+[wordpress-wp-statistics:detected_version] [http] [info] https://genians.com/wp-content/plugins/wp-statistics/readme.txt [14.3.2] [last_version="14.2"]
+[wordpress-wp-statistics:detected_version] [http] [info] https://journey.genians.com/wp-content/plugins/wp-statistics/readme.txt [14.3.2] [last_version="14.2"]
+[wordpress-wp-statistics:detected_version] [http] [info] https://en.genians.com/wp-content/plugins/wp-statistics/readme.txt [14.3.2] [last_version="14.2"]
+[wordpress-wp-statistics:detected_version] [http] [info] https://www.genians.com/wp-content/plugins/wp-statistics/readme.txt [14.3.2] [last_version="14.2"]
+[wordpress-user-enum] [http] [info] https://my.genians.com/?author=1 [author/genians]
+[wp-license-file] [http] [info] https://genians.com/license.txt
+[wp-license-file] [http] [info] https://journey.genians.com/license.txt
+[wp-license-file] [http] [info] https://si.genians.com/license.txt
+[wp-license-file] [http] [info] https://en.genians.com/license.txt
+[wp-license-file] [http] [info] https://www.genians.com/license.txt
+[ssl-issuer] [ssl] [info] pi-api.genians.com:443 [Amazon]
+[ssl-dns-names] [ssl] [info] pi-api.genians.com:443 [genians.com,*.genians.com]
+[wildcard-tls] [ssl] [info] pi-api.genians.com:443 [CN: genians.com, SAN: [genians.com *.genians.com]]
+[ssl-issuer] [ssl] [info] my.genians.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] my.genians.com:443 [*.genians.com,genians.com]
+[wildcard-tls] [ssl] [info] my.genians.com:443 [CN: *.genians.com, SAN: [*.genians.com genians.com]]
+[ssl-issuer] [ssl] [info] survey.genians.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] survey.genians.com:443 [st.easypro.jp,survey.crombiewilkinson.co.uk,survey.nurseed101.com,survey.plutolms.com,survey.travelwings.com,survey.collaboris.com,survey.columinate.coop,academia.lostutores.co,survey.marketing.buygro.com,survey.srtip.ae,survey.skwill.ai,survey.striver.careers,survey.canofo.com,survey.sadjawebsolutions.com,survey.silah.com.sa,sv.ac.sa,forms.stepchange.co.jp,survey.heartofatlantagroup.com,survey.rdba.ca,10.bibanglobal.com,feedback.stellarinfo.com,survey.hisworkmanshiplabor.com,survey.korvia.com,survey.myscoolserver.com,survey.genians.com,survey.honeypoint3d.com,survey.ubuntuglobal.com,8.bibanglobal.com,feedback.elitemusic.online,feedback.nopaperforms.com,survey.eplscloud.com,survey.standingovations.com.au,9.bibanglobal.com,survey.bangertinc.com,survey.greenlight.education,survey.jdoehring.com,3.bibanglobal.com,enquete.coperbee.fr,survey.evssw.com,survey.conversion-hub.com,survey.brandoorllc.com,encuestas.lapetina.com.uy,encuestas.leadu.mx,pesquisa.cidadania4u.com.br,submit.technologyforthefuture.org,survey.anythree.com,5.bibanglobal.com,assessments.ninthfourth.com,survey.alnafitha.com,survey.ronnielistens.com,survey.westernhogexchange.com,survey.sqenta.com,survey.versational.ai,survey.wikiconsultoria.com.br,survey.bizianalytics.com,survey.nova-analyticlabs.com,survey.seen-apps.com]
+[ssl-issuer] [ssl] [info] si.genians.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] si.genians.com:443 [*.genians.com,genians.com]
+[wildcard-tls] [ssl] [info] si.genians.com:443 [CN: *.genians.com, SAN: [*.genians.com genians.com]]
+[ssl-issuer] [ssl] [info] genians.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] genians.com:443 [*.genians.com,genians.com]
+[wildcard-tls] [ssl] [info] genians.com:443 [CN: *.genians.com, SAN: [*.genians.com genians.com]]
+[ssl-issuer] [ssl] [info] jira.genians.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] jira.genians.com:443 [*.genians.com,genians.com]
+[wildcard-tls] [ssl] [info] jira.genians.com:443 [ SAN: [*.genians.com genians.com],CN: *.genians.com]
+[ssl-issuer] [ssl] [info] journey.genians.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] journey.genians.com:443 [*.genians.com,genians.com]
+[wildcard-tls] [ssl] [info] journey.genians.com:443 [CN: *.genians.com, SAN: [*.genians.com genians.com]]
+[ssl-issuer] [ssl] [info] www.genians.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] www.genians.com:443 [*.genians.com,genians.com]
+[wildcard-tls] [ssl] [info] www.genians.com:443 [CN: *.genians.com, SAN: [*.genians.com genians.com]]
+[ssl-issuer] [ssl] [info] partner.genians.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] partner.genians.com:443 [*.genians.com,genians.com]
+[wildcard-tls] [ssl] [info] partner.genians.com:443 [CN: *.genians.com, SAN: [*.genians.com genians.com]]
+[ssl-issuer] [ssl] [info] docs.genians.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] docs.genians.com:443 [*.genians.com,genians.com]
+[wildcard-tls] [ssl] [info] docs.genians.com:443 [CN: *.genians.com, SAN: [*.genians.com genians.com]]
+[deprecated-tls] [ssl] [info] jira.genians.com:443 [tls10]
+[ssl-issuer] [ssl] [info] api.genians.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] api.genians.com:443 [*.genians.com,genians.com]
+[wildcard-tls] [ssl] [info] api.genians.com:443 [CN: *.genians.com, SAN: [*.genians.com genians.com]]
+[ssl-issuer] [ssl] [info] en.genians.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] en.genians.com:443 [*.genians.com,genians.com]
+[wildcard-tls] [ssl] [info] en.genians.com:443 [CN: *.genians.com, SAN: [*.genians.com genians.com]]
+[deprecated-tls] [ssl] [info] jira.genians.com:443 [tls11]
+[deprecated-tls] [ssl] [info] api.genians.com:443 [tls10]
+[deprecated-tls] [ssl] [info] my.genians.com:443 [tls10]
+[deprecated-tls] [ssl] [info] api.genians.com:443 [tls11]
+[deprecated-tls] [ssl] [info] my.genians.com:443 [tls11]
+[ssl-issuer] [ssl] [info] invoice.genians.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] invoice.genians.com:443 [admin.areasecurite.ca,books.tripter.com,accounts.resolu.com.au,books.shilanski.com,mybooks.unicuebox.com,quotes.touchlessnetworks.com,ampscustomer.amps-ltd.co.uk,books.ayampresident.com,finance.ook.co,books.mircmedia.com,pay.minutemenu.com,accounts.shopli.co.za,billing.megabooker.hr,books.akronenergy.in,books.nwtelco.com,books.synergy-edu.me,partners.ucraft.com,accounts.audiencenetworks.co.za,books.clarifiedaccounting.ca,books.pigi.biz,14969823019.infothink.com.au,books.artico.com.au,books.printvikings.com,books.punepropertymanagers.com,client.worldaccess.in,clientes.neointec.com,invoice.genians.com,books.cirrius.com,booksperu.zenlatam.com,clients.theeetruth.com,books.sierrasolutionsgroup.com,books.svcpl.net.in,books.techsourcepro.com,books.zolution.co,accounting.desotollc.com,accounting.innovatoholdings.com,accounting.pfindustries.com,vt.geecell.com,accounts.corrinnearmour.com,accounts.pinemedia.net,books.gofullframe.com,payments.rfmmedia.com,accounts.contextcreatives.com,b2b.magnetstore.co.za,billing.w3care.co,finance.bitsolutions.com.au,inb.genedrift.com,myaccount.brand-sauce.com,office.cox4.eu,books.a1cleaningservices.ky,accounting.logicalpros.com,be.books.eaglera.com,books.expertsolutionsindia.in,books.greenseal.org,books.zenlatam.com,payments.zolamedia.com,accounts.kavasa.in,accounts.tyrewelt.in,books.aqua.co.nz,books.elxee.com,books.sastitrip.com,online.itgbilling.com,sps.alhikma.nsw.edu.au,books.phillipebankslaw.com,books.thrillngotravel.com,payments.smallbiztrends.com]
+[tls-version] [ssl] [info] jira.genians.com:443 [tls10]
+[tls-version] [ssl] [info] my.genians.com:443 [tls10]
+[tls-version] [ssl] [info] api.genians.com:443 [tls10]
+[tls-version] [ssl] [info] jira.genians.com:443 [tls11]
+[tls-version] [ssl] [info] jira.genians.com:443 [tls12]
+[tls-version] [ssl] [info] api.genians.com:443 [tls11]
+[tls-version] [ssl] [info] my.genians.com:443 [tls11]
+[tls-version] [ssl] [info] jira.genians.com:443 [tls13]
+[tls-version] [ssl] [info] partner.genians.com:443 [tls12]
+[tls-version] [ssl] [info] pi-api.genians.com:443 [tls12]
+[weak-cipher-suites:tls-1.0] [ssl] [low] jira.genians.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] pi-api.genians.com:443 [tls13]
+[tls-version] [ssl] [info] api.genians.com:443 [tls12]
+[tls-version] [ssl] [info] my.genians.com:443 [tls12]
+[weak-cipher-suites:tls-1.0] [ssl] [low] my.genians.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] api.genians.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] jira.genians.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] api.genians.com:443 [tls13]
+[tls-version] [ssl] [info] my.genians.com:443 [tls13]
+[weak-cipher-suites:tls-1.1] [ssl] [low] my.genians.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] api.genians.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] www.genians.com:443 [tls12]
+[tls-version] [ssl] [info] si.genians.com:443 [tls12]
+[tls-version] [ssl] [info] en.genians.com:443 [tls12]
+[tls-version] [ssl] [info] docs.genians.com:443 [tls12]
+[tls-version] [ssl] [info] journey.genians.com:443 [tls12]
+[tls-version] [ssl] [info] genians.com:443 [tls12]
+[tls-version] [ssl] [info] si.genians.com:443 [tls13]
+[tls-version] [ssl] [info] www.genians.com:443 [tls13]
+[tls-version] [ssl] [info] en.genians.com:443 [tls13]
+[tls-version] [ssl] [info] docs.genians.com:443 [tls13]
+[tls-version] [ssl] [info] journey.genians.com:443 [tls13]
+[tls-version] [ssl] [info] genians.com:443 [tls13]
+[tls-version] [ssl] [info] survey.genians.com:443 [tls12]
+[tls-version] [ssl] [info] invoice.genians.com:443 [tls12]
+[tls-version] [ssl] [info] survey.genians.com:443 [tls13]
+[tls-version] [ssl] [info] invoice.genians.com:443 [tls13]

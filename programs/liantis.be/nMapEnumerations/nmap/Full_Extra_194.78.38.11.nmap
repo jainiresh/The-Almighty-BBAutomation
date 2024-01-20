@@ -1,0 +1,19 @@
+# Nmap 7.93 scan initiated Sat Dec 16 10:50:18 2023 as: /usr/bin/nmap -sCV -p443 --open -oN nmap/Full_Extra_194.78.38.11.nmap --system-dns --stats-every 2s 194.78.38.11
+Nmap scan report for 11.38-78-194.adsl-static.isp.belgacom.be (194.78.38.11)
+Host is up (0.14s latency).
+
+PORT    STATE SERVICE   VERSION
+443/tcp open  ssl/https
+| http-title: GlobalProtect Portal
+|_Requested resource was /global-protect/login.esp
+|_ssl-date: 2023-12-16T05:21:54+00:00; +10s from scanner time.
+| ssl-cert: Subject: commonName=sslvpn-partners.liantis.be
+| Subject Alternative Name: DNS:sslvpn-partners.liantis.be, DNS:sslvpn1.liantis.be, DNS:sslvpn-moob.liantis.be
+| Not valid before: 2023-08-03T10:38:17
+|_Not valid after:  2024-09-03T10:38:16
+
+Host script results:
+|_clock-skew: 9s
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Dec 16 10:51:46 2023 -- 1 IP address (1 host up) scanned in 87.38 seconds

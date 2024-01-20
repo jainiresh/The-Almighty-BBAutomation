@@ -1,0 +1,358 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="files/layout.css">
+  <script type="text/javascript" src="files/script.js"></script>
+  <title>Umple: Merging Modeling with Programming</title>
+<style>
+p.spacedOut {padding:0 0 20px 0;}
+img {border:none;}
+
+.button {
+   border-top: 1px solid #d3bc8f;
+   line-height: 2;
+   background: #bf5f3f;
+   background: -webkit-gradient(linear, left top, left bottom, from(#9a4d34), to(#bf5f3f));
+   background: -webkit-linear-gradient(top, #9a4d34, #bf5f3f);
+   background: -moz-linear-gradient(top, #9a4d34, #bf5f3f);
+   background: -ms-linear-gradient(top, #9a4d34, #bf5f3f);
+   background: -o-linear-gradient(top, #9a4d34, #bf5f3f);
+   padding: 5px 10px;
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 14px;
+   font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #810b09;
+   background: #810b09;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #810b09;
+   background: #810b09;
+   }
+   
+</style><style type="text/css">.dp-c .vars { color: #d00; }</style></head>
+
+<body>
+
+  <table>
+  <tbody>
+  <tr>
+    <td class="indicatorBlocks"><img src="files/indicator_blocks.gif"></td>
+
+    <td class="menu">
+      <div class="title"><a href="https://cruise.umple.org/umple">Umple Home<br>Page</a></div>
+
+        <div class="level1">Key Links</div>
+        
+        <div class="level2"><b><a href="https://try.umple.org">Umple Online</a></b></div>
+
+        <div class="level2"><b><a href="https://manual.umple.org">User Manual</a></b></div>
+        
+        <div class="level2"><b><a href="https://hub.docker.com/r/umple/umpleonline/">Docker site</a></b></div>  
+
+        <div class="level2"><b><a href="https://github.com/umple/umple">Github 
+site</a></b></div>
+
+        <div class="level2"><b><a href="https://stackoverflow.com/questions/tagged/umple">Stack Overflow</a></b></div>
+
+        <div class="level2"><b><a href="https://github.com/umple/Umple/wiki">Wiki</a></b></div>
+
+        <div class="level2"><b><a href="https://tims-ideas.blogspot.com/search/label/Umple">Blog
+         </a></b></div>
+
+        <div class="level2"><b><a href="https://github.com/umple/Umple/wiki/examples"> 
+Additional Examples</a></b></div>
+
+
+        <div class="level2"><b><a href="https://github.com/umple/Umple/wiki/PhilosophyAndVision">Philosophy 
+</a></b></div>
+
+        <div class="level2"><b><a href="https://github.com/umple/umple/wiki/Tutorials">Tutorials 
+</a></b></div>
+
+        <div class="level2"><b><a href="https://github.com/umple/umple/wiki/BestUmpleUsePractices">Best practices 
+</a></b></div>
+
+
+ 
+
+        <div class="level1">Downloads</div>
+        
+        <div class="level2"><b><a href="https://github.com/umple/umple/releases">Releases 
+</a></b></div>
+
+        <div class="level2"><b><a href="https://cruise.umple.org/scripts/umple.jar">Latest built jar 
+</a></b></div>
+        
+        <div class="level2"><b><a href="https://cruise.umple.org/umpleonline/download_umple.shtml">Instructions 
+</a></b></div>
+
+        <div class="level2"><b><a href="https://github.com/umple/umple/blob/master/LICENSE.md">License 
+</a></b></div>
+
+
+
+        <div class="level1">For Researchers</div>
+
+         
+        <div class="level2"><b><a href="https://github.com/umple/umple/wiki/Publications">Publications
+</a></b></div>
+
+        <div class="level2"><b><a href="https://www.citeulike.org/group/18117">CiteULike
+</a></b></div>
+
+
+        <div class="level2"><b><a href="https://www.mendeley.com/groups/3493941/umple/papers/">Mendeley
+</a></b></div>
+
+        <div class="level1">Social Media</div>
+
+        <div class="level2"><a href="https://www.facebook.com/umple.org" target="social">Facebook
+         </a></div>
+
+        <div class="level2"><a href="https://twitter.com/umpleorg" target="social">Twitter
+         </a></div>
+
+        <div class="level2"><a href="https://www.quora.com/search?q=umple" target="social">Quora questions</a></div>
+
+        <div class="level2"><a href="https://www.youtube.com/playlist?list=PLA6E9B1AE9E2D6677" target="social">YouTube
+         </a></div>
+
+        <div class="level2"><a href="https://en.wikipedia.org/wiki/Umple" target="social">Wikipedia</a></div>
+
+        <div class="level2"><a href="https://www.openhub.net/p/Umple" target="social">Openhub
+         </a></div>
+
+        <div class="level1">Mailing Lists</div>
+
+ 
+        <div class="level2"><a href="https://groups.google.com/group/umple">Main list
+         </a></div>
+
+        <div class="level2"><a href="https://groups.google.com/forum/#!forum/umple-help">Help list
+         </a></div>
+
+        <div class="level2"><a href="https://groups.google.com/forum/#!forum/umple-dev">Dev list
+         </a></div>
+
+
+        <div class="level1">Team</div>
+
+        <div class="level2"><a href="https://github.com/orgs/umple/people">Developers
+         </a></div>
+
+        <div class="level2"><a href="https://github.com/umple/umple/wiki/ucosp">Capstone students
+         </a></div>
+
+
+        <div class="level1">Development status</div>
+ 
+        <div class="level2"><a href="https://jenkins.umple.org">CI: Jenkins
+         </a></div>
+
+        <div class="level2"><a href="https://ci.appveyor.com/project/vahdat-ab/umple">CI: Appveyor
+         </a></div>
+           
+        <div class="level2"><a href="https://cruise.umple.org/qa/index.php">Test report
+         </a></div>
+
+        <div class="level2"><a href="https://cruise.umple.org/umple/UmpleGrammar.html">Grammar
+         </a></div>
+
+        <div class="level2"><a href="https://cruise.umple.org/umple/umple-compiler-classDiagram.shtml">Class diagram of Umple
+         </a></div>
+
+        <div class="level2"><a href="https://github.com/umple/umple/wiki/Architecture">Architecture
+         </a></div>
+
+        <div class="level2"><a href="https://github.com/umple/umple/issues">Issues
+         </a></div>
+
+        <div class="level2"><a href="https://github.com/umple/Umple/issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc+">Recent 
+changes
+         </a></div>
+
+        <div class="level2"><a href="https://github.com/umple/umple/wiki/CheatSheet">Cheat sheet
+         </a></div>
+
+
+
+
+        <div class="level1">Related Sites</div>
+ 
+        <div class="level2"><a href="https://cruise.umple.org/">Cruise Home page</a></div>
+        
+        <div class="level2"><a href="https://www.eecs.uottawa.ca/~tcl/">Dr. Lethbridge Home page</a></div>
+
+        <div class="level2"><a href="https://alliancecan.ca/en/services/research-software/canadian-research-software-platforms">Research software listing
+         </a></div>
+
+
+    </td>
+
+    <td class="dotSeparator"><img src="files/dots.gif" alt="list of dots"></td>
+
+      <td class="content">
+
+      <h1>
+      <img src="files/umple_logo.jpg" title="The Umple Programming 
+Language" height="44px">
+ 
+     <span style="float: right">
+       <a href="https://www.uottawa.ca" target="uottawatab" title="Umple is led by Timothy Lethbridge, professor at the University of Ottawa. Much of the development has been by graduate students at uOttawa. The UOttawa Faculty of Engineering provides hosting support for UmpleOnline."><img src="files/uottawa_ver_black.png" alt="University of Ottawa logo / UniversitÃ© d'Ottawa" height="44px"></a>        
+     </span>
+     </h1>
+      
+     <a class="button" href="https://try.umple.org" title="UmpleOnline allows you to create Umple (UML-like) Models textually or 
+graphically, embed other code in them, analyse the models, and generated executable systems right in your browser.">UmpleOnline</a>&nbsp;
+     <a class="button" href="https://manual.umple.org" title="The Umple User manual documents every feature and error or warning 
+message in Umple, with live examples that can be loaded into UmpleOnline.">Manual</a>&nbsp;
+     <a class="button" href="https://cruise.umple.org/umpleonline/download_umple.shtml" title="You can download the latest Umple 
+Java Jar for command-line 
+use, or a Docker image of UmpleOnline, or plugins for tools like Eclipse and Visual Studio Code.">Download</a>&nbsp;
+
+     <span style="white-space:nowrap;">
+     <a class="button" href="https://github.com/umple/umple" title="Unple is an open source project hosted by GitHub.">Code&nbsp;<img src="files/Octocat.jpg" height="12/"></a></span>&nbsp;
+
+     <span style="white-space:nowrap;">
+     <a class="button" href="https://www.facebook.com/umple.org" target="social" title="News about major releases, major 
+contributions and so on are posted to Umple's Facebook Group.">News&nbsp;<img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/FB-fLogo-Blue-broadcast-2.png" height="12/"></a></span>
+
+     <span style="white-space:nowrap;">
+     <a class="button" href="https://alumni.uottawa.ca/donation-form?fid=bp71rD2pbt0%3d&amp;fdesc=vj8yiR3kw2%2bPwQCmy1Z8CfKc0F1zufF0wBCY%2fxboCy4%2bHJZne7BoLhQuKHwuRN4R5bhBEciI1Gn5RbPGt1TgEQ%3d%3d" target="donatepage" title="Even a small donation of $3 would be helpful, to fund students working to develop Umple, research into Umple, and operation costs. A University of Ottawa charitable tax receipt will be issued">Donate&nbsp;</a></span>
+
+     <p></p><br>
+
+<h2>Model-Oriented Programming - Umple.org </h2>
+  
+      <p>Umple is a <i>modeling tool</i> and <i>programming language family</i> to 
+enable
+what we call Model-Oriented Programming. It adds abstractions such as
+Associations, Attributes and State Machines derived from UML to
+object-oriented programming languages such as Java, C++, PHP and Ruby. Umple 
+can also
+be used to create UML class and state diagrams textually.</p>
+      
+      <p>Umple is an open source project that can be used for real systems in industry. In fact the Umple compiler  itself
+is written in Umple. Any Java, C++ or PHP project can be adapted to use Umple.  We have
+found the resulting code to be more readable and have many fewer lines. 
+This
+is because Umple means you can avoid having to write a lot of 
+'boilerplate'
+code that would be needed to implement associations and attributes, a 
+system
+based on Umple should also be less bug-prone.</p>
+
+      <p>Umple has also been found to help students learn UML faster in 
+the
+classroom.</p>
+
+
+      <p>Umple works <a href="https://try.umple.org">online</a>, as an <a href="https://cruise.umple.org/umpleonline/download_umple.shtml">Eclipse plugin</a>, and as a 
+stand-alone command-line Jar. For further information and downloads, see the left margin.</p>
+
+      
+&nbsp;<br>
+      <h2>Example</h2>
+      
+      <p>
+      The following example shows how to declare attributes and 
+associations 
+      in the first steps when modeling a system using Umple.
+      </p>
+      
+      <div class="dp-highlighter"><div class="bar"><div class="tools"><a href="#" onclick="dp.sh.Toolbar.Command('ViewSource',this);return false;">view plain</a></div></div><ol class="dp-c" start="1"><li class="alt"><span><span class="keyword">class</span><span>&nbsp;Student&nbsp;{}&nbsp;&nbsp;</span></span></li><li class=""><span>&nbsp;&nbsp;</span></li><li class="alt"><span><span class="keyword">class</span><span>&nbsp;CourseSection&nbsp;{}&nbsp;&nbsp;</span></span></li><li class=""><span>&nbsp;&nbsp;</span></li><li class="alt"><span><span class="keyword">class</span><span>&nbsp;Registration&nbsp;&nbsp;&nbsp;</span></span></li><li class=""><span>{&nbsp;&nbsp;</span></li><li class="alt"><span>&nbsp;&nbsp;String&nbsp;grade;&nbsp;&nbsp;</span></li><li class=""><span>&nbsp;&nbsp;*&nbsp;--&nbsp;1&nbsp;Student;&nbsp;&nbsp;</span></li><li class="alt"><span>&nbsp;&nbsp;*&nbsp;--&nbsp;1&nbsp;CourseSection;&nbsp;&nbsp;</span></li><li class=""><span>}&nbsp;&nbsp;</span></li><li class="alt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li></ol></div><pre name="code" class="c-sharp" style="display: none;">class Student {}
+
+class CourseSection {}
+
+class Registration 
+{
+  String grade;
+  * -- 1 Student;
+  * -- 1 CourseSection;
+}
+      </pre>
+      
+      <p class="spacedOut">
+      The class diagram to reflect the Umple code above is shown below.
+      </p>
+
+      
+      <p>
+      <img src="files/umple_example_uml.jpg" title="Umple Example in UML 
+diagram" ,="" height="50/">
+      </p>
+
+<p>Many other examples can be found in the <a href="https://manual.umple.org">Umple user manual</a>, in <a href="https://try.umple.org">UmpleOnline</a> and on the <a href="https://github.com/umple/Umple/wiki/examples">Umple Examples 
+Wiki page</a>.</p>
+
+
+&nbsp;<br>
+
+      
+&nbsp;<br>
+      
+      <h2>Origin of the name Umple</h2>
+      
+      <p>
+      The word 'Umple' is a play on words, meaning 'Simple', 'UML 
+Programming Language' and 'Ample'. 
+      Let us expand on these concepts a little:
+      </p>
+      
+      <p>
+      <b>Simple:</b>
+
+      Umple is intended to be simple from the programmer's perspective 
+because, 
+      a) there is less code to write, and b) there are fewer degrees of 
+freedom than either Java or UML. 
+      Code that is eliminated includes boilerplate code for adding, 
+deleting and modifying links of 
+      associations, as well as constructors and methods for accessing 
+attributes. In all these cases, 
+      and many others, Umple provides sensible default implementations.
+      </p>
+      
+      <p>
+      <b>UML Programming Language:</b> Umple adds key features of UML to 
+its target languages.  Namely, the 
+      addition of association constructs and the simplification of 
+attribute declarations.
+      </p>
+      
+      <p>
+      <b>Ample:</b> Despite the restrictions imposed by the deliberate 
+simplicity of Umple, 
+      it is intended to have sufficient power to program the functional 
+layer of most kinds of systems.
+      </p>
+
+
+      
+      </td>
+    </tr>
+  </tbody></table>
+<link type="text/css" rel="stylesheet" href="syntaxhighlighter/SyntaxHighlighter.css">
+<script language="javascript" src="syntaxhighlighter/shCore.js"></script>
+<script language="javascript" src="syntaxhighlighter/shBrushCSharp.js"></script>
+<script language="javascript" src="syntaxhighlighter/shBrushXml.js"></script>
+<script language="javascript">
+dp.SyntaxHighlighter.ClipboardSwf = 'syntaxhighlighter/clipboard.swf';
+dp.SyntaxHighlighter.HighlightAll('code');
+</script>
+
+
+
+</body></html>

@@ -1,0 +1,20 @@
+# Nmap 7.93 scan initiated Wed Dec 13 18:18:43 2023 as: /usr/bin/nmap -sCV -p22,80,443 --open -oN nmap/Full_Extra_138.68.5.31.nmap --system-dns --stats-every 2s 138.68.5.31
+Nmap scan report for 138.68.5.31
+Host is up (0.29s latency).
+
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      OpenSSH 8.2p1 Ubuntu 4ubuntu0.9 (Ubuntu Linux; protocol 2.0)
+80/tcp  open  http     nginx 1.18.0 (Ubuntu)
+|_http-title: 404 Not Found
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+443/tcp open  ssl/http nginx 1.18.0 (Ubuntu)
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=campaign-api.termii.com
+| Subject Alternative Name: DNS:campaign-api.termii.com, DNS:www.campaign-api.termii.com
+| Not valid before: 2023-10-24T04:26:52
+|_Not valid after:  2024-01-22T04:26:51
+|_http-title: Site doesn't have a title (application/json).
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Dec 13 18:19:20 2023 -- 1 IP address (1 host up) scanned in 36.64 seconds

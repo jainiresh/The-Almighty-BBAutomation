@@ -1,0 +1,94 @@
+
+[0;33mRunning a Full scan on [0m13.215.144.61
+[0m
+[0;33mNo ping detected.. Will not use ping scans!
+[0m
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+[0K
+[0K
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+[0K
+[0K
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      Netlify
+|_http-title: Site doesn't have a title (text/plain; charset=utf-8).
+|_http-server-header: Netlify
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.0 400 Bad Request
+|     Date: Wed, 13 Dec 2023 10:25:42 GMT
+|     Server: Netlify
+|     X-Nf-Request-Id: 01HHHBBYT7265YNKH3Q0CTEB9W
+|     Content-Length: 0
+|   GenericLines, Help, Kerberos, LDAPSearchReq, LPDString, RTSPRequest, SSLSessionReq, TLSSessionReq, TerminalServerCookie: 
+|     HTTP/1.1 400 Bad Request
+|     Content-Type: text/plain; charset=utf-8
+|     Connection: close
+|     Request
+|   GetRequest: 
+|     HTTP/1.0 400 Bad Request
+|     Date: Wed, 13 Dec 2023 10:25:37 GMT
+|     Server: Netlify
+|     X-Nf-Request-Id: 01HHHBBSKGM7H8R14F155FM3PR
+|     Content-Length: 0
+|   HTTPOptions: 
+|     HTTP/1.0 400 Bad Request
+|     Date: Wed, 13 Dec 2023 10:25:37 GMT
+|     Server: Netlify
+|     X-Nf-Request-Id: 01HHHBBSPAF2B9SYW55MF2XHZY
+|_    Content-Length: 0
+443/tcp open  ssl/https Netlify
+|_http-server-header: Netlify
+| ssl-cert: Subject: commonName=*.netlify.app/organizationName=Netlify, Inc/stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:*.netlify.app, DNS:netlify.app
+| Not valid before: 2022-12-21T00:00:00
+|_Not valid after:  2024-01-21T23:59:59
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.0 400 Bad Request
+|     Date: Wed, 13 Dec 2023 10:25:43 GMT
+|     Server: Netlify
+|     X-Nf-Request-Id: 01HHHBBZA1X45ZPXW91ACKAYPJ
+|     Content-Length: 0
+|   GenericLines, Help, Kerberos, LDAPSearchReq, LPDString, RTSPRequest, SSLSessionReq, TLSSessionReq, TerminalServerCookie: 
+|     HTTP/1.1 400 Bad Request
+|     Content-Type: text/plain; charset=utf-8
+|     Connection: close
+|     Request
+|   GetRequest: 
+|     HTTP/1.0 400 Bad Request
+|     Date: Wed, 13 Dec 2023 10:25:42 GMT
+|     Server: Netlify
+|     X-Nf-Request-Id: 01HHHBBYVDG5VCZC5PC26RNEZ1
+|     Content-Length: 0
+|   HTTPOptions: 
+|     HTTP/1.0 400 Bad Request
+|     Date: Wed, 13 Dec 2023 10:25:42 GMT
+|     Server: Netlify
+|     X-Nf-Request-Id: 01HHHBBZ2P4RXN4GTH44WGXVGB
+|_    Content-Length: 0
+|_http-title: Site doesn't have a title (text/plain; charset=utf-8).
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 2 seconds
+[0m

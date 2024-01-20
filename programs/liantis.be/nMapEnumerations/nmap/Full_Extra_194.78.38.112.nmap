@@ -1,0 +1,22 @@
+# Nmap 7.93 scan initiated Sat Dec 16 10:56:19 2023 as: /usr/bin/nmap -sCV -p443 --open -oN nmap/Full_Extra_194.78.38.112.nmap --system-dns --stats-every 2s 194.78.38.112
+Nmap scan report for 112.38-78-194.adsl-static.isp.belgacom.be (194.78.38.112)
+Host is up (0.16s latency).
+
+PORT    STATE SERVICE  VERSION
+443/tcp open  ssl/http Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_ssl-date: 2023-12-16T05:26:38+00:00; -1s from scanner time.
+| ssl-cert: Subject: commonName=*.liantis.be
+| Subject Alternative Name: DNS:*.liantis.be, DNS:liantis.be
+| Not valid before: 2023-01-06T18:15:29
+|_Not valid after:  2024-02-07T18:15:28
+|_http-server-header: Microsoft-HTTPAPI/2.0
+| tls-alpn: 
+|_  http/1.1
+|_http-title: Not Found
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: -1s
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Dec 16 10:56:40 2023 -- 1 IP address (1 host up) scanned in 20.77 seconds

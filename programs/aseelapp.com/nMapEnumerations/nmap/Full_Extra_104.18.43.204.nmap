@@ -1,0 +1,35 @@
+# Nmap 7.93 scan initiated Wed Nov  8 01:36:47 2023 as: /usr/bin/nmap -sCV -p2052,2053,2082,2083,2086,2087,2095,2096,8880 --open -oN nmap/Full_Extra_104.18.43.204.nmap --system-dns --stats-every 2s 104.18.43.204
+Nmap scan report for 104.18.43.204
+Host is up (0.011s latency).
+
+PORT     STATE SERVICE  VERSION
+2052/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2053/tcp open  ssl/http nginx
+|_http-server-header: cloudflare
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+2082/tcp open  http     Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+2083/tcp open  ssl/http nginx
+|_http-server-header: cloudflare
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+2086/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2087/tcp open  ssl/http nginx
+|_http-server-header: cloudflare
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+2095/tcp open  http     Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+2096/tcp open  ssl/http nginx
+|_http-server-header: cloudflare
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+8880/tcp open  http     Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Nov  8 01:37:05 2023 -- 1 IP address (1 host up) scanned in 18.02 seconds

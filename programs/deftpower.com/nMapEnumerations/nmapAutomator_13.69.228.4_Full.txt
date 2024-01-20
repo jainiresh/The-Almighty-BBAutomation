@@ -1,0 +1,134 @@
+
+[0;33mRunning a Full scan on [0m13.69.228.4
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+[0K
+[0K
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+1221/tcp open  sweetware-apps
+4022/tcp open  dnox
+4024/tcp open  tnp1-port
+8172/tcp open  unknown
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+[0K
+[0K
+PORT     STATE SERVICE    VERSION
+80/tcp   open  http
+|_http-title: Microsoft Azure Web App - Error 404
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 404 Site Not Found
+|     Content-Length: 2667
+|     Connection: close
+|     Content-Type: text/html
+|     Date: Wed, 08 Nov 2023 19:05:18 GMT
+|     <!DOCTYPE html>
+|     <html>
+|     <head>
+|     <title>Microsoft Azure Web App - Error 404</title>
+|     <style type="text/css">
+|     html {
+|     height: 100%;
+|     width: 100%;
+|     #feature {
+|     width: 960px;
+|     margin: 75px auto 0 auto;
+|     overflow: auto;
+|     #content {
+|     font-family: "Segoe UI";
+|     font-weight: normal;
+|     font-size: 22px;
+|     color: #ffffff;
+|     float: left;
+|     margin-top: 68px;
+|     margin-left: 0px;
+|     vertical-align: middle;
+|     #content h1 {
+|     font-family: "Segoe UI Light";
+|     color: #ffffff;
+|     font-weight: normal;
+|   HTTPOptions: 
+|     HTTP/1.1 404 Site Not Found
+|     Content-Length: 2667
+|     Connection: close
+|     Content-Type: text/html
+|     Date: Wed, 08 Nov 2023 19:05:17 GMT
+|     <!DOCTYPE html>
+|     <html>
+|     <head>
+|     <title>Microsoft Azure Web App - Error 404</title>
+|     <style type="text/css">
+|     html {
+|     height: 100%;
+|     width: 100%;
+|     #feature {
+|     width: 960px;
+|     margin: 75px auto 0 auto;
+|     overflow: auto;
+|     #content {
+|     font-family: "Segoe UI";
+|     font-weight: normal;
+|     font-size: 22px;
+|     color: #ffffff;
+|     float: left;
+|     margin-top: 68px;
+|     margin-left: 0px;
+|     vertical-align: middle;
+|     #content h1 {
+|     font-family: "Segoe UI Light";
+|     color: #ffffff;
+|_    font-weight: normal;
+443/tcp  open  ssl/https
+|_ssl-date: 2023-11-08T19:07:47+00:00; 0s from scanner time.
+|_http-title: Microsoft Azure Web App - Error 404
+| ssl-cert: Subject: commonName=*.azurewebsites.net/organizationName=Microsoft Corporation/stateOrProvinceName=WA/countryName=US
+| Subject Alternative Name: DNS:*.azurewebsites.net, DNS:*.scm.azurewebsites.net, DNS:*.sso.azurewebsites.net, DNS:*.northeurope-01.azurewebsites.net, DNS:*.scm.northeurope-01.azurewebsites.net, DNS:*.sso.northeurope-01.azurewebsites.net, DNS:*.northeurope.c.azurewebsites.net, DNS:*.scm.northeurope.c.azurewebsites.net, DNS:*.sso.northeurope.c.azurewebsites.net
+| Not valid before: 2023-09-05T23:36:14
+|_Not valid after:  2024-06-27T23:59:59
+| fingerprint-strings: 
+|   TLSSessionReq: 
+|     HTTP/1.1 400 Bad Request
+|     Content-Length: 0
+|     Connection: close
+|_    Date: Wed, 08 Nov 2023 19:06:05 GMT
+| tls-alpn: 
+|_  http/1.1
+1221/tcp open  http       Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-title: Site doesn't have a title (text/plain).
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-trane-info: Problem with XML parsing of /evox/about
+4022/tcp open  dnox?
+4024/tcp open  tnp1-port?
+8172/tcp open  ssl/http   Microsoft IIS httpd 10.0
+|_ssl-date: 2023-11-08T19:07:47+00:00; 0s from scanner time.
+|_http-title: Site doesn't have a title (text/html).
+|_http-server-header: Microsoft-IIS/10.0
+| ssl-cert: Subject: commonName=waws-prod-db3-143.publish.azurewebsites.windows.net/organizationName=Microsoft Corporation/stateOrProvinceName=Washington/countryName=US
+| Subject Alternative Name: DNS:waws-prod-db3-143.publish.azurewebsites.windows.net, DNS:waws-prod-db3-143.ftp.azurewebsites.windows.net
+| Not valid before: 2023-09-11T00:00:00
+|_Not valid after:  2024-09-11T23:59:59
+| tls-alpn: 
+|_  http/1.1
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 0 seconds
+[0m

@@ -1,0 +1,11 @@
+# Nmap 7.93 scan initiated Fri Dec  8 00:39:40 2023 as: /usr/bin/nmap -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_75.2.70.75.nmap --system-dns --stats-every 3s 75.2.70.75
+Nmap scan report for aacb0a264e514dd48.awsglobalaccelerator.com (75.2.70.75)
+Host is up (0.015s latency).
+Not shown: 65533 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Fri Dec  8 00:44:03 2023 -- 1 IP address (1 host up) scanned in 263.09 seconds

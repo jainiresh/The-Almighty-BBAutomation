@@ -1,0 +1,235 @@
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>OPPO营销平台</title>
+    <meta name="keywords" content="OPPO营销,OPPO营销平台,OPPO广告,OPPO广告合作,OPPO合作,APP,应用推广,应用分发,信息流">
+    <meta name="description" content="OPPO营销平台为客户提供一站式融合营销服务。提供应用商店、浏览器、游戏等多元推广资源，覆盖锁屏杂志、智能短信等系统原生场景，贯穿消费者旅程，实现精准触达，为客户带来FAST商业增长。">
+    <link rel="shortcut icon" href="marketing/images/favicon.ico" type="image/x-icon">
+    <link rel="bookmark" href="marketing/images/favicon.ico" type="image/x-icon">
+    <meta name="format-detection" content="telephone=no,email=no">
+    <link rel="stylesheet" href="marketing/css/common.css?v=20220614">
+    <!-- <link rel="stylesheet" href="marketing/css_original/common.css" /> -->
+    <link rel="stylesheet" href="marketing/css/home.css">
+    <!-- <link rel="stylesheet" href="marketing/css_original/home.css" /> -->
+    <style>
+      /* .banner-wrap {
+                width: 100%;
+                clear: both;
+                height: 501px;
+                overflow: hidden;
+                margin-bottom: 90px;
+            }
+            .banner {
+                width: 100%;
+                height: 501px;
+                margin: 0 auto;
+                position: relative;
+                background: url(marketing/images/homepage/banner.jpg) center center no-repeat;
+            } */
+      #banner-wrapper {
+        position: relative;
+        margin: 0 auto;
+        padding: 0;
+        width: 100%;
+        margin-bottom: 90px;
+        height: 501px;
+      }
+      #banner-wrapper .content {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+      #banner-wrapper > .content > .imgs {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: calc(100% * 3); /*多留出一张图片的宽度！*/
+        list-style: none;
+      }
+      #banner-wrapper > .content > .imgs .img {
+        float: left;
+        width: calc(100% / 3);
+        height: 501px;
+        background-position: center center;
+        background-repeat: no-repeat;
+      }
+
+      #banner-wrapper > .content > .dots {
+        position: absolute;
+        right: 14px;
+        bottom: 14px;
+      }
+      #banner-wrapper > .content > .dots li {
+        float: left;
+        width: 20px;
+        height: 20px;
+        text-align: center;
+        line-height: 20px;
+        border-radius: 50%;
+        margin-left: 10px;
+        cursor: pointer;
+      }
+
+      li.active {
+        background-color: white;
+      }
+      li.quiet {
+        background-color: #5a5a58;
+      }
+
+      .btns {
+        display: none;
+      }
+      .btns span {
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        top: 50%;
+        margin-top: -20px;
+        line-height: 40px;
+        text-align: center;
+        font-weight: bold;
+        font-family: Simsun;
+        font-size: 30px;
+        border: 1px solid #fff;
+        opacity: 0.5;
+        cursor: pointer;
+        color: #fff;
+        background: black;
+      }
+      .btns .left {
+        left: 5px;
+      }
+      .btns .right {
+        left: 100%;
+        margin-left: -45px;
+      }
+      .pic-list img {
+        border-radius: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="main-header"><div class="upper-area"><div class="wrapper"><ul class="menu-sec fl"><li><a href="http://www.oppo.com" target="_blank">OPPO官网</a></li><li><a href="http://store.oppomobile.com/" target="_blank">软件商店</a></li></ul><ul class="account-area fr" id="noLogin"><li class="noLogin"><a href="http://e.oppomobile.com/login_token">登录</a></li></ul><div class="clear"></div></div></div><div class="bottom-area"><div class="wrapper"><a href="/" class="logo"></a><a class="feedback" title="反馈入口" href="https://zhongbao.heytapmobi.com/h5/F9D7750B8CCC403F95082E2689EB2FA4"></a><div class="qr-code"><div class="preview"></div><div class="wechat-qrcode-wrapper"></div></div><div class="log-area" id="hasLogin"><a href="/markets/manage/IndexManage" target="_blank">广告投放管理</a></div><ul class="main-menu"><li><a href="/" class="cur">首页</a></li><li><a href="/marketing/resource.html">资源介绍</a></li><li><a href="/marketing/doc/finance-charge.html">投放指南</a></li><li><a href="/marketing/contact.html">联系我们</a></li><li><a href="https://u.oppomobile.com/index.html">流量变现</a></li><li><a href="#" id="schoolApp">营销学堂</a></li></ul><div class="clear"></div></div></div></div>
+    <h1 hidden="">
+      <img src="marketing/images/bdLogo.png" alt="OPPO营销平台" width="270" height="190">
+    </h1>
+    <div class="top"><!--顶部占位--></div>
+
+    <div class="main-content">
+      <!-- <div class="banner-wrap">
+                <div class="banner"></div>
+            </div> -->
+      <div id="banner-wrapper">
+        <div class="content">
+          <div class="imgs" style="left: -720px;">
+            <!-- <a
+                            href="marketing/news/news27.html"
+                            target="_blank"
+                        >
+                            <div
+                                class="img"
+                                style="
+                                    background-image: url('marketing/images/homepage/power-summer.jpg');
+                                "
+                            ></div>
+                        </a> -->
+            <div class="img" style="
+                background-image: url('marketing/images/homepage/banner.jpg');
+              "></div>
+            <a href="https://open.oppomobile.com/new/activityDetail?id=23" target="_blank">
+              <div class="img" style="
+                  background-image: url('marketing/images/homepage/yinglijihua.jpg');
+                "></div>
+            </a>
+          <div class="img" style="
+                background-image: url('marketing/images/homepage/banner.jpg');
+              "></div></div>
+          <ul class="dots"><li class="quiet"></li><li class="active"></li></ul>
+        </div>
+        <div class="btns">
+          <span class="left">&lt;</span>
+          <span class="right">&gt;</span>
+        </div>
+      </div>
+
+      <div class="section-info wrapper">
+        <h2>了解OPPO营销平台</h2>
+        <div class="platform-intro">
+          基于OPPO软硬服一体化生态，OPPO营销为客户提供一站式融合营销服务。通过软件商店、浏览器、游戏等多元推广资源，覆盖乐划锁屏、智能短信等系统原生场景，贯穿消费者旅程，实现精准触达，为客户带来FAST商业增长。
+        </div>
+        <ul class="pic-list">
+          <li><img src="marketing/images/homepage/pic1.jpg"></li>
+          <li><img src="marketing/images/homepage/pic2.jpg"></li>
+          <li style="margin-right: 0">
+            <img src="marketing/images/homepage/pic3.jpg">
+          </li>
+          <div class="clear"></div>
+        </ul>
+      </div>
+
+      <div class="section-info wrapper">
+        <ul class="news-list">
+          <h3>
+            最新动态<a class="more-link" href="marketing/news/newslist.html">更多</a>
+          </h3>
+          <li>
+            <a href="marketing/news/news27.html">活力一夏|应用热榜正式上线，邀您开启霸榜增长模式</a>
+            <div class="date">2023-07-25</div>
+          </li>
+          <li>
+            <a href="marketing/news/news26.html">纵横计划2022广州站｜一文看懂：终端能力，如何助力游戏行业增长？</a>
+            <div class="date">2022-08-01</div>
+          </li>
+          <li>
+            <a href="marketing/news/news25.html">oCPX“关键行为”能力强势上线，助力IAA游戏首日ROI翻倍提升</a>
+            <div class="date">2022-07-23</div>
+          </li>
+          <li>
+            <a href="marketing/news/news24.html">《纵横拾问》：灵魂十问，行业如何增长？</a>
+            <div class="date">2022-07-22</div>
+          </li>
+          <li>
+            <a href="marketing/news/news23.html">2022 OPPO互联网用户画像首发，一文全解析</a>
+            <div class="date">2022-05-27</div>
+          </li>
+          <!-- <li>
+                        <a href="marketing/news/news22.html"
+                            >创新标杆 | CSM融合营销模型，助力芒果TV破势增长</a
+                        >
+                        <div class="date">2022-05-27</div>
+                    </li> -->
+        </ul>
+
+        <ul class="question-list">
+          <h3>
+            常见问题<a class="more-link" href="marketing/faq/faqlist.html">更多</a>
+          </h3>
+          <li>
+            <a href="marketing/faq/faq1.html">我们的应用在后台竞价成功，为什么在OPPO软件商店看不到推广位？</a>
+          </li>
+          <li>
+            <a href="marketing/faq/faq2.html">同时使用CPT和CPD是否冲突？</a>
+          </li>
+          <li>
+            <a href="marketing/faq/faq3.html">限额消耗完成后的暂停，没有增加限额，当天也可以成功开启么？日限额会自动增加吗？</a>
+          </li>
+          <li>
+            <a href="marketing/faq/faq4.html">如果公司主体变更，如何修改主体、重新签订合同、提交新的开票信息呢？</a>
+          </li>
+          <li>
+            <a href="marketing/faq/faq5.html">现在的充值方式有几种？</a>
+          </li>
+        </ul>
+        <div class="clear"></div>
+      </div>
+    </div>
+
+    <div class="footer"><div class="wrapper">© 2005 - 2024 广东欢太科技有限公司 版权所有 粤ICP备14012291号-5</div></div>
+    <!-- <script type="text/javascript" src="marketing/libs/jquery.min.js"></script> -->
+    <script src="marketing/js/common.js?version=20220113"></script><script type="text/javascript" src="https://e.oppomobile.com/marketing/libs/jquery.min.js"></script><script src="/marketing/js/dataReport.js"></script>
+    <script src="marketing/js/main-page.js?version=20220614"></script>
+  
+
+</body></html>

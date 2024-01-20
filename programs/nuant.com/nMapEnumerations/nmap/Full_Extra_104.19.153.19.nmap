@@ -1,0 +1,113 @@
+# Nmap 7.93 scan initiated Mon Nov 13 22:06:27 2023 as: /usr/bin/nmap -sCV -p80,443,2052,2053,2082,2083,2086,2087,2095,2096,8080,8443,8880 --open -oN nmap/Full_Extra_104.19.153.19.nmap --system-dns --stats-every 2s 104.19.153.19
+Nmap scan report for 104.19.153.19
+Host is up (0.039s latency).
+
+PORT     STATE SERVICE  VERSION
+80/tcp   open  http     Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+443/tcp  open  ssl/http Cloudflare http proxy
+|_http-server-header: cloudflare
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=eu.auth0.com
+| Subject Alternative Name: DNS:*.edge.tenants.eu.auth0.com, DNS:*.eu.auth0.com, DNS:*.guardian.eu.auth0.com, DNS:*.webtask.eu.auth0.com, DNS:eu.auth0.com
+| Not valid before: 2023-09-30T05:50:56
+|_Not valid after:  2023-12-29T05:50:55
+|_http-title: 403 Forbidden
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| tls-alpn: 
+|   h2
+|_  http/1.1
+2052/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2053/tcp open  ssl/http nginx
+| ssl-cert: Subject: commonName=eu.auth0.com
+| Subject Alternative Name: DNS:*.edge.tenants.eu.auth0.com, DNS:*.eu.auth0.com, DNS:*.guardian.eu.auth0.com, DNS:*.webtask.eu.auth0.com, DNS:eu.auth0.com
+| Not valid before: 2023-09-30T05:50:56
+|_Not valid after:  2023-12-29T05:50:55
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_http-server-header: cloudflare
+|_ssl-date: TLS randomness does not represent time
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_http-title: 403 Forbidden
+2082/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2083/tcp open  ssl/http nginx
+| ssl-cert: Subject: commonName=eu.auth0.com
+| Subject Alternative Name: DNS:*.edge.tenants.eu.auth0.com, DNS:*.eu.auth0.com, DNS:*.guardian.eu.auth0.com, DNS:*.webtask.eu.auth0.com, DNS:eu.auth0.com
+| Not valid before: 2023-09-30T05:50:56
+|_Not valid after:  2023-12-29T05:50:55
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_http-title: 403 Forbidden
+|_ssl-date: TLS randomness does not represent time
+|_http-server-header: cloudflare
+| tls-alpn: 
+|   h2
+|_  http/1.1
+2086/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2087/tcp open  ssl/http nginx
+|_http-title: 403 Forbidden
+| ssl-cert: Subject: commonName=eu.auth0.com
+| Subject Alternative Name: DNS:*.edge.tenants.eu.auth0.com, DNS:*.eu.auth0.com, DNS:*.guardian.eu.auth0.com, DNS:*.webtask.eu.auth0.com, DNS:eu.auth0.com
+| Not valid before: 2023-09-30T05:50:56
+|_Not valid after:  2023-12-29T05:50:55
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_http-server-header: cloudflare
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+2095/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2096/tcp open  ssl/http nginx
+| ssl-cert: Subject: commonName=eu.auth0.com
+| Subject Alternative Name: DNS:*.edge.tenants.eu.auth0.com, DNS:*.eu.auth0.com, DNS:*.guardian.eu.auth0.com, DNS:*.webtask.eu.auth0.com, DNS:eu.auth0.com
+| Not valid before: 2023-09-30T05:50:56
+|_Not valid after:  2023-12-29T05:50:55
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_http-server-header: cloudflare
+|_ssl-date: TLS randomness does not represent time
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_http-title: 403 Forbidden
+8080/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+8443/tcp open  ssl/http Cloudflare http proxy
+| ssl-cert: Subject: commonName=eu.auth0.com
+| Subject Alternative Name: DNS:*.edge.tenants.eu.auth0.com, DNS:*.eu.auth0.com, DNS:*.guardian.eu.auth0.com, DNS:*.webtask.eu.auth0.com, DNS:eu.auth0.com
+| Not valid before: 2023-09-30T05:50:56
+|_Not valid after:  2023-12-29T05:50:55
+|_http-server-header: cloudflare
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+|_http-title: 403 Forbidden
+8880/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Nov 13 22:06:52 2023 -- 1 IP address (1 host up) scanned in 24.93 seconds

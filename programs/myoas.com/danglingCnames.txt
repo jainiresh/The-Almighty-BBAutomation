@@ -1,0 +1,1 @@
+[detect-dangling-cname] [dns] [info] o-tms.myoas.com [o-tms-sgp-0406864dc5812610.elb.ap-southeast-1.amazonaws.com]

@@ -1,0 +1,5 @@
+https://azurewebtools.autovu.cloud [[32m200[0m] [[35m2407[0m]
+https://tracking.autovu.cloud [[1;33m503[0m] [[35m326[0m] [api.elasticemail.com]
+https://ptms-d-sts.autovu.cloud [[1;33m530[0m] [[35m16[0m]
+https://ptms-d-es.autovu.cloud [[32m200[0m] [[35m150093[0m]
+https://portal.autovu.cloud [[1;33m530[0m] [[35m16[0m]

@@ -1,0 +1,309 @@
+[dns-saas-service-detection] [dns] [info] live-pull.opposhop.cn [live-pull.opposhop.cn.livecdn.liveplay.myqcloud.com]
+[caa-fingerprint] [dns] [info] collect.opposhop.cn
+[caa-fingerprint] [dns] [info] msec.opposhop.cn
+[caa-fingerprint] [dns] [info] premsec.opposhop.cn
+[caa-fingerprint] [dns] [info] live.opposhop.cn
+[caa-fingerprint] [dns] [info] prewww.opposhop.cn
+[dns-saas-service-detection] [dns] [info] msecfs.opposhop.cn [msecfs.opposhop.cn.ctdns.cn]
+[caa-fingerprint] [dns] [info] id.opposhop.cn
+[caa-fingerprint] [dns] [info] host27.opposhop.cn
+[txt-fingerprint] [dns] [info] opposhop.cn ["cwtdq1kh73w1snbdqdbx9p80bwy1gt27","202208311741183c6ce928d3fc4716a199790dd9d6432cdf2494a8ddd244da9e","0bp26lbw50n9jx4hjjkhlf3x1myvbs7l"]
+[caa-fingerprint] [dns] [info] opposhop.cn
+[caa-fingerprint] [dns] [info] qiyezs.webproxy.idcservicenow.tencent.opposhop.cn
+[caa-fingerprint] [dns] [info] prelive.opposhop.cn
+[caa-fingerprint] [dns] [info] mei.r0.rule.sebins7-eu6.opposhop.cn
+[caa-fingerprint] [dns] [info] collect8543-7.wire.community-parkeronline.budget.h21-0b1c610e704d2e734.inst.aws.cn-northwest-1.cnprod.s4devkhs.opposhop.cn
+[caa-fingerprint] [dns] [info] bvrrdpjkvfpaotrjua90.9est1-pareaallet-8ty.wire.community-vpn.48.opposhop.cn
+[caa-fingerprint] [dns] [info] bvrru9rkvfpfc8flf8ag.wire.community-tanya.rmarshall.41.opposhop.cn
+[caa-fingerprint] [dns] [info] bvrruueuc7dfqbrv06eg.wire.community-pre-awww.blogeathers702web1661images.b.opposhop.cn
+[caa-fingerprint] [dns] [info] hd.opposhop.cn
+[caa-fingerprint] [dns] [info] msecfs.opposhop.cn
+[caa-fingerprint] [dns] [info] bvrtsdbpg8nl1jc6cg9g.r0.rule-k48kasi-ep.eapachecarfax-europe.opposhop.cn
+[caa-fingerprint] [dns] [info] openvpn.opposhop.cn
+[caa-fingerprint] [dns] [info] pc5.opposhop.cn
+[caa-fingerprint] [dns] [info] bvrtsdbpg8nl1jc6cg9g.r0.rule-k48kasi-ep.e.opposhop.cn
+[caa-fingerprint] [dns] [info] s0.opposhop.cn
+[caa-fingerprint] [dns] [info] live-pull.opposhop.cn
+[nameserver-fingerprint] [dns] [info] opposhop.cn [ns4.dnsv5.com.,ns3.dnsv5.com.]
+[caa-fingerprint] [dns] [info] uc2.r0.rule.sebins7-eu6.opposhop.cn
+[caa-fingerprint] [dns] [info] sa.opposhop.cn
+[caa-fingerprint] [dns] [info] staging.opposhop.cn
+[caa-fingerprint] [dns] [info] wire.community.int.marketing.client-www.6.opposhop.cn
+[caa-fingerprint] [dns] [info] tcp.wire.communitysas.opposhop.cn
+[caa-fingerprint] [dns] [info] www.opposhop.cn
+[caa-fingerprint] [dns] [info] u002fhd.opposhop.cn
+[default-nginx-page] [http] [info] https://sa.opposhop.cn
+[aws-bucket-service] [http] [info] https://msecfs.opposhop.cn
+[openresty-detect] [http] [info] https://msecfs.opposhop.cn
+[tech-detect:nginx] [http] [info] https://live.opposhop.cn
+[tech-detect:nginx] [http] [info] https://msec.opposhop.cn
+[tech-detect:nginx] [http] [info] https://prelive.opposhop.cn
+[tech-detect:nuxt.js] [http] [info] https://prewww.opposhop.cn
+[tech-detect:vue.js] [http] [info] https://prewww.opposhop.cn
+[tech-detect:nginx] [http] [info] https://prewww.opposhop.cn
+[tech-detect:nginx] [http] [info] https://opposhop.cn
+[tech-detect:nginx] [http] [info] https://collect.opposhop.cn
+[tech-detect:nginx] [http] [info] https://id.opposhop.cn
+[tech-detect:nginx] [http] [info] https://sa.opposhop.cn
+[tech-detect:nginx] [http] [info] https://hd.opposhop.cn
+[tech-detect:nginx] [http] [info] https://premsec.opposhop.cn
+[tech-detect:nuxt.js] [http] [info] https://www.opposhop.cn
+[tech-detect:vue.js] [http] [info] https://www.opposhop.cn
+[tech-detect:nginx] [http] [info] https://www.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://live-pull.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://live-pull.opposhop.cn
+[http-missing-security-headers:content-security-policy] [http] [info] https://live-pull.opposhop.cn
+[http-missing-security-headers:permissions-policy] [http] [info] https://live-pull.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://live-pull.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://live-pull.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://live-pull.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://live-pull.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://live-pull.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://live-pull.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://live-pull.opposhop.cn
+[old-copyright] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn [&#169; 2024 ]
+[http-missing-security-headers:permissions-policy] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn
+[http-missing-security-headers:content-security-policy] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://premsec.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://premsec.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://premsec.opposhop.cn
+[http-missing-security-headers:permissions-policy] [http] [info] https://premsec.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://premsec.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://prelive.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://prelive.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://prelive.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://premsec.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://premsec.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://premsec.opposhop.cn
+[http-missing-security-headers:content-security-policy] [http] [info] https://premsec.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://sa.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sa.opposhop.cn
+[http-missing-security-headers:content-security-policy] [http] [info] https://prelive.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://prelive.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://prelive.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://prelive.opposhop.cn
+[http-missing-security-headers:permissions-policy] [http] [info] https://prelive.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://prelive.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://premsec.opposhop.cn
+[http-missing-security-headers:permissions-policy] [http] [info] https://sa.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://sa.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sa.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://sa.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://sa.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sa.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sa.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://prelive.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sa.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://premsec.opposhop.cn
+[http-missing-security-headers:content-security-policy] [http] [info] https://sa.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://prelive.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://id.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.opposhop.cn
+[http-missing-security-headers:content-security-policy] [http] [info] https://live.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://id.opposhop.cn
+[http-missing-security-headers:permissions-policy] [http] [info] https://live.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://msec.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://id.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://live.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://id.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://collect.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://prewww.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://collect.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.opposhop.cn
+[http-missing-security-headers:permissions-policy] [http] [info] https://msec.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://live.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://collect.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://prewww.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://id.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://collect.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://msec.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://live.opposhop.cn
+[http-missing-security-headers:permissions-policy] [http] [info] https://id.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://live.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://prewww.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://id.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://prewww.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://collect.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://msec.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://live.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://id.opposhop.cn
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://collect.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://msec.opposhop.cn
+[http-missing-security-headers:content-security-policy] [http] [info] https://collect.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://live.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://live.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://live.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://live.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://id.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://id.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://msec.opposhop.cn
+[http-missing-security-headers:permissions-policy] [http] [info] https://prewww.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://prewww.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://prewww.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://prewww.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://prewww.opposhop.cn
+[http-missing-security-headers:content-security-policy] [http] [info] https://msec.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://msec.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://msec.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://msec.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://msec.opposhop.cn
+[http-missing-security-headers:permissions-policy] [http] [info] https://collect.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://collect.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://collect.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://collect.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://prewww.opposhop.cn
+[http-missing-security-headers:content-security-policy] [http] [info] https://msecfs.opposhop.cn
+[http-missing-security-headers:permissions-policy] [http] [info] https://msecfs.opposhop.cn
+[http-missing-security-headers:x-frame-options] [http] [info] https://msecfs.opposhop.cn
+[http-missing-security-headers:x-content-type-options] [http] [info] https://msecfs.opposhop.cn
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://msecfs.opposhop.cn
+[http-missing-security-headers:strict-transport-security] [http] [info] https://msecfs.opposhop.cn
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://msecfs.opposhop.cn
+[http-missing-security-headers:referrer-policy] [http] [info] https://msecfs.opposhop.cn
+[http-missing-security-headers:clear-site-data] [http] [info] https://msecfs.opposhop.cn
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://msecfs.opposhop.cn
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://msecfs.opposhop.cn
+[apple-app-site-association] [http] [info] https://msec.opposhop.cn/.well-known/apple-app-site-association [AN82MRR7N4.com.oppo.store,82365T5J62.com.oppo.store]
+[apple-app-site-association] [http] [info] https://sa.opposhop.cn/.well-known/apple-app-site-association [AN82MRR7N4.com.oppo.store]
+[robots-txt-endpoint] [http] [info] https://sa.opposhop.cn/robots.txt
+[missing-sri] [http] [info] https://prewww.opposhop.cn/ [https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/0984012.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/8f3a7c5.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/74493cf.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/dfa1c23.js,https://dsfs.oppo.com/store/public/lib/sensors/1.26.5/sensorsdata.min.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/0d6251f.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/bc1ca09.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/7d240c8.js,https://static-common.heytapdownload.com/otrack/otrack-latest.min.js]
+[missing-sri] [http] [info] https://www.opposhop.cn/ [https://dsfs.oppo.com/store/public/lib/sensors/1.26.5/sensorsdata.min.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/8f3a7c5.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/74493cf.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/7d240c8.js,https://static-common.heytapdownload.com/otrack/otrack-latest.min.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/0984012.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/0d6251f.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/bc1ca09.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/dfa1c23.js]
+[missing-sri] [http] [info] https://www.oppo.com/cn/ [https://www.oppo.com/content/dam/statics/js/jquery-3.5.1.min.js,https://id.heytap.com/packages/account_web_sdk/index.umd.js,https://www.oppo.com/content/dam/statics/js/TweenMax_TimelineMax.min.js,//www.oppo.com/etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-dependencies.min.d5fc81c68cc718bc05ea703e3f67bd7e.js,//www.oppo.com/etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design.min.730960080c661a01e70e57e2139fc257.js,//www.oppo.com/etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-home.min.44cf380056cdd1827ce078ecb315987e.js]
+[missing-sri] [http] [info] https://www.opposhop.cn [https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/74493cf.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/7d240c8.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/dfa1c23.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/8f3a7c5.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/0984012.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/0d6251f.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/bc1ca09.js,https://static-common.heytapdownload.com/otrack/otrack-latest.min.js,https://dsfs.oppo.com/store/public/lib/sensors/1.26.5/sensorsdata.min.js]
+[s3-detect] [http] [info] https://msecfs.opposhop.cn/%c0
+[waf-detect:apachegeneric] [http] [info] https://live-pull.opposhop.cn/
+[waf-detect:securesphere] [http] [info] https://bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn/
+[waf-detect:safedog] [http] [info] https://hd.opposhop.cn/
+[waf-detect:nginxgeneric] [http] [info] https://hd.opposhop.cn/
+[waf-detect:safedog] [http] [info] https://msec.opposhop.cn/
+[waf-detect:nginxgeneric] [http] [info] https://msec.opposhop.cn/
+[waf-detect:safedog] [http] [info] https://collect.opposhop.cn/
+[waf-detect:nginxgeneric] [http] [info] https://collect.opposhop.cn/
+[waf-detect:safedog] [http] [info] https://prelive.opposhop.cn/
+[waf-detect:nginxgeneric] [http] [info] https://prelive.opposhop.cn/
+[waf-detect:safedog] [http] [info] https://msecfs.opposhop.cn/
+[waf-detect:safedog] [http] [info] https://premsec.opposhop.cn/
+[waf-detect:nginxgeneric] [http] [info] https://premsec.opposhop.cn/
+[waf-detect:safedog] [http] [info] https://sa.opposhop.cn/
+[waf-detect:nginxgeneric] [http] [info] https://sa.opposhop.cn/
+[waf-detect:safedog] [http] [info] https://id.opposhop.cn/
+[waf-detect:nginxgeneric] [http] [info] https://id.opposhop.cn/
+[waf-detect:safedog] [http] [info] https://opposhop.cn/
+[waf-detect:nginxgeneric] [http] [info] https://opposhop.cn/
+[waf-detect:safedog] [http] [info] https://prewww.opposhop.cn/
+[waf-detect:nginxgeneric] [http] [info] https://prewww.opposhop.cn/
+[waf-detect:safedog] [http] [info] https://www.opposhop.cn/
+[waf-detect:nginxgeneric] [http] [info] https://www.opposhop.cn/
+[waf-detect:safedog] [http] [info] https://live.opposhop.cn/
+[waf-detect:nginxgeneric] [http] [info] https://live.opposhop.cn/
+[cors-misconfig:arbitrary-origin] [http] [info] https://premsec.opposhop.cn [cors_origin="https://jhkodopposhop.cn"]
+[ssl-issuer] [ssl] [info] bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [DigiCert Inc]
+[mismatched-ssl-certificate] [ssl] [low] bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [CN: *.facebook.com]
+[ssl-dns-names] [ssl] [info] bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [*.facebook.com,*.fbcdn.net,*.fbsbx.com,*.xx.fbcdn.net,*.facebook.net,*.m.facebook.com,*.messenger.com,*.xy.fbcdn.net,*.xz.fbcdn.net,facebook.com,messenger.com]
+[wildcard-tls] [ssl] [info] bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [ SAN: [*.facebook.com *.facebook.net *.fbcdn.net *.fbsbx.com *.m.facebook.com *.messenger.com *.xx.fbcdn.net *.xy.fbcdn.net *.xz.fbcdn.net facebook.com messenger.com],CN: *.facebook.com]
+[ssl-issuer] [ssl] [info] bvrs05rpg8nsjsvpc8hg.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [DigiCert Inc]
+[mismatched-ssl-certificate] [ssl] [low] bvrs05rpg8nsjsvpc8hg.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [CN: *.facebook.com]
+[ssl-dns-names] [ssl] [info] bvrs05rpg8nsjsvpc8hg.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [*.facebook.com,*.m.facebook.com,*.messenger.com,*.xx.fbcdn.net,messenger.com,*.facebook.net,*.fbcdn.net,*.fbsbx.com,*.xy.fbcdn.net,*.xz.fbcdn.net,facebook.com]
+[wildcard-tls] [ssl] [info] bvrs05rpg8nsjsvpc8hg.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [CN: *.facebook.com, SAN: [*.facebook.com *.facebook.net *.fbcdn.net *.fbsbx.com *.m.facebook.com *.messenger.com *.xx.fbcdn.net *.xy.fbcdn.net *.xz.fbcdn.net facebook.com messenger.com]]
+[ssl-issuer] [ssl] [info] msec.opposhop.cn:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] msec.opposhop.cn:443 [*.h5-finshell.com,*.heytapimage.com,nearme.com.cn,*.apps.oppomobile.com,*.oneplusmobile.com,*.finshell-cib.com,*.uc.oppomobile.com,*.opposhop.cn,*.realmemobile.com,*.heytapdl.com,*.heytapdownload.com,*.heytap.com,*.allawnofs.com,*.keke.cn,*.youlishipin.com,*.myoppo.com,*.coloros.com,*.browser.oppomobile.com,*.finshell.co.in,*.allawntech.com,*.allawno.com,*.weather.oppomobile.com,*.oppomobile.com,*.oppo.cn,www.nearme.com.cn,*.allawnfs.com,*.finzfin.com,*.finzjr.com,*.fenzijr.com,*.oppo.com,*.finz.oppomobile.com,*.comm.coloros.com,*.nearme.com.cn,*.realme.com,*.h2os.com,*.heytapimg.com,opposhop.cn]
+[wildcard-tls] [ssl] [info] msec.opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[ssl-issuer] [ssl] [info] live.opposhop.cn:443 [DigiCert Inc]
+[ssl-issuer] [ssl] [info] hd.opposhop.cn:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] live.opposhop.cn:443 [*.keke.cn,*.apps.oppomobile.com,*.opposhop.cn,*.realmemobile.com,*.allawntech.com,*.finshell.co.in,*.h5-finshell.com,*.finzjr.com,*.finz.oppomobile.com,*.coloros.com,*.heytapdownload.com,*.heytap.com,*.allawnofs.com,*.uc.oppomobile.com,*.realme.com,*.heytapimage.com,opposhop.cn,*.oppomobile.com,*.browser.oppomobile.com,*.heytapdl.com,*.oppo.cn,*.heytapimg.com,nearme.com.cn,*.weather.oppomobile.com,*.myoppo.com,*.allawno.com,*.fenzijr.com,*.youlishipin.com,*.nearme.com.cn,*.oneplusmobile.com,*.finshell-cib.com,*.oppo.com,*.comm.coloros.com,*.h2os.com,*.finzfin.com,www.nearme.com.cn,*.allawnfs.com]
+[ssl-dns-names] [ssl] [info] hd.opposhop.cn:443 [*.finzjr.com,*.nearme.com.cn,*.heytapdl.com,*.finshell-cib.com,*.h5-finshell.com,*.fenzijr.com,*.weather.oppomobile.com,*.finz.oppomobile.com,*.comm.coloros.com,*.heytapimg.com,*.uc.oppomobile.com,*.youlishipin.com,*.realme.com,*.heytapimage.com,*.finzfin.com,*.allawnfs.com,*.allawntech.com,nearme.com.cn,*.keke.cn,*.heytap.com,*.allawno.com,opposhop.cn,*.oppo.cn,*.opposhop.cn,*.realmemobile.com,*.heytapdownload.com,*.oppomobile.com,*.oppo.com,*.myoppo.com,*.apps.oppomobile.com,*.oneplusmobile.com,*.h2os.com,www.nearme.com.cn,*.allawnofs.com,*.finshell.co.in,*.coloros.com,*.browser.oppomobile.com]
+[wildcard-tls] [ssl] [info] hd.opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[wildcard-tls] [ssl] [info] live.opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[ssl-issuer] [ssl] [info] id.opposhop.cn:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] id.opposhop.cn:443 [*.finzjr.com,*.heytapimage.com,*.allawno.com,nearme.com.cn,*.apps.oppomobile.com,*.heytapdownload.com,*.comm.coloros.com,*.opposhop.cn,*.nearme.com.cn,*.finz.oppomobile.com,*.heytap.com,*.oneplusmobile.com,*.oppomobile.com,*.coloros.com,*.realme.com,*.oppo.cn,*.youlishipin.com,*.myoppo.com,*.browser.oppomobile.com,*.heytapimg.com,*.finshell-cib.com,*.weather.oppomobile.com,*.uc.oppomobile.com,*.finzfin.com,www.nearme.com.cn,*.allawntech.com,*.h2os.com,*.heytapdl.com,*.allawnfs.com,*.allawnofs.com,*.finshell.co.in,*.h5-finshell.com,*.keke.cn,*.realmemobile.com,*.fenzijr.com,*.oppo.com,opposhop.cn]
+[wildcard-tls] [ssl] [info] id.opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[ssl-issuer] [ssl] [info] sa.opposhop.cn:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] sa.opposhop.cn:443 [*.youlishipin.com,*.heytapdownload.com,*.allawntech.com,*.oppo.com,*.apps.oppomobile.com,*.finshell.co.in,*.weather.oppomobile.com,*.uc.oppomobile.com,*.oppomobile.com,*.coloros.com,*.h2os.com,*.heytapimage.com,www.nearme.com.cn,*.finshell-cib.com,*.myoppo.com,*.finzfin.com,*.finzjr.com,*.finz.oppomobile.com,*.heytapimg.com,*.allawno.com,*.allawnofs.com,opposhop.cn,*.opposhop.cn,*.realme.com,*.realmemobile.com,*.browser.oppomobile.com,*.heytapdl.com,*.heytap.com,*.h5-finshell.com,*.nearme.com.cn,*.comm.coloros.com,*.oppo.cn,*.oneplusmobile.com,*.allawnfs.com,nearme.com.cn,*.fenzijr.com,*.keke.cn]
+[wildcard-tls] [ssl] [info] sa.opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[ssl-issuer] [ssl] [info] www.opposhop.cn:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] www.opposhop.cn:443 [www.nearme.com.cn,*.browser.oppomobile.com,*.heytap.com,*.fenzijr.com,*.oppo.com,*.finshell.co.in,*.oneplusmobile.com,*.allawntech.com,*.allawno.com,*.h5-finshell.com,*.finzjr.com,*.oppomobile.com,*.nearme.com.cn,*.comm.coloros.com,*.allawnofs.com,opposhop.cn,*.heytapdl.com,*.uc.oppomobile.com,*.youlishipin.com,*.myoppo.com,*.heytapimage.com,*.heytapimg.com,*.realmemobile.com,*.h2os.com,*.apps.oppomobile.com,*.opposhop.cn,*.heytapdownload.com,nearme.com.cn,*.finshell-cib.com,*.weather.oppomobile.com,*.oppo.cn,*.finz.oppomobile.com,*.finzfin.com,*.allawnfs.com,*.keke.cn,*.coloros.com,*.realme.com]
+[wildcard-tls] [ssl] [info] www.opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[ssl-issuer] [ssl] [info] prewww.opposhop.cn:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] prewww.opposhop.cn:443 [*.weather.oppomobile.com,*.uc.oppomobile.com,*.comm.coloros.com,*.realme.com,*.finshell-cib.com,*.oppo.com,*.myoppo.com,*.heytapdl.com,*.oppomobile.com,*.coloros.com,*.heytap.com,*.allawntech.com,*.h5-finshell.com,*.apps.oppomobile.com,*.heytapimg.com,*.youlishipin.com,*.browser.oppomobile.com,*.realmemobile.com,*.fenzijr.com,*.nearme.com.cn,*.heytapdownload.com,*.allawnfs.com,*.oppo.cn,*.finzjr.com,*.keke.cn,*.opposhop.cn,*.oneplusmobile.com,*.h2os.com,*.finzfin.com,www.nearme.com.cn,nearme.com.cn,*.finshell.co.in,opposhop.cn,*.heytapimage.com,*.allawno.com,*.allawnofs.com,*.finz.oppomobile.com]
+[wildcard-tls] [ssl] [info] prewww.opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[ssl-issuer] [ssl] [info] collect.opposhop.cn:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] collect.opposhop.cn:443 [*.allawno.com,*.myoppo.com,*.finz.oppomobile.com,*.realme.com,*.heytapdl.com,*.finshell-cib.com,*.keke.cn,*.uc.oppomobile.com,nearme.com.cn,*.fenzijr.com,*.youlishipin.com,*.finzfin.com,*.allawntech.com,*.apps.oppomobile.com,*.realmemobile.com,*.heytapdownload.com,www.nearme.com.cn,*.weather.oppomobile.com,*.coloros.com,*.oneplusmobile.com,*.heytapimage.com,*.heytap.com,*.finzjr.com,*.nearme.com.cn,*.opposhop.cn,*.heytapimg.com,*.allawnfs.com,*.allawnofs.com,*.oppomobile.com,*.oppo.cn,*.browser.oppomobile.com,*.h2os.com,opposhop.cn,*.finshell.co.in,*.h5-finshell.com,*.oppo.com,*.comm.coloros.com]
+[wildcard-tls] [ssl] [info] collect.opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[ssl-issuer] [ssl] [info] live-pull.opposhop.cn:443 [DigiCert Inc]
+[mismatched-ssl-certificate] [ssl] [low] live-pull.opposhop.cn:443 [CN: *.liveplay.myqcloud.com]
+[ssl-dns-names] [ssl] [info] live-pull.opposhop.cn:443 [*.liveplay.myqcloud.com,liveplay.myqcloud.com]
+[wildcard-tls] [ssl] [info] live-pull.opposhop.cn:443 [CN: *.liveplay.myqcloud.com, SAN: [*.liveplay.myqcloud.com liveplay.myqcloud.com]]
+[ssl-issuer] [ssl] [info] premsec.opposhop.cn:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] premsec.opposhop.cn:443 [*.nearme.com.cn,*.finz.oppomobile.com,*.realme.com,*.oneplusmobile.com,*.allawno.com,*.finzjr.com,*.heytapimg.com,*.heytap.com,*.allawnofs.com,*.heytapdl.com,www.nearme.com.cn,*.finshell-cib.com,*.keke.cn,*.oppo.com,*.oppo.cn,*.browser.oppomobile.com,*.h5-finshell.com,*.realmemobile.com,*.h2os.com,*.finshell.co.in,*.oppomobile.com,*.youlishipin.com,*.heytapimage.com,*.finzfin.com,*.allawnfs.com,*.heytapdownload.com,opposhop.cn,nearme.com.cn,*.uc.oppomobile.com,*.comm.coloros.com,*.coloros.com,*.opposhop.cn,*.fenzijr.com,*.weather.oppomobile.com,*.myoppo.com,*.apps.oppomobile.com,*.allawntech.com]
+[wildcard-tls] [ssl] [info] premsec.opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[ssl-issuer] [ssl] [info] prelive.opposhop.cn:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] prelive.opposhop.cn:443 [*.h5-finshell.com,*.weather.oppomobile.com,*.oppo.cn,*.finz.oppomobile.com,*.finzfin.com,*.allawnofs.com,*.finzjr.com,*.apps.oppomobile.com,*.h2os.com,*.youlishipin.com,*.nearme.com.cn,*.heytap.com,*.allawnfs.com,*.allawntech.com,nearme.com.cn,*.uc.oppomobile.com,*.oppo.com,*.myoppo.com,*.heytapdownload.com,www.nearme.com.cn,*.oneplusmobile.com,*.heytapimage.com,*.heytapimg.com,*.heytapdl.com,*.finshell-cib.com,*.coloros.com,*.realmemobile.com,*.finshell.co.in,*.fenzijr.com,*.keke.cn,*.oppomobile.com,opposhop.cn,*.comm.coloros.com,*.browser.oppomobile.com,*.opposhop.cn,*.realme.com,*.allawno.com]
+[wildcard-tls] [ssl] [info] prelive.opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[ssl-issuer] [ssl] [info] opposhop.cn:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] opposhop.cn:443 [*.nearme.com.cn,*.realme.com,*.heytapdownload.com,*.allawnfs.com,nearme.com.cn,*.weather.oppomobile.com,*.finzfin.com,*.comm.coloros.com,*.heytapimage.com,*.heytapimg.com,*.finshell.co.in,*.fenzijr.com,*.realmemobile.com,*.myoppo.com,*.oneplusmobile.com,*.h2os.com,*.allawno.com,*.allawnofs.com,opposhop.cn,*.h5-finshell.com,*.oppo.cn,*.oppo.com,*.youlishipin.com,*.coloros.com,*.browser.oppomobile.com,www.nearme.com.cn,*.finzjr.com,*.keke.cn,*.allawntech.com,*.oppomobile.com,*.apps.oppomobile.com,*.heytapdl.com,*.finshell-cib.com,*.opposhop.cn,*.heytap.com,*.uc.oppomobile.com,*.finz.oppomobile.com]
+[wildcard-tls] [ssl] [info] opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[deprecated-tls] [ssl] [info] live-pull.opposhop.cn:443 [tls10]
+[deprecated-tls] [ssl] [info] live-pull.opposhop.cn:443 [tls11]
+[deprecated-tls] [ssl] [info] id.opposhop.cn:443 [tls10]
+[deprecated-tls] [ssl] [info] msecfs.opposhop.cn:443 [tls10]
+[tls-version] [ssl] [info] live-pull.opposhop.cn:443 [tls10]
+[deprecated-tls] [ssl] [info] id.opposhop.cn:443 [tls11]
+[tls-version] [ssl] [info] live-pull.opposhop.cn:443 [tls11]
+[tls-version] [ssl] [info] live-pull.opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] id.opposhop.cn:443 [tls10]
+[tls-version] [ssl] [info] live-pull.opposhop.cn:443 [tls13]
+[tls-version] [ssl] [info] id.opposhop.cn:443 [tls11]
+[tls-version] [ssl] [info] id.opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] id.opposhop.cn:443 [tls13]
+[weak-cipher-suites:tls-1.0] [ssl] [low] live-pull.opposhop.cn:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] live.opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] hd.opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] premsec.opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] prelive.opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] collect.opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] prewww.opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] msec.opposhop.cn:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] live-pull.opposhop.cn:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] id.opposhop.cn:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] live.opposhop.cn:443 [tls13]
+[tls-version] [ssl] [info] opposhop.cn:443 [tls13]
+[tls-version] [ssl] [info] prelive.opposhop.cn:443 [tls13]
+[tls-version] [ssl] [info] collect.opposhop.cn:443 [tls13]
+[tls-version] [ssl] [info] msec.opposhop.cn:443 [tls13]
+[tls-version] [ssl] [info] premsec.opposhop.cn:443 [tls13]
+[tls-version] [ssl] [info] prewww.opposhop.cn:443 [tls13]
+[tls-version] [ssl] [info] sa.opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] www.opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] hd.opposhop.cn:443 [tls13]
+[tls-version] [ssl] [info] sa.opposhop.cn:443 [tls13]
+[weak-cipher-suites:tls-1.1] [ssl] [low] id.opposhop.cn:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] www.opposhop.cn:443 [tls13]
+[tls-version] [ssl] [info] msecfs.opposhop.cn:443 [tls10]
+[tls-version] [ssl] [info] bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [tls12]
+[tls-version] [ssl] [info] bvrs05rpg8nsjsvpbj8g.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [tls13]
+[ssl-issuer] [ssl] [info] msecfs.opposhop.cn:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] msecfs.opposhop.cn:443 [*.finshell-cib.com,*.h5-finshell.com,*.youlishipin.com,*.nearme.com.cn,*.myoppo.com,*.browser.oppomobile.com,*.heytapimg.com,*.fenzijr.com,*.oppo.com,*.oppo.cn,*.heytapdl.com,*.heytapdownload.com,www.nearme.com.cn,*.allawnfs.com,*.allawno.com,*.allawnofs.com,*.apps.oppomobile.com,*.h2os.com,*.heytap.com,*.allawntech.com,*.weather.oppomobile.com,*.comm.coloros.com,*.coloros.com,*.realmemobile.com,*.heytapimage.com,*.finshell.co.in,*.uc.oppomobile.com,*.realme.com,*.oneplusmobile.com,*.finzfin.com,*.oppomobile.com,nearme.com.cn,*.finzjr.com,*.keke.cn,*.finz.oppomobile.com,*.opposhop.cn,opposhop.cn]
+[wildcard-tls] [ssl] [info] msecfs.opposhop.cn:443 [CN: nearme.com.cn, SAN: [nearme.com.cn *.finshell-cib.com *.h5-finshell.com *.finzjr.com *.fenzijr.com *.keke.cn *.weather.oppomobile.com *.uc.oppomobile.com *.oppomobile.com *.oppo.com *.oppo.cn *.youlishipin.com *.nearme.com.cn *.myoppo.com *.finz.oppomobile.com *.comm.coloros.com *.coloros.com *.browser.oppomobile.com *.apps.oppomobile.com *.opposhop.cn *.realme.com *.realmemobile.com *.oneplusmobile.com *.h2os.com *.heytapimage.com *.heytapimg.com *.heytapdl.com *.heytapdownload.com *.heytap.com *.finzfin.com www.nearme.com.cn *.allawnfs.com *.allawntech.com *.allawno.com *.allawnofs.com opposhop.cn *.finshell.co.in]]
+[tls-version] [ssl] [info] bvrs05rpg8nsjsvpc8hg.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [tls12]
+[deprecated-tls] [ssl] [info] msecfs.opposhop.cn:443 [tls11]
+[tls-version] [ssl] [info] bvrs05rpg8nsjsvpc8hg.pc54.webproxy.idcrouter11v04.zdv.opposhop.cn:443 [tls13]
+[tls-version] [ssl] [info] msecfs.opposhop.cn:443 [tls11]
+[tls-version] [ssl] [info] msecfs.opposhop.cn:443 [tls12]

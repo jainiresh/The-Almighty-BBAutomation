@@ -1,0 +1,11 @@
+# Nmap 7.93 scan initiated Thu Nov  9 17:36:53 2023 as: /usr/bin/nmap -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_142.250.192.19.nmap --system-dns --stats-every 3s 142.250.192.19
+Nmap scan report for bom12s14-in-f19.1e100.net (142.250.192.19)
+Host is up (0.033s latency).
+Not shown: 65533 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Thu Nov  9 17:41:16 2023 -- 1 IP address (1 host up) scanned in 263.01 seconds

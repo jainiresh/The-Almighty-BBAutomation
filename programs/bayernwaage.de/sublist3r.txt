@@ -1,0 +1,5 @@
+www.bayernwaage.de
+autodiscover.bayernwaage.de
+dl-outlook.bayernwaage.de
+karriere.bayernwaage.de
+outlook.bayernwaage.de

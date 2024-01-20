@@ -1,0 +1,26 @@
+# Nmap 7.93 scan initiated Fri Nov 24 00:22:09 2023 as: /usr/bin/nmap -sCV -p22,80,443,8080 --open -oN nmap/Full_Extra_65.21.250.74.nmap --system-dns --stats-every 2s 65.21.250.74
+Nmap scan report for static.74.250.21.65.clients.your-server.de (65.21.250.74)
+Host is up (0.20s latency).
+
+PORT     STATE SERVICE  VERSION
+22/tcp   open  ssh      OpenSSH 8.2p1 Ubuntu 4ubuntu0.9 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 2a7eacd2e3ad8ca57a2fb8e2c685e8c7 (RSA)
+|   256 32cb10ef7b82e8fce1bef347c89e7552 (ECDSA)
+|_  256 243738dc5960e532f8d6c59d96dccc6d (ED25519)
+80/tcp   open  http     nginx
+|_http-title: 503 Service Temporarily Unavailable
+443/tcp  open  ssl/http nginx
+|_http-title: 503 Service Temporarily Unavailable
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=letsencrypt-nginx-proxy-companion
+| Not valid before: 2022-06-20T10:08:26
+|_Not valid after:  2023-06-20T10:08:26
+8080/tcp open  http     nginx 1.15.4
+|_http-open-proxy: Proxy might be redirecting requests
+|_http-title: Welcome to nginx!
+|_http-server-header: nginx/1.15.4
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Nov 24 00:22:33 2023 -- 1 IP address (1 host up) scanned in 23.94 seconds

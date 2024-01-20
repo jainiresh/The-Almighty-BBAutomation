@@ -1,0 +1,19 @@
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          129.154.237.178
++ Target Hostname:    129.154.237.178
++ Target Port:        443
+---------------------------------------------------------------------------
++ SSL Info:        Subject:  /OU=Domain Control Validated/OU=Provided by New Dream Network, LLC/OU=DreamHost Basic SSL/CN=floatbot.io
+                   Ciphers:  ECDHE-RSA-AES256-GCM-SHA384
+                   Issuer:   /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
++ Start Time:         2023-11-08 01:48:14 (GMT5.5)
+---------------------------------------------------------------------------
++ Server: nginx
++ Root page / redirects to: https://floatbot.ai/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ Hostname '129.154.237.178' does not match certificate's names: floatbot.io. See: https://cwe.mitre.org/data/definitions/297.html
++ 8106 requests: 0 error(s) and 1 item(s) reported on remote host
++ End Time:           2023-11-08 02:11:19 (GMT5.5) (1385 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested

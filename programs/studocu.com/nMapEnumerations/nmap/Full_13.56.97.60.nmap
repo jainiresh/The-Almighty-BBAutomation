@@ -1,0 +1,5 @@
+# Nmap 7.93 scan initiated Wed Nov  8 13:00:16 2023 as: /usr/bin/nmap -Pn -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_13.56.97.60.nmap --system-dns --stats-every 3s 13.56.97.60
+setup_target: failed to determine route to 13.56.97.60
+Read data files from: /usr/bin/../share/nmap
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Wed Nov  8 13:00:16 2023 -- 0 IP addresses (0 hosts up) scanned in 0.03 seconds

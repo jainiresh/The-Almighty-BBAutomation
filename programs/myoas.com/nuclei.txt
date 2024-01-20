@@ -1,0 +1,1575 @@
+[caa-fingerprint] [dns] [info] commerce.myoas.com
+[caa-fingerprint] [dns] [info] ezmobile.myoas.com
+[caa-fingerprint] [dns] [info] expe1.myoas.com
+[caa-fingerprint] [dns] [info] cem-survey.myoas.com
+[caa-fingerprint] [dns] [info] countly.myoas.com
+[caa-fingerprint] [dns] [info] email.myoas.com
+[caa-fingerprint] [dns] [info] adfs.t2mail.myoas.com
+[caa-fingerprint] [dns] [info] gpw14.myoas.com
+[caa-fingerprint] [dns] [info] icsm-test.myoas.com
+[caa-fingerprint] [dns] [info] cooperation.myoas.com
+[caa-fingerprint] [dns] [info] datareportmobile.myoas.com
+[caa-fingerprint] [dns] [info] apitest.myoas.com
+[caa-fingerprint] [dns] [info] epush.myoas.com
+[caa-fingerprint] [dns] [info] esign.myoas.com
+[caa-fingerprint] [dns] [info] fsc-app.myoas.com
+[caa-fingerprint] [dns] [info] autodiscover.email.myoas.com
+[caa-fingerprint] [dns] [info] adap-h5.myoas.com
+[caa-fingerprint] [dns] [info] ark.myoas.com
+[caa-fingerprint] [dns] [info] cmre2.myoas.com
+[caa-fingerprint] [dns] [info] coinbasemyoas.webproxy.idcvpnfreedp2www.prdstgswxlogitech.aws-com.developcnocc-0-283-1007.cloudfile-1.myoas.com
+[caa-fingerprint] [dns] [info] dmg-dts-api.myoas.com
+[caa-fingerprint] [dns] [info] cms-hth.myoas.com
+[caa-fingerprint] [dns] [info] cloudfile.myoas.com
+[caa-fingerprint] [dns] [info] bdx.myoas.com
+[caa-fingerprint] [dns] [info] cmre1.myoas.com
+[mx-service-detector:Office 365] [dns] [info] email.myoas.com
+[mx-fingerprint] [dns] [info] email.myoas.com [1 email-myoas-com.mail.protection.outlook.com.]
+[txt-fingerprint] [dns] [info] email.myoas.com ["eA+Ao8V/ZiPb2TNzxV3zFRkmkpkrqfZjFYHeB0gMdNGEz3zeXG5P7yW8zwzDP7Nzy8VWdW5ssNB0K9h+BySbyA==","v=spf1 include:spf.protection.outlook.com include:121.12.147.245 include:121.13.218.229 include:58.255.79.101 include:58.252.5.68 -all","MS=ms15692691","MS=ms83381805"]
+[caa-fingerprint] [dns] [info] imtest.myoas.com
+[caa-fingerprint] [dns] [info] itadmin.myoas.com
+[caa-fingerprint] [dns] [info] iknow.myoas.com
+[caa-fingerprint] [dns] [info] iknow-rc.myoas.com
+[caa-fingerprint] [dns] [info] localhost-mtp.myoas.com
+[dns-saas-service-detection] [dns] [info] iknow.myoas.com [imworkbench.myoas.com]
+[caa-fingerprint] [dns] [info] menu.myoas.com
+[caa-fingerprint] [dns] [info] myoas.com
+[caa-fingerprint] [dns] [info] imworkbench.myoas.com
+[caa-fingerprint] [dns] [info] mail.t1mail.myoas.com
+[caa-fingerprint] [dns] [info] iwcs.myoas.com
+[caa-fingerprint] [dns] [info] lcp-mobile.myoas.com
+[caa-fingerprint] [dns] [info] ipdmobile.myoas.com
+[caa-fingerprint] [dns] [info] mail.email.myoas.com
+[caa-fingerprint] [dns] [info] mtp.myoas.com
+[caa-fingerprint] [dns] [info] ipd-vote-mobile.myoas.com
+[caa-fingerprint] [dns] [info] link.myoas.com
+[caa-fingerprint] [dns] [info] lanwp.informer.myoas.com
+[caa-fingerprint] [dns] [info] mail.myoas.com
+[caa-fingerprint] [dns] [info] mokr.myoas.com
+[dns-saas-service-detection] [dns] [info] imapi.myoas.com [ttlogin.myoas.com]
+[caa-fingerprint] [dns] [info] mtp-test.myoas.com
+[caa-fingerprint] [dns] [info] ipd-appo-mobile.myoas.com
+[caa-fingerprint] [dns] [info] imapi.myoas.com
+[detect-dangling-cname] [dns] [info] o-tms.myoas.com [o-tms-sgp-0406864dc5812610.elb.ap-southeast-1.amazonaws.com]
+[dmarc-detect] [dns] [info] _dmarc.myoas.com ["v=DMARC1; p=quarantine"]
+[dns-saas-service-detection:amazon-aws] [dns] [info] o-tms.myoas.com [o-tms-sgp-0406864dc5812610.elb.ap-southeast-1.amazonaws.com]
+[nameserver-fingerprint] [dns] [info] myoas.com [ns3.dnsv5.com.,ns4.dnsv5.com.]
+[caa-fingerprint] [dns] [info] obox-gz-weboffice02.myoas.com
+[mx-service-detector:Office 365] [dns] [info] myoas.com
+[mx-fingerprint] [dns] [info] myoas.com [10 myoas-com.mail.protection.outlook.com.]
+[txt-fingerprint] [dns] [info] myoas.com ["slqbv5xnh1drvq6jsx5njzvt78dhc94p","AAEA-EA98-62FC-D62A-B47C-F2F5-A3FB-9133","v=spf1 include:spf.protection.outlook.com include:spf.oppo.com -all","qqmail-site-verification=e6dc65f2eaa03193767b5ba3dab3452aa6883a9bef1","MS=ms49508612","mufjcdahl7e6uhcakgne1bcr8n","3g8ftpr0y7spm122dbvs8ll1s5kgppyt","scv81k25v7nxt3dstns8j5q2lznlm4kn"]
+[caa-fingerprint] [dns] [info] obox.myoas.com
+[caa-fingerprint] [dns] [info] o-tms.myoas.com
+[caa-fingerprint] [dns] [info] rdvdi.myoas.com
+[caa-fingerprint] [dns] [info] recruit.myoas.com
+[caa-fingerprint] [dns] [info] paa-websocket.myoas.com
+[caa-fingerprint] [dns] [info] pmsmobile.myoas.com
+[caa-fingerprint] [dns] [info] sbox-gz-weboffice05.myoas.com
+[caa-fingerprint] [dns] [info] realpms.myoas.com
+[caa-fingerprint] [dns] [info] sbox-press.myoas.com
+[caa-fingerprint] [dns] [info] sbox-in.myoas.com
+[caa-fingerprint] [dns] [info] sbox-gz-weboffice01.myoas.com
+[caa-fingerprint] [dns] [info] odocs.myoas.com
+[caa-fingerprint] [dns] [info] open-apimarket.myoas.com
+[caa-fingerprint] [dns] [info] oray.myoas.com
+[caa-fingerprint] [dns] [info] preview.myoas.com
+[caa-fingerprint] [dns] [info] plmmobile.myoas.com
+[caa-fingerprint] [dns] [info] purma1.myoas.com
+[caa-fingerprint] [dns] [info] sbox-paris.myoas.com
+[caa-fingerprint] [dns] [info] odocs-ocs.myoas.com
+[caa-fingerprint] [dns] [info] olss.myoas.com
+[caa-fingerprint] [dns] [info] ocss.myoas.com
+[caa-fingerprint] [dns] [info] sbox.myoas.com
+[caa-fingerprint] [dns] [info] shimo-test.myoas.com
+[caa-fingerprint] [dns] [info] scps.oray.myoas.com
+[caa-fingerprint] [dns] [info] soc.myoas.com
+[caa-fingerprint] [dns] [info] ssl.myoas.com
+[caa-fingerprint] [dns] [info] slp.myoas.com
+[dns-saas-service-detection] [dns] [info] realpms.myoas.com [pms.myoas.com]
+[dns-saas-service-detection:amazon-aws] [dns] [info] sbox-paris.myoas.com [sbox-paris-myoas-com-683010278.eu-west-3.elb.amazonaws.com]
+[dns-saas-service-detection] [dns] [info] ssl.myoas.com [imworkbench.myoas.com]
+[dns-saas-service-detection] [dns] [info] scps.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] tjazp.oray.myoas.com
+[caa-fingerprint] [dns] [info] t-omeeting.myoas.com
+[caa-fingerprint] [dns] [info] t-calendar.myoas.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] sso.myoas.com [it-common-sgp2cn-b61c4ba57e614ea2.elb.ap-southeast-1.amazonaws.com]
+[caa-fingerprint] [dns] [info] t-approvalmobile.myoas.com
+[caa-fingerprint] [dns] [info] t1-3-1-0-5-6.oray.myoas.com
+[caa-fingerprint] [dns] [info] ssov2.myoas.com
+[caa-fingerprint] [dns] [info] sso.myoas.com
+[caa-fingerprint] [dns] [info] t2mail.myoas.com
+[caa-fingerprint] [dns] [info] t-ssov2.myoas.com
+[caa-fingerprint] [dns] [info] tc510.oray.myoas.com
+[txt-fingerprint] [dns] [info] t2mail.myoas.com ["v=spf1 include:spf.protection.outlook.com include:spf.oppo.com ip4:69.172.89.152 ip4:173.248.225.196 ip4:13.251.233.169 ip4:54.254.174.220 -all","MS=ms50570221","WncK5LhR5Lp9yYgxjROoIh4rj3gmpmTS8X019AVVyYimTTDTq1IxXeMvSzW/BM3Ei2+CzJul1YD0jAisp4I3Hw=="]
+[caa-fingerprint] [dns] [info] tc.myoas.com
+[caa-fingerprint] [dns] [info] t-preview.myoas.com
+[caa-fingerprint] [dns] [info] test-4a.myoas.com
+[dns-saas-service-detection] [dns] [info] tc510.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] tms.myoas.com
+[caa-fingerprint] [dns] [info] ttmsg-rc.myoas.com
+[caa-fingerprint] [dns] [info] ttapi.myoas.com
+[caa-fingerprint] [dns] [info] tms-mobile.myoas.com
+[caa-fingerprint] [dns] [info] tv1c1.oray.myoas.com
+[caa-fingerprint] [dns] [info] tms-uat.myoas.com
+[caa-fingerprint] [dns] [info] ttmsg.myoas.com
+[dns-saas-service-detection] [dns] [info] t1-3-1-0-5-6.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] ttpic.myoas.com
+[caa-fingerprint] [dns] [info] ttlogin.myoas.com
+[dns-saas-service-detection:amazon-aws] [dns] [info] test-4a.myoas.com [g-baas-aws-alb-outer-sq5qnlf-1175352305.ap-southeast-1.elb.amazonaws.com]
+[dns-saas-service-detection] [dns] [info] ttpic.myoas.com [ttlogin.myoas.com]
+[dns-saas-service-detection] [dns] [info] vhost06-mit.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] vfrcbvsx2.oray.myoas.com [oray.myoas.com]
+[mx-service-detector:Office 365] [dns] [info] t2mail.myoas.com
+[mx-fingerprint] [dns] [info] t2mail.myoas.com [5 t2mail-myoas-com.mail.protection.outlook.com.]
+[caa-fingerprint] [dns] [info] vireuw.oray.myoas.com
+[caa-fingerprint] [dns] [info] vfrcbvsx2.oray.myoas.com
+[dns-saas-service-detection] [dns] [info] ttapi.myoas.com [ttlogin.myoas.com]
+[dns-saas-service-detection] [dns] [info] tjazp.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] vireuw.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] tv1c1.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] vhost06-mit.oray.myoas.com
+[caa-fingerprint] [dns] [info] vision.myoas.com
+[caa-fingerprint] [dns] [info] vm-115-146-89-172.oray.myoas.com
+[caa-fingerprint] [dns] [info] vote.myoas.com
+[caa-fingerprint] [dns] [info] virus.oray.myoas.com
+[caa-fingerprint] [dns] [info] x2f07e4d.dyn.oray.myoas.com
+[caa-fingerprint] [dns] [info] webex.myoas.com
+[dns-saas-service-detection] [dns] [info] ws5a5rzy.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] www.euphoriaguidenz.oray.myoas.com
+[caa-fingerprint] [dns] [info] ws5a5rzy.oray.myoas.com
+[caa-fingerprint] [dns] [info] x4d02bf99.dyn.oray.myoas.com
+[caa-fingerprint] [dns] [info] www.myoas.com
+[caa-fingerprint] [dns] [info] x2f52b1a.dyn.oray.myoas.com
+[caa-fingerprint] [dns] [info] x4d001558.dyn.oray.myoas.com
+[dns-saas-service-detection] [dns] [info] virus.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] vm-115-146-89-172.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] www.isk4.com.cdn.oray.myoas.com
+[dns-saas-service-detection] [dns] [info] x4dbfaefe.dyn.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] x4dbfff35.dyn.oray.myoas.com
+[dns-saas-service-detection] [dns] [info] x4dbfff35.dyn.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] x4d0f139a.dyn.oray.myoas.com
+[dns-saas-service-detection] [dns] [info] x2f07e4d.dyn.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] x4d02bf99.dyn.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] www.euphoriaguidenz.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] xd9b957bf.dyn.oray.myoas.com
+[caa-fingerprint] [dns] [info] x5f70a0e3.dyn.oray.myoas.com
+[caa-fingerprint] [dns] [info] x4dbfaefe.dyn.oray.myoas.com
+[caa-fingerprint] [dns] [info] x55b37b4c.dyn.oray.myoas.com
+[caa-fingerprint] [dns] [info] x5d86a6c9.dyn.oray.myoas.com
+[dns-saas-service-detection] [dns] [info] x2f52b1a.dyn.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] x55b37b4c.dyn.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] x4d0f139a.dyn.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] x5d8446ce.dyn.oray.myoas.com
+[dns-saas-service-detection] [dns] [info] x5d8446ce.dyn.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] xd933bd8d.dyn.oray.myoas.com
+[dns-saas-service-detection] [dns] [info] www.isk4.com.cdn.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] x4d001558.dyn.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] x5f70a0e3.dyn.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] x5d86a6c9.dyn.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] xd9b957bf.dyn.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] xd933bd8d.dyn.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] xd9bf649a.dyn.oray.myoas.com
+[caa-fingerprint] [dns] [info] xd9ba5df0.dyn.oray.myoas.com
+[caa-fingerprint] [dns] [info] yearparty.myoas.com
+[dns-saas-service-detection] [dns] [info] xd9bf649a.dyn.oray.myoas.com [oray.myoas.com]
+[dns-saas-service-detection] [dns] [info] xd9ba5df0.dyn.oray.myoas.com [oray.myoas.com]
+[caa-fingerprint] [dns] [info] xunche.myoas.com
+[options-method] [http] [info] https://icsm-test.myoas.com [GET, HEAD, OPTIONS, TRACE]
+[options-method] [http] [info] https://countly.myoas.com [GET,HEAD,POST]
+[options-method] [http] [info] https://cms-hth.myoas.com [POST,OPTIONS,HEAD,GET]
+[options-method] [http] [info] https://imworkbench.myoas.com [GET, HEAD, POST, PUT, DELETE, OPTIONS]
+[options-method] [http] [info] https://iwcs.myoas.com [OPTIONS,GET,HEAD,POST,TRACE]
+[options-method] [http] [info] https://menu.myoas.com [GET,HEAD,POST,OPTIONS,TRACE]
+[microsoft-iis-version] [http] [info] https://icsm-test.myoas.com [Microsoft-IIS/8.5]
+[default-nginx-page] [http] [info] https://fsc-app.myoas.com
+[xss-deprecated-header] [http] [info] https://mtp.myoas.com [1; mode=block]
+[openresty-detect] [http] [info] https://mtp.myoas.com
+[aws-bucket-service] [http] [info] https://odocs-ocs.myoas.com
+[default-nginx-page] [http] [info] https://paa-websocket.myoas.com
+[httponly-cookie-detect] [http] [info] https://shimo-test.myoas.com
+[kong-detect] [http] [info] https://t-approvalmobile.myoas.com [nginx]
+[xss-deprecated-header] [http] [info] https://iwcs.myoas.com [1; mode=block]
+[xss-deprecated-header] [http] [info] http://t-calendar.myoas.com [1; mode=block]
+[default-nginx-page] [http] [info] https://dmg-dts-api.myoas.com
+[addeventlistener-detect] [http] [info] https://tc.myoas.com
+[xss-deprecated-header] [http] [info] https://esign.myoas.com [1; mode=block]
+[default-nginx-page] [http] [info] https://esign.myoas.com
+[xss-deprecated-header] [http] [info] https://tms.myoas.com [1; mode=block]
+[tech-detect:ms-iis] [http] [info] https://icsm-test.myoas.com
+[tech-detect:nginx] [http] [info] https://commerce.myoas.com
+[tech-detect:nginx] [http] [info] https://datareportmobile.myoas.com
+[tech-detect:nginx] [http] [info] https://cem-survey.myoas.com
+[tech-detect:nginx] [http] [info] https://iknow-rc.myoas.com
+[tech-detect:nginx] [http] [info] https://countly.myoas.com/login
+[tech-detect:nginx] [http] [info] https://cms-hth.myoas.com
+[tech-detect:nginx] [http] [info] https://countly.myoas.com
+[tech-detect:nginx] [http] [info] https://dmg-dts-api.myoas.com
+[tech-detect:nginx] [http] [info] https://fsc-app.myoas.com
+[tech-detect:ms-httpapi] [http] [info] https://adfs.t2mail.myoas.com
+[tech-detect:nginx] [http] [info] https://cooperation.myoas.com
+[tech-detect:nginx] [http] [info] https://esign.myoas.com
+[tech-detect:nginx] [http] [info] https://apitest.myoas.com
+[tech-detect:nginx] [http] [info] https://ezmobile.myoas.com/MTP_ROUTE_0032/admin/mobile/homePage
+[tech-detect:nginx] [http] [info] https://ezmobile.myoas.com
+[tech-detect:nginx] [http] [info] https://iknow.myoas.com
+[tech-detect:nginx] [http] [info] https://imapi.myoas.com
+[tech-detect:nginx] [http] [info] https://imworkbench.myoas.com
+[tech-detect:nginx] [http] [info] https://lcp-mobile.myoas.com
+[tech-detect:nginx] [http] [info] https://ipdmobile.myoas.com
+[tech-detect:nginx] [http] [info] https://imtest.myoas.com
+[tech-detect:font-awesome] [http] [info] https://iwcs.myoas.com
+[tech-detect:nginx] [http] [info] https://iwcs.myoas.com
+[tech-detect:nginx] [http] [info] https://mail.myoas.com
+[tech-detect:nginx] [http] [info] https://mail.t1mail.myoas.com
+[tech-detect:font-awesome] [http] [info] https://mtp.myoas.com/oppo-mobile-platform
+[tech-detect:nginx] [http] [info] https://mokr.myoas.com
+[tech-detect:nginx] [http] [info] https://sbox-in.myoas.com
+[tech-detect:nginx] [http] [info] https://open-apimarket.myoas.com
+[tech-detect:nginx] [http] [info] https://odocs-ocs.myoas.com
+[tech-detect:nginx] [http] [info] https://paa-websocket.myoas.com
+[tech-detect:nginx] [http] [info] https://pmsmobile.myoas.com
+[tech-detect:nginx] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[tech-detect:font-awesome] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[tech-detect:nginx] [http] [info] https://mtp-test.myoas.com
+[tech-detect:nginx] [http] [info] https://sbox.myoas.com
+[tech-detect:nginx] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[tech-detect:nginx] [http] [info] https://odocs.myoas.com
+[tech-detect:nginx] [http] [info] https://sbox-paris.myoas.com
+[tech-detect:nginx] [http] [info] https://realpms.myoas.com
+[tech-detect:nginx] [http] [info] https://sso.myoas.com
+[tech-detect:nginx] [http] [info] https://ssl.myoas.com
+[tech-detect:nginx] [http] [info] https://recruit.myoas.com
+[tech-detect:nginx] [http] [info] https://t-omeeting.myoas.com
+[tech-detect:nginx] [http] [info] https://purma1.myoas.com/mall/
+[tech-detect:nginx] [http] [info] http://purma1.myoas.com/mall/
+[tech-detect:nginx] [http] [info] https://purma1.myoas.com
+[tech-detect:nginx] [http] [info] https://soc.myoas.com
+[tech-detect:nginx] [http] [info] https://t-approvalmobile.myoas.com
+[tech-detect:nginx] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[tech-detect:nginx] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[tech-detect:nginx] [http] [info] https://tms-uat.myoas.com
+[cookies-without-httponly-secure] [http] [info] https://tms.myoas.com
+[tech-detect:font-awesome] [http] [info] https://tms.myoas.com
+[tech-detect:nginx] [http] [info] https://tms.myoas.com
+[tech-detect:nginx] [http] [info] https://ttlogin.myoas.com
+[tech-detect:nginx] [http] [info] https://sbox-press.myoas.com
+[tech-detect:nginx] [http] [info] https://ttapi.myoas.com
+[tech-detect:nginx] [http] [info] https://tc.myoas.com
+[tech-detect:nginx] [http] [info] https://t-ssov2.myoas.com
+[tech-detect:nginx] [http] [info] https://ttmsg.myoas.com
+[tech-detect:nginx] [http] [info] https://ttpic.myoas.com
+[tech-detect:nginx] [http] [info] https://shimo-test.myoas.com/login
+[tech-detect:nginx] [http] [info] https://shimo-test.myoas.com
+[tech-detect:nginx] [http] [info] https://ttmsg-rc.myoas.com
+[tech-detect:nginx] [http] [info] https://vote.myoas.com
+[tech-detect:nginx] [http] [info] https://vision.myoas.com
+[tech-detect:nginx] [http] [info] https://webex.myoas.com
+[tech-detect:nuxt.js] [http] [info] https://www.myoas.com
+[tech-detect:vue.js] [http] [info] https://www.myoas.com
+[tech-detect:nginx] [http] [info] https://www.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://icsm-test.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://icsm-test.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://icsm-test.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://icsm-test.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://icsm-test.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://icsm-test.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://icsm-test.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://icsm-test.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://icsm-test.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://icsm-test.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://icsm-test.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://countly.myoas.com/login
+[http-missing-security-headers:content-security-policy] [http] [info] https://countly.myoas.com/login
+[http-missing-security-headers:permissions-policy] [http] [info] https://countly.myoas.com/login
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://countly.myoas.com/login
+[http-missing-security-headers:referrer-policy] [http] [info] https://countly.myoas.com/login
+[http-missing-security-headers:clear-site-data] [http] [info] https://countly.myoas.com/login
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://countly.myoas.com/login
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://countly.myoas.com/login
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://iknow-rc.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://iknow-rc.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://iknow-rc.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://iknow-rc.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://iknow-rc.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://iknow-rc.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://iknow-rc.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://iknow-rc.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://iknow-rc.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://iknow-rc.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://iknow-rc.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://cem-survey.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://dmg-dts-api.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://fsc-app.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://commerce.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://fsc-app.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://commerce.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cem-survey.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://fsc-app.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://dmg-dts-api.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://commerce.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://cem-survey.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://cms-hth.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://fsc-app.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://cem-survey.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://fsc-app.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://commerce.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://fsc-app.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://cem-survey.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://commerce.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://dmg-dts-api.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://cms-hth.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://fsc-app.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://commerce.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://cem-survey.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://cms-hth.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cem-survey.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cms-hth.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cem-survey.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cms-hth.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://cem-survey.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cms-hth.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://cem-survey.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://cms-hth.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://cem-survey.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://cms-hth.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://cms-hth.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://cms-hth.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://cms-hth.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://fsc-app.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://fsc-app.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://fsc-app.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://commerce.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://dmg-dts-api.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://dmg-dts-api.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://fsc-app.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://commerce.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://dmg-dts-api.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://dmg-dts-api.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://dmg-dts-api.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://dmg-dts-api.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://dmg-dts-api.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://dmg-dts-api.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://commerce.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://commerce.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://datareportmobile.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://datareportmobile.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://datareportmobile.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://datareportmobile.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://datareportmobile.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://datareportmobile.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://datareportmobile.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://datareportmobile.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://datareportmobile.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://datareportmobile.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://datareportmobile.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://imapi.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://iknow.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://iknow.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://iknow.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://imapi.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://imapi.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://imapi.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://imapi.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://iknow.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://iknow.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://iknow.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://iknow.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://iknow.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://imapi.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://imapi.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://imapi.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://iknow.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://imapi.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://imworkbench.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://imworkbench.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://imworkbench.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://imworkbench.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://imworkbench.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://imworkbench.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://imworkbench.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://imworkbench.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://imworkbench.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://adfs.t2mail.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://adfs.t2mail.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://adfs.t2mail.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://esign.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://esign.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://esign.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://esign.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://adfs.t2mail.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://adfs.t2mail.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://esign.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://esign.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://esign.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://adfs.t2mail.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://esign.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://adfs.t2mail.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://esign.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://esign.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://adfs.t2mail.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://esign.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://adfs.t2mail.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://adfs.t2mail.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://adfs.t2mail.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://cooperation.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://cooperation.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://cooperation.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cooperation.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cooperation.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://cooperation.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://cooperation.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://cooperation.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://cooperation.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://cooperation.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cooperation.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://apitest.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://apitest.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://apitest.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://apitest.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://apitest.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://apitest.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://apitest.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://apitest.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://apitest.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://apitest.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://apitest.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://lcp-mobile.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lcp-mobile.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://lcp-mobile.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://lcp-mobile.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lcp-mobile.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lcp-mobile.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://lcp-mobile.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lcp-mobile.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lcp-mobile.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://lcp-mobile.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lcp-mobile.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://mail.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://mail.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://mail.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://mail.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://mail.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://mail.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://mail.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://mail.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://mail.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://mail.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://mail.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://mokr.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://mokr.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://mokr.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://mokr.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://mokr.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://mokr.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://mokr.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://mokr.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://mokr.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://mokr.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://mokr.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://menu.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://menu.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://menu.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://menu.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://menu.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://menu.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://menu.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://menu.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://menu.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://menu.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://menu.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://ipdmobile.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://ipdmobile.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://ipdmobile.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ipdmobile.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ipdmobile.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://ipdmobile.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://ipdmobile.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ipdmobile.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://ipdmobile.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ipdmobile.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://ipdmobile.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://ezmobile.myoas.com/MTP_ROUTE_0032/admin/mobile/homePage
+[http-missing-security-headers:content-security-policy] [http] [info] https://ezmobile.myoas.com/MTP_ROUTE_0032/admin/mobile/homePage
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ezmobile.myoas.com/MTP_ROUTE_0032/admin/mobile/homePage
+[http-missing-security-headers:referrer-policy] [http] [info] https://ezmobile.myoas.com/MTP_ROUTE_0032/admin/mobile/homePage
+[http-missing-security-headers:clear-site-data] [http] [info] https://ezmobile.myoas.com/MTP_ROUTE_0032/admin/mobile/homePage
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ezmobile.myoas.com/MTP_ROUTE_0032/admin/mobile/homePage
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ezmobile.myoas.com/MTP_ROUTE_0032/admin/mobile/homePage
+[http-missing-security-headers:permissions-policy] [http] [info] https://ezmobile.myoas.com/MTP_ROUTE_0032/admin/mobile/homePage
+[http-missing-security-headers:x-content-type-options] [http] [info] https://ezmobile.myoas.com/MTP_ROUTE_0032/admin/mobile/homePage
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ezmobile.myoas.com/MTP_ROUTE_0032/admin/mobile/homePage
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://imtest.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://imtest.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://imtest.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://imtest.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://imtest.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://imtest.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://imtest.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://imtest.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://imtest.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://imtest.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://imtest.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://iwcs.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://iwcs.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://iwcs.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://iwcs.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://iwcs.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://iwcs.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://iwcs.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://iwcs.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://iwcs.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://iwcs.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://iwcs.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sbox-in.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://sbox-in.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://sbox-in.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sbox-in.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://sbox-in.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://sbox-in.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sbox-in.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sbox-in.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://sbox-in.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://sbox-in.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sbox-in.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://mtp.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:referrer-policy] [http] [info] https://mtp.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://mtp.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:content-security-policy] [http] [info] https://mtp.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:x-content-type-options] [http] [info] https://mtp.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://mtp.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:clear-site-data] [http] [info] https://mtp.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://mtp.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://mtp.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://odocs-ocs.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://odocs-ocs.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://odocs-ocs.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://odocs-ocs.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://odocs-ocs.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://odocs-ocs.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://odocs-ocs.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://odocs-ocs.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://odocs-ocs.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://odocs-ocs.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://odocs-ocs.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://paa-websocket.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://paa-websocket.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://paa-websocket.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://paa-websocket.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://paa-websocket.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://paa-websocket.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://paa-websocket.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://paa-websocket.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://paa-websocket.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://paa-websocket.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://paa-websocket.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://open-apimarket.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://open-apimarket.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://open-apimarket.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://open-apimarket.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://open-apimarket.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://open-apimarket.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://open-apimarket.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://open-apimarket.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://open-apimarket.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://open-apimarket.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://open-apimarket.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://pmsmobile.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://sbox.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://pmsmobile.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://sbox.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://pmsmobile.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://pmsmobile.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://pmsmobile.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sbox.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://pmsmobile.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://sbox.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://pmsmobile.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://sbox.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://pmsmobile.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sbox.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://pmsmobile.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sbox.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://pmsmobile.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sbox.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://pmsmobile.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sbox.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://sbox.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://sbox.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sbox-paris.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://sbox-paris.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sbox-paris.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sbox-paris.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sbox-paris.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://sbox-paris.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sbox-paris.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://sbox-paris.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://sbox-paris.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://sbox-paris.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://sbox-paris.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://test-4a.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://test-4a.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://test-4a.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://test-4a.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://test-4a.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://test-4a.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://test-4a.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://test-4a.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://test-4a.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://test-4a.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://test-4a.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://soc.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://soc.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://soc.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://soc.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://soc.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://soc.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://soc.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://soc.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://soc.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://soc.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://soc.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://sso.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://sso.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sso.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sso.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sso.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sso.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sso.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://sso.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sbox-gz-weboffice05.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://sso.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://sso.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://sso.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://realpms.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://realpms.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://realpms.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://realpms.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://realpms.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://realpms.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://realpms.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://ssl.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ssl.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://ssl.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://realpms.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://ssl.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://realpms.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ssl.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://ssl.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://ssl.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://realpms.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ssl.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://realpms.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ssl.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://purma1.myoas.com/mall/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://purma1.myoas.com/mall/
+[http-missing-security-headers:x-frame-options] [http] [info] https://purma1.myoas.com/mall/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://purma1.myoas.com/mall/
+[http-missing-security-headers:referrer-policy] [http] [info] https://purma1.myoas.com/mall/
+[http-missing-security-headers:clear-site-data] [http] [info] https://purma1.myoas.com/mall/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://purma1.myoas.com/mall/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://purma1.myoas.com/mall/
+[http-missing-security-headers:permissions-policy] [http] [info] https://purma1.myoas.com/mall/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://purma1.myoas.com/mall/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[http-missing-security-headers:content-security-policy] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[http-missing-security-headers:permissions-policy] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[http-missing-security-headers:x-frame-options] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[http-missing-security-headers:x-content-type-options] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[http-missing-security-headers:referrer-policy] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[http-missing-security-headers:clear-site-data] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[http-missing-security-headers:strict-transport-security] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://odocs.myoas.com/shimo_forbidden/index.html
+[http-missing-security-headers:content-security-policy] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:permissions-policy] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:x-frame-options] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:referrer-policy] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:strict-transport-security] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:x-content-type-options] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:clear-site-data] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://mtp-test.myoas.com/oppo-mobile-platform
+[http-missing-security-headers:content-security-policy] [http] [info] https://recruit.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://recruit.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://recruit.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://recruit.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://recruit.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://recruit.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://recruit.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://recruit.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://recruit.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://recruit.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://recruit.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://tms-uat.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://tms-uat.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://tms-uat.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://tms-uat.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://tms-uat.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://tms-uat.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://tms-uat.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://tms-uat.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://tms-uat.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://tms-uat.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://tms-uat.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://tms.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://tms.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://tms.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://tms.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://tms.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://tms.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://tms.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://tms.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://tms.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://vote.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://vote.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://vote.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://vote.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://vote.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://vote.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://vote.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://vote.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://vote.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://vote.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://vote.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://t-omeeting.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://t-omeeting.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://t-omeeting.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://t-omeeting.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://t-omeeting.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://t-omeeting.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://t-omeeting.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://t-omeeting.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://t-omeeting.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://t-omeeting.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://t-omeeting.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://ttapi.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://ttpic.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ttpic.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ttpic.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://ttpic.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://ttpic.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://ttpic.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://ttpic.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://ttapi.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ttapi.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ttpic.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://ttapi.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ttpic.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ttapi.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ttapi.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://ttapi.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://ttapi.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ttapi.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ttmsg.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://ttmsg.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ttmsg.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ttmsg.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://ttmsg.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://ttmsg.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://ttmsg.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://ttmsg.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ttmsg.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://ttlogin.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://ttlogin.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://ttlogin.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ttlogin.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://ttlogin.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ttlogin.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://ttlogin.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ttlogin.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ttlogin.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://shimo-test.myoas.com/login
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://shimo-test.myoas.com/login
+[http-missing-security-headers:strict-transport-security] [http] [info] https://shimo-test.myoas.com/login
+[http-missing-security-headers:content-security-policy] [http] [info] https://shimo-test.myoas.com/login
+[http-missing-security-headers:x-content-type-options] [http] [info] https://shimo-test.myoas.com/login
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://shimo-test.myoas.com/login
+[http-missing-security-headers:referrer-policy] [http] [info] https://shimo-test.myoas.com/login
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://shimo-test.myoas.com/login
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://shimo-test.myoas.com/login
+[http-missing-security-headers:permissions-policy] [http] [info] https://shimo-test.myoas.com/login
+[http-missing-security-headers:x-frame-options] [http] [info] https://shimo-test.myoas.com/login
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://tc.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://tc.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://tc.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://tc.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://tc.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://tc.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://tc.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://tc.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://tc.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://tc.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://t-approvalmobile.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://t-approvalmobile.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://t-approvalmobile.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://t-approvalmobile.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://t-approvalmobile.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://t-approvalmobile.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://t-approvalmobile.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://t-approvalmobile.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://t-approvalmobile.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://t-approvalmobile.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://t-approvalmobile.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://t-ssov2.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://t-ssov2.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://t-ssov2.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://t-ssov2.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://t-ssov2.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://t-ssov2.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://t-ssov2.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://t-ssov2.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://t-ssov2.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://t-ssov2.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://t-ssov2.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://sbox-press.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sbox-press.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sbox-press.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sbox-press.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://sbox-press.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://sbox-press.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://sbox-press.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://sbox-press.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://sbox-press.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sbox-press.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sbox-press.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://vision.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://vision.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://vision.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://vision.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://vision.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://vision.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://vision.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://vision.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://vision.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://vision.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://ttmsg-rc.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ttmsg-rc.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ttmsg-rc.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://ttmsg-rc.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://ttmsg-rc.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://ttmsg-rc.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ttmsg-rc.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ttmsg-rc.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://ttmsg-rc.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://ttmsg-rc.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://ttmsg-rc.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://webex.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://webex.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://webex.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://webex.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://webex.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://webex.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://webex.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://webex.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://webex.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://mail.t1mail.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://mail.t1mail.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://mail.t1mail.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://mail.t1mail.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://mail.t1mail.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://mail.t1mail.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://mail.t1mail.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://mail.t1mail.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://mail.t1mail.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://mail.t1mail.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://mail.t1mail.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sbox-gz-weboffice01.myoas.com
+[http-missing-security-headers:content-security-policy] [http] [info] http://t-calendar.myoas.com
+[http-missing-security-headers:x-frame-options] [http] [info] http://t-calendar.myoas.com
+[http-missing-security-headers:x-content-type-options] [http] [info] http://t-calendar.myoas.com
+[http-missing-security-headers:clear-site-data] [http] [info] http://t-calendar.myoas.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://t-calendar.myoas.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://t-calendar.myoas.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://t-calendar.myoas.com
+[http-missing-security-headers:strict-transport-security] [http] [info] http://t-calendar.myoas.com
+[http-missing-security-headers:permissions-policy] [http] [info] http://t-calendar.myoas.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://t-calendar.myoas.com
+[http-missing-security-headers:referrer-policy] [http] [info] http://t-calendar.myoas.com
+[webeditors-check-detect] [http] [info] https://t-omeeting.myoas.com/ckeditor/samples/
+[http-trace:trace-request] [http] [info] https://menu.myoas.com
+[robots-txt-endpoint] [http] [info] https://dmg-dts-api.myoas.com/robots.txt
+[http-trace:options-request] [http] [info] https://menu.myoas.com
+[http-trace:options-request] [http] [info] https://iwcs.myoas.com
+[robots-txt-endpoint] [http] [info] https://soc.myoas.com/robots.txt
+[aspx-debug-mode] [http] [info] https://icsm-test.myoas.com/Foobar-debug.aspx
+[missing-sri] [http] [info] https://imworkbench.myoas.com/ [https://mtp.myoas.com/public/js/qing/latest/qing.js]
+[missing-sri] [http] [info] https://ipdmobile.myoas.com/ [/ipd_mobile_gateway/mobile//env.js?v=20210530,https://mtp.myoas.com/public/js/qing/latest/qing.js,/ipd_mobile_gateway/mobile//vendor/vendor.dll.js?v=20210530]
+[missing-sri] [http] [info] https://mokr.myoas.com/ [https://mtp.myoas.com/public/js/qing/latest/qing.js]
+[missing-sri] [http] [info] https://pmsmobile.myoas.com/ [https://static.yunzhijia.com/public/js/qing/latest/qing.js]
+[missing-sri] [http] [info] https://realpms.myoas.com/ [https://gbaas-file-mwps-stable.wanyol.com/gfs-mdoc/public/1.2.1/index.umd.js?time=0.3464048504645476]
+[missing-sri] [http] [info] https://t-omeeting.myoas.com/ [https://mtp.myoas.com/public/js/qing/latest/qing.js]
+[missing-sri] [http] [info] https://shimo-test.myoas.com/login [https://mtp-test.myoas.com/public/js/qing/latest/qing.js,https://odocs-ocs.myoas.com/shimo-assets-cs/oppo_custom_shimo20211221.js,https://odocs-ocs.myoas.com/shimo-assets-cs/oppo/sensorsdata.min.js]
+[missing-sri] [http] [info] https://purma1.myoas.com/mall/ [//pur-web.myoas.com/??fe-common/modules/sy-vue/1.0/dist/index.js,fe-common/modules/sy-element-ui/1.0/dist/element-ui.js,fe-common/entrance/dist/entrance.js,fe-mall/pages/index/dist/index.js]
+[missing-sri] [http] [info] https://www.myoas.com/ [https://dsfs.oppo.com/store/public/lib/sensors/1.26.5/sensorsdata.min.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/8f3a7c5.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/74493cf.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/7d240c8.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/dfa1c23.js,https://static-common.heytapdownload.com/otrack/otrack-latest.min.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/0984012.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/0d6251f.js,https://dsfs.oppo.com/oppo/shop-pc-v2/main/js/bc1ca09.js]
+[adfs-detect] [http] [info] https://adfs.t2mail.myoas.com/adfs/ls/idpinitiatedsignon.aspx
+[favicon-detect:spring-boot] [http] [info] https://tms.myoas.com/favicon.ico [path="images/"]
+[s3-detect] [http] [info] https://odocs-ocs.myoas.com/%c0
+[shiro-detect] [http] [info] https://purma1.myoas.com/mall/
+[waf-detect:nginxgeneric] [http] [info] https://countly.myoas.com/
+[waf-detect:securesphere] [http] [info] https://countly.myoas.com/
+[waf-detect:modsecurity] [http] [info] https://icsm-test.myoas.com/
+[waf-detect:safedog] [http] [info] https://cem-survey.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://cem-survey.myoas.com/
+[waf-detect:safedog] [http] [info] https://datareportmobile.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://datareportmobile.myoas.com/
+[waf-detect:apachegeneric] [http] [info] https://imapi.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://imapi.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://cms-hth.myoas.com/
+[waf-detect:safedog] [http] [info] https://cms-hth.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://iknow.myoas.com/
+[waf-detect:apachegeneric] [http] [info] https://iknow.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://imworkbench.myoas.com/
+[waf-detect:safedog] [http] [info] https://iknow-rc.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://iknow-rc.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://apitest.myoas.com/
+[waf-detect:safedog] [http] [info] https://mail.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://mail.myoas.com/
+[waf-detect:safedog] [http] [info] https://mokr.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://mokr.myoas.com/
+[waf-detect:safedog] [http] [info] https://fsc-app.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://fsc-app.myoas.com/
+[waf-detect:safedog] [http] [info] https://lcp-mobile.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://lcp-mobile.myoas.com/
+[waf-detect:safedog] [http] [info] https://commerce.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://commerce.myoas.com/
+[waf-detect:safedog] [http] [info] https://dmg-dts-api.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://dmg-dts-api.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://ezmobile.myoas.com/
+[waf-detect:safedog] [http] [info] https://ezmobile.myoas.com/
+[waf-detect:yundun] [http] [info] https://mtp.myoas.com/
+[waf-detect:apachegeneric] [http] [info] https://menu.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://cooperation.myoas.com/
+[waf-detect:apachegeneric] [http] [info] https://imtest.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://imtest.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://esign.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://iwcs.myoas.com/
+[waf-detect:safedog] [http] [info] https://mtp-test.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://mtp-test.myoas.com/
+[waf-detect:safedog] [http] [info] https://ipdmobile.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://ipdmobile.myoas.com/
+[waf-detect:safedog] [http] [info] https://sbox-in.myoas.com/
+[waf-detect:safedog] [http] [info] https://sbox.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://sbox.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://sbox-in.myoas.com/
+[waf-detect:safedog] [http] [info] https://sso.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://sso.myoas.com/
+[waf-detect:safedog] [http] [info] https://open-apimarket.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://open-apimarket.myoas.com/
+[waf-detect:safedog] [http] [info] https://odocs.myoas.com/
+[waf-detect:safedog] [http] [info] https://pmsmobile.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://odocs.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://pmsmobile.myoas.com/
+[waf-detect:safedog] [http] [info] https://realpms.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://realpms.myoas.com/
+[waf-detect:safedog] [http] [info] https://paa-websocket.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://paa-websocket.myoas.com/
+[waf-detect:safedog] [http] [info] https://purma1.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://purma1.myoas.com/
+[waf-detect:safedog] [http] [info] https://odocs-ocs.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://odocs-ocs.myoas.com/
+[waf-detect:safedog] [http] [info] https://sbox-gz-weboffice01.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://sbox-gz-weboffice01.myoas.com/
+[waf-detect:apachegeneric] [http] [info] https://ssl.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://ssl.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://sbox-paris.myoas.com/
+[waf-detect:apachegeneric] [http] [info] https://recruit.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://recruit.myoas.com/
+[waf-detect:safedog] [http] [info] https://tms-uat.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://tms-uat.myoas.com/
+[waf-detect:safedog] [http] [info] https://tms.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://tms.myoas.com/
+[waf-detect:safedog] [http] [info] https://soc.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://soc.myoas.com/
+[waf-detect:safedog] [http] [info] https://sbox-press.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://sbox-press.myoas.com/
+[waf-detect:safedog] [http] [info] https://t-omeeting.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://t-omeeting.myoas.com/
+[waf-detect:safedog] [http] [info] https://sbox-gz-weboffice05.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://sbox-gz-weboffice05.myoas.com/
+[waf-detect:safedog] [http] [info] https://shimo-test.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://shimo-test.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://t-approvalmobile.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://vote.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://ttmsg.myoas.com/
+[waf-detect:apachegeneric] [http] [info] https://ttmsg.myoas.com/
+[waf-detect:apachegeneric] [http] [info] https://ttlogin.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://ttlogin.myoas.com/
+[waf-detect:apachegeneric] [http] [info] https://ttpic.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://ttpic.myoas.com/
+[waf-detect:apachegeneric] [http] [info] https://ttapi.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://ttapi.myoas.com/
+[waf-detect:safedog] [http] [info] https://tc.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://tc.myoas.com/
+[waf-detect:safedog] [http] [info] https://www.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://www.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://ttmsg-rc.myoas.com/
+[waf-detect:safedog] [http] [info] https://vision.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://vision.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://webex.myoas.com/
+[waf-detect:nginxgeneric] [http] [info] https://t-ssov2.myoas.com/
+[waf-detect:apachegeneric] [http] [info] https://t-ssov2.myoas.com/
+[springboot-actuator:favicon] [http] [info] https://tms.myoas.com/favicon.ico
+[postgres-weak-credentials] [javascript] [high] localhost-mtp.myoas.com:5432 [passwords="password",usernames="postgres"]
+[ssl-issuer] [ssl] [info] countly.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] countly.myoas.com:443 [myoas.com,*.myoas.com]
+[wildcard-tls] [ssl] [info] countly.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] dmg-dts-api.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] dmg-dts-api.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] dmg-dts-api.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] fsc-app.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] fsc-app.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] fsc-app.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] ezmobile.myoas.com:443 [DigiCert Inc]
+[ssl-issuer] [ssl] [info] cooperation.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] ezmobile.myoas.com:443 [*.myoas.com,myoas.com]
+[ssl-dns-names] [ssl] [info] cooperation.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] ezmobile.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[wildcard-tls] [ssl] [info] cooperation.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] ipdmobile.myoas.com:443 [DigiCert Inc]
+[ssl-issuer] [ssl] [info] iknow-rc.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] ipdmobile.myoas.com:443 [*.myoas.com,myoas.com]
+[ssl-dns-names] [ssl] [info] iknow-rc.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] ipdmobile.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] esign.myoas.com:443 [DigiCert Inc]
+[ssl-issuer] [ssl] [info] apitest.myoas.com:443 [DigiCert Inc]
+[ssl-issuer] [ssl] [info] commerce.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] esign.myoas.com:443 [myoas.com,*.myoas.com]
+[wildcard-tls] [ssl] [info] iknow-rc.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-dns-names] [ssl] [info] apitest.myoas.com:443 [*.myoas.com,myoas.com]
+[ssl-dns-names] [ssl] [info] commerce.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] apitest.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[wildcard-tls] [ssl] [info] esign.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[wildcard-tls] [ssl] [info] commerce.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] countly.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] imtest.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] imtest.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] imtest.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] iwcs.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] iwcs.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] iwcs.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] iknow.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] mtp.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] mtp.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] mtp.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] countly.myoas.com:443 [tls11]
+[ssl-issuer] [ssl] [info] lcp-mobile.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] lcp-mobile.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] lcp-mobile.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] imapi.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] mokr.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] mokr.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] mokr.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] mail.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] mail.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] mail.myoas.com:443 [ SAN: [*.myoas.com myoas.com],CN: *.myoas.com]
+[ssl-issuer] [ssl] [info] mtp-test.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] mtp-test.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] mtp-test.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] iknow.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] imworkbench.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] menu.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] menu.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] menu.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] cms-hth.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] cms-hth.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] cms-hth.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] datareportmobile.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] datareportmobile.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] datareportmobile.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] icsm-test.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] icsm-test.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] icsm-test.myoas.com:443 [ SAN: [*.myoas.com myoas.com],CN: *.myoas.com]
+[ssl-issuer] [ssl] [info] cem-survey.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] cem-survey.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] cem-survey.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] iknow.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] iknow.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] iknow.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] imapi.myoas.com:443 [tls11]
+[ssl-issuer] [ssl] [info] imworkbench.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] imworkbench.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] imworkbench.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] adfs.t2mail.myoas.com:443 [TrustAsia Technologies, Inc.]
+[ssl-dns-names] [ssl] [info] adfs.t2mail.myoas.com:443 [*.t2mail.myoas.com,t2mail.myoas.com]
+[wildcard-tls] [ssl] [info] adfs.t2mail.myoas.com:443 [CN: *.t2mail.myoas.com, SAN: [*.t2mail.myoas.com t2mail.myoas.com]]
+[ssl-issuer] [ssl] [info] odocs-ocs.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] odocs-ocs.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] odocs-ocs.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] imworkbench.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] icsm-test.myoas.com:443 [ssl30]
+[ssl-issuer] [ssl] [info] odocs.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] odocs.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] odocs.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] iknow-rc.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] sbox-in.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] sbox-in.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] sbox-in.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] cem-survey.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] sbox.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] sbox.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] sbox.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] datareportmobile.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] icsm-test.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] dmg-dts-api.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] ezmobile.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] imapi.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] imapi.myoas.com:443 [myoas.com,*.myoas.com]
+[wildcard-tls] [ssl] [info] imapi.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] apitest.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] open-apimarket.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] open-apimarket.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] open-apimarket.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] paa-websocket.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] paa-websocket.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] paa-websocket.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] pmsmobile.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] pmsmobile.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] pmsmobile.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] icsm-test.myoas.com:443 [tls11]
+[ssl-issuer] [ssl] [info] purma1.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] purma1.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] purma1.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] sbox-paris.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] sbox-paris.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] sbox-paris.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] realpms.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] realpms.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] realpms.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] sbox-gz-weboffice01.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] sbox-gz-weboffice01.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] sbox-gz-weboffice01.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] adfs.t2mail.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] sbox-gz-weboffice05.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] sbox-gz-weboffice05.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] sbox-gz-weboffice05.myoas.com:443 [ SAN: [*.myoas.com myoas.com],CN: *.myoas.com]
+[ssl-issuer] [ssl] [info] sso.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] sso.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] sso.myoas.com:443 [ SAN: [*.myoas.com myoas.com],CN: *.myoas.com]
+[ssl-issuer] [ssl] [info] sbox-press.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] sbox-press.myoas.com:443 [myoas.com,*.myoas.com]
+[wildcard-tls] [ssl] [info] sbox-press.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] ssl.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] ssl.myoas.com:443 [myoas.com,*.myoas.com]
+[wildcard-tls] [ssl] [info] ssl.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] recruit.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] recruit.myoas.com:443 [myoas.com,*.myoas.com]
+[wildcard-tls] [ssl] [info] recruit.myoas.com:443 [ SAN: [*.myoas.com myoas.com],CN: *.myoas.com]
+[ssl-issuer] [ssl] [info] test-4a.myoas.com:443 [DigiCert Inc]
+[expired-ssl] [ssl] [low] test-4a.myoas.com:443 [2023-12-22 23:59:59 +0000 UTC]
+[revoked-ssl-certificate] [ssl] [low] test-4a.myoas.com:443
+[ssl-dns-names] [ssl] [info] test-4a.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] test-4a.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] shimo-test.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] shimo-test.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] shimo-test.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] imtest.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] soc.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] soc.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] soc.myoas.com:443 [ SAN: [*.myoas.com myoas.com],CN: *.myoas.com]
+[ssl-issuer] [ssl] [info] tms.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] tms.myoas.com:443 [myoas.com,*.myoas.com]
+[wildcard-tls] [ssl] [info] tms.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] ipdmobile.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] iknow-rc.myoas.com:443 [tls11]
+[ssl-issuer] [ssl] [info] t-omeeting.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] t-omeeting.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] t-omeeting.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] cem-survey.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] datareportmobile.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] dmg-dts-api.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] ezmobile.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] apitest.myoas.com:443 [tls11]
+[ssl-issuer] [ssl] [info] ttapi.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] ttapi.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] ttapi.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] t-approvalmobile.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] t-approvalmobile.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] t-approvalmobile.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] tms-uat.myoas.com:443 [DigiCert Inc]
+[mismatched-ssl-certificate] [ssl] [low] tms-uat.myoas.com:443 [CN: www.heytapmobile.com]
+[ssl-dns-names] [ssl] [info] tms-uat.myoas.com:443 [heytapdl.com,*.ocs-ap-south1.heytapmobile.com,*.allawnv.com,*.allawnofs.com,*.ocs-ap-south1.heytapcs2.com,*.game.heytapmobile.com,*.search.heytapmobile.com,*.magazine.heytapmobile.com,*.music.heytapmobile.com,heytapmobile.com,*.as.heytapmobile.com,*.slp.heytapmobile.com,*.tapdwz.com,*.soloop.heytapmobile.com,*.ocs-ap-southeast1.heytapmobile.com,*.ocs-ap-southeast1.heytapcs2.com,*.weather.heytapmobile.com,*.push.heytapmobile.com,*.upspush.com,cubefs.io,*.heytapcs2.com,*.ads.heytapmobile.com,*.bot.heytapmobile.com,*.browser.heytapmobile.com,*.open.heytapmobile.com,*.ait.heytapmobile.com,*.instant.heytapmobile.com,*.cc.heytapmobile.com,*.heytapimg.com,*.heytapmobile.com,*.store.heytapmobile.com,*.cpc.heytapmobile.com,*.play.heytapmobile.com,*.sms.heytapmobile.com,*.uc.heytapmobile.com,heytapimg.com,*.finz.heytapmobile.com,*.theme.heytapmobile.com,*.qponmobile.com,*.iot.heytapmobile.com,*.ocloud.heytapmobile.com,www.heytapmobile.com,*.opay.heytapmobile.com,*.cdo.heytapmobile.com,*.gamesdk.heytapmobile.com,*.heytapdl.com,*.dc.heytapmobile.com,*.health.heytapmobile.com,*.allawnos.com,*.apps.heytapmobile.com,*.cubefs.io,heytapcs2.com,*.sc.heytapmobile.com,*.pull.heytapmobile.com]
+[wildcard-tls] [ssl] [info] tms-uat.myoas.com:443 [CN: www.heytapmobile.com, SAN: [www.heytapmobile.com heytapcs2.com *.heytapcs2.com *.ocs-ap-south1.heytapcs2.com *.ocs-ap-southeast1.heytapcs2.com *.opay.heytapmobile.com heytapdl.com heytapimg.com *.ads.heytapmobile.com *.ait.heytapmobile.com *.apps.heytapmobile.com *.as.heytapmobile.com *.bot.heytapmobile.com *.browser.heytapmobile.com *.cc.heytapmobile.com *.cdo.heytapmobile.com *.cpc.heytapmobile.com *.dc.heytapmobile.com *.finz.heytapmobile.com *.game.heytapmobile.com *.gamesdk.heytapmobile.com *.health.heytapmobile.com *.heytapdl.com *.heytapimg.com *.heytapmobile.com *.instant.heytapmobile.com *.iot.heytapmobile.com *.magazine.heytapmobile.com *.music.heytapmobile.com *.ocloud.heytapmobile.com *.open.heytapmobile.com *.play.heytapmobile.com *.pull.heytapmobile.com *.push.heytapmobile.com *.sc.heytapmobile.com *.search.heytapmobile.com *.slp.heytapmobile.com *.sms.heytapmobile.com *.store.heytapmobile.com *.theme.heytapmobile.com *.uc.heytapmobile.com *.weather.heytapmobile.com *.tapdwz.com *.soloop.heytapmobile.com *.ocs-ap-south1.heytapmobile.com *.ocs-ap-southeast1.heytapmobile.com heytapmobile.com *.allawnos.com *.allawnv.com *.allawnofs.com *.upspush.com cubefs.io *.cubefs.io *.qponmobile.com]]
+[ssl-issuer] [ssl] [info] ttlogin.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] ttlogin.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] ttlogin.myoas.com:443 [ SAN: [*.myoas.com myoas.com],CN: *.myoas.com]
+[ssl-issuer] [ssl] [info] t-ssov2.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] t-ssov2.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] t-ssov2.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] tc.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] tc.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] tc.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] lcp-mobile.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] mail.t1mail.myoas.com:443 [AVAYA]
+[mismatched-ssl-certificate] [ssl] [low] mail.t1mail.myoas.com:443 [CN: SBCCSR]
+[ssl-dns-names] [ssl] [info] mail.t1mail.myoas.com:443 [adc.com]
+[ssl-issuer] [ssl] [info] ttmsg.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] ttmsg.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] ttmsg.myoas.com:443 [ SAN: [*.myoas.com myoas.com],CN: *.myoas.com]
+[ssl-issuer] [ssl] [info] ttpic.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] ttpic.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] ttpic.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] adfs.t2mail.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] imtest.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] mtp.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] ipdmobile.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] mail.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] ttmsg-rc.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] ttmsg-rc.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] ttmsg-rc.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] vote.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] vote.myoas.com:443 [myoas.com,*.myoas.com]
+[wildcard-tls] [ssl] [info] vote.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] menu.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] mtp.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] lcp-mobile.myoas.com:443 [tls11]
+[ssl-issuer] [ssl] [info] vision.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] vision.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] vision.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[ssl-issuer] [ssl] [info] webex.myoas.com:443 [DigiCert Inc]
+[expired-ssl] [ssl] [low] webex.myoas.com:443 [2023-12-22 23:59:59 +0000 UTC]
+[revoked-ssl-certificate] [ssl] [low] webex.myoas.com:443
+[ssl-dns-names] [ssl] [info] webex.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] webex.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[deprecated-tls] [ssl] [info] esign.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] mail.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] menu.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] cooperation.myoas.com:443 [tls11]
+[ssl-issuer] [ssl] [info] www.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] www.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] www.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[tls-version] [ssl] [info] icsm-test.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] countly.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] icsm-test.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] icsm-test.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.0] [ssl] [low] icsm-test.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] iknow.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] countly.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] datareportmobile.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] dmg-dts-api.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.0] [ssl] [low] countly.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] iknow-rc.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.1] [ssl] [low] icsm-test.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] imapi.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] countly.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] iknow.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.2] [ssl] [low] icsm-test.myoas.com:443 [[tls12 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256]]
+[tls-version] [ssl] [info] adfs.t2mail.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] purma1.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.1] [ssl] [low] countly.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] datareportmobile.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] iknow-rc.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cem-survey.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] dmg-dts-api.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] apitest.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] imapi.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ezmobile.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[deprecated-tls] [ssl] [info] realpms.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] cem-survey.myoas.com:443 [tls10]
+[ssl-issuer] [ssl] [info] xunche.myoas.com:443 [DigiCert Inc]
+[ssl-dns-names] [ssl] [info] xunche.myoas.com:443 [*.myoas.com,myoas.com]
+[wildcard-tls] [ssl] [info] xunche.myoas.com:443 [CN: *.myoas.com, SAN: [*.myoas.com myoas.com]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] iknow.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] imapi.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] adfs.t2mail.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] ezmobile.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] iknow-rc.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] dmg-dts-api.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] datareportmobile.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] imapi.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] imworkbench.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.1] [ssl] [low] iknow.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] imapi.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[deprecated-tls] [ssl] [info] purma1.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] imworkbench.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.1] [ssl] [low] datareportmobile.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] iknow-rc.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] dmg-dts-api.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[deprecated-tls] [ssl] [info] open-apimarket.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.1] [ssl] [low] apitest.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ezmobile.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[deprecated-tls] [ssl] [info] recruit.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] realpms.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] cem-survey.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.0] [ssl] [low] imworkbench.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] imworkbench.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] esign.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] datareportmobile.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] dmg-dts-api.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] ipdmobile.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.1] [ssl] [low] adfs.t2mail.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] imtest.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] imworkbench.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cem-survey.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] esign.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ipdmobile.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[deprecated-tls] [ssl] [info] recruit.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] datareportmobile.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] dmg-dts-api.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] cem-survey.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] iknow-rc.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] esign.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] apitest.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] iknow.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] imtest.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] sso.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] lcp-mobile.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.1] [ssl] [low] imtest.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] cooperation.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] sso.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] ssl.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] cem-survey.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] menu.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] iknow-rc.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] adfs.t2mail.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.0] [ssl] [low] lcp-mobile.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[deprecated-tls] [ssl] [info] ssl.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cooperation.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] mtp.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] apitest.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] commerce.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] ipdmobile.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] imtest.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] lcp-mobile.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] mail.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ipdmobile.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] cooperation.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] mtp.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] iwcs.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] menu.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] fsc-app.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mtp.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[deprecated-tls] [ssl] [info] open-apimarket.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.0] [ssl] [low] menu.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[deprecated-tls] [ssl] [info] soc.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] commerce.myoas.com:443 [tls13]
+[deprecated-tls] [ssl] [info] iwcs.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mtp.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] apitest.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] iwcs.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] imtest.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] ezmobile.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] adfs.t2mail.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] mtp.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] lcp-mobile.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] fsc-app.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] mail.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] menu.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] iwcs.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] menu.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[deprecated-tls] [ssl] [info] t-approvalmobile.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] soc.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] ipdmobile.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] lcp-mobile.myoas.com:443 [tls13]
+[deprecated-tls] [ssl] [info] test-4a.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] test-4a.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] ezmobile.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] mail.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] ipdmobile.myoas.com:443 [tls13]
+[weak-cipher-suites:tls-1.1] [ssl] [low] lcp-mobile.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[deprecated-tls] [ssl] [info] t-approvalmobile.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] tms-uat.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] mail.myoas.com:443 [tls13]
+[deprecated-tls] [ssl] [info] t-ssov2.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] tms-uat.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] tc.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] ezmobile.myoas.com:443 [tls13]
+[weak-cipher-suites:tls-1.0] [ssl] [low] purma1.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[deprecated-tls] [ssl] [info] ttapi.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] ttlogin.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] purma1.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] t-ssov2.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] ttmsg.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.0] [ssl] [low] realpms.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[deprecated-tls] [ssl] [info] ttapi.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] cms-hth.myoas.com:443 [tls12]
+[deprecated-tls] [ssl] [info] ttpic.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] mtp-test.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.0] [ssl] [low] recruit.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[deprecated-tls] [ssl] [info] ttmsg.myoas.com:443 [tls11]
+[deprecated-tls] [ssl] [info] tc.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] mail.t1mail.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] purma1.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[deprecated-tls] [ssl] [info] ttpic.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] recruit.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] realpms.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] purma1.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] cms-hth.myoas.com:443 [tls13]
+[deprecated-tls] [ssl] [info] ttlogin.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.1] [ssl] [low] realpms.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] mtp-test.myoas.com:443 [tls13]
+[deprecated-tls] [ssl] [info] vote.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.1] [ssl] [low] recruit.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] sbox.myoas.com:443 [tls12]
+[deprecated-tls] [ssl] [info] vote.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] realpms.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] recruit.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] sbox.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] purma1.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] mokr.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] purma1.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] sbox-in.myoas.com:443 [tls12]
+[deprecated-tls] [ssl] [info] vision.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] mokr.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] recruit.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] sbox-in.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] sbox-paris.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] odocs-ocs.myoas.com:443 [tls12]
+[deprecated-tls] [ssl] [info] webex.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] odocs.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.0] [ssl] [low] sso.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ssl.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] ssl.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] ttmsg-rc.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.1] [ssl] [low] sso.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] sso.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] pmsmobile.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ssl.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] ssl.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.0] [ssl] [low] soc.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] sso.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] soc.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] webex.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] odocs.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] sso.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] open-apimarket.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] paa-websocket.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] ssl.myoas.com:443 [tls12]
+[deprecated-tls] [ssl] [info] www.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] pmsmobile.myoas.com:443 [tls13]
+[deprecated-tls] [ssl] [info] vision.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.1] [ssl] [low] soc.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] open-apimarket.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] soc.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.0] [ssl] [low] t-approvalmobile.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] t-ssov2.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] t-approvalmobile.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] sbox-gz-weboffice01.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] odocs-ocs.myoas.com:443 [tls13]
+[weak-cipher-suites:tls-1.0] [ssl] [low] test-4a.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] soc.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] t-approvalmobile.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] test-4a.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tc.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] t-ssov2.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] sbox-gz-weboffice01.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] t-approvalmobile.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] sbox-press.myoas.com:443 [tls12]
+[deprecated-tls] [ssl] [info] www.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] paa-websocket.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] test-4a.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] soc.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] shimo-test.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.0] [ssl] [low] tms-uat.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] test-4a.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] tc.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] test-4a.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tms-uat.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] sbox-gz-weboffice05.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] sbox-press.myoas.com:443 [tls13]
+[weak-cipher-suites:tls-1.1] [ssl] [low] tc.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] tms-uat.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ttapi.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] t-approvalmobile.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] tms-uat.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] shimo-test.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] realpms.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] tms-uat.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ttapi.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ttlogin.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] tms.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] tms-uat.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] tc.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] tms.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] ttapi.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ttmsg.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] ttlogin.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] t-ssov2.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] realpms.myoas.com:443 [tls13]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ttmsg.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.0] [ssl] [low] ttpic.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] ttlogin.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] tc.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] ttpic.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ttpic.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] ttpic.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ttlogin.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] ttpic.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.0] [ssl] [low] vote.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] t-ssov2.myoas.com:443 [tls11]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vote.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] ttmsg.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.0] [ssl] [low] vision.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] ttlogin.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] ttmsg.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] sbox-gz-weboffice05.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] ttmsg-rc.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] t-ssov2.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] ttmsg.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.0] [ssl] [low] webex.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] vision.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] vote.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] ttapi.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] ttmsg-rc.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] vote.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] ttapi.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] vote.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] webex.myoas.com:443 [tls10]
+[weak-cipher-suites:tls-1.1] [ssl] [low] ttmsg-rc.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[deprecated-tls] [ssl] [info] xunche.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] t-omeeting.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] webex.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] vision.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] t-omeeting.myoas.com:443 [tls13]
+[tls-version] [ssl] [info] www.myoas.com:443 [tls10]
+[deprecated-tls] [ssl] [info] xunche.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] webex.myoas.com:443 [tls12]
+[weak-cipher-suites:tls-1.1] [ssl] [low] webex.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]]
+[tls-version] [ssl] [info] vision.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] www.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] vision.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] www.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] www.myoas.com:443 [tls13]
+[weak-cipher-suites:tls-1.0] [ssl] [low] xunche.myoas.com:443 [[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[weak-cipher-suites:tls-1.1] [ssl] [low] xunche.myoas.com:443 [[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]]
+[tls-version] [ssl] [info] xunche.myoas.com:443 [tls10]
+[tls-version] [ssl] [info] xunche.myoas.com:443 [tls11]
+[tls-version] [ssl] [info] xunche.myoas.com:443 [tls12]
+[tls-version] [ssl] [info] xunche.myoas.com:443 [tls13]

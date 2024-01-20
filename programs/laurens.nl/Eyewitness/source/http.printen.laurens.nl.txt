@@ -1,0 +1,269 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Page-Enter" content="blendTrans(Duration=0.2)"><meta http-equiv="Page-Exit" content="blendTrans(Duration=0.2)"><title>
+	Ricoh myPrint
+</title><meta name="keywords" content="myPrint,ricoh,mobile,BYOD,bring your own device,printen,follow you,email print,webprint,print anywhere"><meta name="description" content="Ricoh myPrint makes it possible to print always and from any location using your PC, laptop, tablet or smartphone."><link href="Images/MasterPage/myPrint.ico" rel="shortcut icon"><link id="Ico" rel="shortcut icon"><link href="Styles/Site.css" rel="stylesheet" type="text/css"><link href="App_Themes/Ricoh/default.css" type="text/css" rel="stylesheet"><script type="text/javascript" src="bundles/libs_22100_js"></script><link type="text/css" rel="stylesheet" href="bundles/libs_22100_css"></head>
+<body style="background-color: rgba(0, 0, 0, 0); background-position: 0% 0%, center center; background-repeat: repeat, repeat; background-attachment: scroll, fixed; background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url(&quot;https://printen.laurens.nl/RicohmyPrint/WebSiteBackground.custom?v=279b74bc-fa7d-48a2-9f3a-42fb7f24db48&quot;); background-size: cover; background-origin: padding-box, padding-box; background-clip: border-box, border-box; cursor: default; opacity: 1;">
+    <div class="page_outerbox">
+        <form method="post" action="./Login.aspx" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnLogin')" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/RicohmyPrint/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMIAMVH-eY8QyNqBTXLwSTKQV1yk8fV2mX8fJOjRpRyQFyKDE8rPv22j4S-N8yVO5g2&amp;t=638369102615952268" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"nl-NL","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":false,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"€","NaNSymbol":"NaN","CurrencyNegativePattern":12,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":2,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":false},"DateSeparator":"-","FirstDayOfWeek":1,"CalendarWeekRule":2,"FullDateTimePattern":"dddd d MMMM yyyy HH:mm:ss","LongDatePattern":"dddd d MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"d MMMM","PMDesignator":"","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d-M-yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["zo","ma","di","wo","do","vr","za"],"ShortestDayNames":["zo","ma","di","wo","do","vr","za"],"DayNames":["zondag","maandag","dinsdag","woensdag","donderdag","vrijdag","zaterdag"],"AbbreviatedMonthNames":["jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec",""],"MonthNames":["januari","februari","maart","april","mei","juni","juli","augustus","september","oktober","november","december",""],"IsReadOnly":false,"NativeCalendarName":"Gregoriaanse kalender","AbbreviatedMonthGenitiveNames":["jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec",""],"MonthGenitiveNames":["januari","februari","maart","april","mei","juni","juli","augustus","september","oktober","november","december",""]},"eras":[1,"n.Chr.",null,0]};//]]>
+</script>
+
+<script src="/RicohmyPrint/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvhfRIHX-YngozBmkNPBPFXFPFB3NuzWo5Hl588Jawgm36qC10bsWSyW43hYRtlFcXW2fEgQbWRmdgAKCCtriiutZUVtxerjr_HzicKkP6nXtJSCCzx4bXsBo77EmVnX0faDduJEksqBMJEbIPAeTzGE1&amp;t=722fe453" type="text/javascript"></script>
+<script src="/RicohmyPrint/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OAu7bUmrbT73MkIIUhLflsgs_QDCFE7JWM7WP-LYNWCHI7SN1jU_pOlwYoWDWax_KV3AMOihmKFCbP3MxnFw-9wbPx0XEa-IPJ_jguuUqMWhBu_vHcdNPAdh8qSmi0041d4BJNkkWn_lltv4d1qplqs1&amp;t=722fe453" type="text/javascript"></script>
+<script src="/RicohmyPrint/WebResource.axd?d=JoBkLzP19aTuxbWOhHobYlU7Im9joXAtKtgi1b-ETjAoaxSRhTgzmLlA0Ga5rT6GWgfcqhf1TOx3OmSemDQO-A2&amp;t=638369102615952268" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CC57FB02">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="IY924oQ3ude7jOMD2KJeqy5vAZBPkA2SXLOrZh0QxnMVpDEa5PDA8zFcP7wSEeCqQfhkkDCGLgaH+CfleLFIoGtkycuHT3k2sgt9x9VgjTKRINmfWwEvTSZ7WSfnV1f6bExrB5MpO5VDhhTlDNr5LifjBsz1/3TejuLcaXNs0yCq8K47/Vwbki5HkQ+/pvFPa1UsoA7q9wj5qbJg0XnBCm6INprN30SbH8YueI57Kx7xb0jW9mFPf1NDvI2ElzIC4TbWpHfEQ/3iYaDZA0FKZRDGR38nUHbcJOR04jPsR2fM/Gd9+OhmZMyCDi6ldOwKR5UG8qvxYTht0ytOgvnE2eN1bo3z6UHJVDFrLf8OOCBbQQ7uh7zwM3HNDYeYcp14DYnfUayuE5ppoO6tS0RP6sFSSyC2Ukjhope1Ue6Gey/3cYJkkXCQy8buingIhnIxGhwNIMXRaUyIG2fQX/8q4Kpb+8C1TzF9ctLNePlMmmsEDZ0iNaDWl4WQgXCFQEOU7sHK8VEubzsCIf06f5drJVdgsUU3tWyr+pY/pFizr4EOWj3f1UpHsyH+StT1KKWZRNHpKx2lH1rC3+yNQqsHodEuagVZfGWPJ+Vh+J8lmqztwt8PRjLvY3P337g4TH64MsoHwB9R2pHOdlG//63w4PQPBGC8aNpfvxjttW4kRUVL7xBDijV+5Y0t19x1Fy+NrgtyX4QgTZ4DRoGOndBe10HbzbNOYIm1e47wZZ9yircvASy+SecPr54QxdIzsCKmBwM5yMQawwOowycJ7EWpNuj1TeFJkavEoBwP3RYoD6rsmuTi+JxneuVQyp3j/P4piHEEZBJ8ITLZWfDD7a19iA==">
+</div>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', ['tctl00$RightTopPanel','RightTopPanel','tctl00$ContentPlaceHolder1$captchaUpdatePanel','ContentPlaceHolder1_captchaUpdatePanel'], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+            <div class="page pageborder">
+                <div class="top">
+                    
+                </div>
+                <div class="main">
+                    <table class="header">
+                        <tbody><tr>
+                            <td style="text-align: left;">
+                                
+                                <img id="imgCompanyLogo" class="MainMasterLogo" src="https://printen.laurens.nl/RicohmyPrint/CompanyLogo.custom?v=a0dc5bfb-a289-4dd9-8748-34f61c59d3ee">
+                            </td>
+                            <td style="text-align: right;">
+                                <div id="RightTopPanel">
+	
+                                        
+                                        <span id="lblBalance" class="BalanceText" style="display:inline-block;height:18px;margin-top: 12px"></span>
+                                        <select name="ctl00$ddllanguages" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ddllanguages\',\'\')', 0)" id="ddllanguages" class="ShadowDropDown" style="width:115px;float: right">
+		<option value="ca-ES">Català</option>
+		<option value="cs-CZ">čeština</option>
+		<option value="da-DK">dansk</option>
+		<option value="de-DE">Deutsch</option>
+		<option value="en-GB">English</option>
+		<option value="es-ES">español</option>
+		<option value="fr-FR">français</option>
+		<option value="it-IT">italiano</option>
+		<option selected="selected" value="nl-NL">Nederlands</option>
+		<option value="nb-NO">norsk</option>
+		<option value="pl-PL">polski</option>
+		<option value="pt-PT">português</option>
+		<option value="fi-FI">Suomi</option>
+		<option value="sv-SE">svenska</option>
+		<option value="tr-TR">Türk</option>
+		<option value="kk-KZ">Қазақ</option>
+		<option value="ru-RU">русский</option>
+		<option value="th-TH">ไทย</option>
+		<option value="zh-TW">中文(台灣)</option>
+		<option value="ja-JP">日本語</option>
+
+	</select>
+                                    
+</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: left;">
+                                
+                            </td>
+                            <td style="text-align: right;">
+                                <a id="linkBtnHelp" class="HyperlinkAlignRight" href="javascript:__doPostBack('ctl00$linkBtnHelp','')">Help</a>
+                                
+                                
+                                
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    
+    <script type="text/javascript" src="Login.js"></script>
+    <table style="width: 100%; height: 443px; table-layout: auto; border-collapse: collapse;">
+        <tbody><tr>
+            <td style="padding: 50px;" rowspan="13" valign="middle" align="center">
+                <img id="ContentPlaceHolder1_imgFrontpage" class="Front_page" src="App_Themes/Ricoh/Images/front_page.png" style="width:275px;">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+            </td>
+            <td width="80%">
+                <div class="MainRicohMyPrintLogo" style="height: 60px">
+                    <span id="ContentPlaceHolder1_lblMessage" class="NormalTextPaddingFloatLeftRedPadding"></span>
+                    <br>
+                    <br>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    &nbsp;
+                    <img id="ContentPlaceHolder1_imgLogo" src="App_Themes/Ricoh/Images/myPrint_logo.png">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td id="ContentPlaceHolder1_tdFreeTextAreaTop" style="height: 54px; vertical-align: top; text-indent: 8px;"></td>
+
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    &nbsp;
+                    <span id="ContentPlaceHolder1_lblUserName" class="NormalTextBold">Gebruikersnaam</span>
+                </div>
+                <input name="ctl00$ContentPlaceHolder1$txtUserName" type="text" autocomplete="off" maxlength="254" id="txtUserName" class="ShadowBox" style="width:314px;">
+            </td>
+        </tr>
+        <tr>
+            <td style="height: 15px">
+                <div>
+                    &nbsp;
+                    <span id="ContentPlaceHolder1_lblPassword" class="NormalTextBold">Wachtwoord</span>
+                </div>
+                <input name="ctl00$ContentPlaceHolder1$txtPassword" type="password" autocomplete="off" maxlength="254" id="txtPassword" class="ShadowBox" style="width:314px;">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    &nbsp;
+                    
+                </div>
+                
+            </td>
+        </tr>
+        <tr>
+            <td style="height: 32px">
+                <table>
+                    <tbody><tr><td style="height: 15px">
+                        
+                    </td>
+                    <td style="height: 15px">
+                        
+                    </td>
+                </tr></tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <span id="lblCapsLock" class="NormalTextPaddingFloatLeftRed" style="display:inline-block;width:398px;visibility: hidden">Caps Lock is ingeschakeld</span>
+                
+                <span id="ContentPlaceHolder1_lblInvalidPassword" class="NormalTextPaddingFloatLeftRedPadding" style="display:inline-block;width:398px;"></span>
+                <span id="ContentPlaceHolder1_lblIdentiferNotFound" class="NormalTextPaddingFloatLeftRedPadding" style="display:inline-block;width:398px;"></span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div id="ContentPlaceHolder1_captchaUpdatePanel">
+	
+                        
+                    
+</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" align="left">
+                <input type="submit" name="ctl00$ContentPlaceHolder1$btnLogin" value="Inloggen" id="btnLogin" class="ButtonLogin" style="width:225px;">
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" align="left">
+                <span id="ContentPlaceHolder1_lblAttemptsleft" class="NormalTextPaddingFloatLeftRedPadding"></span>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 8px;">
+                
+                <br>
+                <a id="ContentPlaceHolder1_hrefPasswordForgotton" class="HyperlinkBlue" href="PasswordForget.aspx" target="_self">Wachtwoord vergeten?</a>
+                <br>
+                <a id="ContentPlaceHolder1_hrefRegistreer" class="HyperlinkBlue" clientmode="Static" href="ClientCreate.aspx" target="_self">Account aanmaken</a>
+                <br>
+            </td>
+        </tr>
+        <tr>
+            <td id="ContentPlaceHolder1_tdFreeTextAreaBottom" style="padding:8px;font-family:verdana;font-size:14px;color:#696969;"></td>
+
+        </tr>
+    </tbody></table>
+    
+    
+    
+
+                </div>
+                <div class="bottom">
+                </div>
+
+            </div>
+            
+            <div class="footer">
+                <span id="lblFooter">© Copyright Ricoh. All Rights Reserved. <a href="https://www.ricoh.com/privacy" target="_blank"> Privacy</a> </span>
+            </div>
+            <input type="hidden" name="ctl00$idleTime" id="idleTime" value="1200000">
+            <input type="hidden" name="ctl00$redirectAfter" id="redirectAfter" value="10">
+            <input type="hidden" name="ctl00$redirectTo" id="redirectTo" value="SessionExpired.aspx">
+            <input type="hidden" name="ctl00$keepAliveURL" id="keepAliveURL" value="Home/SessionHeartBeat">
+            <input type="hidden" name="ctl00$initialSessionTimeoutMessage" id="initialSessionTimeoutMessage" value="Uw sessie verloopt over #COUNTDOWN# seconden. Klik op OK om uw huidige sessie voort te zetten.">
+            <input type="hidden" name="ctl00$sessionTimeoutCountdownId" id="sessionTimeoutCountdownId" value="sessionTimeoutCountdown">
+            <input type="hidden" name="ctl00$expiredMessage" id="expiredMessage" value="Uw sessie is verlopen. U wordt nu uitgelogd.">
+            <input type="hidden" name="ctl00$sessionTimeoutTitle" id="sessionTimeoutTitle" value="Waarschuwing: Sessie bijna verstreken">
+            <input type="hidden" name="ctl00$hfCulture" id="hfCulture" value="nl-NL">
+            <input type="hidden" name="ctl00$hfBackgroundImage" id="hfBackgroundImage" value="https://printen.laurens.nl/RicohmyPrint/WebSiteBackground.custom?v=279b74bc-fa7d-48a2-9f3a-42fb7f24db48">
+            
+        
+
+<script type="text/javascript">
+//<![CDATA[
+WebForm_AutoFocus('txtUserName');//]]>
+</script>
+</form>
+        <div id="hourglass" style="visibility: hidden;">
+                <div class="loading">
+                    <div class="spinner">
+                        <div class="circle circle-1">
+                            <div class="circle-inner"></div>
+                        </div>
+                        <div class="circle circle-2">
+                            <div class="circle-inner"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+
+
+<div style="display: none;" tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front sessionExpired ui-dialog-buttons" aria-describedby="sessionTimeoutWarning" aria-labelledby="ui-id-1"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">Waarschuwing: Sessie bijna verstreken</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="sessionTimeoutWarning" style="" class="ui-dialog-content ui-widget-content">Uw sessie verloopt over <span id="sessionTimeoutCountdown"></span> seconden.<br> Klik op OK om uw huidige sessie voort te zetten.</div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-corner-all ui-widget">OK</button></div></div></div></body></html>

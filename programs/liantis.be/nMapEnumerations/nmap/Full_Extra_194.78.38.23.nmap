@@ -1,0 +1,28 @@
+# Nmap 7.93 scan initiated Sat Dec 16 15:38:05 2023 as: /usr/bin/nmap -Pn -sCV -p80,443 --open -oN nmap/Full_Extra_194.78.38.23.nmap --system-dns --stats-every 2s 194.78.38.23
+Nmap scan report for 23.38-78-194.adsl-static.isp.belgacom.be (194.78.38.23)
+Host is up (0.15s latency).
+
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     Apache httpd
+|_http-server-header: Apache
+443/tcp open  ssl/http Apache httpd
+|_ssl-date: 2023-12-16T10:08:25+00:00; -1s from scanner time.
+| ssl-cert: Subject: commonName=*.liantis.be
+| Subject Alternative Name: DNS:*.liantis.be, DNS:liantis.be
+| Not valid before: 2023-01-06T18:15:29
+|_Not valid after:  2024-02-07T18:15:28
+| http-git: 
+|   194.78.38.23:443/.git/
+|     Git repository found!
+|     Repository description: Unnamed repository; edit this file 'description' to name the...
+|     Last commit message: first commit 
+|     Remotes:
+|_      git@github.com:liantisit-ghrc/static-content.git
+|_http-title: 403 Forbidden
+|_http-server-header: Apache
+
+Host script results:
+|_clock-skew: -1s
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Dec 16 15:38:26 2023 -- 1 IP address (1 host up) scanned in 21.78 seconds

@@ -1,0 +1,70 @@
+# Nmap 7.93 scan initiated Fri Dec 15 14:00:02 2023 as: /usr/bin/nmap -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_103.180.115.9.nmap --system-dns --stats-every 3s 103.180.115.9
+Nmap scan report for 103.180.115.9
+Host is up (0.013s latency).
+Not shown: 65465 closed tcp ports (reset), 9 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+443/tcp  open  https
+1935/tcp open  rtmp
+6000/tcp open  X11
+6001/tcp open  X11:1
+6002/tcp open  X11:2
+6003/tcp open  X11:3
+6004/tcp open  X11:4
+6005/tcp open  X11:5
+6006/tcp open  X11:6
+6007/tcp open  X11:7
+6008/tcp open  X11:8
+6009/tcp open  X11:9
+6010/tcp open  x11
+6011/tcp open  x11
+6012/tcp open  x11
+6013/tcp open  x11
+6014/tcp open  x11
+6015/tcp open  x11
+6016/tcp open  x11
+6017/tcp open  xmail-ctrl
+6018/tcp open  x11
+6019/tcp open  x11
+6020/tcp open  x11
+7000/tcp open  afs3-fileserver
+7001/tcp open  afs3-callback
+7002/tcp open  afs3-prserver
+7003/tcp open  afs3-vlserver
+7004/tcp open  afs3-kaserver
+7005/tcp open  afs3-volser
+7006/tcp open  afs3-errors
+7007/tcp open  afs3-bos
+7008/tcp open  afs3-update
+7009/tcp open  afs3-rmtsys
+7010/tcp open  ups-onlinet
+7011/tcp open  talon-disc
+7012/tcp open  talon-engine
+7013/tcp open  microtalon-dis
+7014/tcp open  microtalon-com
+7015/tcp open  talon-webserver
+7016/tcp open  spg
+7017/tcp open  grasp
+7018/tcp open  fisa-svc
+7019/tcp open  doceri-ctl
+7020/tcp open  dpserve
+8082/tcp open  blackice-alerts
+8084/tcp open  websnp
+8085/tcp open  unknown
+8100/tcp open  xprint-server
+8101/tcp open  ldoms-migr
+8180/tcp open  unknown
+8181/tcp open  intermapper
+8182/tcp open  vmware-fdm
+8183/tcp open  proremote
+8184/tcp open  itach
+8185/tcp open  unknown
+8186/tcp open  unknown
+8187/tcp open  unknown
+8188/tcp open  unknown
+8189/tcp open  unknown
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Fri Dec 15 14:02:13 2023 -- 1 IP address (1 host up) scanned in 131.46 seconds

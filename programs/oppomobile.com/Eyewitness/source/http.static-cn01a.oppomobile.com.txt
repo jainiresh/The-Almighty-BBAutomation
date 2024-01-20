@@ -1,0 +1,8 @@
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you access does not belong to you.</Message>
+  <RequestId>65A987A1ED2CD43536F30C0B</RequestId>
+  <HostId>ssuupv80105841aliyun-ocloudopen.oss-cn-beijing.aliyuncs.com</HostId>
+  <EC>0003-00000905</EC>
+  <RecommendDoc>https://api.aliyun.com/troubleshoot?q=0003-00000905</RecommendDoc>
+</Error>

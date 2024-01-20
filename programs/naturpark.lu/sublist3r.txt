@@ -1,0 +1,10 @@
+www.naturpark.lu
+bvs.naturpark.lu
+klimapakt.naturpark.lu
+klimapaktsrv.naturpark.lu
+mta-sts.naturpark.lu
+photomullerthal.naturpark.lu
+photosure.naturpark.lu
+telemetry.naturpark.lu
+webgis.naturpark.lu
+webmail.naturpark.lu

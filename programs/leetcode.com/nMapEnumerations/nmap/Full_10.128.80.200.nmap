@@ -1,0 +1,3 @@
+# Nmap 7.93 scan initiated Sat Dec  9 14:53:03 2023 as: /usr/bin/nmap -Pn -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_10.128.80.200.nmap --system-dns --stats-every 3s 10.128.80.200
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Sat Dec  9 16:44:41 2023 -- 1 IP address (1 host up) scanned in 6698.87 seconds

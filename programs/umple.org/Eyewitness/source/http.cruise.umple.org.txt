@@ -1,0 +1,396 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>      
+
+  <title>Dr. Timothy C. Lethbridge: Research into Complexity 
+Reduction in Software Engineering</title>
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://cruise.umple.org/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://cruise.umple.org/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://cruise.umple.org/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://cruise.umple.org/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://cruise.umple.org/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://cruise.umple.org/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://cruise.umple.org/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://cruise.umple.org/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://cruise.umple.org/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://cruise.umple.org/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cruise.umple.org/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://cruise.umple.org/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://cruise.umple.org/favicon-16x16.png">
+<link rel="manifest" href="https://cruise.umple.org/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://cruise.umple.org/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+    <!-- The following is included from files/inclcommonhead.html -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="files/styleSheet1.css">
+  
+  <meta http-equiv="Content-Type" content="text/html;
+     charset=iso-8859-1">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    
+  <style type="text/css" id="internalStyle">
+                /*<![CDATA[*/st
+                BODY {  margin: 0 0 0 0; background-color: white; }
+                /*]]>*/
+  </style>  
+      
+  <link href="files/styleSheet2.css" rel="stylesheet" type="text/css">
+        
+  <script type="text/javascript" src="files/script.js">
+  </script>
+
+  <!-- end of inclusion from files/inclcommonhead.html -->
+
+
+
+</head>
+                
+<body>
+        
+    <!-- The following table was included from file 
+     files/topuottawabannerincl.html -->
+  <table width="780" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+      <tr>
+        <td width="130" valign="top">
+          <a href="http://www.uottawa.ca/welcome.html" target="_blank">
+            <img src="files/left_generic.jpg" alt="uOttawa" width="130" height="53" border="0">
+          </a>
+        </td>
+        <td width="650" valign="top" align="right">
+          <img src="files/bg_header_title.jpg" width="650" height="53">
+        </td>
+      </tr> 
+    </tbody>
+  </table>
+
+   
+       
+  <!-- The following is the main table, split horizontally into 
+       a menu and the primary content -->
+  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+           
+      <!-- The following specifies the part of the left bar menu
+           to highlight as current -->
+      
+           
+      <!-- The following includes the top row with the uottawa
+           banner, plus the leftmost columns of the main row
+           including the left menu -->
+      <!-- The following is included from files/inclleftmenu.html -->
+
+      <!-- Sets the width of cells for subsequent rows -->
+      <tr>
+        <td width="34" valign="top" height="8"></td>
+        <td width="11"></td>
+        <td width="141" valign="top"></td>
+        <td width="5" valign="top"></td>  
+        <td width="29" valign="top"></td> 
+        <td width="811" valign="top"></td>
+        <td width="24" valign="top"></td>
+        <td width="15" valign="top"></td>
+      </tr>
+
+      <!-- Main row into which the menu and content are embedded -->
+      <tr>
+        <td valign="top">
+          <img src="files/indicator_blocks.gif" alt="some dots" width="34" vspace="20" height="10" border="0" align="top">
+        </td>
+      
+        <td></td>
+      
+        <!-- Menu table cell -->
+        <td id="menu_1" valign="top">
+          
+            <div class="menu1-level1-no"> 
+          
+            <a href="https://www.eecs.uottawa.ca/~tcl" onfocus="blurLink(this);">
+              T.C. Lethbridge<br>Home
+            </a>
+          </div>
+
+          
+            <div class="menu1-level1-no">
+          
+            <a href="https://www.eecs.uottawa.ca/~tcl/research.shtml" onfocus="blurLink(this);">
+              Research
+            </a>
+          </div>
+
+          
+            <div class="menu1-level2-no">
+          
+            <a href="https://www.eecs.uottawa.ca/~tcl/publications/" onfocus="blurLink(this);">
+              Publications</a>
+          </div>
+
+          
+            <div class="menu1-level2-no">
+          
+            <a href="https://www.eecs.uottawa.ca/~tcl/presentations/" onfocus="blurLink(this);">
+              Presentations</a>
+          </div>
+
+          
+            <div class="menu1-level2-no">
+          
+            <a href="https://www.eecs.uottawa.ca/~tcl/gradtheses/" onfocus="blurLink(this);">
+              Grad students</a>
+          </div>
+
+          
+            <div class="menu1-level2-no">
+          
+            <a href="/umple" onfocus="blurLink(this);">
+              Umple
+            </a>
+          </div>
+          
+           
+            <div class="menu1-level2-act">
+          
+            <a href="index.shtml" onfocus="blurLink(this);">
+              CRuiSE Lab
+            </a>
+          </div>
+
+          
+            <div class="menu1-level2-no">
+          
+            <a href="https://www.eecs.uottawa.ca/~tcl/edrel/" onfocus="blurLink(this);">
+              Education
+            </a>
+          </div>
+
+          
+            <div class="menu1-level1-no">
+          
+            <a href="https://www.eecs.uottawa.ca/~tcl/teaching.shtml" onfocus="blurLink(this);">
+              Teaching
+            </a>
+          </div>
+
+          
+            <div class="menu1-level2-no">
+          
+            <a href="https://www.eecs.uottawa.ca/~tcl/csi5122/" onfocus="blurLink(this);">
+              CSI5122
+            </a>
+          </div>
+
+          
+            <div class="menu1-level2-no">
+          
+            <a href="https://www.eecs.uottawa.ca/~tcl/seg2105/" onfocus="blurLink(this);">
+              SEG2105
+            </a>
+          </div>
+
+          
+            <div class="menu1-level2-no">
+          
+            <a href="https://www.eecs.uottawa.ca/~tcl/seg4910-11/" onfocus="blurLink(this);">
+              SEG4910-11
+            </a>
+          </div>
+          
+          
+            <div class="menu1-level1-no">
+          
+            <a href="https://www.site.uottawa.ca/school/research/lloseng/" onfocus="blurLink(this);">
+              Textbook
+            </a>
+          </div>
+          
+          
+            <div class="menu1-level1-no">
+          
+            <a href="https://www.eecs.uottawa.ca/~tcl/biography.shtml" onfocus="blurLink(this);">
+              Biography
+            </a>
+          </div>
+
+          
+            <div class="menu1-level1-no">
+          
+            <a href="https://www.eecs.uottawa.ca/eng/" target="_blank" onfocus="blurLink(this);">
+              School of Electrical Engineering and Computer Science
+            </a>
+          </div>
+  
+          <div class="contacts">
+            <p>&nbsp;<br> &nbsp; <br> &nbsp; <br>
+            <b>Address:</b><br>
+            800 King Edward Ave<br>
+            Ottawa ON, K1N 6N5 Canada<br>&nbsp;<br>
+            <b>Tel:</b> +1 613 562-5800 x6685<br>
+            <b>Fax:</b> +1 613 562-5664<br>&nbsp;<br>
+            <b>Office:</b> SITE Building, Room 5070<br>&nbsp;<br>
+            <b>Mastodon:</b><a rel="me" href="https://fediscience.org/@tcl">@tcl@fediscience.org</a><br>
+            <b>Twitter:</b><a href="https://twitter.com/tcltcl">@tcltcl</a><br>
+            <b>Email:</b> <a href="mailto:tcl@timothy.lethbridge@uottawa.ca"><br>
+              Timothy.Lethbridge@uottawa.ca</a></p>
+          </div>      
+  
+        </td> <!-- end of main table cell -->
+          
+        <td width="1" valign="top">
+          <img src="files/dots.gif" alt="list of dots" width="5" height="300" border="0">
+        </td>
+              
+        <td width="1" valign="top"></td>
+
+
+<!-- End of inclusion from files/inclleftmenu.html -->
+
+
+
+        
+        <!-- Page Content Area table cell: -->
+        <td id="content">
+
+<h1>Complexity Reduction in Software Engineering (CRuiSE)</h1>
+
+<p>CRuiSE is the research group of Dr. Timothy C. Lethbridge, in the 
+School of Electrical Engineering and Computer Science at the University of 
+Ottawa.</p>
+
+<p>The acronym has "Complexity Reduction" and "Software Engineering" as 
+keywords. But the "ui" in the centre is critical: Reducing complexity 
+means, to a large extent, keeping the the "user interface" central. 
+However, we are not just talking about the interface for the end-user of 
+software, we are also talking about the interface for software engineers; 
+in particular the programming languages, modelling languages and other 
+software engineering tools they use.</p><p>
+
+&nbsp;<br>
+
+</p><h2>Overview of the research</h2>
+
+<p>One of the biggest challenges to software engineering is complexity. 
+Software systems are naturally complex due to the tendancy to develop 
+large numbers of features (and hence vast volumes of code) to satisfy the 
+perceived and real requirements. However, there is a great deal we can do 
+to reduce the complexity, and this research group investigates a 
+variety of these.</p>
+
+<p>Part of our research is to study what software engineers find complex, 
+and why many of them are resistant to techniques such as modelling and 
+using software engineering tools that are supposed to simplify 
+development. We are studying how to unify the notions of programming amd 
+modelling, so software engineers can develop and maintain systems quickly 
+and at a high level of abstraction.</p>
+
+<p>One of our ongoing subprojects is to develop a language called 
+<a href="http://www.umple.org">Umple</a> 
+which is designed to inccorporate modelling concepts such as 
+associations, attributes, states and actions into a programming language. 
+The developer/programmer would be able to work using any text editor, any 
+IDE (such as Eclipse or VS Code) as well as in a web browser. Se or he would be able to specify the above 
+high-level constructs as well as lower-level algorithmic code all in a 
+textual form. However, the graphical form would not be lost, as visual 
+representations (like UML), would still appear.</p>
+
+<ul>
+  <li><p>The UmpleOnline web interface is at <a href="/umpleonline/">try.umple.org</a></p>
+  </li><li><p>The user manual is at <a href="/umple/GettingStarted.html">manual.umple.org</a></p>
+  </li><li><p>The Umple home page is at <a href="/umple">www.umple.org</a></p>
+  </li><li><p>Umple download page: <a href="/umpleonline/download_eclipse_umple_plugin.shtml">dl.umple.org</a></p>
+</li></ul>
+
+<p>Current and former students working on the project are listed on <a href="http://www.site.uottawa.ca/~tcl/gradtheses/">Dr. Lethbridge's grad students 
+page.</a></p>
+
+
+
+&nbsp;<br>
+
+<h2>Some of our hypotheses</h2>
+
+<ul>
+
+<li>There need be no distinction between programming and modelling. 
+
+</li><li>Software engineers are resistant to modelling for some of the 
+following reasons:
+
+  <ol>
+
+  <li>Graphical modelling tools are not as fast to use as programming 
+tools, largely due to the need to use the mouse to build diagrams. This 
+could be potentially overcome if models could be created and edited with 
+a text editor, in the same manner as a program is edited.<p>
+
+  </p></li><li>Modelling languages do not allow software engineers to express all 
+the ideas they want, or do not make it easy to express ideas as 
+programming languages.<p>
+
+  </p></li><li>In general, software engineers are not well trained in modelling 
+languages such as UML, so do not know how to take good advantage of 
+them.<p>
+
+  </p></li><li>The most powerful tools for modelling tend to be expensive, causing 
+resistance to their use, especially among those in smaller companies and 
+those developing open-source software on their own. On the other hand, 
+the less powerful tools tend to merely allow drawing diagrams, as 
+opposed to creating executable systems.<p>
+
+  </p></li></ol>
+
+</li><li>The majority of software engineers using UML just draw pictures 
+(primarily class and state diagrams), and do not generate code from these 
+diagrams. Reasons for this include complexity, expense and inflexibility 
+of tools.<p>
+
+</p></li><li>Those programming in Object-Oriented languages tend to use many 
+idioms and patterns that require boilerplate code. Examples include the 
+code necessary for manipulating links of associations, the code to 
+implement state machines, and the code for patterns such as Singleton. It 
+would be better to build primitives for these into programming 
+languages.<p>
+
+
+</p></li></ul>
+
+<h2>Some of our research questions</h2>
+
+<ul>
+
+<li>What proportion of software engineers use modelling languages and 
+what for?<p>
+
+</p></li><li>What are software engineers' reasons for using modelling languages, 
+or not?<p>
+
+</p></li><li>What features should we provide in a programming language like 
+Umple?<p>
+
+</p></li><li>If Umple was available to software engineeers, would they use it?<p>
+
+</p></li><li>To what extent would textual-based modelling benefit software 
+engineers?<p>
+
+</p></li><li>Would users of different modelling languages such as BPEL and UML 
+all benefit from a textual alternative?<p>
+
+</p></li></ul>
+
+&nbsp;<br>
+
+
+
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+
+
+
+</body></html>

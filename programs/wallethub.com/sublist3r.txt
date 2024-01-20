@@ -1,0 +1,4 @@
+www.wallethub.com
+offers.wallethub.com
+static.wallethub.com
+www.static.wallethub.com

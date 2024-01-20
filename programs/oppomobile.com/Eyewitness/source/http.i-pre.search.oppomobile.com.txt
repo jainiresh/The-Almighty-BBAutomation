@@ -1,0 +1,1 @@
+<html><head><link rel="stylesheet" href="resource://content-accessible/plaintext.css"></head><body><pre>backend hosts is not configured</pre></body></html>

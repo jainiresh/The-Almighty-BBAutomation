@@ -1,0 +1,159 @@
+# Nmap 7.93 scan initiated Thu Dec  7 23:27:48 2023 as: /usr/bin/nmap -Pn -sCV -p80,443 --open -oN nmap/Full_Extra_52.200.231.61.nmap --system-dns --stats-every 2s 52.200.231.61
+Nmap scan report for ec2-52-200-231-61.compute-1.amazonaws.com (52.200.231.61)
+Host is up (0.23s latency).
+
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      fwe
+|_http-server-header: fwe
+|_http-title: Site doesn't have a title.
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 403 Forbidden
+|     Date: Thu, 07 Dec 2023 17:57:57 GMT
+|     Content-Length: 0
+|     Connection: close
+|     nel: { "report_to": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true}
+|     report-to: { "group": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true, "endpoints": [{"url": "https://edge-admin.us-east-1.freshedge.net/nelreports/freshteam"}]}
+|     server: fwe
+|     x-request-id: 6587fd75-6810-45a4-9dca-feb9a04b1842
+|   GetRequest: 
+|     HTTP/1.1 403 Forbidden
+|     Date: Thu, 07 Dec 2023 17:57:55 GMT
+|     Content-Length: 0
+|     Connection: close
+|     nel: { "report_to": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true}
+|     report-to: { "group": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true, "endpoints": [{"url": "https://edge-admin.us-east-1.freshedge.net/nelreports/freshteam"}]}
+|     server: fwe
+|     x-request-id: bef6baaf-2ee5-949d-935e-f0d470030635
+|   HTTPOptions: 
+|     HTTP/1.1 403 Forbidden
+|     Date: Thu, 07 Dec 2023 17:57:56 GMT
+|     Content-Length: 0
+|     Connection: close
+|     nel: { "report_to": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true}
+|     report-to: { "group": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true, "endpoints": [{"url": "https://edge-admin.us-east-1.freshedge.net/nelreports/freshteam"}]}
+|     server: fwe
+|     x-request-id: a6a5d0c3-1a7b-40b7-97e5-0b734b721dfc
+|   RTSPRequest: 
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     </body>
+|     </html>
+|   X11Probe: 
+|     HTTP/1.1 400 Bad Request
+|     Server: awselb/2.0
+|     Date: Thu, 07 Dec 2023 17:57:57 GMT
+|     Content-Type: text/html
+|     Content-Length: 122
+|     Connection: close
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     </body>
+|_    </html>
+443/tcp open  ssl/https fwe
+|_http-server-header: fwe
+|_http-title: Site doesn't have a title.
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 403 Forbidden
+|     Date: Thu, 07 Dec 2023 17:58:04 GMT
+|     Content-Length: 0
+|     Connection: close
+|     nel: { "report_to": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true}
+|     report-to: { "group": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true, "endpoints": [{"url": "https://edge-admin.us-east-1.freshedge.net/nelreports/freshteam"}]}
+|     server: fwe
+|     x-request-id: aca706f0-de33-43b2-86e2-0945e4dc7690
+|   GetRequest: 
+|     HTTP/1.1 403 Forbidden
+|     Date: Thu, 07 Dec 2023 17:58:02 GMT
+|     Content-Length: 0
+|     Connection: close
+|     nel: { "report_to": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true}
+|     report-to: { "group": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true, "endpoints": [{"url": "https://edge-admin.us-east-1.freshedge.net/nelreports/freshteam"}]}
+|     server: fwe
+|     x-request-id: 663f67a9-7b29-471c-8af6-3c6c4a3132df
+|   HTTPOptions: 
+|     HTTP/1.1 403 Forbidden
+|     Date: Thu, 07 Dec 2023 17:58:03 GMT
+|     Content-Length: 0
+|     Connection: close
+|     nel: { "report_to": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true}
+|     report-to: { "group": "nel-endpoint-freshteam", "max_age": 2592000, "include_subdomains": true, "endpoints": [{"url": "https://edge-admin.us-east-1.freshedge.net/nelreports/freshteam"}]}
+|     server: fwe
+|_    x-request-id: d61aa54e-0314-98ac-a354-c47c9ae62e35
+| ssl-cert: Subject: commonName=*.freshteam.com
+| Subject Alternative Name: DNS:*.freshteam.com
+| Not valid before: 2023-08-18T00:00:00
+|_Not valid after:  2024-09-14T23:59:59
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.93%I=7%D=12/7%Time=657207A3%P=x86_64-pc-linux-gnu%r(GetR
+SF:equest,1C1,"HTTP/1\.1\x20403\x20Forbidden\r\nDate:\x20Thu,\x2007\x20Dec
+SF:\x202023\x2017:57:55\x20GMT\r\nContent-Length:\x200\r\nConnection:\x20c
+SF:lose\r\nnel:\x20{\x20\"report_to\":\x20\"nel-endpoint-freshteam\",\x20\
+SF:"max_age\":\x202592000,\x20\"include_subdomains\":\x20true}\r\nreport-t
+SF:o:\x20{\x20\"group\":\x20\"nel-endpoint-freshteam\",\x20\"max_age\":\x2
+SF:02592000,\x20\"include_subdomains\":\x20true,\x20\"endpoints\":\x20\[{\
+SF:"url\":\x20\"https://edge-admin\.us-east-1\.freshedge\.net/nelreports/f
+SF:reshteam\"}\]}\r\nserver:\x20fwe\r\nx-request-id:\x20bef6baaf-2ee5-949d
+SF:-935e-f0d470030635\r\n\r\n")%r(HTTPOptions,1C1,"HTTP/1\.1\x20403\x20For
+SF:bidden\r\nDate:\x20Thu,\x2007\x20Dec\x202023\x2017:57:56\x20GMT\r\nCont
+SF:ent-Length:\x200\r\nConnection:\x20close\r\nnel:\x20{\x20\"report_to\":
+SF:\x20\"nel-endpoint-freshteam\",\x20\"max_age\":\x202592000,\x20\"includ
+SF:e_subdomains\":\x20true}\r\nreport-to:\x20{\x20\"group\":\x20\"nel-endp
+SF:oint-freshteam\",\x20\"max_age\":\x202592000,\x20\"include_subdomains\"
+SF::\x20true,\x20\"endpoints\":\x20\[{\"url\":\x20\"https://edge-admin\.us
+SF:-east-1\.freshedge\.net/nelreports/freshteam\"}\]}\r\nserver:\x20fwe\r\
+SF:nx-request-id:\x20a6a5d0c3-1a7b-40b7-97e5-0b734b721dfc\r\n\r\n")%r(RTSP
+SF:Request,7A,"<html>\r\n<head><title>400\x20Bad\x20Request</title></head>
+SF:\r\n<body>\r\n<center><h1>400\x20Bad\x20Request</h1></center>\r\n</body
+SF:>\r\n</html>\r\n")%r(X11Probe,110,"HTTP/1\.1\x20400\x20Bad\x20Request\r
+SF:\nServer:\x20awselb/2\.0\r\nDate:\x20Thu,\x2007\x20Dec\x202023\x2017:57
+SF::57\x20GMT\r\nContent-Type:\x20text/html\r\nContent-Length:\x20122\r\nC
+SF:onnection:\x20close\r\n\r\n<html>\r\n<head><title>400\x20Bad\x20Request
+SF:</title></head>\r\n<body>\r\n<center><h1>400\x20Bad\x20Request</h1></ce
+SF:nter>\r\n</body>\r\n</html>\r\n")%r(FourOhFourRequest,1C1,"HTTP/1\.1\x2
+SF:0403\x20Forbidden\r\nDate:\x20Thu,\x2007\x20Dec\x202023\x2017:57:57\x20
+SF:GMT\r\nContent-Length:\x200\r\nConnection:\x20close\r\nnel:\x20{\x20\"r
+SF:eport_to\":\x20\"nel-endpoint-freshteam\",\x20\"max_age\":\x202592000,\
+SF:x20\"include_subdomains\":\x20true}\r\nreport-to:\x20{\x20\"group\":\x2
+SF:0\"nel-endpoint-freshteam\",\x20\"max_age\":\x202592000,\x20\"include_s
+SF:ubdomains\":\x20true,\x20\"endpoints\":\x20\[{\"url\":\x20\"https://edg
+SF:e-admin\.us-east-1\.freshedge\.net/nelreports/freshteam\"}\]}\r\nserver
+SF::\x20fwe\r\nx-request-id:\x206587fd75-6810-45a4-9dca-feb9a04b1842\r\n\r
+SF:\n");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.93%T=SSL%I=7%D=12/7%Time=657207AA%P=x86_64-pc-linux-gnu
+SF:%r(GetRequest,1C1,"HTTP/1\.1\x20403\x20Forbidden\r\nDate:\x20Thu,\x2007
+SF:\x20Dec\x202023\x2017:58:02\x20GMT\r\nContent-Length:\x200\r\nConnectio
+SF:n:\x20close\r\nnel:\x20{\x20\"report_to\":\x20\"nel-endpoint-freshteam\
+SF:",\x20\"max_age\":\x202592000,\x20\"include_subdomains\":\x20true}\r\nr
+SF:eport-to:\x20{\x20\"group\":\x20\"nel-endpoint-freshteam\",\x20\"max_ag
+SF:e\":\x202592000,\x20\"include_subdomains\":\x20true,\x20\"endpoints\":\
+SF:x20\[{\"url\":\x20\"https://edge-admin\.us-east-1\.freshedge\.net/nelre
+SF:ports/freshteam\"}\]}\r\nserver:\x20fwe\r\nx-request-id:\x20663f67a9-7b
+SF:29-471c-8af6-3c6c4a3132df\r\n\r\n")%r(HTTPOptions,1C1,"HTTP/1\.1\x20403
+SF:\x20Forbidden\r\nDate:\x20Thu,\x2007\x20Dec\x202023\x2017:58:03\x20GMT\
+SF:r\nContent-Length:\x200\r\nConnection:\x20close\r\nnel:\x20{\x20\"repor
+SF:t_to\":\x20\"nel-endpoint-freshteam\",\x20\"max_age\":\x202592000,\x20\
+SF:"include_subdomains\":\x20true}\r\nreport-to:\x20{\x20\"group\":\x20\"n
+SF:el-endpoint-freshteam\",\x20\"max_age\":\x202592000,\x20\"include_subdo
+SF:mains\":\x20true,\x20\"endpoints\":\x20\[{\"url\":\x20\"https://edge-ad
+SF:min\.us-east-1\.freshedge\.net/nelreports/freshteam\"}\]}\r\nserver:\x2
+SF:0fwe\r\nx-request-id:\x20d61aa54e-0314-98ac-a354-c47c9ae62e35\r\n\r\n")
+SF:%r(FourOhFourRequest,1C1,"HTTP/1\.1\x20403\x20Forbidden\r\nDate:\x20Thu
+SF:,\x2007\x20Dec\x202023\x2017:58:04\x20GMT\r\nContent-Length:\x200\r\nCo
+SF:nnection:\x20close\r\nnel:\x20{\x20\"report_to\":\x20\"nel-endpoint-fre
+SF:shteam\",\x20\"max_age\":\x202592000,\x20\"include_subdomains\":\x20tru
+SF:e}\r\nreport-to:\x20{\x20\"group\":\x20\"nel-endpoint-freshteam\",\x20\
+SF:"max_age\":\x202592000,\x20\"include_subdomains\":\x20true,\x20\"endpoi
+SF:nts\":\x20\[{\"url\":\x20\"https://edge-admin\.us-east-1\.freshedge\.ne
+SF:t/nelreports/freshteam\"}\]}\r\nserver:\x20fwe\r\nx-request-id:\x20aca7
+SF:06f0-de33-43b2-86e2-0945e4dc7690\r\n\r\n");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Dec  7 23:28:44 2023 -- 1 IP address (1 host up) scanned in 55.94 seconds

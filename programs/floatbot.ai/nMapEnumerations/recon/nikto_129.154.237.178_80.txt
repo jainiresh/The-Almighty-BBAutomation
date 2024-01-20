@@ -1,0 +1,14 @@
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          129.154.237.178
++ Target Hostname:    129.154.237.178
++ Target Port:        80
++ Start Time:         2023-11-08 02:11:27 (GMT5.5)
+---------------------------------------------------------------------------
++ Server: nginx
++ Root page / redirects to: https://floatbot.ai/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ 8102 requests: 0 error(s) and 0 item(s) reported on remote host
++ End Time:           2023-11-08 02:15:44 (GMT5.5) (257 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested

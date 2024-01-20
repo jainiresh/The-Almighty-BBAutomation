@@ -1,0 +1,2738 @@
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" id="eprison"><head>
+                    
+        <!-- Google tag (gtag.js) -->
+        <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-3800056-1&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/u-xcq3POCWFlCr3x8_IPxgPu/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-CDkofqMo6hSAPRh2TZj9HOLusb5hze4z6vkh6YWvd810w+KTuT5lucK9hQN36Xh7"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-JY0SE2FQG1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-JY0SE2FQG1');
+        </script>
+        
+                    <meta charset="utf-8">
+                    
+            <link rel="preconnect" href="//cdn.eprison.de" crossorigin="anonymous">
+            <link rel="preconnect" href="//www.google-analytics.com" crossorigin="anonymous">
+            <link rel="preconnect" href="//www.googletagmanager.com" crossorigin="anonymous">
+            
+            <!-- Title & Meta -->
+            <title>ePrison.de - Game Information</title>
+            <meta name="keywords" content="home, screenshots, spiele, pc, eprison, game, tests, reviews, previews, news, babes, letsplays, newsletter, magazin, artikel, tipps, spieletipps,">
+            <meta name="description" content="ePrison.de versorgt dich mit Tests, Previews, Videos, Reportagen und News zu PC-Spielen und Video Spielen. Wir liefern Spielejournalismus, von Gamern für Gamer.">
+
+            <meta http-equiv="Content-Language" content="de">
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+            <meta name="www.eprison.de" content="host-name">
+            <meta name="generator" content="ePrison 2024.0.0">
+            <meta name="title" content="eprison.de">
+
+            <meta name="country" content="Germany">
+            <meta name="state" content="Berlin">
+            <meta name="language" content="Deutsch">
+            
+            <meta name="apple-mobile-web-app-capable" content="yes">
+            <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+            <meta name="Revisit" content="After 1 days">
+            <meta name="robots" content="index, follow">
+            <meta name="page-type" content="Game Online-Magazin">
+            <meta name="page-topic" content="PC und Konsolen Games Online Magazine">
+            <meta name="title" content="ePrison.de - Game Information">
+            <meta name="author" content="webmaster@eprison.de">
+            <meta name="publisher" content="ePrison.de - Game Information">
+            <meta name="copyright" content="ePrison.de - Game Information">
+
+            <meta name="google-site-verification" content="uh5yz1lig5fkXFvy_d7oHqooPCdqOvXF26ggR6XUOWI">
+        
+                    
+                    
+                    
+        <link rel="canonical" href="https://www.eprison.de/">
+                    
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:description" content="ePrison.de versorgt dich mit Tests, Previews, Videos, Reportagen und News zu PC-Spielen und Video Spielen. Wir liefern Spielejournalismus, von Gamern für Gamer.">
+        <meta name="twitter:title" content="ePrison.de - Game Information">
+        <meta name="twitter:site" content="@ePrison">
+        <meta name="twitter:image" content="">
+        <meta name="twitter:creator" content="@ePrison">
+        <meta property="og:url" content="">
+        
+                    
+        <!-- Facebook -->
+        <meta property="og:locale" content="de_DE">
+        <meta property="og:type" content="article">
+        <meta property="og:title" content="ePrison.de - Game Information">
+        <meta property="og:description" content="ePrison.de versorgt dich mit Tests, Previews, Videos, Reportagen und News zu PC-Spielen und Video Spielen. Wir liefern Spielejournalismus, von Gamern für Gamer.">
+        <meta property="og:url" content="">
+        <meta property="og:site_name" content="ePrison">
+        <meta property="og:image" content="https://www.eprison.de/images/default/ep-logo.jpg">
+        
+                    
+        <!-- Favicon-->
+        <link rel="shortcut icon" href="https://eprison.de/favicon.ico" type="image/x-icon">
+                    
+            <!-- loading base controller -->
+            <link rel="stylesheet" type="text/css" href="/public/frontend/assets/css/lib/font-awesome-4.7.0/css/font-awesome.min.css">
+            <link rel="stylesheet" type="text/css" href="/public/frontend/assets/css/lib/bootstrap-grid.min.css">
+            <link rel="stylesheet" type="text/css" href="/public/frontend/assets/css/lib/animate.min.css">
+            <link rel="stylesheet" type="text/css" href="/public/frontend/css/e5f2b652ba1eb4fccc84ed2b52e85c46.min.css">
+            <link rel="stylesheet" type="text/css" href="/public/frontend/css/c2b20e8bd04c63e60a14f4546296253a.min.css">
+            <link rel="stylesheet" type="text/css" href="/public/frontend/css/ux-ep.min.css?v=1681734700">
+            <link rel="stylesheet" type="text/css" href="/public/frontend/css/ep.min.css?v=1681734700">
+            <link rel="stylesheet" type="text/css" href="/public/frontend/assets/css/zebra_dialog.css">
+            <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/0.3.0/tippy.css">
+            
+            <link rel="stylesheet" type="text/css" href="/public/frontend/js/splide/css/themes/splide-skyblue.min.css">
+                    
+                    
+        <!-- js functions external loading -->
+        <script type="text/javascript" src="/public/frontend/js/jquery-1.11.1.min.js"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9">
+        <script type="text/javascript" src="/public/frontend/js/ui/1.11.2/jquery-ui.min.js"></script>
+        
+            <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+            <script src="https://www.google.com/recaptcha/api.js"></script>
+                    
+        <!-- js functions -->
+        <script type="text/javascript" src="/public/frontend/js/jsMenu/menu.js"></script>
+        <script type="text/javascript" src="/public/frontend/js/frontend.js"></script>
+        <script type="text/javascript" src="/public/frontend/js/pagix.js"></script>
+        <script type="text/javascript" src="/public/frontend/js/zebra_dialog.js"></script>
+        <script type="text/javascript" src="/public/frontend/js/d3.v3.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/0.3.0/tippy.js"></script>
+                    
+                </head>
+            <body itemscope="" itemtype="https://schema.org/WebPage" class="eprison-style-0 desktop-detected  menu-closed">
+        <div class="app-section">
+            <div class="app-section-head" data-item="app-head">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12"><div class="appClientHead">
+        <div class="app-head-logo-wrapper"><a href="/">ePrison.de - Game Information</a></div>
+        <div class="app-head-wrapper">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12 ">
+                <div class="app-head-navigation"><div class="navigation-items d-none d-lg-block">
+        <div class="nav-avatar">
+            <span class="image-avatar">
+ <img src="https://www.eprison.de/uploads/avatar/avatar-default.png" style="height:48px; width:48px;" class="online-status-off " alt="Prisoner " data-src="https://www.eprison.de/uploads/avatar/avatar-default.png" data-size="auto" data-srcset="https://www.eprison.de/uploads/avatar/avatar-default.png" srcset="https://www.eprison.de/uploads/avatar/avatar-default.png" itemprop="image" border="0"></span>
+
+        </div>
+        <div class="nav-name">
+            <span class="nav-name-1">
+            prisoner
+            </span>
+            <span class="nav-name-2">
+            Stufe 0
+            </span>
+            
+        </div>
+        <a href="/" title="ePrison.de - Home">
+            <span class="nav-item-level home">
+                <span class="title"><i class="fa fa fa-home"></i></span>
+            </span>
+        </a>
+        <a href="/epcommunity.html" title="Community Aktivität">
+            <span class="nav-item-level">
+                <span class="title"><i class="fa fa-user-circle "></i></span>
+                <span class="online-on bold">0</span>
+            </span>
+        </a>
+           <span class="nav-item-level off-min" title="Sammlung">
+                <span class="title"><i class="fa fa-gamepad"></i></span>
+                <span class="online-off bold">0</span>
+            </span>
+            <span class="nav-item-level off-min" title="Freunde">
+                <span class="title"><i class="fa fa-users"></i></span>
+                <span class="online-off bold">0</span>
+            </span>
+            <span class="nav-item-level off-min" title="Posteingang">
+                <span class="title"><i class="fa fa-envelope"></i></span>
+                <span class="online-off bold">0</span>
+            </span>
+            <span class="nav-item-level off-min" title="Profil">
+                <span class="title"><i class="fa fa-user"></i></span>
+            </span>
+            <span class="nav-item-level off-min" title="Konto Einstellungen">
+                <span class="title"><i class="fa fa-cog"></i></span>
+            </span>
+            <span class="nav-item-level off-min" title="Fehler melden">
+                <span class="title"><i class="fa fa-bug"></i></span>
+            </span>
+        <a href="/steamdb" title="Steam Database">
+            <span class="nav-item-level steamdb">
+                <span class="title"><i class="fa fa-database"></i></span>
+            </span>
+        </a>
+            <a href="/login" title="Login">
+                <span class="nav-item-level">
+                    <span class="title"><i class="fa fa-sign-in"></i></span>
+                </span>
+            </a><div class="form-master-search">
+            <form method="post" action="/suche.html" name="form">
+
+        <input placeholder="Suche..." class="search" type="text" size="25" maxlength="100" autocomplete="off" value="" name="keyword" id="inputString" onkeyup="lookup(this.value);">
+        <button type="submit" class="add-search">
+            <i class="fa fa-search"></i>
+        </button></form>
+</div>
+</div>
+</div>
+
+                </div>
+            </div>
+        </div></div>
+</div>
+                    </div>
+                </div>
+            </div>
+            
+            <a href="JavaScript:;" id="main-nav" class="default-menu-trigger menu-trigger hidden-sm hidden-xs">
+                <span class="hamburger"></span><i class="fa fa-circle show-point"></i>
+            </a>
+            <!-- hamburger menu navigation -->
+            <div class="pusher">
+            <nav id="mp-menu" class="mp-menu menus">
+                <div class="mp-level block-menu-block-5 slice design-council-slice block-menu-block block-menu-block " role="navigation">
+                    <ul>
+                        <li class="active">
+                            <a href="/" title="" class="active">Portal</a>
+                        </li>
+                        <li>
+                            <a href="/apps,0,0,0">Games</a>
+                        </li>
+                        <li>
+                            <a href="/spiele/news,0.html">News</a>
+                        </li>
+                        <li>
+                            <a href="/specials,0.html">Tests</a>
+                        </li>
+                        <li>
+                            <a href="/bilder,0.html">Pictures</a>
+                        </li>
+                        <li>
+                            <a href="/videos,0.html">Videos</a>
+                        </li>
+                        <li>
+                            <a href="/spiele/guides,0.html">Guides</a>
+                        </li>
+                        <li>
+                            <a href="/spiele/maps,0.html">Maps</a>
+                        </li>
+                        <li>
+                            <a href="/spiele/mods,0.html">Mods</a>
+                        </li>
+                        <li>
+                            <a href="/spiele/downloads,0.html">Downloads</a>
+                        </li>
+                        <li>
+                            <a href="/spiele/entwickler,0.html">Entwickler</a>
+                        </li>
+                        <li>
+                            <a href="/spiele/vertriebe,0.html">Publisher</a>
+                        </li>
+                        <li>
+                            <a href="/spiele/engine,0.html">Engines</a>
+                        </li>
+                        <li>
+                            <a href="/platform,0.html">Plattformen</a>
+                        </li>
+                        <li>
+                            <a href="/magazine,0.html">Magazine</a>
+                        </li>
+                        <li>
+                            <a href="/store,0.html">Stores</a>
+                        </li>
+                        <li>
+                            <a href="/launcher,0.html">Launcher</a>
+                        </li>
+                        <li>
+                            <a href="/spiele/virtual-reality,0.html">VR Headsets</a>
+                        </li>
+                        <li>
+                            <a href="/franchise,0.html">Franchise</a>
+                        </li>
+                        <li>
+                            <a href="/manuals,0.html">Handbücher</a>
+                        </li>
+                        <li>
+                            <a href="/author,0.html">Autoren</a>
+                        </li>
+                        <li>
+                            <a href="/hilfe.html">Help</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+            <div itemscope="" itemtype="https://schema.org/VideoGame" class="app-section-content game" style="background-image: url('https://www.eprison.de/pics/games/7340/pic_1677032203.jpg?t=1664272238');">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12"><div class="appContent">
+        <div class="block-suggestion" id="suggestions" style="display: none;">
+            <div class="suggestionList" id="autoSuggestionsList"></div>
+        </div><div class="app-portal-promotion">
+            <div class="app-container-promotion portal">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+        <enu-article-item-renderer data-sitem="1061" data-sname="2Game"><a href="/spiele/heavy-duty-challenge-the-off-road-truck-simulator/specials/namensaenderung-major-update-und-wie-die-endversion-aussieht/7831/1061.html" title="Heavy Duty Challenge: The Off-Road Truck Simulator - Namensänderung, Major Update und wie die Endversion aussieht"><div class="teaser-app-item ">
+        <!-- enu teaser item content -->
+        <div class="teaser-item-content" data-article-id="1061" data-article-title="Heavy Duty Challenge: The Off-Road Truck Simulator - Namensänderung, Major Update und wie die Endversion aussieht">
+            <div class="teaser-image-preview">
+ <img src="https://www.eprison.de/pics/games/7831/k_img_031510c5-4fff-425b-a307-c4df576eb7d0.jpg" alt="Heavy Duty Challenge: The Off-Road Truck Simulator - Namensänderung, Major Update und wie die Endversion aussieht" title="Heavy Duty Challenge: The Off-Road Truck Simulator - Namensänderung, Major Update und wie die Endversion aussieht" class="teaser-image" data-src="https://www.eprison.de/pics/games/7831/k_img_031510c5-4fff-425b-a307-c4df576eb7d0.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/7831/k_img_031510c5-4fff-425b-a307-c4df576eb7d0.jpg" srcset="https://www.eprison.de/pics/games/7831/k_img_031510c5-4fff-425b-a307-c4df576eb7d0.jpg" itemprop="image" border="0"></div>
+            
+            <div class="teaser-label" data-analytics="article-game-title">Heavy Duty Challenge: The Off-Road  ...
+            </div>
+            
+            <div class="teaser-title portal" data-analytics="article-title">Namensänderung, Major Update und wie die Endversion aussieht
+            </div>
+            
+            
+            <div class="teaser-param" data-analytics="article-timestamp">
+            <span class="px-date app-close"><span class="mr5">05.01.24</span>
+23:54</span>
+<span class="teaser-category">Kategorie: <span class="app-item-category">Test</span>
+</span>  
+            </div>
+            
+            
+        </div></div>
+</a></enu-article-item-renderer></div><div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+        <enu-article-item-renderer data-sitem="1060" data-sname="2Game"><a href="/spiele/bus-simulator-21/specials/schienenverkehr-hat-vorrang/6346/1060.html" title="Bus Simulator 21 - Schienenverkehr hat Vorrang!"><div class="teaser-app-item ">
+        <!-- enu teaser item content -->
+        <div class="teaser-item-content" data-article-id="1060" data-article-title="Bus Simulator 21 - Schienenverkehr hat Vorrang!">
+            <div class="teaser-image-preview">
+ <img src="https://www.eprison.de/pics/games/6346/k_pic_1597326275.png" alt="Bus Simulator 21 - Schienenverkehr hat Vorrang!" title="Bus Simulator 21 - Schienenverkehr hat Vorrang!" class="teaser-image" data-src="https://www.eprison.de/pics/games/6346/k_pic_1597326275.png" data-size="auto" data-srcset="https://www.eprison.de/pics/games/6346/k_pic_1597326275.png" srcset="https://www.eprison.de/pics/games/6346/k_pic_1597326275.png" itemprop="image" border="0"></div>
+            
+            <div class="teaser-label" data-analytics="article-game-title">Bus Simulator 21
+            </div>
+            
+            <div class="teaser-title portal" data-analytics="article-title">Schienenverkehr hat Vorrang!
+            </div>
+            
+            
+            <div class="teaser-param" data-analytics="article-timestamp">
+            <span class="px-date app-close"><span class="mr5">14.11.23</span>
+16:23</span>
+<span class="teaser-category">Kategorie: <span class="app-item-category">Test</span>
+</span>  
+            </div>
+            
+            
+        </div></div>
+</a></enu-article-item-renderer></div><div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+        <enu-article-item-renderer data-sitem="1059" data-sname="2Game"><a href="/spiele/gunsmith-simulator/specials/werde-meister-der-waffen/7885/1059.html" title="Gunsmith Simulator - Werde Meister der Waffen"><div class="teaser-app-item ">
+        <!-- enu teaser item content -->
+        <div class="teaser-item-content" data-article-id="1059" data-article-title="Gunsmith Simulator - Werde Meister der Waffen">
+            <div class="teaser-image-preview">
+ <img src="https://www.eprison.de/pics/games/7885/k_pic_1695935378.jpg" alt="Gunsmith Simulator - Werde Meister der Waffen" title="Gunsmith Simulator - Werde Meister der Waffen" class="teaser-image" data-src="https://www.eprison.de/pics/games/7885/k_pic_1695935378.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/7885/k_pic_1695935378.jpg" srcset="https://www.eprison.de/pics/games/7885/k_pic_1695935378.jpg" itemprop="image" border="0"></div>
+            
+            <div class="teaser-label" data-analytics="article-game-title">Gunsmith Simulator
+            </div>
+            
+            <div class="teaser-title portal" data-analytics="article-title">Werde Meister der Waffen
+            </div>
+            
+            
+            <div class="teaser-param" data-analytics="article-timestamp">
+            <span class="px-date app-close"><span class="mr5">02.10.23</span>
+08:51</span>
+<span class="teaser-category">Kategorie: <span class="app-item-category">Test</span>
+</span>  
+            </div>
+            
+            
+        </div></div>
+</a></enu-article-item-renderer></div><div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+        <enu-article-item-renderer data-sitem="1058" data-sname="2Game"><a href="/spiele/allgemein/specials/sebastian-auf-der-gamescom-2023-in-koeln-das-gab-es-zu-sehen/5/1058.html" title="Allgemein - Sebastian auf der Gamescom 2023 in Köln - Das gab es zu sehen"><div class="teaser-app-item ">
+        <!-- enu teaser item content -->
+        <div class="teaser-item-content" data-article-id="1058" data-article-title="Allgemein - Sebastian auf der Gamescom 2023 in Köln - Das gab es zu sehen">
+            <div class="teaser-image-preview">
+ <img src="https://www.eprison.de/pics/games/5/k_pic_1552082508.jpg" alt="Allgemein - Sebastian auf der Gamescom 2023 in Köln - Das gab es zu sehen" title="Allgemein - Sebastian auf der Gamescom 2023 in Köln - Das gab es zu sehen" class="teaser-image" data-src="https://www.eprison.de/pics/games/5/k_pic_1552082508.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/5/k_pic_1552082508.jpg" srcset="https://www.eprison.de/pics/games/5/k_pic_1552082508.jpg" itemprop="image" border="0"></div>
+            
+            <div class="teaser-label" data-analytics="article-game-title">Allgemein
+            </div>
+            
+            <div class="teaser-title portal" data-analytics="article-title">Sebastian auf der Gamescom 2023 in Köln - Das gab es zu sehen
+            </div>
+            
+            
+            <div class="teaser-param" data-analytics="article-timestamp">
+            <span class="px-date app-close"><span class="mr5">09.09.23</span>
+13:49</span>
+<span class="teaser-category">Kategorie: <span class="app-item-category">Kolumne</span>
+</span>  
+            </div>
+            
+            
+        </div></div>
+</a></enu-article-item-renderer></div>
+                </div>
+            </div></div>
+
+        <div class="steam-database-head">
+            <a href="/steamdb" title="ePrison Steam Database (beta)">
+                <div class="steam-db-head-portal">ePrison Steam Database (beta)
+                    <p>project by nilius for better information about games</p>
+                    <div class="steam-db-head-portal-tip">germans biggest steam tracking tool</div>
+                </div>
+            </a>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Newsticker<div class="head-extend"><a href="/news/hashtag/devplay">#DevPlay</a><a href="/news/hashtag/piranhaBeckenTv">#Piranha Becken TV</a><a href="/news/hashtag/gfk">#GfK</a><a href="/news/hashtag/hardware">#Hardware</a><a href="/news/hashtag/epUpdate">#epUpdate</a><a href="/news/hashtag/steamNews">#steamNews</a></div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="events"><a href="https://www.instant-gaming.com/de/12706-kaufen-atlas-fallen-pc-spiel-steam/?igr=eprison" rel="nofollow" target="_blank">
+            <div class="ad-hero-top">
+                <div class="ad-hero-top-image">
+ <img src="https://assets.eprison.de/shops/instantgaming_trans.png" alt="" style="height:auto;width:100%;" data-src="https://assets.eprison.de/shops/instantgaming_trans.png" data-size="auto" data-srcset="https://assets.eprison.de/shops/instantgaming_trans.png" srcset="https://assets.eprison.de/shops/instantgaming_trans.png" itemprop="image" border="0"></div>
+                <div class="ad-hero-top-description">
+                    <span class="title">Atlas Fallen</span>
+                    <span class="sub-title">Jetzt kaufen und spielen</span>
+                </div>
+                <div class="ad-hero-top-price">
+                    <span class="price">38.49€</span>
+                </div>
+                <div class="ad-hero-top-price-final">
+                    <span class="uvp">50€</span>
+                    <span class="price-discount">-23%</span>
+                </div>
+                <div class="clearfix"></div>
+            </div></a></div>
+<div class="app-portal-promotion"><a href="https://store.steampowered.com/sale/copenhagengamesweek" rel="nofollow" target="_blank">
+ <img src="https://cdn.eprison.de/5/img_f870793a-4314-4cf3-aeae-c4e1e0e364a4.png" alt="" data-src="https://cdn.eprison.de/5/img_f870793a-4314-4cf3-aeae-c4e1e0e364a4.png" data-size="auto" data-srcset="https://cdn.eprison.de/5/img_f870793a-4314-4cf3-aeae-c4e1e0e364a4.png" srcset="https://cdn.eprison.de/5/img_f870793a-4314-4cf3-aeae-c4e1e0e364a4.png" itemprop="image" border="0"></a></div>
+
+        <api-teaser-renderer data-item="22323" data-name="teaser-description"><a href="/spiele/allgemein/news/spider-man-2-schwingt-sich-erneut-an-ps5-spitze/5/22323.html" title="Allgemein - Spider-Man 2 schwingt sich erneut an PS5-Spitze">
+        <time>13. Januar</time>
+        <news class="api-teaser-item min-height-215 " data-game="Allgemein" data-item="22323">
+            <headline class="api-headline">Spider-Man 2 schwingt sich erneut an PS5-Spitze<span class="hashtag">gfk</span></headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/5/k_pic_1579271426.jpg" alt="Allgemein - Spider-Man 2 schwingt sich erneut an PS5-Spitze" class="api-teaser-image" data-src="https://cdn.eprison.de/5/k_pic_1579271426.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/5/k_pic_1579271426.jpg" srcset="https://cdn.eprison.de/5/k_pic_1579271426.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="Das sind die Videospieleverkaufscharts.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Allgemein</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">13.01.24</span>
+21:32</span>
+</span>
+                <span class="c2">Charts
+                <span class="plt">Plattform: Multi</span>
+                </span>
+            </div>
+                <div class="api-teaser-description">Das sind die Videospieleverkaufscharts.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></api-teaser-renderer>
+        <api-teaser-renderer data-item="22322" data-name="teaser-description"><a href="/spiele/banishers-ghosts-of-new-eden/news/release-termin-steht-fest-und-das-action-rpg-kann-vorbestellt-werden/7107/22322.html" title="Banishers: Ghosts of New Eden - Release-Termin steht fest und das Action-RPG kann vorbestellt werden">
+        <time>11. Januar</time>
+        <news class="api-teaser-item min-height-215 " data-game="Banishers: Ghosts of New Eden" data-item="22322">
+            <headline class="api-headline">Release-Termin steht fest und das Action-RPG kann vorbestellt werden</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/7107/k_img_adba1b2c-ab3a-4a17-91d1-2bf4f75cf1cf.jpg" alt="Banishers: Ghosts of New Eden - Release-Termin steht fest und das Action-RPG kann vorbestellt werden" class="api-teaser-image" data-src="https://cdn.eprison.de/7107/k_img_adba1b2c-ab3a-4a17-91d1-2bf4f75cf1cf.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/7107/k_img_adba1b2c-ab3a-4a17-91d1-2bf4f75cf1cf.jpg" srcset="https://cdn.eprison.de/7107/k_img_adba1b2c-ab3a-4a17-91d1-2bf4f75cf1cf.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="Focus Entertainment und DON'T NOD enthüllen einen bewegenden und intimen neuen Trailer zu Banishers: Ghosts of New Eden.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Banishers: Ghosts of New Eden</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">11.01.24</span>
+18:08</span>
+</span>
+                <span class="c1">Ankündigung
+                <span class="plt">Plattform: Multi</span>
+                </span>
+            </div>
+                <div class="api-teaser-description">Focus Entertainment und DON'T NOD enthüllen einen bewegenden und intimen neuen Trailer zu Banishers: Ghosts of New Eden.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></api-teaser-renderer>
+        <api-teaser-renderer data-item="22321" data-name="teaser-description"><a href="/spiele/allgemein/news/gg-bavaria-2024-bayerische-gaming-messe-stellt-erste-programm-highlights-vor/5/22321.html" title="Allgemein - GG Bavaria 2024 - Bayerische Gaming-Messe stellt erste Programm-Highlights vor">
+        <time>10. Januar</time>
+        <news class="api-teaser-item min-height-215 " data-game="Allgemein" data-item="22321">
+            <headline class="api-headline">GG Bavaria 2024 - Bayerische Gaming-Messe stellt erste Programm-Highlights vor</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/5/k_pic_1552082508.jpg" alt="Allgemein - GG Bavaria 2024 - Bayerische Gaming-Messe stellt erste Programm-Highlights vor" class="api-teaser-image" data-src="https://cdn.eprison.de/5/k_pic_1552082508.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/5/k_pic_1552082508.jpg" srcset="https://cdn.eprison.de/5/k_pic_1552082508.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="Das sind die Highlights auf dem kommenden Event in München!">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Allgemein</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">10.01.24</span>
+20:09</span>
+</span>
+                <span class="c5">Event
+                <span class="plt">Plattform: Multi</span>
+                </span>
+            </div>
+                <div class="api-teaser-description">Das sind die Highlights auf dem kommenden Event in München!</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></api-teaser-renderer>
+        <api-teaser-renderer data-item="22320" data-name="teaser-description"><a href="/spiele/black-desert-online/news/2024-bringt-viele-geschenke-fuer-black-desert-console-spieler/2336/22320.html" title="Black Desert Online - 2024 bringt viele Geschenke für Black Desert Console-Spieler">
+        <time>10. Januar</time>
+        <news class="api-teaser-item min-height-215 " data-game="Black Desert Online" data-item="22320">
+            <headline class="api-headline">2024 bringt viele Geschenke für Black Desert Console-Spieler</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/2336/k_pic_1623270589.jpg" alt="Black Desert Online - 2024 bringt viele Geschenke für Black Desert Console-Spieler" class="api-teaser-image" data-src="https://cdn.eprison.de/2336/k_pic_1623270589.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/2336/k_pic_1623270589.jpg" srcset="https://cdn.eprison.de/2336/k_pic_1623270589.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="Um den Beginn des neuen Jahres gebührend zu feiern, bietet Pearl Abyss zahlreiche Geschenke für Spieler und Spielerinnen von Black Desert Console.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Black Desert Online</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">10.01.24</span>
+20:06</span>
+</span>
+                <span class="c5">Event
+                <span class="plt">Plattform: Multi</span>
+                </span>
+            </div>
+                <div class="api-teaser-description">Um den Beginn des neuen Jahres gebührend zu feiern, bietet Pearl Abyss zahlreiche Geschenke für Spieler und Spielerinnen von Black Desert Console.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></api-teaser-renderer>
+        <api-teaser-renderer data-item="22319" data-name="teaser-description"><a href="/spiele/pax-dei/news/mmo-geht-im-fruehling-diesen-jahres-in-den-early-access/7427/22319.html" title="Pax Dei - MMO geht im Frühling diesen Jahres in den Early Access">
+        <time>09. Januar</time>
+        <news class="api-teaser-item min-height-215 " data-game="Pax Dei" data-item="22319">
+            <headline class="api-headline">MMO geht im Frühling diesen Jahres in den Early Access</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/7427/k_pic_1677690871.jpg" alt="Pax Dei - MMO geht im Frühling diesen Jahres in den Early Access" class="api-teaser-image" data-src="https://cdn.eprison.de/7427/k_pic_1677690871.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/7427/k_pic_1677690871.jpg" srcset="https://cdn.eprison.de/7427/k_pic_1677690871.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="Entwickler Mainframe Industries gibt bekannt, dass das MMO Pax Dei noch in diesem Frühjahr in den Early Access gehen wird. Passend dazu gibt es einen neuen Gameplay-Trailer zum Start des Spiels.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Pax Dei</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">09.01.24</span>
+14:41</span>
+</span>
+                <span class="c1">Ankündigung
+                <span class="plt">Plattform: Multi</span>
+                </span>
+            </div>
+                <div class="api-teaser-description">Entwickler Mainframe Industries gibt bekannt, dass das MMO Pax Dei noch in diesem Frühjahr in den Early Access gehen wird. Passend dazu gibt es einen neuen Gameplay-Trailer zum Start des Spiels.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></api-teaser-renderer>
+        <api-teaser-renderer data-item="22318" data-name="teaser-description"><a href="/spiele/albion-online/news/albion-online-launcht-das-crystal-raiders-update/3085/22318.html" title="Albion Online - Albion Online launcht das Crystal Raiders Update">
+        <time>08. Januar</time>
+        <news class="api-teaser-item min-height-215 " data-game="Albion Online" data-item="22318">
+            <headline class="api-headline">Albion Online launcht das Crystal Raiders Update</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/3085/k_pic_1649948394.jpg" alt="Albion Online - Albion Online launcht das Crystal Raiders Update" class="api-teaser-image" data-src="https://cdn.eprison.de/3085/k_pic_1649948394.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/3085/k_pic_1649948394.jpg" srcset="https://cdn.eprison.de/3085/k_pic_1649948394.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="Das ist das Crystal Raiders Update mit folgenden Inhalten.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Albion Online</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">08.01.24</span>
+20:50</span>
+</span>
+                <span class="c3">Update
+                <span class="plt">Plattform: Multi</span>
+                </span>
+            </div>
+                <div class="api-teaser-description">Das ist das Crystal Raiders Update mit folgenden Inhalten.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></api-teaser-renderer>
+        <api-teaser-renderer data-item="22317" data-name="teaser-description"><a href="/spiele/world-of-warships/news/world-of-warships-laeutet-das-neue-jahr-mit-uterster-flugzeugtraegern-ein/1883/22317.html" title="World of Warships - World of Warships läutet das neue Jahr mit U.S. Flugzeugträgern ein">
+        <time>08. Januar</time>
+        <news class="api-teaser-item min-height-215 " data-game="World of Warships" data-item="22317">
+            <headline class="api-headline">World of Warships läutet das neue Jahr mit U.S. Flugzeugträgern ein</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/1883/k_pic_1681816133.jpg" alt="World of Warships - World of Warships läutet das neue Jahr mit U.S. Flugzeugträgern ein" class="api-teaser-image" data-src="https://cdn.eprison.de/1883/k_pic_1681816133.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/1883/k_pic_1681816133.jpg" srcset="https://cdn.eprison.de/1883/k_pic_1681816133.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="World of Warships geht mit Volldampf in das Jahr 2024 mit U.S. Flugzeugträgern im Early Access, vielen In-Game Events und der Rückkehr der hololive production.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">World of Warships</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">08.01.24</span>
+20:47</span>
+</span>
+                <span class="c1">Ankündigung
+                <span class="plt">Plattform: PC</span>
+                </span>
+            </div>
+                <div class="api-teaser-description">World of Warships geht mit Volldampf in das Jahr 2024 mit U.S. Flugzeugträgern im Early Access, vielen In-Game Events und der Rückkehr der hololive production.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></api-teaser-renderer>
+        <api-teaser-renderer data-item="22316" data-name="teaser-description"><a href="/spiele/allgemein/news/ea-sports-fc-24-startet-schwungvoll-ins-neue-jahr/5/22316.html" title="Allgemein - EA Sports FC 24 startet schwungvoll ins neue Jahr">
+        <time>05. Januar</time>
+        <news class="api-teaser-item min-height-215 " data-game="Allgemein" data-item="22316">
+            <headline class="api-headline">EA Sports FC 24 startet schwungvoll ins neue Jahr<span class="hashtag">gfk</span></headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/5/k_pic_1579271426.jpg" alt="Allgemein - EA Sports FC 24 startet schwungvoll ins neue Jahr" class="api-teaser-image" data-src="https://cdn.eprison.de/5/k_pic_1579271426.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/5/k_pic_1579271426.jpg" srcset="https://cdn.eprison.de/5/k_pic_1579271426.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="Das sind die Videospieleverkaufscharts der letzten Woche.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Allgemein</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">05.01.24</span>
+23:50</span>
+</span>
+                <span class="c2">Charts
+                <span class="plt">Plattform: Multi</span>
+                </span>
+            </div>
+                <div class="api-teaser-description">Das sind die Videospieleverkaufscharts der letzten Woche.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></api-teaser-renderer>
+        <api-teaser-renderer data-item="22315" data-name="teaser-description"><a href="/spiele/allgemein/news/devplay-was-muss-man-als-game-designer-alles-koennen/5/22315.html" title="Allgemein - DevPlay: Was muss man als Game Designer alles können?">
+        <time>27. Dezember</time>
+        <news class="api-teaser-item min-height-215 " data-game="Allgemein" data-item="22315">
+            <headline class="api-headline">DevPlay: Was muss man als Game Designer alles können?<span class="hashtag">devplay</span></headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/5/k_pic_1611683108.jpg" alt="Allgemein - DevPlay: Was muss man als Game Designer alles können?" class="api-teaser-image" data-src="https://cdn.eprison.de/5/k_pic_1611683108.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/5/k_pic_1611683108.jpg" srcset="https://cdn.eprison.de/5/k_pic_1611683108.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="Deutsche Entwicklerstudios im Talk. Mit dabei diesmal Antony Christoulakis (Keen Games), Adrian Goersch (Black Forest Games) und Jan Theysen (King Art).">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Allgemein</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">27.12.23</span>
+22:15</span>
+</span>
+                <span class="c5">Video
+                <span class="plt">Plattform: Multi</span>
+                </span>
+            </div>
+                <div class="api-teaser-description">Deutsche Entwicklerstudios im Talk. Mit dabei diesmal Antony Christoulakis (Keen Games), Adrian Goersch (Black Forest Games) und Jan Theysen (King Art).</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></api-teaser-renderer>
+        <api-teaser-renderer data-item="22314" data-name="teaser-description"><a href="/spiele/allgemein/news/avatar-frontiers-of-pandora-verteidigt-doppel-silber-in-games-charts/5/22314.html" title="Allgemein - Avatar: Frontiers of Pandora verteidigt Doppel-Silber in Games-Charts">
+        <time>21. Dezember</time>
+        <news class="api-teaser-item min-height-215 " data-game="Allgemein" data-item="22314">
+            <headline class="api-headline">Avatar: Frontiers of Pandora verteidigt Doppel-Silber in Games-Charts<span class="hashtag">gfk</span></headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/5/k_pic_1579271426.jpg" alt="Allgemein - Avatar: Frontiers of Pandora verteidigt Doppel-Silber in Games-Charts" class="api-teaser-image" data-src="https://cdn.eprison.de/5/k_pic_1579271426.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/5/k_pic_1579271426.jpg" srcset="https://cdn.eprison.de/5/k_pic_1579271426.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="Das sind die aktuellen Verkaufszahlen aus Deutschland.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Allgemein</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">21.12.23</span>
+20:28</span>
+</span>
+                <span class="c2">Charts
+                <span class="plt">Plattform: Multi</span>
+                </span>
+            </div>
+                <div class="api-teaser-description">Das sind die aktuellen Verkaufszahlen aus Deutschland.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></api-teaser-renderer>
+        <enuis-teaser-renderer data-item="14562" data-name="teaser-description"><a href="/spiele/pioneers-of-pagonia/video/7240/14562.html" title="Pioneers of Pagonia: Early Access Release Trailer erschienen">
+        <time>13. Dezember</time>
+        <news class="api-teaser-item min-height-215 " data-game="Pioneers of Pagonia" data-item="14562">
+            <headline class="api-headline">Pioneers of Pagonia: Early Access Release Trailer erschienen</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><div class="app-item-teaser-video-image"><div class="app-videos-image"><img data-thumb="//i2.ytimg.com/vi/acvcRe0yLRY/0.jpg" alt="Thumbnail" src="//i2.ytimg.com/vi/acvcRe0yLRY/0.jpg" data-group-key="thumb-group-0"></div>
+</div>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="Pioneers of Pagonia ist ab heute im Early Access verfügbar! Passend dazu wurde auch der entsprechende Trailer veröffentlicht.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Pioneers of Pagonia</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">13.12.23</span>
+19:26</span>
+</span>
+                <span class="c5">Videos
+                
+                </span>
+            </div>
+                <div class="api-teaser-description">Pioneers of Pagonia ist ab heute im Early Access verfügbar! Passend dazu wurde auch der entsprechende Trailer veröffentlicht.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></enuis-teaser-renderer>
+        <enuis-teaser-renderer data-item="14556" data-name="teaser-description"><a href="/spiele/the-division-2/video/5032/14556.html" title="The Division 2: Project Resolve angekündigt">
+        <time>12. Dezember</time>
+        <news class="api-teaser-item min-height-215 " data-game="The Division 2" data-item="14556">
+            <headline class="api-headline">The Division 2: Project Resolve angekündigt</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <picture class="api-picture"><div class="app-item-teaser-video-image"><div class="app-videos-image"><img data-thumb="//i2.ytimg.com/vi/AmePY26y33Y/0.jpg" alt="Thumbnail" src="//i2.ytimg.com/vi/AmePY26y33Y/0.jpg" data-group-key="thumb-group-0"></div>
+</div>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <teaser class="api-teaser" title="Vorstellung von Projekt Resolve – einem umfassenden Update für The Division 2 mit dem Ziel, die Spielerfahrung zu verbessern und die Grundlage für zukünftige Inhalte zu legen. Mit deinem Feedback im Blick liegt unser Fokus darauf, die Gesundheit und Stabilität des Spiels zu optimieren.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">The Division 2</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">12.12.23</span>
+19:51</span>
+</span>
+                <span class="c5">Videos
+                
+                </span>
+            </div>
+                <div class="api-teaser-description">Vorstellung von Projekt Resolve – einem umfassenden Update für The Division 2 mit dem Ziel, die Spielerfahrung zu verbessern und die Grundlage für zukünftige Inhalte zu legen. Mit deinem Feedback ...</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </news></a></enuis-teaser-renderer><div class="app-portal-promotion"><a href="https://store.steampowered.com/category/capitalism_economy" rel="nofollow" target="_blank">
+ <img src="https://cdn.eprison.de/5/img_71aba9d9-93e9-4e89-9076-b94a336a99a4.jpg" alt="" data-src="https://cdn.eprison.de/5/img_71aba9d9-93e9-4e89-9076-b94a336a99a4.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/5/img_71aba9d9-93e9-4e89-9076-b94a336a99a4.jpg" srcset="https://cdn.eprison.de/5/img_71aba9d9-93e9-4e89-9076-b94a336a99a4.jpg" itemprop="image" border="0"></a></div>
+</div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/spiele/news,0.html" title="Mehr Neuigkeiten"><i class="fa fa-bars"></i> Mehr Neuigkeiten</a></div>
+</div>
+</div>
+</div>
+
+            </div>
+            <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Features<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla">
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <a href="/games-like/gothic-3" title="Games Like Gothic - Unsere Übersicht">
+                    <div class="api-teaser-simple">
+                        <div class="api-simple-image">
+                            
+ <img src="https://www.eprison.de/pics/games/5/img_e4d333bd-8ac2-4b66-9229-73b0c4a78f85.png" alt="" data-src="https://www.eprison.de/pics/games/5/img_e4d333bd-8ac2-4b66-9229-73b0c4a78f85.png" data-size="auto" data-srcset="https://www.eprison.de/pics/games/5/img_e4d333bd-8ac2-4b66-9229-73b0c4a78f85.png" srcset="https://www.eprison.de/pics/games/5/img_e4d333bd-8ac2-4b66-9229-73b0c4a78f85.png" itemprop="image" border="0">
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <a href="/games-like/games-like/construction-strategy-middle-ages-4" title="Games Like Aufbaustrategiespiele mit dem Schwerpunkt Mittelalter - Unsere Übersicht">
+                    <div class="api-teaser-simple">
+                        <div class="api-simple-image">
+                            
+ <img src="https://www.eprison.de/pics/games/5/img_08cce5d8-f6fa-44f6-9b3b-aee228d79fcb.png" alt="" data-src="https://www.eprison.de/pics/games/5/img_08cce5d8-f6fa-44f6-9b3b-aee228d79fcb.png" data-size="auto" data-srcset="https://www.eprison.de/pics/games/5/img_08cce5d8-f6fa-44f6-9b3b-aee228d79fcb.png" srcset="https://www.eprison.de/pics/games/5/img_08cce5d8-f6fa-44f6-9b3b-aee228d79fcb.png" itemprop="image" border="0">
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div></div>
+</div>
+</div>
+</div>
+
+            
+        <!-- core base view page navigation -->
+        <div class="link-tag-inner">
+            <div class="head">Inhalte</div>
+            <div class="row">
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/spiele/news,0.html" title="News Liste nach Aktualität">News</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/apps,upcoming" title="Neuerscheinungen">Upcoming</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/spiele/0,0,0.html" title="Neue Spiele">Spiele</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/specials,0.html" title="Neuste Tests">Tests</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/spiele/guides,0.html" title="Spiele Guides nach Aktualität">Guides</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/videos,0.html" title="Videos nach Aktualität">Videos</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/bilder,0.html" title="Bilder nach Aktualität">Bilder</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/spiele/maps,0.html" title="Weitere aktuelle Maps">Maps</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/spiele/mods,0.html" title="Weitere aktuelle Mods">Mods</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/tags" title="Neuste Tags">Tags</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/spiele/downloads,0.html" title="Downloads nach Aktualität">Downloads</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/spiele/new-reviews,0.html" title="Neue Wertungen">Wertungen</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/spiele/entwickler,0.html" title="Entwickler nach Aktualität">Entwickler</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/spiele/vertriebe,0.html" title="Vertrieb nach Aktualität">Vertriebe</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/spiele/engine,0.html" title="Engines nach Aktualität">Engines</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/platform,0.html" title="Plattformen nach Aktualität">Plattformen</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/magazine,0.html" title="Magazine Liste">Magazine</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/store,0.html" title="Store Liste">Stores</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/launcher,0.html" title="Launcher Liste">Launcher</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/spiele/virtual-reality,0.html" title="VR nach Aktualität">VR</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/franchise,0.html" title="Franchise Liste">Franchise</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/manuals,0.html" title="Handbuch Liste">Handbücher</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/author,0.html" title="Autoren Liste">Autoren</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/steamdb" title="Steam DB">Steam DB</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/statistik-auf-eprison.html" title="ePrison Stats">ePrison Stats</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/hilfe.html" title="Hilfe nach Aktualität">Hilfe</a></span>
+</div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4"><span class="linkTag"><a href="/bugtracker,0.html" title="Fehler melden">Fehler melden</a></span>
+</div>
+            </div>
+            
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="link-tag-inner-social">
+                    <span class="tag"><a href="https://steamcommunity.com/id/eprisonde" rel="nofollow" target="_blank" title="Schau doch mal auf unseren Steam Kanal vorbei"><i class="fa fa-steam"></i></a></span>
+                    <span class="tag"><a href="https://www.youtube.com/user/ePrison" rel="nofollow" target="_blank" title="Schau doch mal auf unseren Youtube Kanal vorbei"><i class="fa fa-youtube"></i></a></span>
+                    <span class="tag"><a href="https://www.facebook.com/ePrison.de" rel="nofollow" target="_blank" title="Besuch doch mal unsere Facebook Seite"><i class="fa fa-facebook"></i></a></span>
+                    <span class="tag"><a href="https://twitter.com/ePrison" rel="nofollow" target="_blank" title="Besuch uns doch mal auf Twitter"><i class="fa fa-twitter"></i></a></span>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="social-link">
+        <a href="https://discord.gg/6tG2S6CxYg">
+            <img src="https://avatars.akamai.steamstatic.com/fa993def82865cf6c12e086ea11247a3bfeb7ad1_full.jpg?s=256x140">
+        </a>
+        <a href="https://discord.gg/6tG2S6CxYg">Join the pixelHorde Discord Server!</a>
+            Check out the pixelHorde community on Discord - hang out with 32 other members and enjoy free voice and text chat.
+        <div class="tip"><small>wir sind und zocken bei pixelHorde</small></div>
+        </div>
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neu im January (10)<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="row"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><a href="/spiele/portal-revolution/8001.html" title="Portal: Revolution erscheint ab 05.01.2024 im Handel"><div class="api-teaser-simple"><div class="api-simple-image small">
+ <img src="https://www.eprison.de/pics/games/8001/pic_1700386465.jpg" alt="Portal: Revolution erscheint ab 05.01.2024 im Handel" title="Portal: Revolution erscheint ab 05.01.2024 im Handel" class="teaser-image" data-src="https://www.eprison.de/pics/games/8001/pic_1700386465.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/8001/pic_1700386465.jpg" srcset="https://www.eprison.de/pics/games/8001/pic_1700386465.jpg" itemprop="image" border="0"></div>
+<div class="api-simple-title label">Portal: Revolution</div>
+<div class="api-simple-title">Action-Adventure</div>
+<div class="api-simple-info clearfix">ab 05.01.2024 im Handel<span class="app-thing-good fw700 flr">Free</span>
+</div>
+</div>
+</a></div><div class="col-12 col-sm-12 col-md-12 col-lg-12"><a href="/spiele/beer-factory/7479.html" title="Beer Factory erscheint ab 10.01.2024 im Handel"><div class="api-teaser-simple"><div class="api-simple-image small">
+ <img src="https://www.eprison.de/pics/games/7479/img_b596cc06-f01a-42c2-ad1c-47220e1ea3df.jpg" alt="Beer Factory erscheint ab 10.01.2024 im Handel" title="Beer Factory erscheint ab 10.01.2024 im Handel" class="teaser-image" data-src="https://www.eprison.de/pics/games/7479/img_b596cc06-f01a-42c2-ad1c-47220e1ea3df.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/7479/img_b596cc06-f01a-42c2-ad1c-47220e1ea3df.jpg" srcset="https://www.eprison.de/pics/games/7479/img_b596cc06-f01a-42c2-ad1c-47220e1ea3df.jpg" itemprop="image" border="0"></div>
+<div class="api-simple-title label">Beer Factory</div>
+<div class="api-simple-title">Simulation</div>
+<div class="api-simple-info clearfix">ab 10.01.2024 im Handel<span class="app-thing-good fw700 flr">16,64€</span>
+</div>
+</div>
+</a></div><div class="col-12 col-sm-12 col-md-12 col-lg-12"><a href="/spiele/war-hospital/6851.html" title="War Hospital erscheint ab 11.01.2024 im Handel"><div class="api-teaser-simple"><div class="api-simple-image small">
+ <img src="https://www.eprison.de/pics/games/6851/pic_1643843502.jpg" alt="War Hospital erscheint ab 11.01.2024 im Handel" title="War Hospital erscheint ab 11.01.2024 im Handel" class="teaser-image" data-src="https://www.eprison.de/pics/games/6851/pic_1643843502.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/6851/pic_1643843502.jpg" srcset="https://www.eprison.de/pics/games/6851/pic_1643843502.jpg" itemprop="image" border="0"></div>
+<div class="api-simple-title label">War Hospital</div>
+<div class="api-simple-title">Strategie</div>
+<div class="api-simple-info clearfix">ab 11.01.2024 im Handel<span class="app-thing-poor fw700 flr">26,99€</span>
+</div>
+</div>
+</a></div><div class="col-12 col-sm-12 col-md-12 col-lg-12"><a href="/spiele/legendary-hoplite-arachnes-trial/8066.html" title="Legendary Hoplite: Arachne's Trial erscheint ab 12.01.2024 im Handel"><div class="api-teaser-simple"><div class="api-simple-image small">
+ <img src="https://www.eprison.de/pics/games/8066/pic_1705263834.jpg" alt="Legendary Hoplite: Arachne's Trial erscheint ab 12.01.2024 im Handel" title="Legendary Hoplite: Arachne's Trial erscheint ab 12.01.2024 im Handel" class="teaser-image" data-src="https://www.eprison.de/pics/games/8066/pic_1705263834.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/8066/pic_1705263834.jpg" srcset="https://www.eprison.de/pics/games/8066/pic_1705263834.jpg" itemprop="image" border="0"></div>
+<div class="api-simple-title label">Legendary Hoplite: Arachne's T ...</div>
+<div class="api-simple-title">Action-Adventure</div>
+<div class="api-simple-info clearfix">ab 12.01.2024 im Handel<span class="app-thing-good fw700 flr">ka</span>
+</div>
+</div>
+</a></div><div class="col-12 col-sm-12 col-md-12 col-lg-12"><a href="/spiele/sovereign-syndicate/8061.html" title="Sovereign Syndicate erscheint ab 15.01.2024 im Handel"><div class="api-teaser-simple"><div class="api-simple-image small">
+ <img src="https://www.eprison.de/pics/games/8061/pic_1704998229.jpg" alt="Sovereign Syndicate erscheint ab 15.01.2024 im Handel" title="Sovereign Syndicate erscheint ab 15.01.2024 im Handel" class="teaser-image" data-src="https://www.eprison.de/pics/games/8061/pic_1704998229.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/8061/pic_1704998229.jpg" srcset="https://www.eprison.de/pics/games/8061/pic_1704998229.jpg" itemprop="image" border="0"></div>
+<div class="api-simple-title label">Sovereign Syndicate</div>
+<div class="api-simple-title">Rollenspiel</div>
+<div class="api-simple-info clearfix">ab 15.01.2024 im Handel<span class="app-thing-good fw700 flr">ka</span>
+</div>
+</div>
+</a></div><div class="col-12 col-sm-12 col-md-12 col-lg-12"><a href="/spiele/contain/8062.html" title="Contain erscheint ab 16.01.2024 im Handel"><div class="api-teaser-simple"><div class="api-simple-image small">
+ <img src="https://www.eprison.de/pics/games/8062/pic_1704998843.jpg" alt="Contain erscheint ab 16.01.2024 im Handel" title="Contain erscheint ab 16.01.2024 im Handel" class="teaser-image" data-src="https://www.eprison.de/pics/games/8062/pic_1704998843.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/8062/pic_1704998843.jpg" srcset="https://www.eprison.de/pics/games/8062/pic_1704998843.jpg" itemprop="image" border="0"></div>
+<div class="api-simple-title label">Contain</div>
+<div class="api-simple-title">Ego-Shooter</div>
+<div class="api-simple-info clearfix">ab 16.01.2024 im Handel<span class="app-thing-good fw700 flr">ka</span>
+</div>
+</div>
+</a></div><div class="col-12 col-sm-12 col-md-12 col-lg-12"><a href="/spiele/new-cycle/8060.html" title="New Cycle erscheint ab 18.01.2024 im Handel"><div class="api-teaser-simple"><div class="api-simple-image small">
+ <img src="https://www.eprison.de/pics/games/8060/pic_1704931419.jpg" alt="New Cycle erscheint ab 18.01.2024 im Handel" title="New Cycle erscheint ab 18.01.2024 im Handel" class="teaser-image" data-src="https://www.eprison.de/pics/games/8060/pic_1704931419.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/8060/pic_1704931419.jpg" srcset="https://www.eprison.de/pics/games/8060/pic_1704931419.jpg" itemprop="image" border="0"></div>
+<div class="api-simple-title label">New Cycle</div>
+<div class="api-simple-title">Simulation</div>
+<div class="api-simple-info clearfix">ab 18.01.2024 im Handel<span class="app-thing-good fw700 flr">ka</span>
+</div>
+</div>
+</a></div><div class="col-12 col-sm-12 col-md-12 col-lg-12"><a href="/spiele/enshrouded/7899.html" title="Enshrouded erscheint ab 24.01.2024 im Handel"><div class="api-teaser-simple"><div class="api-simple-image small">
+ <img src="https://www.eprison.de/pics/games/7899/img_ae7b8e05-8bf2-4e1e-a9f4-b6323595accc.jpg" alt="Enshrouded erscheint ab 24.01.2024 im Handel" title="Enshrouded erscheint ab 24.01.2024 im Handel" class="teaser-image" data-src="https://www.eprison.de/pics/games/7899/img_ae7b8e05-8bf2-4e1e-a9f4-b6323595accc.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/7899/img_ae7b8e05-8bf2-4e1e-a9f4-b6323595accc.jpg" srcset="https://www.eprison.de/pics/games/7899/img_ae7b8e05-8bf2-4e1e-a9f4-b6323595accc.jpg" itemprop="image" border="0"></div>
+<div class="api-simple-title label">Enshrouded</div>
+<div class="api-simple-title">Action-Adventure</div>
+<div class="api-simple-info clearfix">ab 24.01.2024 im Handel<span class="app-thing-good fw700 flr">ka</span>
+</div>
+</div>
+</a></div><div class="col-12 col-sm-12 col-md-12 col-lg-12"><a href="/spiele/red-glare/8063.html" title="Red Glare erscheint ab 25.01.2024 im Handel"><div class="api-teaser-simple"><div class="api-simple-image small">
+ <img src="https://www.eprison.de/pics/games/8063/pic_1704999443.jpg" alt="Red Glare erscheint ab 25.01.2024 im Handel" title="Red Glare erscheint ab 25.01.2024 im Handel" class="teaser-image" data-src="https://www.eprison.de/pics/games/8063/pic_1704999443.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/8063/pic_1704999443.jpg" srcset="https://www.eprison.de/pics/games/8063/pic_1704999443.jpg" itemprop="image" border="0"></div>
+<div class="api-simple-title label">Red Glare</div>
+<div class="api-simple-title">Action-Strategie</div>
+<div class="api-simple-info clearfix">ab 25.01.2024 im Handel<span class="app-thing-good fw700 flr">ka</span>
+</div>
+</div>
+</a></div><div class="col-12 col-sm-12 col-md-12 col-lg-12"><a href="/spiele/tekken-8/7759.html" title="TEKKEN 8 erscheint ab 26.01.2024 im Handel"><div class="api-teaser-simple"><div class="api-simple-image small">
+ <img src="https://www.eprison.de/pics/games/7759/pic_1692911085.jpg" alt="TEKKEN 8 erscheint ab 26.01.2024 im Handel" title="TEKKEN 8 erscheint ab 26.01.2024 im Handel" class="teaser-image" data-src="https://www.eprison.de/pics/games/7759/pic_1692911085.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/7759/pic_1692911085.jpg" srcset="https://www.eprison.de/pics/games/7759/pic_1692911085.jpg" itemprop="image" border="0"></div>
+<div class="api-simple-title label">TEKKEN 8</div>
+<div class="api-simple-title">Actionspiel</div>
+<div class="api-simple-info clearfix">ab 26.01.2024 im Handel<span class="app-thing-poor fw700 flr">69,99€</span>
+</div>
+</div>
+</a></div></div>
+</div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/apps,upcoming" title="Alle Neuerscheinungen"><i class="fa fa-bars"></i> Alle Neuerscheinungen</a></div>
+</div>
+</div>
+</div>
+
+            
+        <!-- lib base controller page donation -->
+        <div class="link-tag-inner">
+            <a href="https://www.paypal.com/paypalme/ePrisonde/1" title="Vielen Dank!">
+                <img style="width: 100%;border-radius: 3px;" src="https://www.eprison.de/pics/games/5/pic_1612824924.jpg">
+            </a>
+        </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neue Videos<div class="head-extend">Die ePrison Video-DB enthält 14266 Einträge</div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="row">
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="app-teaser-list-item" data-name="api-render-tile-teaser">
+            <a href="/spiele/stardeus/video/8070/14595.html" title="Stardeus | Closed Alpha Trailer"><div class="app-item-teaser-image"><div class="app-item-teaser-video-image"><div class="app-videos-image"><img data-thumb="//i2.ytimg.com/vi/v7XMVMsiDHY/0.jpg" alt="Thumbnail" src="//i2.ytimg.com/vi/v7XMVMsiDHY/0.jpg" data-group-key="thumb-group-0"></div>
+</div>
+</div>
+<div class="api-render-tile-teaser-title">Stardeus | Closed Alpha Trailer</div>
+<div><span class="px-date app-old"><span>1 Tag</span>
+23:36</span>
+</div>
+</a>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="app-teaser-list-item" data-name="api-render-tile-teaser">
+            <a href="/spiele/stardeus/video/8070/14594.html" title="Stardeus Anniversary Update - 1 Year of Early Access"><div class="app-item-teaser-image"><div class="app-item-teaser-video-image"><div class="app-videos-image"><img data-thumb="//i2.ytimg.com/vi/iDS32EMmohw/0.jpg" alt="Thumbnail" src="//i2.ytimg.com/vi/iDS32EMmohw/0.jpg" data-group-key="thumb-group-0"></div>
+</div>
+</div>
+<div class="api-render-tile-teaser-title">Stardeus Anniversary Update - 1 Year of Early Access</div>
+<div><span class="px-date app-old"><span>1 Tag</span>
+23:35</span>
+</div>
+</a>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="app-teaser-list-item" data-name="api-render-tile-teaser">
+            <a href="/spiele/tiny-glade/video/8065/14593.html" title="Tiny Glade - A lil' sneak peek tour"><div class="app-item-teaser-image"><div class="app-item-teaser-video-image"><div class="app-videos-image"><img data-thumb="//i2.ytimg.com/vi/lBLRkRn70NQ/0.jpg" alt="Thumbnail" src="//i2.ytimg.com/vi/lBLRkRn70NQ/0.jpg" data-group-key="thumb-group-0"></div>
+</div>
+</div>
+<div class="api-render-tile-teaser-title">Tiny Glade - A lil' sneak peek tour</div>
+<div><span class="px-date app-close"><span class="mr5">12.01.24</span>
+20:25</span>
+</div>
+</a>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="app-teaser-list-item" data-name="api-render-tile-teaser">
+            <a href="/spiele/tiny-glade/video/8065/14592.html" title="Tiny Glade - Game Announcement Trailer"><div class="app-item-teaser-image"><div class="app-item-teaser-video-image"><div class="app-videos-image"><img data-thumb="//i2.ytimg.com/vi/E2429O4h4Fk/0.jpg" alt="Thumbnail" src="//i2.ytimg.com/vi/E2429O4h4Fk/0.jpg" data-group-key="thumb-group-0"></div>
+</div>
+</div>
+<div class="api-render-tile-teaser-title">Tiny Glade - Game Announcement Trailer</div>
+<div><span class="px-date app-close"><span class="mr5">12.01.24</span>
+20:25</span>
+</div>
+</a>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="app-teaser-list-item" data-name="api-render-tile-teaser">
+            <a href="/spiele/return-to-castle-wolfenstein/video/2/14591.html" title="Return to Castle Wolfenstein - Mission 1 Gameplay"><div class="app-item-teaser-image"><div class="app-item-teaser-video-image"><div class="app-videos-image"><img data-thumb="//i2.ytimg.com/vi/sHdBHeDjAY0/0.jpg" alt="Thumbnail" src="//i2.ytimg.com/vi/sHdBHeDjAY0/0.jpg" data-group-key="thumb-group-0"></div>
+</div>
+</div>
+<div class="api-render-tile-teaser-title">Return to Castle Wolfenstein - Mission 1 Gameplay</div>
+<div><span class="px-date app-close"><span class="mr5">11.01.24</span>
+21:13</span>
+</div>
+</a>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="app-teaser-list-item" data-name="api-render-tile-teaser">
+            <a href="/spiele/nightingale/video/6887/14590.html" title="Developer Update: Stress Test Signups, Latest Playtest, and More!"><div class="app-item-teaser-image"><div class="app-item-teaser-video-image"><div class="app-videos-image"><img data-thumb="//i2.ytimg.com/vi/4rbt6jCMNwI/0.jpg" alt="Thumbnail" src="//i2.ytimg.com/vi/4rbt6jCMNwI/0.jpg" data-group-key="thumb-group-0"></div>
+</div>
+</div>
+<div class="api-render-tile-teaser-title">Developer Update: Stress Test Signups, Latest Playtest, and  ...</div>
+<div><span class="px-date app-close"><span class="mr5">11.01.24</span>
+19:29</span>
+</div>
+</a>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="app-teaser-list-item" data-name="api-render-tile-teaser">
+            <a href="/spiele/banishers-ghosts-of-new-eden/video/7107/14589.html" title="Banishers: Ghosts of New Eden - Love, Death &amp; Sacrifice"><div class="app-item-teaser-image"><div class="app-item-teaser-video-image"><div class="app-videos-image"><img data-thumb="//i2.ytimg.com/vi/_Gc1Qw119NI/0.jpg" alt="Thumbnail" src="//i2.ytimg.com/vi/_Gc1Qw119NI/0.jpg" data-group-key="thumb-group-0"></div>
+</div>
+</div>
+<div class="api-render-tile-teaser-title">Banishers: Ghosts of New Eden - Love, Death &amp; Sacrifice</div>
+<div><span class="px-date app-close"><span class="mr5">11.01.24</span>
+17:59</span>
+</div>
+</a>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="app-teaser-list-item" data-name="api-render-tile-teaser">
+            <a href="/spiele/banishers-ghosts-of-new-eden/video/7107/14588.html" title="Banishers: Ghosts of New Eden - Death to the Dead Trailer | The Game Awards 2023"><div class="app-item-teaser-image"><div class="app-item-teaser-video-image"><div class="app-videos-image"><img data-thumb="//i2.ytimg.com/vi/CKUZkC1iO4c/0.jpg" alt="Thumbnail" src="//i2.ytimg.com/vi/CKUZkC1iO4c/0.jpg" data-group-key="thumb-group-0"></div>
+</div>
+</div>
+<div class="api-render-tile-teaser-title">Banishers: Ghosts of New Eden - Death to the Dead Trailer |  ...</div>
+<div><span class="px-date app-close"><span class="mr5">11.01.24</span>
+17:58</span>
+</div>
+</a>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="app-teaser-list-item" data-name="api-render-tile-teaser">
+            <a href="/spiele/new-cycle/video/8060/14587.html" title="NEW CYCLE | Official Release Date Trailer - " beyond="" survival"="" en"=""><div class="app-item-teaser-image"><div class="app-item-teaser-video-image"><div class="app-videos-image"><img data-thumb="//i2.ytimg.com/vi/ZTpoD2pmdKc/0.jpg" alt="Thumbnail" src="//i2.ytimg.com/vi/ZTpoD2pmdKc/0.jpg" data-group-key="thumb-group-0"></div>
+</div>
+</div>
+<div class="api-render-tile-teaser-title">NEW CYCLE | Official Release Date Trailer - "Beyond Survival ...</div>
+<div><span class="px-date app-close"><span class="mr5">11.01.24</span>
+00:13</span>
+</div>
+</a>
+            </div>
+        </div></div></div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/videos,0.html" title="Mehr Videos"><i class="fa fa-bars"></i> Mehr Videos</a></div>
+</div>
+</div>
+</div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-8 col-lg-8">
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neue Spiele<div class="head-extend">Die ePrison Spiele-Datenbank enthält 6163 Einträge</div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla">
+        <div class="app-game-list-item none" data-product-id="8070">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/stardeus/8070.html" title="Alle Information zum Spiel Stardeus">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8070/k_pic_1705274191.jpg" alt="Stardeus" title="Stardeus" class="teaser-image" data-src="https://cdn.eprison.de/8070/k_pic_1705274191.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8070/k_pic_1705274191.jpg" srcset="https://cdn.eprison.de/8070/k_pic_1705274191.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/stardeus/8070.html" title="Alle Information zum Spiel Stardeus"><span class="app-item-main-title" itemprop="name">Stardeus</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+<span class="item-platform">iPad</span>
+<span class="item-platform">Linux</span>
+<span class="item-platform">Steam Deck</span>
+
+        <span class="item-sp">Einzelspieler</span>
+
+        
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/early-access-633">Early Access</a>,</span>
+<span class="app-item-tag"><a href="/tag/siedlungssimulation-612">Siedlungssimulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/basenbau-560">Basenbau</a>,</span>
+<span class="app-item-tag"><a href="/tag/strategie-13">Strategie</a>,</span>
+<span class="app-item-tag"><a href="/tag/survival-10">Survival</a>,</span>
+<span class="app-item-tag"><a href="/tag/rohstoff-management-568">Rohstoff-Management</a>,</span>
+<span class="app-item-tag"><a href="/tag/weltraum-59">Weltraum</a>,</span>
+<span class="app-item-tag"><a href="/tag/herstellung-602">Herstellung</a>,</span>
+<span class="app-item-tag"><a href="/tag/modding-658">Modding</a>,</span>
+<span class="app-item-tag"><a href="/tag/weltraumsimulation-688">Weltraumsimulation</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">12.10.2022</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Strategie">STG</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                <span itemprop="price" class="app-thing-poor fw700">29,99€</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-game-list-item none" data-product-id="8069">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/kings-call/8069.html" title="Alle Information zum Spiel Kings Call">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8069/k_pic_1705273526.jpg" alt="Kings Call" title="Kings Call" class="teaser-image" data-src="https://cdn.eprison.de/8069/k_pic_1705273526.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8069/k_pic_1705273526.jpg" srcset="https://cdn.eprison.de/8069/k_pic_1705273526.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/kings-call/8069.html" title="Alle Information zum Spiel Kings Call"><span class="app-item-main-title" itemprop="name">Kings Call</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+
+        <span class="item-sp">Einzelspieler</span>
+<span class="item-coop">Koop</span>
+
+        <span class="item-f2p">F2P</span>
+
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/rollenspiel-108">Rollenspiel</a>,</span>
+<span class="app-item-tag"><a href="/tag/simulation-3">Simulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/strategie-13">Strategie</a>,</span>
+<span class="app-item-tag"><a href="/tag/kartenspiel-159">Kartenspiel</a>,</span>
+<span class="app-item-tag"><a href="/tag/echtzeit-strategie-25">Echtzeit-Strategie</a>,</span>
+<span class="app-item-tag"><a href="/tag/rundenstrategie-152">Rundenstrategie</a>,</span>
+<span class="app-item-tag"><a href="/tag/2d-34">2D</a>,</span>
+<span class="app-item-tag"><a href="/tag/magie-97">Magie</a>,</span>
+<span class="app-item-tag"><a href="/tag/duester-112">Düster</a>,</span>
+<span class="app-item-tag"><a href="/tag/pvp-71">PVP</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">19.10.2023</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Gelegenheits-Spiel">GHS</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                <span class="app-thing-good fw700">kostenlos</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-game-list-item none" data-product-id="8068">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/starminer/8068.html" title="Alle Information zum Spiel Starminer">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8068/k_pic_1705272577.jpg" alt="Starminer" title="Starminer" class="teaser-image" data-src="https://cdn.eprison.de/8068/k_pic_1705272577.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8068/k_pic_1705272577.jpg" srcset="https://cdn.eprison.de/8068/k_pic_1705272577.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/starminer/8068.html" title="Alle Information zum Spiel Starminer"><span class="app-item-main-title" itemprop="name">Starminer</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+
+        <span class="item-sp">Einzelspieler</span>
+
+        
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/early-access-633">Early Access</a>,</span>
+<span class="app-item-tag"><a href="/tag/sandbox-2">Sandbox</a>,</span>
+<span class="app-item-tag"><a href="/tag/weltraumsimulation-688">Weltraumsimulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/wirtschaftssimulation-109">Wirtschaftssimulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/scifi-17">SciFi</a>,</span>
+<span class="app-item-tag"><a href="/tag/handel-111">Handel</a>,</span>
+<span class="app-item-tag"><a href="/tag/rollenspiel-108">Rollenspiel</a>,</span>
+<span class="app-item-tag"><a href="/tag/strategie-13">Strategie</a>,</span>
+<span class="app-item-tag"><a href="/tag/weltraum-59">Weltraum</a>,</span>
+<span class="app-item-tag"><a href="/tag/erkundung-572">Erkundung</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">TBA</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Actionspiel">AC</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                <span itemprop="price" class="app-thing-good fw700">ka</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-game-list-item none" data-product-id="8067">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/legendary-hoplite/8067.html" title="Alle Information zum Spiel Legendary Hoplite">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8067/k_pic_1705264304.jpg" alt="Legendary Hoplite" title="Legendary Hoplite" class="teaser-image" data-src="https://cdn.eprison.de/8067/k_pic_1705264304.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8067/k_pic_1705264304.jpg" srcset="https://cdn.eprison.de/8067/k_pic_1705264304.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/legendary-hoplite/8067.html" title="Alle Information zum Spiel Legendary Hoplite"><span class="app-item-main-title" itemprop="name">Legendary Hoplite</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+
+        <span class="item-sp">Einzelspieler</span>
+
+        
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/strategie-13">Strategie</a>,</span>
+<span class="app-item-tag"><a href="/tag/rollenspiel-108">Rollenspiel</a>,</span>
+<span class="app-item-tag"><a href="/tag/rogue-like-125">Rogue-like</a>,</span>
+<span class="app-item-tag"><a href="/tag/abenteuer-18">Abenteuer</a>,</span>
+<span class="app-item-tag"><a href="/tag/tower-defense-54">Tower Defense</a>,</span>
+<span class="app-item-tag"><a href="/tag/hack-and-slash-86">Hack and Slash</a>,</span>
+<span class="app-item-tag"><a href="/tag/echtzeittaktik-557">Echtzeittaktik</a>,</span>
+<span class="app-item-tag"><a href="/tag/survival-10">Survival</a>,</span>
+<span class="app-item-tag"><a href="/tag/idler-713">Idler</a>,</span>
+<span class="app-item-tag"><a href="/tag/taktik-99">Taktik</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">02.02.2024</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Action-Adventure">AC-AD</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                <span itemprop="price" class="app-thing-good fw700">ka</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-game-list-item none" data-product-id="8066">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/legendary-hoplite-arachnes-trial/8066.html" title="Alle Information zum Spiel Legendary Hoplite: Arachne's Trial">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8066/k_pic_1705263834.jpg" alt="Legendary Hoplite: Arachne's Trial" title="Legendary Hoplite: Arachne's Trial" class="teaser-image" data-src="https://cdn.eprison.de/8066/k_pic_1705263834.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8066/k_pic_1705263834.jpg" srcset="https://cdn.eprison.de/8066/k_pic_1705263834.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/legendary-hoplite-arachnes-trial/8066.html" title="Alle Information zum Spiel Legendary Hoplite: Arachne's Trial"><span class="app-item-main-title" itemprop="name">Legendary Hoplite: Arachne's Trial</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+
+        <span class="item-sp">Einzelspieler</span>
+
+        
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/rollenspiel-108">Rollenspiel</a>,</span>
+<span class="app-item-tag"><a href="/tag/strategie-13">Strategie</a>,</span>
+<span class="app-item-tag"><a href="/tag/tower-defense-54">Tower Defense</a>,</span>
+<span class="app-item-tag"><a href="/tag/action-12">Action</a>,</span>
+<span class="app-item-tag"><a href="/tag/hack-and-slash-86">Hack and Slash</a>,</span>
+<span class="app-item-tag"><a href="/tag/taktik-99">Taktik</a>,</span>
+<span class="app-item-tag"><a href="/tag/abenteuer-18">Abenteuer</a>,</span>
+<span class="app-item-tag"><a href="/tag/2d-34">2D</a>,</span>
+<span class="app-item-tag"><a href="/tag/comic-stil-636">Comic-Stil</a>,</span>
+<span class="app-item-tag"><a href="/tag/fantasy-49">Fantasy</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">12.01.2024</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Action-Adventure">AC-AD</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-game-list-item none" data-product-id="8065">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/tiny-glade/8065.html" title="Alle Information zum Spiel Tiny Glade">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8065/k_pic_1705090723.jpg" alt="Tiny Glade" title="Tiny Glade" class="teaser-image" data-src="https://cdn.eprison.de/8065/k_pic_1705090723.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8065/k_pic_1705090723.jpg" srcset="https://cdn.eprison.de/8065/k_pic_1705090723.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/tiny-glade/8065.html" title="Alle Information zum Spiel Tiny Glade"><span class="app-item-main-title" itemprop="name">Tiny Glade</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+<span class="item-platform">Linux</span>
+
+        <span class="item-sp">Einzelspieler</span>
+
+        
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/bausimulation-574">Bausimulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/gelegenheitspiele-21">Gelegenheitspiele</a>,</span>
+<span class="app-item-tag"><a href="/tag/entspannung-559">Entspannung</a>,</span>
+<span class="app-item-tag"><a href="/tag/sandbox-2">Sandbox</a>,</span>
+<span class="app-item-tag"><a href="/tag/design-and-illustration-596">Design &amp; Illustration</a>,</span>
+<span class="app-item-tag"><a href="/tag/niedlich-585">Niedlich</a>,</span>
+<span class="app-item-tag"><a href="/tag/natur-598">Natur</a>,</span>
+<span class="app-item-tag"><a href="/tag/farbenfroh-655">Farbenfroh</a>,</span>
+<span class="app-item-tag"><a href="/tag/familienfreundlich-654">Familienfreundlich</a>,</span>
+<span class="app-item-tag"><a href="/tag/gemuetlich-721">Gemütlich</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">TBA</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Simulation">SIM</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                <span itemprop="price" class="app-thing-good fw700">ka</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-game-list-item none" data-product-id="8064">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/we-who-are-about-to-die/8064.html" title="Alle Information zum Spiel We Who Are About To Die">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8064/k_pic_1705009762.jpg" alt="We Who Are About To Die" title="We Who Are About To Die" class="teaser-image" data-src="https://cdn.eprison.de/8064/k_pic_1705009762.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8064/k_pic_1705009762.jpg" srcset="https://cdn.eprison.de/8064/k_pic_1705009762.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/we-who-are-about-to-die/8064.html" title="Alle Information zum Spiel We Who Are About To Die"><span class="app-item-main-title" itemprop="name">We Who Are About To Die</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+
+        <span class="item-sp">Einzelspieler</span>
+
+        
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/action-roguelike-604">Action-Roguelike</a>,</span>
+<span class="app-item-tag"><a href="/tag/charakterentwicklung-124">Charakterentwicklung</a>,</span>
+<span class="app-item-tag"><a href="/tag/strategie-13">Strategie</a>,</span>
+<span class="app-item-tag"><a href="/tag/rollenspiel-108">Rollenspiel</a>,</span>
+<span class="app-item-tag"><a href="/tag/simulation-3">Simulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/physik-8">Physik</a>,</span>
+<span class="app-item-tag"><a href="/tag/historisch-603">Historisch</a>,</span>
+<span class="app-item-tag"><a href="/tag/wiederspielbarkeit-151">Wiederspielbarkeit</a>,</span>
+<span class="app-item-tag"><a href="/tag/realistisch-139">Realistisch</a>,</span>
+<span class="app-item-tag"><a href="/tag/third-person-670">Third-Person</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">14.11.2022</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Action-Rollenspiel">AC-RPG</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                <span itemprop="price" class="app-thing-poor fw700">21,99€</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-game-list-item none" data-product-id="8063">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/red-glare/8063.html" title="Alle Information zum Spiel Red Glare">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8063/k_pic_1704999443.jpg" alt="Red Glare" title="Red Glare" class="teaser-image" data-src="https://cdn.eprison.de/8063/k_pic_1704999443.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8063/k_pic_1704999443.jpg" srcset="https://cdn.eprison.de/8063/k_pic_1704999443.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/red-glare/8063.html" title="Alle Information zum Spiel Red Glare"><span class="app-item-main-title" itemprop="name">Red Glare</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+
+        <span class="item-sp">Einzelspieler</span>
+
+        
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/strategie-13">Strategie</a>,</span>
+<span class="app-item-tag"><a href="/tag/action-12">Action</a>,</span>
+<span class="app-item-tag"><a href="/tag/abenteuer-18">Abenteuer</a>,</span>
+<span class="app-item-tag"><a href="/tag/3d-ansicht-35">3D Ansicht</a>,</span>
+<span class="app-item-tag"><a href="/tag/isometrisch-53">Isometrisch</a>,</span>
+<span class="app-item-tag"><a href="/tag/realistisch-139">Realistisch</a>,</span>
+<span class="app-item-tag"><a href="/tag/vogelperspektive-614">Vogelperspektive</a>,</span>
+<span class="app-item-tag"><a href="/tag/alternative-geschichte-686">Alternative Geschichte</a>,</span>
+<span class="app-item-tag"><a href="/tag/atmosphaerisch-19">Atmosphärisch</a>,</span>
+<span class="app-item-tag"><a href="/tag/historisch-603">Historisch</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">25.01.2024</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Action-Strategie">A-S</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                <span itemprop="price" class="app-thing-good fw700">ka</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-game-list-item none" data-product-id="8062">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/contain/8062.html" title="Alle Information zum Spiel Contain">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8062/k_pic_1704998843.jpg" alt="Contain" title="Contain" class="teaser-image" data-src="https://cdn.eprison.de/8062/k_pic_1704998843.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8062/k_pic_1704998843.jpg" srcset="https://cdn.eprison.de/8062/k_pic_1704998843.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/contain/8062.html" title="Alle Information zum Spiel Contain"><span class="app-item-main-title" itemprop="name">Contain</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+
+        <span class="item-sp">Einzelspieler</span>
+<span class="item-coop">Koop</span>
+
+        
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/ego-shooter-637">Ego-Shooter</a>,</span>
+<span class="app-item-tag"><a href="/tag/action-12">Action</a>,</span>
+<span class="app-item-tag"><a href="/tag/pve-157">PVE</a>,</span>
+<span class="app-item-tag"><a href="/tag/shooter-28">Shooter</a>,</span>
+<span class="app-item-tag"><a href="/tag/charakterentwicklung-124">Charakterentwicklung</a>,</span>
+<span class="app-item-tag"><a href="/tag/3d-ansicht-35">3D Ansicht</a>,</span>
+<span class="app-item-tag"><a href="/tag/egoperspektive-659">Egoperspektive</a>,</span>
+<span class="app-item-tag"><a href="/tag/waffenanpassung-626">Waffenanpassung</a>,</span>
+<span class="app-item-tag"><a href="/tag/teamplay-150">Teamplay</a>,</span>
+<span class="app-item-tag"><a href="/tag/realistisch-139">Realistisch</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">16.01.2024</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Ego-Shooter">EGO-S</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                <span itemprop="price" class="app-thing-good fw700">ka</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-game-list-item none" data-product-id="8061">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/sovereign-syndicate/8061.html" title="Alle Information zum Spiel Sovereign Syndicate">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8061/k_pic_1704998229.jpg" alt="Sovereign Syndicate" title="Sovereign Syndicate" class="teaser-image" data-src="https://cdn.eprison.de/8061/k_pic_1704998229.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8061/k_pic_1704998229.jpg" srcset="https://cdn.eprison.de/8061/k_pic_1704998229.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/sovereign-syndicate/8061.html" title="Alle Information zum Spiel Sovereign Syndicate"><span class="app-item-main-title" itemprop="name">Sovereign Syndicate</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+
+        <span class="item-sp">Einzelspieler</span>
+
+        
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/rollenspiel-108">Rollenspiel</a>,</span>
+<span class="app-item-tag"><a href="/tag/crpg-90">CRPG</a>,</span>
+<span class="app-item-tag"><a href="/tag/einzelspieler-6">Einzelspieler</a>,</span>
+<span class="app-item-tag"><a href="/tag/isometrisch-53">Isometrisch</a>,</span>
+<span class="app-item-tag"><a href="/tag/komplexe-handlung-563">Komplexe Handlung</a>,</span>
+<span class="app-item-tag"><a href="/tag/bedeutsame-entscheidungen-582">Bedeutsame Entscheidungen</a>,</span>
+<span class="app-item-tag"><a href="/tag/deckbuilding-566">Deckbuilding</a>,</span>
+<span class="app-item-tag"><a href="/tag/steampunk-160">Steampunk</a>,</span>
+<span class="app-item-tag"><a href="/tag/charakterentwicklung-124">Charakterentwicklung</a>,</span>
+<span class="app-item-tag"><a href="/tag/atmosphaerisch-19">Atmosphärisch</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">15.01.2024</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Rollenspiel">RPG</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                <span itemprop="price" class="app-thing-good fw700">ka</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-game-list-item none" data-product-id="8060">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/new-cycle/8060.html" title="Alle Information zum Spiel New Cycle">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8060/k_pic_1704931419.jpg" alt="New Cycle" title="New Cycle" class="teaser-image" data-src="https://cdn.eprison.de/8060/k_pic_1704931419.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8060/k_pic_1704931419.jpg" srcset="https://cdn.eprison.de/8060/k_pic_1704931419.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/new-cycle/8060.html" title="Alle Information zum Spiel New Cycle"><span class="app-item-main-title" itemprop="name">New Cycle</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+
+        <span class="item-sp">Einzelspieler</span>
+
+        
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/strategie-13">Strategie</a>,</span>
+<span class="app-item-tag"><a href="/tag/staedtebausimulation-564">Städtebausimulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/survival-10">Survival</a>,</span>
+<span class="app-item-tag"><a href="/tag/bausimulation-574">Bausimulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/realistisch-139">Realistisch</a>,</span>
+<span class="app-item-tag"><a href="/tag/siedlungssimulation-612">Siedlungssimulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/simulation-3">Simulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/vogelperspektive-614">Vogelperspektive</a>,</span>
+<span class="app-item-tag"><a href="/tag/post-apokalyptisch-95">Postapokalyptisch</a>,</span>
+<span class="app-item-tag"><a href="/tag/basenbau-560">Basenbau</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">18.01.2024</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Simulation">SIM</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                <span itemprop="price" class="app-thing-good fw700">ka</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-game-list-item none" data-product-id="8059">
+            <div class="row clearfix">
+                <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+                <a href="https://www.eprison.de/spiele/tram-simulator-urban-transit/8059.html" title="Alle Information zum Spiel Tram Simulator Urban Transit">
+        <div class="od-teaser-image">
+            
+ <img src="https://cdn.eprison.de/8059/k_pic_1704929315.jpg" alt="Tram Simulator Urban Transit" title="Tram Simulator Urban Transit" class="teaser-image" data-src="https://cdn.eprison.de/8059/k_pic_1704929315.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/8059/k_pic_1704929315.jpg" srcset="https://cdn.eprison.de/8059/k_pic_1704929315.jpg" itemprop="image" border="0">
+        </div></a>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <a href="https://www.eprison.de/spiele/tram-simulator-urban-transit/8059.html" title="Alle Information zum Spiel Tram Simulator Urban Transit"><span class="app-item-main-title" itemprop="name">Tram Simulator Urban Transit</span>
+</a>
+        <div class="item-inner-line">
+        <span class="item-platform">PC</span>
+<span class="item-platform">Playstation 4</span>
+<span class="item-platform">Xbox One</span>
+<span class="item-platform">Playstation 5</span>
+<span class="item-platform">Xbox Series X</span>
+<span class="item-platform">Steam Deck</span>
+
+        <span class="item-sp">Einzelspieler</span>
+<span class="item-mp">Mehrspieler</span>
+<span class="item-coop">Koop</span>
+
+        
+        </div>
+        <div class="item-inner-line-upper">
+        <div class="app-item-sub-extensions"><span class="app-item-tag"><a href="/tag/simulation-3">Simulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/fahrzeugsimulation-593">Fahrzeugsimulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/immersive-simulation-673">Immersive Simulation</a>,</span>
+<span class="app-item-tag"><a href="/tag/3d-ansicht-35">3D Ansicht</a>,</span>
+<span class="app-item-tag"><a href="/tag/farbenfroh-655">Farbenfroh</a>,</span>
+<span class="app-item-tag"><a href="/tag/egoperspektive-659">Egoperspektive</a>,</span>
+<span class="app-item-tag"><a href="/tag/realistisch-139">Realistisch</a>,</span>
+<span class="app-item-tag"><a href="/tag/third-person-670">Third-Person</a>,</span>
+<span class="app-item-tag"><a href="/tag/fahren-140">Fahren</a>,</span>
+<span class="app-item-tag"><a href="/tag/familienfreundlich-654">Familienfreundlich</a></span>
+<div style="clear: both;"></div></div>
+
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date">05.12.2023</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Release
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-2 col-lg-2">
+                
+        <div class="item-inner center b700">
+            <div class="item-inner-line">
+                <span class="app-item-date" title="Simulation">SIM</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Genre
+            </div>
+        </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-1 col-lg-2">
+                
+        <div class="item-inner center b700 last">
+            <div class="item-inner-line">
+                <span itemprop="price" class="app-thing-good fw700">19,99€</span>
+            </div>
+            <div class="item-inner-line-upper">
+            Preis
+            </div>
+        </div>
+                </div>
+            </div>
+        </div></div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/apps,0,0,0" title="Mehr Spiele"><i class="fa fa-bars"></i> Mehr Spiele</a></div>
+</div>
+</div>
+</div>
+
+            </div>
+            <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neue Vertriebe<div class="head-extend">Die ePrison Vertriebs-DB enthält 705 Einträge</div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="app-details"><div class="details-information"><div class="row">
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/vertriebe/starlight-games/707.html" title="Publisher - Starlight Games">Starlight Games</a><hr class="bb-line" style="width: 99%" noshade="noshade">14.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/vertriebe/ravenage-games/706.html" title="Publisher - Ravenage Games">Ravenage Games</a><hr class="bb-line" style="width: 99%" noshade="noshade">14.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/vertriebe/pounce-light/705.html" title="Publisher - Pounce Light">Pounce Light</a><hr class="bb-line" style="width: 99%" noshade="noshade">12.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/vertriebe/jordy-lakiere/704.html" title="Publisher - Jordy Lakiere">Jordy Lakiere</a><hr class="bb-line" style="width: 99%" noshade="noshade">11.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/vertriebe/inflexion-games/703.html" title="Publisher - Inflexion Games">Inflexion Games</a><hr class="bb-line" style="width: 99%" noshade="noshade">11.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/vertriebe/bt-studios/702.html" title="Publisher - BT Studios">BT Studios</a><hr class="bb-line" style="width: 99%" noshade="noshade">11.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/vertriebe/singingiant/701.html" title="Publisher - SinginGiant">SinginGiant</a><hr class="bb-line" style="width: 99%" noshade="noshade">11.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/vertriebe/crimson-herring-studios/700.html" title="Publisher - Crimson Herring Studios">Crimson Herring Studios</a><hr class="bb-line" style="width: 99%" noshade="noshade">11.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/vertriebe/random-worlds-sro/699.html" title="Publisher - Random Worlds s.r.o.">Random Worlds s.r.o.</a><hr class="bb-line" style="width: 99%" noshade="noshade">10.01.2024</div>
+        </div></div>
+</div></div></div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/spiele/vertriebe,0.html" title="Mehr Vertriebe"><i class="fa fa-bars"></i> Mehr Vertriebe</a></div>
+</div>
+</div>
+</div>
+
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neue Entwickler<div class="head-extend">Die ePrison Entwickler-DB enthält 2414 Einträge</div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="app-details"><div class="details-information"><div class="row">
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/entwickler/kodo-linija/2430.html" title="Entwickler - Kodo Linija">Kodo Linija</a><hr class="bb-line" style="width: 99%" noshade="noshade">14.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/entwickler/starlight-games/2429.html" title="Entwickler - Starlight Games">Starlight Games</a><hr class="bb-line" style="width: 99%" noshade="noshade">14.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/entwickler/coolandgoodgames/2428.html" title="Entwickler - CoolAndGoodGames">CoolAndGoodGames</a><hr class="bb-line" style="width: 99%" noshade="noshade">14.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/entwickler/triplebricksgames/2427.html" title="Entwickler - TripleBricksGames">TripleBricksGames</a><hr class="bb-line" style="width: 99%" noshade="noshade">14.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/entwickler/pounce-light/2426.html" title="Entwickler - Pounce Light">Pounce Light</a><hr class="bb-line" style="width: 99%" noshade="noshade">12.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/entwickler/jordy-lakiere/2425.html" title="Entwickler - Jordy Lakiere">Jordy Lakiere</a><hr class="bb-line" style="width: 99%" noshade="noshade">11.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/entwickler/bt-studios/2424.html" title="Entwickler - BT Studios">BT Studios</a><hr class="bb-line" style="width: 99%" noshade="noshade">11.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/entwickler/singingiant/2423.html" title="Entwickler - SinginGiant">SinginGiant</a><hr class="bb-line" style="width: 99%" noshade="noshade">11.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/entwickler/crimson-herring-studios/2422.html" title="Entwickler - Crimson Herring Studios">Crimson Herring Studios</a><hr class="bb-line" style="width: 99%" noshade="noshade">11.01.2024</div>
+        </div></div>
+</div></div></div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/spiele/entwickler,0.html" title="Mehr Entwickler"><i class="fa fa-bars"></i> Mehr Entwickler</a></div>
+</div>
+</div>
+</div>
+
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neue Magazine<div class="head-extend">Die ePrison Magazine-DB enthält 96 Einträge</div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="app-details"><div class="details-information"><div class="row">
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/magazine/gameforest-96.html" title="Magazine - Gameforest">Gameforest</a><hr class="bb-line" style="width: 99%" noshade="noshade">26.10.2023</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/magazine/nmag-95.html" title="Magazine - NMag">NMag</a><hr class="bb-line" style="width: 99%" noshade="noshade">03.08.2022</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/magazine/zockerheim-94.html" title="Magazine - Zockerheim">Zockerheim</a><hr class="bb-line" style="width: 99%" noshade="noshade">14.06.2022</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/magazine/hooked-93.html" title="Magazine - Hooked">Hooked</a><hr class="bb-line" style="width: 99%" noshade="noshade">26.04.2022</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/magazine/gamodrome-92.html" title="Magazine - Gamodrome">Gamodrome</a><hr class="bb-line" style="width: 99%" noshade="noshade">30.03.2022</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/magazine/pixel-magazin-91.html" title="Magazine - Pixel Magazin">Pixel Magazin</a><hr class="bb-line" style="width: 99%" noshade="noshade">22.02.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/magazine/pixelcritics-90.html" title="Magazine - PixelCritics">PixelCritics</a><hr class="bb-line" style="width: 99%" noshade="noshade">16.02.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/magazine/weplay4u-89.html" title="Magazine - WePlay4U">WePlay4U</a><hr class="bb-line" style="width: 99%" noshade="noshade">16.02.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/magazine/gameslore-88.html" title="Magazine - Gameslore">Gameslore</a><hr class="bb-line" style="width: 99%" noshade="noshade">16.02.2021</div>
+        </div></div>
+</div></div></div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/magazine,0.html" title="Mehr Magazine"><i class="fa fa-bars"></i> Mehr Magazine</a></div>
+</div>
+</div>
+</div>
+
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neue Engines<div class="head-extend">Die ePrison Engine-DB enthält 91 Einträge</div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="app-details"><div class="details-information"><div class="row">
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/engine/bevy-engine/92.html" title="Engine - Bevy Engine">Bevy Engine</a><hr class="bb-line" style="width: 99%" noshade="noshade">12.01.2024</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/engine/godot-engine/91.html" title="Engine - Godot Engine">Godot Engine</a><hr class="bb-line" style="width: 99%" noshade="noshade">30.01.2023</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/engine/enfusion-engine/90.html" title="Engine - Enfusion Engine">Enfusion Engine</a><hr class="bb-line" style="width: 99%" noshade="noshade">18.05.2022</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/engine/cryptic-engine/89.html" title="Engine - Cryptic-Engine">Cryptic-Engine</a><hr class="bb-line" style="width: 99%" noshade="noshade">16.02.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/engine/jaspar/88.html" title="Engine - JASPAR">JASPAR</a><hr class="bb-line" style="width: 99%" noshade="noshade">09.02.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/engine/divinity-engine-2/87.html" title="Engine - Divinity Engine 2">Divinity Engine 2</a><hr class="bb-line" style="width: 99%" noshade="noshade">10.10.2020</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/engine/unreal-engine-5/86.html" title="Engine - Unreal Engine 5">Unreal Engine 5</a><hr class="bb-line" style="width: 99%" noshade="noshade">21.07.2020</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/engine/ds2-engine/85.html" title="Engine - DS2 Engine">DS2 Engine</a><hr class="bb-line" style="width: 99%" noshade="noshade">26.11.2019</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/spiele/engine/zengin-20/84.html" title="Engine - ZenGin 2.0">ZenGin 2.0</a><hr class="bb-line" style="width: 99%" noshade="noshade">09.09.2019</div>
+        </div></div>
+</div></div></div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/spiele/engine,0.html" title="Mehr Engines"><i class="fa fa-bars"></i> Mehr Engines</a></div>
+</div>
+</div>
+</div>
+
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="app-container-event">
+                    <h3>ePrison auf Steam</h3>
+                    <div class="gmsWidget">
+                        <span class="tag bigger vip">
+                            <a target="_blank" href="https://steamcommunity.com/id/eprisonde/">ePrison.de</a>
+                        </span>
+                        <span class="tag bigger vip">
+                            <a target="_blank" href="https://steamcommunity.com/id/backmack">Seb66</a>
+                        </span>
+                        <span class="tag bigger vip">
+                            <a target="_blank" href="https://steamcommunity.com/id/Weltenretter">Thani</a>
+                        </span>
+                        
+                        <span class="tag bigger vip group">
+                            <a target="_blank" href="https://steamcommunity.com/groups/eprison">Gruppe ePrison</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neue Guides<div class="head-extend">Die ePrison Guide-DB enthält 425 Einträge</div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="row"><div class="col-12 col-sm-12 col-md-4 col-lg-4">
+        <api-guide-teaser-renderer data-item="445" data-name="teaser-description"><a href="/spiele/ostriv/guides/7958/18/445.html" title="Ostriv - Guide - Erste Schritte - Ein Guide für Anfänger">
+        <time>13. Oktober<span class="enu-preview">in Bearbeitung</span></time>
+        <guide class="api-teaser-item min-height-215 " data-game="Ostriv" data-item="445">
+            <headline class="api-headline">Erste Schritte - Ein Guide für Anfänge ...</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/7958/k_pic_1697145865.jpg" alt="Ostriv - Guide - Erste Schritte - Ein Guide für Anfänger" class="api-teaser-image" data-src="https://cdn.eprison.de/7958/k_pic_1697145865.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/7958/k_pic_1697145865.jpg" srcset="https://cdn.eprison.de/7958/k_pic_1697145865.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <teaser class="api-teaser" title="Ostriv ist nicht wie andere Spiele des Genres, denn wenn hier zu Beginn Fehler begangen werden, ist das Spiel vorbei. Bedeutet, du kannst ein neue Spiel starten. Darum hier eine kleine Anleitung, was als zuerst gemacht werden sollte.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Ostriv</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">13.10.23</span>
+01:23</span>
+</span>
+                <span class="c5">Das Spiel
+                
+                </span>
+            </div>
+                <div class="api-teaser-description">Ostriv ist nicht wie andere Spiele des Genres, denn wenn hier zu Beginn Fehler begangen werden, ist das Spiel vorbei. Bedeutet, du kannst ein neue Spiel starten. Darum hier eine kleine Anleitung, was  ...</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </guide></a></api-guide-teaser-renderer></div>
+<div class="col-12 col-sm-12 col-md-4 col-lg-4">
+        <api-guide-teaser-renderer data-item="444" data-name="teaser-description"><a href="/spiele/race-driver-grid-2/guides/2277/103/444.html" title="Grid 2 - Guide - Errungenschaft: Ist das Zauberei? Guide">
+        <time>06. Oktober</time>
+        <guide class="api-teaser-item min-height-215 " data-game="Grid 2" data-item="444">
+            <headline class="api-headline">Errungenschaft: Ist das Zauberei? Guide</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/2277/k_pic_1539396205.jpg" alt="Grid 2 - Guide - Errungenschaft: Ist das Zauberei? Guide" class="api-teaser-image" data-src="https://cdn.eprison.de/2277/k_pic_1539396205.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/2277/k_pic_1539396205.jpg" srcset="https://cdn.eprison.de/2277/k_pic_1539396205.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <teaser class="api-teaser" title="Um die Errungenschaft " ist="" das="" zauberei"="" zubekommen="" müsst="" ihr="" alle="" prestigefahrer="" besiegen."="">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Grid 2</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">06.10.23</span>
+22:57</span>
+</span>
+                <span class="c5">Errungenschaft
+                
+                </span>
+            </div>
+                <div class="api-teaser-description">Um die Errungenschaft "Ist das Zauberei" zubekommen müsst ihr alle Prestigefahrer besiegen.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </guide></a></api-guide-teaser-renderer></div>
+<div class="col-12 col-sm-12 col-md-4 col-lg-4">
+        <api-guide-teaser-renderer data-item="443" data-name="teaser-description"><a href="/spiele/baldurs-gate-ii-enhanced-edition/guides/5467/87/443.html" title="Baldur's Gate II: Enhanced Edition - Guide - Baldur's Gate II: Enhanced Edition startet nicht...">
+        <time>26. September</time>
+        <guide class="api-teaser-item min-height-215 " data-game="Baldur's Gate II: Enhanced Edition" data-item="443">
+            <headline class="api-headline">Baldur's Gate II: Enhanced Edition start ...</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/5467/k_pic_1559645608.jpg" alt="Baldur's Gate II: Enhanced Edition - Guide - Baldur's Gate II: Enhanced Edition startet nicht..." class="api-teaser-image" data-src="https://cdn.eprison.de/5467/k_pic_1559645608.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/5467/k_pic_1559645608.jpg" srcset="https://cdn.eprison.de/5467/k_pic_1559645608.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <teaser class="api-teaser" title="Baldur's Gate II: Enhanced Edition beendet sich nach dem Start austomatisch selbst ohne eine Fehlermeldung im Steam Client.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Baldur's Gate II: Enhanced Edition</span>
+                </div>
+                
+            <div class="api-teaser-category">
+                <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">26.09.23</span>
+20:32</span>
+</span>
+                <span class="c5">Error
+                
+                </span>
+            </div>
+                <div class="api-teaser-description">Baldur's Gate II: Enhanced Edition beendet sich nach dem Start austomatisch selbst ohne eine Fehlermeldung im Steam Client.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </guide></a></api-guide-teaser-renderer></div>
+</div>
+</div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/spiele/guides,0.html" title="mehr Guides"><i class="fa fa-bars"></i> mehr Guides</a></div>
+</div>
+</div>
+</div>
+
+            </div>
+        </div>
+        <div class="app-widget"><div class="widget-small-head widget-head-v4 articles-preview"><div class="app-container cla"><h2 itemprop="title">Aktuelle Artikel Vorschau<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div id="app-container-articles-preview"><div class="article-teaser-list"><div class="row">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+            <div class="row list-teaser clearfix">
+                <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                <div class="teaser-image mini">
+ <img src="https://www.eprison.de/pics/games/8059/k_pic_1704929315.jpg" alt="Tram Simulator Urban Transit" class="teaser-image" data-src="https://www.eprison.de/pics/games/8059/k_pic_1704929315.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/8059/k_pic_1704929315.jpg" srcset="https://www.eprison.de/pics/games/8059/k_pic_1704929315.jpg" itemprop="image" border="0"></div>
+
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                    <span class="teaser-info">
+                        Test von sebastian.k
+                        <span class="flr"><span class="item-platform">PC</span></span>
+                    </span>
+                    <span class="teaser-title"><strong>Tram Simulator Urban Transit</strong></span>
+                    <span class="teaser-info">Stillalive Studios bringen, basierend auf den Bus Simulator 21, ihren Tram Simulator auf den Markt. Ich habe ihn mir angesehen!</span>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+            <div class="row list-teaser clearfix">
+                <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                <div class="teaser-image mini">
+ <img src="https://www.eprison.de/pics/games/5684/k_pic_1572554911.jpg" alt="Gothic 2: The History of Khorinis" class="teaser-image" data-src="https://www.eprison.de/pics/games/5684/k_pic_1572554911.jpg" data-size="auto" data-srcset="https://www.eprison.de/pics/games/5684/k_pic_1572554911.jpg" srcset="https://www.eprison.de/pics/games/5684/k_pic_1572554911.jpg" itemprop="image" border="0"></div>
+
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+                    <span class="teaser-info">
+                        Vorschau von raymond.l
+                        <span class="flr"><span class="item-platform">PC</span></span>
+                    </span>
+                    <span class="teaser-title"><strong>Gothic 2: The History of Khorinis</strong></span>
+                    <span class="teaser-info">Ein osteuropäisches Team möchte das Kultspiel Gothic 2, um eine kostenlose Erweiterung bereichern, die eine alternative Geschichte 10 Jahre vor der  ...</span>
+                </div>
+            </div>
+        </div></div>
+</div>
+</div></div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/specials,0.html" title="Mehr Artikel"><i class="fa fa-bars"></i> Mehr Artikel</a></div>
+</div>
+</div>
+</div>
+
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neue Maps<div class="head-extend">Die ePrison Map-DB enthält 2811 Einträge</div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="row"><div class="col-12 col-sm-12 col-md-4 col-lg-4">
+        <api-map-teaser-renderer data-item="2821"><a href="/spiele/world-of-warcraft-shadowlands/maps/der-schlund/5686/2821.html" title="World of Warcraft: Shadowlands - Map - Der Schlund">
+        <time>21. April</time>
+        <map class="api-teaser-item min-height-215 " data-game="World of Warcraft: Shadowlands" data-item="2821">
+            <headline class="api-headline">Der Schlund</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/5686/k_pic_1650536595.jpg" alt="World of Warcraft: Shadowlands - Map - Der Schlund" class="api-teaser-image" data-src="https://cdn.eprison.de/5686/k_pic_1650536595.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/5686/k_pic_1650536595.jpg" srcset="https://cdn.eprison.de/5686/k_pic_1650536595.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <teaser class="api-teaser" title="Wer in den Schlund verbannt wird, ist zu einer trostlosen Ewigkeit verdammt. Dort liegt ein wildes Land ohne Hoffnung, in dem die schändlichsten Seelen des Kosmos für alle Zeiten gefangen sind. Sollte das uralte Übel befreit werden, das hier eingekerkert ist, wird es die gesamte Realität verschlingen.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">World of Warcraft: Shadowlands</span>
+                </div>
+                
+                <div class="api-teaser-category">
+                    <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">21.04.22</span>
+10:14</span>
+</span>
+                </div>
+                <div class="api-teaser-description">Wer in den Schlund verbannt wird, ist zu einer trostlosen Ewigkeit verdammt. Dort liegt ein wildes Land ohne Hoffnung, in dem die schändlichsten Seelen des Kosmos für alle Zeiten gefangen sind. Soll ...</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </map></a></api-map-teaser-renderer></div>
+<div class="col-12 col-sm-12 col-md-4 col-lg-4">
+        <api-map-teaser-renderer data-item="2820"><a href="/spiele/world-of-warcraft-shadowlands/maps/revendreth/5686/2820.html" title="World of Warcraft: Shadowlands - Map - Revendreth">
+        <time>21. April</time>
+        <map class="api-teaser-item min-height-215 " data-game="World of Warcraft: Shadowlands" data-item="2820">
+            <headline class="api-headline">Revendreth</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/5686/k_pic_1650536573.jpg" alt="World of Warcraft: Shadowlands - Map - Revendreth" class="api-teaser-image" data-src="https://cdn.eprison.de/5686/k_pic_1650536573.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/5686/k_pic_1650536573.jpg" srcset="https://cdn.eprison.de/5686/k_pic_1650536573.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <teaser class="api-teaser" title="In Revendreth, einem Reich voller bedrohlicher Festungen und gotischer Dörfer, leben die Venthyr, die Sündensammler. Hier können die verdammten Seelen für ihre Sünden Buße tun... oder einfach den Appetit ihrer Aufseher stillen.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">World of Warcraft: Shadowlands</span>
+                </div>
+                
+                <div class="api-teaser-category">
+                    <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">21.04.22</span>
+10:13</span>
+</span>
+                </div>
+                <div class="api-teaser-description">In Revendreth, einem Reich voller bedrohlicher Festungen und gotischer Dörfer, leben die Venthyr, die Sündensammler. Hier können die verdammten Seelen für ihre Sünden Buße tun... oder einfach de ...</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </map></a></api-map-teaser-renderer></div>
+<div class="col-12 col-sm-12 col-md-4 col-lg-4">
+        <api-map-teaser-renderer data-item="2819"><a href="/spiele/world-of-warcraft-shadowlands/maps/maldraxxus/5686/2819.html" title="World of Warcraft: Shadowlands - Map - Maldraxxus">
+        <time>21. April</time>
+        <map class="api-teaser-item min-height-215 " data-game="World of Warcraft: Shadowlands" data-item="2819">
+            <headline class="api-headline">Maldraxxus</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/5686/k_pic_1650536538.jpg" alt="World of Warcraft: Shadowlands - Map - Maldraxxus" class="api-teaser-image" data-src="https://cdn.eprison.de/5686/k_pic_1650536538.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/5686/k_pic_1650536538.jpg" srcset="https://cdn.eprison.de/5686/k_pic_1650536538.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <teaser class="api-teaser" title="Im kriegsgebeutelten Maldraxxus gilt das Gesetz der Macht. Hier, am Quell der nekromantischen Magie, verwandeln diejenigen, die sich die Macht des Todes zu Eigen machen, Scharen von ehrgeizigen Seelen in gnadenlose, untote Armeen.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">World of Warcraft: Shadowlands</span>
+                </div>
+                
+                <div class="api-teaser-category">
+                    <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">21.04.22</span>
+10:13</span>
+</span>
+                </div>
+                <div class="api-teaser-description">Im kriegsgebeutelten Maldraxxus gilt das Gesetz der Macht. Hier, am Quell der nekromantischen Magie, verwandeln diejenigen, die sich die Macht des Todes zu Eigen machen, Scharen von ehrgeizigen Seelen ...</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </map></a></api-map-teaser-renderer></div>
+</div>
+</div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/spiele/maps,0.html" title="Mehr Maps"><i class="fa fa-bars"></i> Mehr Maps</a></div>
+</div>
+</div>
+</div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neue Mods<div class="head-extend">Die ePrison Mod-DB enthält 288 Einträge</div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="row"><div class="col-12 col-sm-12 col-md-4 col-lg-4">
+        <api-mod-item-renderer data-item="300">
+        <time>06. Dezember<span class="enu-preview">Vorschau</span></time>
+        <mod class="api-teaser-item min-height-215  preview " data-game="The Elder Scrolls III: Morrowind GOTY Edition" data-item="300">
+            <headline class="api-headline">Skywind</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/3319/k_img_d0e3a1fd-a4c6-4eb8-a016-096921fa6491.jpg" alt="The Elder Scrolls III: Morrowind GOTY Edition - Mod - Skywind" class="api-teaser-image" data-src="https://cdn.eprison.de/3319/k_img_d0e3a1fd-a4c6-4eb8-a016-096921fa6491.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/3319/k_img_d0e3a1fd-a4c6-4eb8-a016-096921fa6491.jpg" srcset="https://cdn.eprison.de/3319/k_img_d0e3a1fd-a4c6-4eb8-a016-096921fa6491.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <teaser class="api-teaser" title="Skywind is a total recreation of The Elder Scrolls III: Morrowind, built from the ground up in the more modern Skyrim: Special Edition engine.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">The Elder Scrolls III: Morrowind GOTY Edition</span>
+                </div>
+                
+                <div class="api-teaser-category">
+                    <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">06.12.23</span>
+21:36</span>
+</span>
+                </div>
+                <div class="api-teaser-description">Skywind is a total recreation of The Elder Scrolls III: Morrowind, built from the ground up in the more modern Skyrim: Special Edition engine.</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </mod></api-mod-item-renderer></div>
+<div class="col-12 col-sm-12 col-md-4 col-lg-4">
+        <api-mod-item-renderer data-item="299"><a href="/spiele/portal-2/mods/portal-revolution/1058/299.html" title="Portal 2 - Mod - Portal: Revolution">
+        <time>19. November</time>
+        <mod class="api-teaser-item min-height-215 " data-game="Portal 2" data-item="299">
+            <headline class="api-headline">Portal: Revolution</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/1058/k_img_a299284b-6437-4438-935b-c5ebcb38d485.jpg" alt="Portal 2 - Mod - Portal: Revolution" class="api-teaser-image" data-src="https://cdn.eprison.de/1058/k_img_a299284b-6437-4438-935b-c5ebcb38d485.jpg" data-size="auto" data-srcset="https://cdn.eprison.de/1058/k_img_a299284b-6437-4438-935b-c5ebcb38d485.jpg" srcset="https://cdn.eprison.de/1058/k_img_a299284b-6437-4438-935b-c5ebcb38d485.jpg" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <teaser class="api-teaser" title="Du kannst nicht genug von Portal bekommen? Portal: Revolution ist eine kostenlose Community-Erstellte mod, die die originale Story von Portal erweitert!">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Portal 2</span>
+                </div>
+                
+                <div class="api-teaser-category">
+                    <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">19.11.23</span>
+21:44</span>
+</span>
+                </div>
+                <div class="api-teaser-description">Du kannst nicht genug von Portal bekommen? Portal: Revolution ist eine kostenlose Community-Erstellte mod, die die originale Story von Portal erweitert!</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </mod></a></api-mod-item-renderer></div>
+<div class="col-12 col-sm-12 col-md-4 col-lg-4">
+        <api-mod-item-renderer data-item="297"><a href="/spiele/gothic-2/mods/dirty-swamp/271/297.html" title="Gothic 2 - Mod - Dirty Swamp">
+        <time>10. Dezember</time>
+        <mod class="api-teaser-item min-height-215 " data-game="Gothic 2" data-item="297">
+            <headline class="api-headline">Dirty Swamp</headline>
+            <div class="row">
+                            
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <picture class="api-picture"><span class="api-item-teaser-image">
+ <img src="https://cdn.eprison.de/271/k_pic_1490049963.png" alt="Gothic 2 - Mod - Dirty Swamp" class="api-teaser-image" data-src="https://cdn.eprison.de/271/k_pic_1490049963.png" data-size="auto" data-srcset="https://cdn.eprison.de/271/k_pic_1490049963.png" srcset="https://cdn.eprison.de/271/k_pic_1490049963.png" itemprop="image" border="0"></span>
+</picture>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+            <teaser class="api-teaser" title="In Dirty Swamp schlüpft Ihr in die Rolle eines Sklaven, der für seinen Meister Sanchez stets die Drecksarbeit erledigen muss. Wieder einmal ist er dabei, einen Tempel zu plündern – und er hasst Tempel – da nimmt sein Leben eine unerwartete Wendung: Der namenlose Protagonist findet sich urplötzlich an einem fremden Ort wieder, wo er vor ungeahnten Herausforderungen steht und sich sowohl Freunde als auch Feinde machen wird. Doch immerhin: Da er jetzt frei ist, kann er endlich seiner ironischen und frechen Art freien Lauf lassen, ohne dafür einen Schlag ins Gesicht zu kassieren ... meistens jedenfalls.">
+                <div class="api-teaser-info">
+                    <span class="api-game-title">Gothic 2</span>
+                </div>
+                
+                <div class="api-teaser-category">
+                    <span class="api-teaser-date"><span class="px-date app-close"><span class="mr5">10.12.22</span>
+19:36</span>
+</span>
+                </div>
+                <div class="api-teaser-description">In Dirty Swamp schlüpft Ihr in die Rolle eines Sklaven, der für seinen Meister Sanchez stets die Drecksarbeit erledigen muss. Wieder einmal ist er dabei, einen Tempel zu plündern – und er hasst T ...</div>
+                
+            </teaser>
+        </div>
+            </div>
+            
+            
+        </mod></a></api-mod-item-renderer></div>
+</div>
+</div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/spiele/mods,0.html" title="Mehr Mods"><i class="fa fa-bars"></i> Mehr Mods</a></div>
+</div>
+</div>
+</div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neue Stores<div class="head-extend">Die ePrison Store-DB enthält 42 Einträge</div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="app-details"><div class="details-information"><div class="row">
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/store/gamebillet-42.html" title="Store - Gamebillet">Gamebillet</a><hr class="bb-line" style="width: 99%" noshade="noshade">15.01.2023</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/store/amazon-luna-41.html" title="Store - Amazon Luna">Amazon Luna</a><hr class="bb-line" style="width: 99%" noshade="noshade">01.12.2022</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/store/eneba-40.html" title="Store - eneba">eneba</a><hr class="bb-line" style="width: 99%" noshade="noshade">06.02.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/store/2game-39.html" title="Store - 2game">2game</a><hr class="bb-line" style="width: 99%" noshade="noshade">06.02.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/store/gamestop-38.html" title="Store - GameStop">GameStop</a><hr class="bb-line" style="width: 99%" noshade="noshade">06.02.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/store/green-man-gaming-37.html" title="Store - Green Man Gaming">Green Man Gaming</a><hr class="bb-line" style="width: 99%" noshade="noshade">06.02.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/store/gamersgate-36.html" title="Store - GamersGate">GamersGate</a><hr class="bb-line" style="width: 99%" noshade="noshade">06.02.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/store/fanatical-35.html" title="Store - Fanatical">Fanatical</a><hr class="bb-line" style="width: 99%" noshade="noshade">06.02.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/store/humble-bundle-34.html" title="Store - Humble Bundle">Humble Bundle</a><hr class="bb-line" style="width: 99%" noshade="noshade">06.02.2021</div>
+        </div></div>
+</div></div></div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/store,0.html" title="Mehr Stores"><i class="fa fa-bars"></i> Mehr Stores</a></div>
+</div>
+</div>
+</div>
+
+            </div>
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+            <div class="app-widget"><div class="widget-small-head widget-head-v4"><div class="app-container cla"><h2 itemprop="title">Neue Plattformen<div class="head-extend">Die ePrison Plattform-DB enthält 29 Einträge</div>
+<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="app-details"><div class="details-information"><div class="row">
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/platform/onexplayer-1s-136.html" title="Platform - OneXPlayer 1S">OneXPlayer 1S</a><hr class="bb-line" style="width: 99%" noshade="noshade">15.04.2022</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/platform/aya-neo-next-135.html" title="Platform - Aya Neo Next">Aya Neo Next</a><hr class="bb-line" style="width: 99%" noshade="noshade">15.04.2022</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/platform/steam-deck-134.html" title="Platform - Steam Deck">Steam Deck</a><hr class="bb-line" style="width: 99%" noshade="noshade">19.07.2021</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/platform/xbox-series-x-133.html" title="Platform - Xbox Series X">Xbox Series X</a><hr class="bb-line" style="width: 99%" noshade="noshade">13.12.2019</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/platform/stadia-132.html" title="Platform - Stadia">Stadia</a><hr class="bb-line" style="width: 99%" noshade="noshade">05.11.2019</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/platform/playstation-5-131.html" title="Platform - Playstation 5">Playstation 5</a><hr class="bb-line" style="width: 99%" noshade="noshade">08.04.2019</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/platform/windows-phone-130.html" title="Platform - Windows Phone">Windows Phone</a><hr class="bb-line" style="width: 99%" noshade="noshade">08.04.2019</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/platform/nintendo-dsi-129.html" title="Platform - Nintendo DSi">Nintendo DSi</a><hr class="bb-line" style="width: 99%" noshade="noshade">08.04.2019</div>
+        </div>
+        <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+            <div class="tag bigger center"><a href="/platform/game-boy-advance-128.html" title="Platform - Game Boy Advance">Game Boy Advance</a><hr class="bb-line" style="width: 99%" noshade="noshade">08.04.2019</div>
+        </div></div>
+</div></div></div>
+</div>
+</div>
+<div class="widget-small-footer list-teaser"><div class="col-12 col-sm-12 col-md-12 col-lg-12"><div class="app-link-more center"><a href="/platform,0.html" title="Mehr Plattformen"><i class="fa fa-bars"></i> Mehr Plattformen</a></div>
+</div>
+</div>
+</div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="app-container-event">
+                    <h3>Weitere Inhalte</h3>
+                    <div class="gmsWidget">
+                        <span class="tag bigger vip">
+                            <a href="/store,0.html">Store</a>
+                        </span>
+                        <span class="tag bigger vip">
+                            <a href="/platform,0.html">Plattformen</a>
+                        </span>
+                        <span class="tag bigger vip">
+                            <a href="/spiele/entwickler,0.html">Entwickler</a>
+                        </span>
+                        <span class="tag bigger vip group">
+                            <a href="/spiele/vertriebe,0.html">Vertrieb</a>
+                        </span>
+                        <span class="tag bigger vip group">
+                            <a href="/magazine,0.html">Magazine</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div><div class="app-widget"><div class="widget-small-head"><div class="app-container cla"><h2 itemprop="title">ePrison - Game Information<div style="clear: both;"></div></h2></div>
+</div>
+<div class="widget-small"><div class="widget-pre-loader" style="display: none;"><img src="/public/frontend/css/svg-loaders/puff.svg" alt="" width="50"></div><div class="widget-inner" style="display: block;"><div class="app-container cla"><div class="body-description">ePrison: Ist ein unabhäniges und motiviertes Gaming-Portal, welches den Schwerpunkt auf Games und alle damit verbundende Informationen legt. ePrison.de entstand 2007 aus dem Zusammenschluss einzelner Fanprojekte, die sich unter anderem mit Return to Castle Wolfenstein, Wolfenstein: Enemy Territory, der Call of Duty Reihe, Enemy Territory: Quakewars und Medal of Honor beschäftigt haben. Unsere ePrison Redaktion veröffentlicht tagesaktuelle News, Previews, Tests und aktualisiert alle Spiele nach neusten Informationen. Zudem bieten wir einen ausgedehnten Community Bereich mit vielen Features, wie ePoints, Ranking und ein internes Message-System, sowie einer komplexen Spiele-Verwaltung.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+                    </div>
+                </div>
+            </div>
+            <div class="app-section-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+        <div class="appClientFooter">
+            
+        <div class="row">
+            <div class="col-6 col-sm-6 col-md-4 col-lg-4"><div class="link"><a href="/epcommunity.html" title="Community">Community</a></div>
+<div class="link"><a href="/sitemap.html" title="Sitemap">Sitemap</a></div>
+<div class="link"><a href="/bugtracker,0.html">Fehler melden</a></div>
+<div class="link"><a href="/hilfe.html">Hilfe</a></div>
+<div class="link"><a href="/changelog.html">Changelog</a></div>
+</div>
+            <div class="col-6 col-sm-6 col-md-4 col-lg-4"><div class="link"><a href="/dev.blog.html">DevBlog</a></div>
+<div class="link"><a href="/shops.html" title="Preisvergleich">Preisvergleich</a></div>
+<div class="link"><a href="/rss.html" title="RSS">RSS</a></div>
+<div class="link"><a href="/team.html" title="Team">Team</a></div>
+<div class="link"><a href="/about.html" title="About">About</a></div>
+</div>
+            <div class="col-6 col-sm-6 col-md-4 col-lg-4"><div class="link"><a href="/jobs.html" title="Jobs">Jobs</a></div>
+<div class="link"><a href="/donate.html">Unterstütze ePrison.de</a></div>
+<div class="link"><a href="/login">Login</a></div>
+<div class="link"><a href="/features">Features</a></div>
+<div class="link"><a href="/documentation/ui/messages">UI</a></div>
+</div>
+        </div>
+            <div class="view center small headline">Projekte von ePrison.de</div>
+            <div class="view center small"><span><a href="/steamdb">Steam Database</a></span>
+ * <span><a href="/steamdb/achievements">Steam Achievements</a></span>
+</div>
+            <div class="view center small"><span>copyright by eprison.de 2008 - 2024</span>
+ - powered by <a href="https://enuis.de">Enuis Engine</a> 2024.0.0, code &amp; design by <a href="/profile/nilius-1">nilius</a></div>
+            <div class="view center small"> <span><a href="/impressum.html">Impressum</a></span>
+ <span><a href="/datenschutz.html">Datenschutz</a></span>
+</div>
+        </div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- js functions -->
+        <script type="text/javascript" src="/public/frontend/js/jquery.form.js"></script>
+        <script type="text/javascript" src="/public/frontend/js/jquery.colorbox.js"></script>
+        <script type="text/javascript" src="/public/frontend/js/calendarDateInput.js"></script><style>
+td.calendarDateInput {letter-spacing:normal;line-height:normal;font-family:Tahoma,Sans-Serif;font-size:11px;}
+select.calendarDateInput {letter-spacing:.06em;font-family:Verdana,Sans-Serif;font-size:11px;}
+input.calendarDateInput {letter-spacing:.06em;font-family:Verdana,Sans-Serif;font-size:11px;}
+</style>
+
+        <script type="text/javascript" src="/public/frontend/js/jquery.raty.js"></script>
+        <script type="text/javascript" src="/public/frontend/js/jquery.image.slider.js"></script>
+        <script type="text/javascript" src="/public/frontend/js/jScrollPane.js"></script>
+        <script type="text/javascript" src="/public/frontend/js/jquery.easytabs.min.js"></script>
+        <script type="text/javascript" src="/public/frontend/js/jscroll/jquery.jscroll.min.js"></script>
+        <script type="text/javascript" src="/public/frontend/js/splide/js/splide.min.js"></script>
+        <!-- Google tag (gtag.js) -->
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-3800056-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'UA-3800056-1');
+        </script><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>

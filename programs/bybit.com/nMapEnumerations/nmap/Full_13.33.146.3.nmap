@@ -1,0 +1,11 @@
+# Nmap 7.93 scan initiated Tue Nov 14 19:28:08 2023 as: /usr/bin/nmap -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_13.33.146.3.nmap --system-dns --stats-every 3s 13.33.146.3
+Nmap scan report for server-13-33-146-3.maa50.r.cloudfront.net (13.33.146.3)
+Host is up (0.014s latency).
+Not shown: 65533 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Tue Nov 14 19:32:35 2023 -- 1 IP address (1 host up) scanned in 267.05 seconds

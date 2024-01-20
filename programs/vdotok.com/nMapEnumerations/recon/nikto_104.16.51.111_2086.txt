@@ -1,0 +1,14 @@
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          104.16.51.111
++ Target Hostname:    104.16.51.111
++ Target Port:        2086
++ Start Time:         2023-11-08 12:43:13 (GMT5.5)
+---------------------------------------------------------------------------
++ Server: cloudflare
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ All CGI directories 'found', use '-C none' to test none
++ Scan terminated: 17 error(s) and 1 item(s) reported on remote host
++ End Time:           2023-11-08 12:58:06 (GMT5.5) (893 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested

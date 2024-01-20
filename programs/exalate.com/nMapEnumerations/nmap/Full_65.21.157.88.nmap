@@ -1,0 +1,10 @@
+# Nmap 7.93 scan initiated Fri Nov 24 00:13:11 2023 as: /usr/bin/nmap -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_65.21.157.88.nmap --system-dns --stats-every 3s 65.21.157.88
+Nmap scan report for static.88.157.21.65.clients.your-server.de (65.21.157.88)
+Host is up (0.17s latency).
+Not shown: 65532 filtered tcp ports (no-response), 2 closed tcp ports (reset)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Fri Nov 24 00:17:35 2023 -- 1 IP address (1 host up) scanned in 264.29 seconds

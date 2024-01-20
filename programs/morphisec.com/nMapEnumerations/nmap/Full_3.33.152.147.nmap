@@ -1,0 +1,5 @@
+# Nmap 7.93 scan initiated Wed Nov  8 12:59:32 2023 as: /usr/bin/nmap -Pn -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_3.33.152.147.nmap --system-dns --stats-every 3s 3.33.152.147
+setup_target: failed to determine route to 3.33.152.147
+Read data files from: /usr/bin/../share/nmap
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Wed Nov  8 12:59:32 2023 -- 0 IP addresses (0 hosts up) scanned in 0.03 seconds

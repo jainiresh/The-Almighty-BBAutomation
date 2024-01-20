@@ -1,0 +1,169 @@
+# Nmap 7.93 scan initiated Thu Nov  9 00:35:11 2023 as: /usr/bin/nmap -sCV -p80,443,1221,4022,4024,8172 --open -oN nmap/Full_Extra_13.69.228.4.nmap --system-dns --stats-every 2s 13.69.228.4
+Nmap scan report for 13.69.228.4
+Host is up (0.17s latency).
+
+PORT     STATE SERVICE    VERSION
+80/tcp   open  http
+|_http-title: Microsoft Azure Web App - Error 404
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 404 Site Not Found
+|     Content-Length: 2667
+|     Connection: close
+|     Content-Type: text/html
+|     Date: Wed, 08 Nov 2023 19:05:18 GMT
+|     <!DOCTYPE html>
+|     <html>
+|     <head>
+|     <title>Microsoft Azure Web App - Error 404</title>
+|     <style type="text/css">
+|     html {
+|     height: 100%;
+|     width: 100%;
+|     #feature {
+|     width: 960px;
+|     margin: 75px auto 0 auto;
+|     overflow: auto;
+|     #content {
+|     font-family: "Segoe UI";
+|     font-weight: normal;
+|     font-size: 22px;
+|     color: #ffffff;
+|     float: left;
+|     margin-top: 68px;
+|     margin-left: 0px;
+|     vertical-align: middle;
+|     #content h1 {
+|     font-family: "Segoe UI Light";
+|     color: #ffffff;
+|     font-weight: normal;
+|   HTTPOptions: 
+|     HTTP/1.1 404 Site Not Found
+|     Content-Length: 2667
+|     Connection: close
+|     Content-Type: text/html
+|     Date: Wed, 08 Nov 2023 19:05:17 GMT
+|     <!DOCTYPE html>
+|     <html>
+|     <head>
+|     <title>Microsoft Azure Web App - Error 404</title>
+|     <style type="text/css">
+|     html {
+|     height: 100%;
+|     width: 100%;
+|     #feature {
+|     width: 960px;
+|     margin: 75px auto 0 auto;
+|     overflow: auto;
+|     #content {
+|     font-family: "Segoe UI";
+|     font-weight: normal;
+|     font-size: 22px;
+|     color: #ffffff;
+|     float: left;
+|     margin-top: 68px;
+|     margin-left: 0px;
+|     vertical-align: middle;
+|     #content h1 {
+|     font-family: "Segoe UI Light";
+|     color: #ffffff;
+|_    font-weight: normal;
+443/tcp  open  ssl/https
+|_ssl-date: 2023-11-08T19:07:47+00:00; 0s from scanner time.
+|_http-title: Microsoft Azure Web App - Error 404
+| ssl-cert: Subject: commonName=*.azurewebsites.net/organizationName=Microsoft Corporation/stateOrProvinceName=WA/countryName=US
+| Subject Alternative Name: DNS:*.azurewebsites.net, DNS:*.scm.azurewebsites.net, DNS:*.sso.azurewebsites.net, DNS:*.northeurope-01.azurewebsites.net, DNS:*.scm.northeurope-01.azurewebsites.net, DNS:*.sso.northeurope-01.azurewebsites.net, DNS:*.northeurope.c.azurewebsites.net, DNS:*.scm.northeurope.c.azurewebsites.net, DNS:*.sso.northeurope.c.azurewebsites.net
+| Not valid before: 2023-09-05T23:36:14
+|_Not valid after:  2024-06-27T23:59:59
+| fingerprint-strings: 
+|   TLSSessionReq: 
+|     HTTP/1.1 400 Bad Request
+|     Content-Length: 0
+|     Connection: close
+|_    Date: Wed, 08 Nov 2023 19:06:05 GMT
+| tls-alpn: 
+|_  http/1.1
+1221/tcp open  http       Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-title: Site doesn't have a title (text/plain).
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-trane-info: Problem with XML parsing of /evox/about
+4022/tcp open  dnox?
+4024/tcp open  tnp1-port?
+8172/tcp open  ssl/http   Microsoft IIS httpd 10.0
+|_ssl-date: 2023-11-08T19:07:47+00:00; 0s from scanner time.
+|_http-title: Site doesn't have a title (text/html).
+|_http-server-header: Microsoft-IIS/10.0
+| ssl-cert: Subject: commonName=waws-prod-db3-143.publish.azurewebsites.windows.net/organizationName=Microsoft Corporation/stateOrProvinceName=Washington/countryName=US
+| Subject Alternative Name: DNS:waws-prod-db3-143.publish.azurewebsites.windows.net, DNS:waws-prod-db3-143.ftp.azurewebsites.windows.net
+| Not valid before: 2023-09-11T00:00:00
+|_Not valid after:  2024-09-11T23:59:59
+| tls-alpn: 
+|_  http/1.1
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.93%I=7%D=11/9%Time=654BDBEE%P=x86_64-pc-linux-gnu%r(GetR
+SF:equest,AF1,"HTTP/1\.1\x20404\x20Site\x20Not\x20Found\r\nContent-Length:
+SF:\x202667\r\nConnection:\x20close\r\nContent-Type:\x20text/html\r\nDate:
+SF:\x20Wed,\x2008\x20Nov\x202023\x2019:05:18\x20GMT\r\n\r\n<!DOCTYPE\x20ht
+SF:ml>\r\n<html>\r\n<head>\r\n\x20\x20\x20\x20<title>Microsoft\x20Azure\x2
+SF:0Web\x20App\x20-\x20Error\x20404</title>\r\n\x20\x20\x20\x20<style\x20t
+SF:ype=\"text/css\">\r\n\x20\x20\x20\x20\x20\x20\x20\x20html\x20{\r\n\x20\
+SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\r\n\x20\x20
+SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\r\n\x20\x20\x20
+SF:\x20\x20\x20\x20\x20}\r\n\r\n\x20\x20\x20\x20\x20\x20\x20\x20#feature\x
+SF:20{\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20960px;
+SF:\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2075px\x20
+SF:auto\x200\x20auto;\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20o
+SF:verflow:\x20auto;\r\n\x20\x20\x20\x20\x20\x20\x20\x20}\r\n\r\n\x20\x20\
+SF:x20\x20\x20\x20\x20\x20#content\x20{\r\n\x20\x20\x20\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20font-family:\x20\"Segoe\x20UI\";\r\n\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20normal;\r\n\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2022px;\r\n\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#ffffff;\r\n\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20\x20\x20\x20\x20float:\x20left;\r\n\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20\x20\x20\x20margin-top:\x2068px;\r\n\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20margin-left:\x200px;\r\n\x20\x20\x20\x20\
+SF:x20\x20\x20\x20\x20\x20\x20\x20vertical-align:\x20middle;\r\n\x20\x20\x
+SF:20\x20\x20\x20\x20\x20}\r\n\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+SF:\x20\x20#content\x20h1\x20{\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+SF:\x20\x20\x20\x20\x20\x20font-family:\x20\"Segoe\x20UI\x20Light\";\r\n\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x2
+SF:0#ffffff;\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20font-weight:\x20normal;\r\n\x20\x20\x20")%r(HTTPOptions,AF1,"HTTP
+SF:/1\.1\x20404\x20Site\x20Not\x20Found\r\nContent-Length:\x202667\r\nConn
+SF:ection:\x20close\r\nContent-Type:\x20text/html\r\nDate:\x20Wed,\x2008\x
+SF:20Nov\x202023\x2019:05:17\x20GMT\r\n\r\n<!DOCTYPE\x20html>\r\n<html>\r\
+SF:n<head>\r\n\x20\x20\x20\x20<title>Microsoft\x20Azure\x20Web\x20App\x20-
+SF:\x20Error\x20404</title>\r\n\x20\x20\x20\x20<style\x20type=\"text/css\"
+SF:>\r\n\x20\x20\x20\x20\x20\x20\x20\x20html\x20{\r\n\x20\x20\x20\x20\x20\
+SF:x20\x20\x20\x20\x20\x20\x20height:\x20100%;\r\n\x20\x20\x20\x20\x20\x20
+SF:\x20\x20\x20\x20\x20\x20width:\x20100%;\r\n\x20\x20\x20\x20\x20\x20\x20
+SF:\x20}\r\n\r\n\x20\x20\x20\x20\x20\x20\x20\x20#feature\x20{\r\n\x20\x20\
+SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20960px;\r\n\x20\x20\x20
+SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2075px\x20auto\x200\x20aut
+SF:o;\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20auto
+SF:;\r\n\x20\x20\x20\x20\x20\x20\x20\x20}\r\n\r\n\x20\x20\x20\x20\x20\x20\
+SF:x20\x20#content\x20{\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2
+SF:0font-family:\x20\"Segoe\x20UI\";\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20font-weight:\x20normal;\r\n\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20font-size:\x2022px;\r\n\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20color:\x20#ffffff;\r\n\x20\x20\x20\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20float:\x20left;\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20margin-top:\x2068px;\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20margin-left:\x200px;\r\n\x20\x20\x20\x20\x20\x20\x20\x20\
+SF:x20\x20\x20\x20vertical-align:\x20middle;\r\n\x20\x20\x20\x20\x20\x20\x
+SF:20\x20}\r\n\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#content
+SF:\x20h1\x20{\r\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+SF:\x20\x20font-family:\x20\"Segoe\x20UI\x20Light\";\r\n\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#ffffff;\r\n\x2
+SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weigh
+SF:t:\x20normal;\r\n\x20\x20\x20");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.93%T=SSL%I=7%D=11/9%Time=654BDC1D%P=x86_64-pc-linux-gnu
+SF:%r(TLSSessionReq,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Leng
+SF:th:\x200\r\nConnection:\x20close\r\nDate:\x20Wed,\x2008\x20Nov\x202023\
+SF:x2019:06:05\x20GMT\r\n\r\n");
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Nov  9 00:37:48 2023 -- 1 IP address (1 host up) scanned in 157.86 seconds

@@ -1,0 +1,1 @@
+<html><head><link rel="stylesheet" href="resource://content-accessible/plaintext.css"></head><body><pre>body is empty</pre></body></html>

@@ -1,0 +1,47 @@
+
+[0;33mRunning a Full scan on [0m107.20.60.235
+[0m
+[0;33mNo ping detected.. Will not use ping scans!
+[0m
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+[0K
+[0K
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+[0K
+[0K
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     nginx 1.22.0
+|_http-title: Did not follow redirect to https://t1.captello.com/login.php
+|_http-favicon: Parallels Plesk Panel
+|_http-server-header: nginx/1.22.0
+443/tcp open  ssl/http nginx 1.22.0
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=*.captello.com
+| Subject Alternative Name: DNS:*.captello.com, DNS:captello.com
+| Not valid before: 2023-10-08T00:00:00
+|_Not valid after:  2024-11-07T23:59:59
+| http-title: Direct Login
+|_Requested resource was login.php
+|_http-server-header: nginx/1.22.0
+|_http-favicon: Parallels Plesk Panel
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 1 seconds
+[0m

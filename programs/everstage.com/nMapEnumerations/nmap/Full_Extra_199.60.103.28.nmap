@@ -1,0 +1,113 @@
+# Nmap 7.93 scan initiated Thu Dec  7 22:40:02 2023 as: /usr/bin/nmap -sCV -p80,443,2052,2053,2082,2083,2086,2087,2095,2096,8080,8443,8880 --open -oN nmap/Full_Extra_199.60.103.28.nmap --system-dns --stats-every 2s 199.60.103.28
+Nmap scan report for 199.60.103.28
+Host is up (0.042s latency).
+
+PORT     STATE SERVICE  VERSION
+80/tcp   open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+443/tcp  open  ssl/http Cloudflare http proxy
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_http-server-header: cloudflare
+| ssl-cert: Subject: commonName=hscoscdn40.net/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:*.sites-proxy.hscoscdn40.net, DNS:*.hscoscdn40.net, DNS:sites-proxy.hscoscdn40.net, DNS:hscoscdn40.net
+| Not valid before: 2023-05-19T00:00:00
+|_Not valid after:  2024-05-17T23:59:59
+|_ssl-date: TLS randomness does not represent time
+|_http-title: 403 Forbidden
+2052/tcp open  http     Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+2053/tcp open  ssl/http nginx
+|_ssl-date: TLS randomness does not represent time
+|_http-server-header: cloudflare
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=hscoscdn40.net/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:*.sites-proxy.hscoscdn40.net, DNS:*.hscoscdn40.net, DNS:sites-proxy.hscoscdn40.net, DNS:hscoscdn40.net
+| Not valid before: 2023-05-19T00:00:00
+|_Not valid after:  2024-05-17T23:59:59
+|_http-title: 403 Forbidden
+| tls-alpn: 
+|   h2
+|_  http/1.1
+2082/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2083/tcp open  ssl/http nginx
+|_http-server-header: cloudflare
+| ssl-cert: Subject: commonName=hscoscdn40.net/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:*.sites-proxy.hscoscdn40.net, DNS:*.hscoscdn40.net, DNS:sites-proxy.hscoscdn40.net, DNS:hscoscdn40.net
+| Not valid before: 2023-05-19T00:00:00
+|_Not valid after:  2024-05-17T23:59:59
+|_ssl-date: TLS randomness does not represent time
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_http-title: 403 Forbidden
+2086/tcp open  http     Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+2087/tcp open  ssl/http nginx
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=hscoscdn40.net/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:*.sites-proxy.hscoscdn40.net, DNS:*.hscoscdn40.net, DNS:sites-proxy.hscoscdn40.net, DNS:hscoscdn40.net
+| Not valid before: 2023-05-19T00:00:00
+|_Not valid after:  2024-05-17T23:59:59
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_http-server-header: cloudflare
+|_http-title: 403 Forbidden
+2095/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+2096/tcp open  ssl/http nginx
+|_http-title: 403 Forbidden
+| ssl-cert: Subject: commonName=hscoscdn40.net/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:*.sites-proxy.hscoscdn40.net, DNS:*.hscoscdn40.net, DNS:sites-proxy.hscoscdn40.net, DNS:hscoscdn40.net
+| Not valid before: 2023-05-19T00:00:00
+|_Not valid after:  2024-05-17T23:59:59
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_http-server-header: cloudflare
+|_ssl-date: TLS randomness does not represent time
+8080/tcp open  http     Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+8443/tcp open  ssl/http Cloudflare http proxy
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_http-server-header: cloudflare
+| ssl-cert: Subject: commonName=hscoscdn40.net/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:*.sites-proxy.hscoscdn40.net, DNS:*.hscoscdn40.net, DNS:sites-proxy.hscoscdn40.net, DNS:hscoscdn40.net
+| Not valid before: 2023-05-19T00:00:00
+|_Not valid after:  2024-05-17T23:59:59
+|_http-title: 403 Forbidden
+|_ssl-date: TLS randomness does not represent time
+| tls-alpn: 
+|   h2
+|_  http/1.1
+8880/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Dec  7 22:40:24 2023 -- 1 IP address (1 host up) scanned in 22.50 seconds

@@ -1,0 +1,830 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link href="/favicon.png" rel="icon">
+    <title>Coda Payments | Publisher Portal</title>
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-QGBM178LV4&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N5DLDPD"></script><script type="module" crossorigin="" src="/assets/index-aed837ce.js"></script>
+    <link rel="stylesheet" href="/assets/index-915f6afe.css">
+  <script src="blob:https://portal.codapayments.com/528a2262-b797-4ba3-8a4f-6ccd98fafa17"></script><script async="" src="https://static.hotjar.com/c/hotjar-2998548.js?sv=6"></script><link href="https://www.googletagmanager.com" rel="preconnect"><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-38419864-2&amp;l=dataLayer"></script><style type="text/css" id="vuetify-theme-stylesheet">.v-application a { color: #6242fc; }
+.v-application .primary {
+  background-color: #6242fc !important;
+  border-color: #6242fc !important;
+}
+.v-application .primary--text {
+  color: #6242fc !important;
+  caret-color: #6242fc !important;
+}
+.v-application .primary.lighten-5 {
+  background-color: #ffc8ff !important;
+  border-color: #ffc8ff !important;
+}
+.v-application .primary--text.text--lighten-5 {
+  color: #ffc8ff !important;
+  caret-color: #ffc8ff !important;
+}
+.v-application .primary.lighten-4 {
+  background-color: #e2acff !important;
+  border-color: #e2acff !important;
+}
+.v-application .primary--text.text--lighten-4 {
+  color: #e2acff !important;
+  caret-color: #e2acff !important;
+}
+.v-application .primary.lighten-3 {
+  background-color: #c391ff !important;
+  border-color: #c391ff !important;
+}
+.v-application .primary--text.text--lighten-3 {
+  color: #c391ff !important;
+  caret-color: #c391ff !important;
+}
+.v-application .primary.lighten-2 {
+  background-color: #a476ff !important;
+  border-color: #a476ff !important;
+}
+.v-application .primary--text.text--lighten-2 {
+  color: #a476ff !important;
+  caret-color: #a476ff !important;
+}
+.v-application .primary.lighten-1 {
+  background-color: #845cff !important;
+  border-color: #845cff !important;
+}
+.v-application .primary--text.text--lighten-1 {
+  color: #845cff !important;
+  caret-color: #845cff !important;
+}
+.v-application .primary.darken-1 {
+  background-color: #3c28df !important;
+  border-color: #3c28df !important;
+}
+.v-application .primary--text.text--darken-1 {
+  color: #3c28df !important;
+  caret-color: #3c28df !important;
+}
+.v-application .primary.darken-2 {
+  background-color: #000bc2 !important;
+  border-color: #000bc2 !important;
+}
+.v-application .primary--text.text--darken-2 {
+  color: #000bc2 !important;
+  caret-color: #000bc2 !important;
+}
+.v-application .primary.darken-3 {
+  background-color: #0000a6 !important;
+  border-color: #0000a6 !important;
+}
+.v-application .primary--text.text--darken-3 {
+  color: #0000a6 !important;
+  caret-color: #0000a6 !important;
+}
+.v-application .primary.darken-4 {
+  background-color: #00008a !important;
+  border-color: #00008a !important;
+}
+.v-application .primary--text.text--darken-4 {
+  color: #00008a !important;
+  caret-color: #00008a !important;
+}
+.v-application .secondary {
+  background-color: #ff7f98 !important;
+  border-color: #ff7f98 !important;
+}
+.v-application .secondary--text {
+  color: #ff7f98 !important;
+  caret-color: #ff7f98 !important;
+}
+.v-application .secondary.darken-1 {
+  background-color: #f84771 !important;
+  border-color: #f84771 !important;
+}
+.v-application .secondary--text.text--darken-1 {
+  color: #f84771 !important;
+  caret-color: #f84771 !important;
+}
+.v-application .accent {
+  background-color: #e8f953 !important;
+  border-color: #e8f953 !important;
+}
+.v-application .accent--text {
+  color: #e8f953 !important;
+  caret-color: #e8f953 !important;
+}
+.v-application .accent.darken-1 {
+  background-color: #d9f200 !important;
+  border-color: #d9f200 !important;
+}
+.v-application .accent--text.text--darken-1 {
+  color: #d9f200 !important;
+  caret-color: #d9f200 !important;
+}
+.v-application .error {
+  background-color: #e9463c !important;
+  border-color: #e9463c !important;
+}
+.v-application .error--text {
+  color: #e9463c !important;
+  caret-color: #e9463c !important;
+}
+.v-application .error.lighten-5 {
+  background-color: #ffd6bb !important;
+  border-color: #ffd6bb !important;
+}
+.v-application .error--text.text--lighten-5 {
+  color: #ffd6bb !important;
+  caret-color: #ffd6bb !important;
+}
+.v-application .error.lighten-4 {
+  background-color: #ffb9a0 !important;
+  border-color: #ffb9a0 !important;
+}
+.v-application .error--text.text--lighten-4 {
+  color: #ffb9a0 !important;
+  caret-color: #ffb9a0 !important;
+}
+.v-application .error.lighten-3 {
+  background-color: #ff9c86 !important;
+  border-color: #ff9c86 !important;
+}
+.v-application .error--text.text--lighten-3 {
+  color: #ff9c86 !important;
+  caret-color: #ff9c86 !important;
+}
+.v-application .error.lighten-2 {
+  background-color: #ff806c !important;
+  border-color: #ff806c !important;
+}
+.v-application .error--text.text--lighten-2 {
+  color: #ff806c !important;
+  caret-color: #ff806c !important;
+}
+.v-application .error.lighten-1 {
+  background-color: #ff6354 !important;
+  border-color: #ff6354 !important;
+}
+.v-application .error--text.text--lighten-1 {
+  color: #ff6354 !important;
+  caret-color: #ff6354 !important;
+}
+.v-application .error.darken-1 {
+  background-color: #c92525 !important;
+  border-color: #c92525 !important;
+}
+.v-application .error--text.text--darken-1 {
+  color: #c92525 !important;
+  caret-color: #c92525 !important;
+}
+.v-application .error.darken-2 {
+  background-color: #a90010 !important;
+  border-color: #a90010 !important;
+}
+.v-application .error--text.text--darken-2 {
+  color: #a90010 !important;
+  caret-color: #a90010 !important;
+}
+.v-application .error.darken-3 {
+  background-color: #8a0000 !important;
+  border-color: #8a0000 !important;
+}
+.v-application .error--text.text--darken-3 {
+  color: #8a0000 !important;
+  caret-color: #8a0000 !important;
+}
+.v-application .error.darken-4 {
+  background-color: #6d0000 !important;
+  border-color: #6d0000 !important;
+}
+.v-application .error--text.text--darken-4 {
+  color: #6d0000 !important;
+  caret-color: #6d0000 !important;
+}
+.v-application .info {
+  background-color: #00a1e9 !important;
+  border-color: #00a1e9 !important;
+}
+.v-application .info--text {
+  color: #00a1e9 !important;
+  caret-color: #00a1e9 !important;
+}
+.v-application .info.lighten-5 {
+  background-color: #ccffff !important;
+  border-color: #ccffff !important;
+}
+.v-application .info--text.text--lighten-5 {
+  color: #ccffff !important;
+  caret-color: #ccffff !important;
+}
+.v-application .info.lighten-4 {
+  background-color: #acffff !important;
+  border-color: #acffff !important;
+}
+.v-application .info--text.text--lighten-4 {
+  color: #acffff !important;
+  caret-color: #acffff !important;
+}
+.v-application .info.lighten-3 {
+  background-color: #8cf4ff !important;
+  border-color: #8cf4ff !important;
+}
+.v-application .info--text.text--lighten-3 {
+  color: #8cf4ff !important;
+  caret-color: #8cf4ff !important;
+}
+.v-application .info.lighten-2 {
+  background-color: #6bd8ff !important;
+  border-color: #6bd8ff !important;
+}
+.v-application .info--text.text--lighten-2 {
+  color: #6bd8ff !important;
+  caret-color: #6bd8ff !important;
+}
+.v-application .info.lighten-1 {
+  background-color: #45bcff !important;
+  border-color: #45bcff !important;
+}
+.v-application .info--text.text--lighten-1 {
+  color: #45bcff !important;
+  caret-color: #45bcff !important;
+}
+.v-application .info.darken-1 {
+  background-color: #0087cd !important;
+  border-color: #0087cd !important;
+}
+.v-application .info--text.text--darken-1 {
+  color: #0087cd !important;
+  caret-color: #0087cd !important;
+}
+.v-application .info.darken-2 {
+  background-color: #006eb1 !important;
+  border-color: #006eb1 !important;
+}
+.v-application .info--text.text--darken-2 {
+  color: #006eb1 !important;
+  caret-color: #006eb1 !important;
+}
+.v-application .info.darken-3 {
+  background-color: #005696 !important;
+  border-color: #005696 !important;
+}
+.v-application .info--text.text--darken-3 {
+  color: #005696 !important;
+  caret-color: #005696 !important;
+}
+.v-application .info.darken-4 {
+  background-color: #003f7c !important;
+  border-color: #003f7c !important;
+}
+.v-application .info--text.text--darken-4 {
+  color: #003f7c !important;
+  caret-color: #003f7c !important;
+}
+.v-application .success {
+  background-color: #20b454 !important;
+  border-color: #20b454 !important;
+}
+.v-application .success--text {
+  color: #20b454 !important;
+  caret-color: #20b454 !important;
+}
+.v-application .success.lighten-5 {
+  background-color: #c2ffda !important;
+  border-color: #c2ffda !important;
+}
+.v-application .success--text.text--lighten-5 {
+  color: #c2ffda !important;
+  caret-color: #c2ffda !important;
+}
+.v-application .success.lighten-4 {
+  background-color: #a5ffbe !important;
+  border-color: #a5ffbe !important;
+}
+.v-application .success--text.text--lighten-4 {
+  color: #a5ffbe !important;
+  caret-color: #a5ffbe !important;
+}
+.v-application .success.lighten-3 {
+  background-color: #87ffa2 !important;
+  border-color: #87ffa2 !important;
+}
+.v-application .success--text.text--lighten-3 {
+  color: #87ffa2 !important;
+  caret-color: #87ffa2 !important;
+}
+.v-application .success.lighten-2 {
+  background-color: #68ed88 !important;
+  border-color: #68ed88 !important;
+}
+.v-application .success--text.text--lighten-2 {
+  color: #68ed88 !important;
+  caret-color: #68ed88 !important;
+}
+.v-application .success.lighten-1 {
+  background-color: #48d06d !important;
+  border-color: #48d06d !important;
+}
+.v-application .success--text.text--lighten-1 {
+  color: #48d06d !important;
+  caret-color: #48d06d !important;
+}
+.v-application .success.darken-1 {
+  background-color: #00983b !important;
+  border-color: #00983b !important;
+}
+.v-application .success--text.text--darken-1 {
+  color: #00983b !important;
+  caret-color: #00983b !important;
+}
+.v-application .success.darken-2 {
+  background-color: #007e22 !important;
+  border-color: #007e22 !important;
+}
+.v-application .success--text.text--darken-2 {
+  color: #007e22 !important;
+  caret-color: #007e22 !important;
+}
+.v-application .success.darken-3 {
+  background-color: #006406 !important;
+  border-color: #006406 !important;
+}
+.v-application .success--text.text--darken-3 {
+  color: #006406 !important;
+  caret-color: #006406 !important;
+}
+.v-application .success.darken-4 {
+  background-color: #004a00 !important;
+  border-color: #004a00 !important;
+}
+.v-application .success--text.text--darken-4 {
+  color: #004a00 !important;
+  caret-color: #004a00 !important;
+}
+.v-application .warning {
+  background-color: #e8f953 !important;
+  border-color: #e8f953 !important;
+}
+.v-application .warning--text {
+  color: #e8f953 !important;
+  caret-color: #e8f953 !important;
+}
+.v-application .warning.lighten-5 {
+  background-color: #ffffe3 !important;
+  border-color: #ffffe3 !important;
+}
+.v-application .warning--text.text--lighten-5 {
+  color: #ffffe3 !important;
+  caret-color: #ffffe3 !important;
+}
+.v-application .warning.lighten-4 {
+  background-color: #ffffc6 !important;
+  border-color: #ffffc6 !important;
+}
+.v-application .warning--text.text--lighten-4 {
+  color: #ffffc6 !important;
+  caret-color: #ffffc6 !important;
+}
+.v-application .warning.lighten-3 {
+  background-color: #ffffa9 !important;
+  border-color: #ffffa9 !important;
+}
+.v-application .warning--text.text--lighten-3 {
+  color: #ffffa9 !important;
+  caret-color: #ffffa9 !important;
+}
+.v-application .warning.lighten-2 {
+  background-color: #ffff8c !important;
+  border-color: #ffff8c !important;
+}
+.v-application .warning--text.text--lighten-2 {
+  color: #ffff8c !important;
+  caret-color: #ffff8c !important;
+}
+.v-application .warning.lighten-1 {
+  background-color: #ffff70 !important;
+  border-color: #ffff70 !important;
+}
+.v-application .warning--text.text--lighten-1 {
+  color: #ffff70 !important;
+  caret-color: #ffff70 !important;
+}
+.v-application .warning.darken-1 {
+  background-color: #cadd34 !important;
+  border-color: #cadd34 !important;
+}
+.v-application .warning--text.text--darken-1 {
+  color: #cadd34 !important;
+  caret-color: #cadd34 !important;
+}
+.v-application .warning.darken-2 {
+  background-color: #adc105 !important;
+  border-color: #adc105 !important;
+}
+.v-application .warning--text.text--darken-2 {
+  color: #adc105 !important;
+  caret-color: #adc105 !important;
+}
+.v-application .warning.darken-3 {
+  background-color: #90a600 !important;
+  border-color: #90a600 !important;
+}
+.v-application .warning--text.text--darken-3 {
+  color: #90a600 !important;
+  caret-color: #90a600 !important;
+}
+.v-application .warning.darken-4 {
+  background-color: #748b00 !important;
+  border-color: #748b00 !important;
+}
+.v-application .warning--text.text--darken-4 {
+  color: #748b00 !important;
+  caret-color: #748b00 !important;
+}
+.v-application .neutral {
+  background-color: #434343 !important;
+  border-color: #434343 !important;
+}
+.v-application .neutral--text {
+  color: #434343 !important;
+  caret-color: #434343 !important;
+}
+.v-application .neutral.lighten-5 {
+  background-color: #c2c2c2 !important;
+  border-color: #c2c2c2 !important;
+}
+.v-application .neutral--text.text--lighten-5 {
+  color: #c2c2c2 !important;
+  caret-color: #c2c2c2 !important;
+}
+.v-application .neutral.lighten-4 {
+  background-color: #a7a7a7 !important;
+  border-color: #a7a7a7 !important;
+}
+.v-application .neutral--text.text--lighten-4 {
+  color: #a7a7a7 !important;
+  caret-color: #a7a7a7 !important;
+}
+.v-application .neutral.lighten-3 {
+  background-color: #8c8c8c !important;
+  border-color: #8c8c8c !important;
+}
+.v-application .neutral--text.text--lighten-3 {
+  color: #8c8c8c !important;
+  caret-color: #8c8c8c !important;
+}
+.v-application .neutral.lighten-2 {
+  background-color: #737373 !important;
+  border-color: #737373 !important;
+}
+.v-application .neutral--text.text--lighten-2 {
+  color: #737373 !important;
+  caret-color: #737373 !important;
+}
+.v-application .neutral.lighten-1 {
+  background-color: #5a5a5a !important;
+  border-color: #5a5a5a !important;
+}
+.v-application .neutral--text.text--lighten-1 {
+  color: #5a5a5a !important;
+  caret-color: #5a5a5a !important;
+}
+.v-application .neutral.darken-1 {
+  background-color: #2d2d2d !important;
+  border-color: #2d2d2d !important;
+}
+.v-application .neutral--text.text--darken-1 {
+  color: #2d2d2d !important;
+  caret-color: #2d2d2d !important;
+}
+.v-application .neutral.darken-2 {
+  background-color: #181818 !important;
+  border-color: #181818 !important;
+}
+.v-application .neutral--text.text--darken-2 {
+  color: #181818 !important;
+  caret-color: #181818 !important;
+}
+.v-application .neutral.darken-3 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .neutral--text.text--darken-3 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .neutral.darken-4 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .neutral--text.text--darken-4 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .bgdark {
+  background-color: #280031 !important;
+  border-color: #280031 !important;
+}
+.v-application .bgdark--text {
+  color: #280031 !important;
+  caret-color: #280031 !important;
+}
+.v-application .bgdark.lighten-1 {
+  background-color: #32103a !important;
+  border-color: #32103a !important;
+}
+.v-application .bgdark--text.text--lighten-1 {
+  color: #32103a !important;
+  caret-color: #32103a !important;
+}
+.v-application .bgdark.lighten-2 {
+  background-color: #3c1f42 !important;
+  border-color: #3c1f42 !important;
+}
+.v-application .bgdark--text.text--lighten-2 {
+  color: #3c1f42 !important;
+  caret-color: #3c1f42 !important;
+}
+.v-application .bglight {
+  background-color: #eae8f7 !important;
+  border-color: #eae8f7 !important;
+}
+.v-application .bglight--text {
+  color: #eae8f7 !important;
+  caret-color: #eae8f7 !important;
+}
+.v-application .bglight.darken-1 {
+  background-color: #dfdaff !important;
+  border-color: #dfdaff !important;
+}
+.v-application .bglight--text.text--darken-1 {
+  color: #dfdaff !important;
+  caret-color: #dfdaff !important;
+}
+.v-application .bglight.darken-4 {
+  background-color: #897493 !important;
+  border-color: #897493 !important;
+}
+.v-application .bglight--text.text--darken-4 {
+  color: #897493 !important;
+  caret-color: #897493 !important;
+}
+.v-application .grey {
+  background-color: #bdbdbd !important;
+  border-color: #bdbdbd !important;
+}
+.v-application .grey--text {
+  color: #bdbdbd !important;
+  caret-color: #bdbdbd !important;
+}
+.v-application .grey.lighten-5 {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+.v-application .grey--text.text--lighten-5 {
+  color: #ffffff !important;
+  caret-color: #ffffff !important;
+}
+.v-application .grey.lighten-4 {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+.v-application .grey--text.text--lighten-4 {
+  color: #ffffff !important;
+  caret-color: #ffffff !important;
+}
+.v-application .grey.lighten-3 {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+.v-application .grey--text.text--lighten-3 {
+  color: #ffffff !important;
+  caret-color: #ffffff !important;
+}
+.v-application .grey.lighten-2 {
+  background-color: #f5f5f5 !important;
+  border-color: #f5f5f5 !important;
+}
+.v-application .grey--text.text--lighten-2 {
+  color: #f5f5f5 !important;
+  caret-color: #f5f5f5 !important;
+}
+.v-application .grey.lighten-1 {
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
+}
+.v-application .grey--text.text--lighten-1 {
+  color: #d9d9d9 !important;
+  caret-color: #d9d9d9 !important;
+}
+.v-application .grey.darken-1 {
+  background-color: #a2a2a2 !important;
+  border-color: #a2a2a2 !important;
+}
+.v-application .grey--text.text--darken-1 {
+  color: #a2a2a2 !important;
+  caret-color: #a2a2a2 !important;
+}
+.v-application .grey.darken-2 {
+  background-color: #888888 !important;
+  border-color: #888888 !important;
+}
+.v-application .grey--text.text--darken-2 {
+  color: #888888 !important;
+  caret-color: #888888 !important;
+}
+.v-application .grey.darken-3 {
+  background-color: #6e6e6e !important;
+  border-color: #6e6e6e !important;
+}
+.v-application .grey--text.text--darken-3 {
+  color: #6e6e6e !important;
+  caret-color: #6e6e6e !important;
+}
+.v-application .grey.darken-4 {
+  background-color: #565656 !important;
+  border-color: #565656 !important;
+}
+.v-application .grey--text.text--darken-4 {
+  color: #565656 !important;
+  caret-color: #565656 !important;
+}
+.v-application .white {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+.v-application .white--text {
+  color: #ffffff !important;
+  caret-color: #ffffff !important;
+}
+.v-application .white.darken-1 {
+  background-color: #f7f6fe !important;
+  border-color: #f7f6fe !important;
+}
+.v-application .white--text.text--darken-1 {
+  color: #f7f6fe !important;
+  caret-color: #f7f6fe !important;
+}
+.v-application .smoke {
+  background-color: #eae8f7 !important;
+  border-color: #eae8f7 !important;
+}
+.v-application .smoke--text {
+  color: #eae8f7 !important;
+  caret-color: #eae8f7 !important;
+}
+.v-application .smoke.darken-1 {
+  background-color: #b9aec5 !important;
+  border-color: #b9aec5 !important;
+}
+.v-application .smoke--text.text--darken-1 {
+  color: #b9aec5 !important;
+  caret-color: #b9aec5 !important;
+}
+.v-application .smoke.darken-3 {
+  background-color: #897493 !important;
+  border-color: #897493 !important;
+}
+.v-application .smoke--text.text--darken-3 {
+  color: #897493 !important;
+  caret-color: #897493 !important;
+}
+.v-application .smoke.darken-4 {
+  background-color: #583a63 !important;
+  border-color: #583a63 !important;
+}
+.v-application .smoke--text.text--darken-4 {
+  color: #583a63 !important;
+  caret-color: #583a63 !important;
+}
+.v-application .primary2 {
+  background-color: #6242fc !important;
+  border-color: #6242fc !important;
+}
+.v-application .primary2--text {
+  color: #6242fc !important;
+  caret-color: #6242fc !important;
+}
+.v-application .primary2.darken-4 {
+  background-color: #320096 !important;
+  border-color: #320096 !important;
+}
+.v-application .primary2--text.text--darken-4 {
+  color: #320096 !important;
+  caret-color: #320096 !important;
+}
+.v-application .primary2.lighten-5 {
+  background-color: #e8e3ff !important;
+  border-color: #e8e3ff !important;
+}
+.v-application .primary2--text.text--lighten-5 {
+  color: #e8e3ff !important;
+  caret-color: #e8e3ff !important;
+}
+.v-application .text {
+  background-color: #3f3c4d !important;
+  border-color: #3f3c4d !important;
+}
+.v-application .text--text {
+  color: #3f3c4d !important;
+  caret-color: #3f3c4d !important;
+}
+.v-application .text.lighten-1 {
+  background-color: #6f6b80 !important;
+  border-color: #6f6b80 !important;
+}
+.v-application .text--text.text--lighten-1 {
+  color: #6f6b80 !important;
+  caret-color: #6f6b80 !important;
+}
+.v-application .text.lighten-2 {
+  background-color: #d1cfe3 !important;
+  border-color: #d1cfe3 !important;
+}
+.v-application .text--text.text--lighten-2 {
+  color: #d1cfe3 !important;
+  caret-color: #d1cfe3 !important;
+}
+.v-application .warning2 {
+  background-color: #f79f2f !important;
+  border-color: #f79f2f !important;
+}
+.v-application .warning2--text {
+  color: #f79f2f !important;
+  caret-color: #f79f2f !important;
+}
+.v-application .warning2.darken-2 {
+  background-color: #ec7414 !important;
+  border-color: #ec7414 !important;
+}
+.v-application .warning2--text.text--darken-2 {
+  color: #ec7414 !important;
+  caret-color: #ec7414 !important;
+}
+.v-application .warning2.lighten-5 {
+  background-color: #ffefd6 !important;
+  border-color: #ffefd6 !important;
+}
+.v-application .warning2--text.text--lighten-5 {
+  color: #ffefd6 !important;
+  caret-color: #ffefd6 !important;
+}
+.v-application .success2 {
+  background-color: #068749 !important;
+  border-color: #068749 !important;
+}
+.v-application .success2--text {
+  color: #068749 !important;
+  caret-color: #068749 !important;
+}
+.v-application .success2.darken-1 {
+  background-color: #007547 !important;
+  border-color: #007547 !important;
+}
+.v-application .success2--text.text--darken-1 {
+  color: #007547 !important;
+  caret-color: #007547 !important;
+}
+.v-application .success2.lighten-5 {
+  background-color: #baefc4 !important;
+  border-color: #baefc4 !important;
+}
+.v-application .success2--text.text--lighten-5 {
+  color: #baefc4 !important;
+  caret-color: #baefc4 !important;
+}
+.v-application .error2 {
+  background-color: #e9463c !important;
+  border-color: #e9463c !important;
+}
+.v-application .error2--text {
+  color: #e9463c !important;
+  caret-color: #e9463c !important;
+}
+.v-application .error2.darken-2 {
+  background-color: #c42400 !important;
+  border-color: #c42400 !important;
+}
+.v-application .error2--text.text--darken-2 {
+  color: #c42400 !important;
+  caret-color: #c42400 !important;
+}
+.v-application .error2.lighten-5 {
+  background-color: #ffd6cf !important;
+  border-color: #ffd6cf !important;
+}
+.v-application .error2--text.text--lighten-5 {
+  color: #ffd6cf !important;
+  caret-color: #ffd6cf !important;
+}</style><link rel="modulepreload" as="script" crossorigin="" href="/assets/index-a0f14ee7.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/useStore-d65f21ee.js"><link rel="stylesheet" href="/assets/index-9fc81200.css"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script async="" src="https://script.hotjar.com/modules.2472296d2d26f0040059.js" charset="utf-8"></script></head>
+  <body>
+    <noscript>
+      <strong>We're sorry but Publisher Portal doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div data-app="true" class="v-application v-application--is-ltr theme--light" id="app"><div class="v-application--wrap"><div data-v-eb49c2e7="" class="signup"><header data-v-eb49c2e7="" class="signup-app-bar v-sheet theme--dark v-toolbar v-app-bar v-app-bar--fixed" style="height: 64px; margin-top: 0px; transform: translateY(0px); left: 0px; right: 0px;" data-booted="true"><div class="v-toolbar__content" style="height: 64px;"><div data-v-eb49c2e7="" class="spacer"></div><div data-v-7d203a76="" data-v-eb49c2e7="" class="v-input select v-input--hide-details v-input--is-label-active v-input--is-dirty theme--light v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-flat v-text-field--is-booted v-text-field--enclosed v-select"><div class="v-input__control"><div role="button" aria-haspopup="listbox" aria-expanded="false" aria-owns="list-10" class="v-input__slot"><div class="v-input__prepend-inner"><div class="v-input__icon v-input__icon--prepend-inner"><i aria-hidden="true" class="v-icon notranslate icon icon-lang theme--light"></i></div></div><div class="v-select__slot"><div class="v-select__selections"><div class="v-select__selection v-select__selection--comma">English</div><input id="input-10" readonly="readonly" type="text" aria-readonly="false" autocomplete="off"></div><div class="v-input__append-inner"><div class="v-input__icon v-input__icon--append"><i aria-hidden="true" class="v-icon notranslate icon icon-caret-down theme--light"></i></div></div><input type="hidden" value="en"></div><div class="v-menu"><!----></div></div></div></div></div></header><main data-v-eb49c2e7="" class="v-main fill-height" style="padding: 64px 0px 0px;" data-booted="true"><div class="v-main__wrap"><div data-v-eb49c2e7="" class="container fill-height signup-container"><div data-v-eb49c2e7="" class="row fill-height"><div data-v-eb49c2e7="" class="justify-center col-md-6 col-12"><div data-v-eb49c2e7="" class="d-flex fill-height flex-column"><div data-v-eb49c2e7="" class="signup-info-wrapper flex-grow-1"><img data-v-eb49c2e7="" src="/assets/logo-white.png" alt="Coda Payments" class="signup-logo mb-1"><div data-v-eb49c2e7="" class="text-uppercase white--text text-caption signup-pp mb-8"> Publisher Portal </div><div data-v-eb49c2e7="" class="text-h2 mb-4">Monetize your digital content&nbsp; in 3 simple steps</div><div data-v-eb49c2e7="" class="text-h6 mb-4">Coda is Trusted by Top Publishers Globally!</div><img data-v-eb49c2e7="" src="/assets/publishers.svg" alt="publishers" class="mb-8"><div data-v-acc3f8c7="" data-v-eb49c2e7="" class="d-flex mb-4"><div data-v-acc3f8c7="" class="flex-grow-0 pr-3 stepbox-icon-wrapper"><i data-v-acc3f8c7="" aria-hidden="true" class="v-icon notranslate stepbox-highlight stepbox-icon icon icon-solid-tick-circle theme--light"></i></div><div data-v-acc3f8c7=""><div data-v-acc3f8c7="" class="text-caption stepbox-highlight mb-1">STEP 1</div><div data-v-acc3f8c7="" class="text-h5 mb-2"> Easy Integration </div><div data-v-acc3f8c7="" class="text-body-2 stepbox-description"> Get access to 60+ countries by integrating with our user-friendly APIs. </div></div></div><div data-v-acc3f8c7="" data-v-eb49c2e7="" class="d-flex mb-4"><div data-v-acc3f8c7="" class="flex-grow-0 pr-3 stepbox-icon-wrapper"><i data-v-acc3f8c7="" aria-hidden="true" class="v-icon notranslate stepbox-highlight stepbox-icon icon icon-solid-tick-circle theme--light"></i></div><div data-v-acc3f8c7=""><div data-v-acc3f8c7="" class="text-caption stepbox-highlight mb-1">STEP 2</div><div data-v-acc3f8c7="" class="text-h5 mb-2"> Setup Your Store in Minutes </div><div data-v-acc3f8c7="" class="text-body-2 stepbox-description"> Add your Title and In-App Products on our Monetization Hub. Manage images, content translations and pricing in a few clicks. </div></div></div><div data-v-acc3f8c7="" data-v-eb49c2e7="" class="d-flex mb-4"><div data-v-acc3f8c7="" class="flex-grow-0 pr-3 stepbox-icon-wrapper"><i data-v-acc3f8c7="" aria-hidden="true" class="v-icon notranslate stepbox-highlight stepbox-icon icon icon-solid-tick-circle theme--light"></i></div><div data-v-acc3f8c7=""><div data-v-acc3f8c7="" class="text-caption stepbox-highlight mb-1">STEP 3</div><div data-v-acc3f8c7="" class="text-h5 mb-2"> Start Monetizing </div><div data-v-acc3f8c7="" class="text-body-2 stepbox-description"> Sit back and watch the magic happen! Start earning right away. </div></div></div></div><div data-v-eb49c2e7="" class="text-caption signup-copyright mb-8"> © Copyright Coda Payments. All rights reserved. </div></div></div><div data-v-eb49c2e7="" class="d-flex justify-center align-start col-md-6 col-12"><div data-v-eb49c2e7="" class="ma-4 pa-8 signup-form-container v-card v-sheet theme--light rounded-lg white darken-1"><div data-v-4b25c629="" data-v-eb49c2e7=""><h3 data-v-4b25c629="" class="text-h3 text-center mb-8">Sign up</h3><form data-v-4b25c629="" novalidate="novalidate" class="v-form"><span data-v-4b25c629=""><label data-v-4b25c629="" class="text-subtitle-1"> Email address <div data-v-4b25c629="" class="v-input text-body-2 mt-2 qa-email theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-text-field--placeholder"><div class="v-input__control"><div class="v-input__slot white"><div class="v-input__prepend-inner"><div class="v-input__icon v-input__icon--prepend-inner"><i aria-hidden="true" class="v-icon notranslate icon icon-message theme--light"></i></div></div><fieldset aria-hidden="true"><legend style="width: 0px;"><span class="notranslate">​</span></legend></fieldset><div class="v-text-field__slot"><input id="input-26" placeholder="Your email here" type="email"></div></div><div class="v-text-field__details"><div class="v-messages theme--light"><div class="v-messages__wrapper"></div></div></div></div></div></label></span><span data-v-4b25c629=""><label data-v-4b25c629="" class="text-subtitle-1"> Password <div data-v-4b25c629="" class="v-input text-body-2 mt-2 qa-password theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-text-field--placeholder"><div class="v-input__control"><div class="v-input__slot white"><fieldset aria-hidden="true"><legend style="width: 0px;"><span class="notranslate">​</span></legend></fieldset><div class="v-text-field__slot"><input id="input-31" placeholder="Your password here" type="password"></div><div class="v-input__append-inner"><div class="v-input__icon v-input__icon--append"><button type="button" aria-label=" appended action" class="v-icon notranslate v-icon--link icon icon-show theme--light"></button></div></div></div><div class="v-text-field__details"><div class="v-messages theme--light"><div class="v-messages__wrapper"></div></div></div></div></div></label></span><div data-v-4b25c629="" class="text-center"><button data-v-4b25c629="" type="submit" class="text-h6 mb-4 qa-signup-btn v-btn v-btn--disabled v-btn--has-bg v-btn--rounded theme--light v-size--large" disabled="disabled"><span class="v-btn__content"> Create account </span></button><div data-v-4b25c629="" class="text-h6"> Already have an account? <a data-v-4b25c629="" href="/login" class="login-link">Log in</a></div></div></form></div></div></div></div></div></div></main></div><!----><div data-v-343af2b1="" class="v-snack mb-6 v-snack--bottom v-snack--has-background"><div class="v-snack__wrapper v-sheet theme--dark success" style="display: none;"><div role="status" aria-live="polite" class="v-snack__content d-flex align-center"><i data-v-343af2b1="" aria-hidden="true" class="v-icon notranslate mr-2 text-h4 icon icon-solid-tick-circle theme--dark"></i><span data-v-343af2b1="" class="text-button"></span></div><div class="v-snack__action "><button data-v-343af2b1="" type="button" class="text-h6 snackbar-btn rounded d-flex justify-center v-btn v-btn--icon v-btn--round theme--dark v-size--x-small"><span class="v-btn__content"><span data-v-343af2b1="" class="snackbar-dismiss">×</span></span></button></div></div></div></div></div>
+    
+  
+  <script> var global = global || window; var Buffer = Buffer || []; var process = process || { env: { DEBUG: undefined }, version: [] }; </script>
+
+
+<script type="text/javascript" id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=43417cc8-5344-431a-a2f9-7818c6dd1cd3"></script><script type="text/javascript" id="">window.zE&&window.zE("webWidget","hide");</script>
+<script type="text/javascript" id="">window.zE&&window.zE("webWidget","hide");</script>
+<iframe data-product="web_widget" title="No content" tabindex="-1" allow="microphone *" aria-hidden="true" style="width: 0px; height: 0px; border: 0px none; position: absolute; top: -9999px;" src="about:blank"></iframe><iframe id="_hjSafeContext_63988590" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><div><iframe title="Opens a widget where you can find more information" id="launcher" tabindex="-1" style="color-scheme: light; width: 240px; height: 50px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 30px; overflow: visible; opacity: 0; border: 0px none; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; top: -9999px; visibility: hidden;"></iframe></div></body></html>

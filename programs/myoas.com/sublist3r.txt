@@ -1,0 +1,11 @@
+cmre1.myoas.com
+cmre2.myoas.com
+autodiscover.email.myoas.com
+mail.email.myoas.com
+localhost-mtp.myoas.com
+olss.myoas.com
+ssl.myoas.com
+sso.myoas.com
+t2mail.myoas.com
+adfs.t2mail.myoas.com
+yearparty.myoas.com

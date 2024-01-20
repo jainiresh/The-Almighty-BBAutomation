@@ -1,0 +1,95 @@
+# Nmap 7.93 scan initiated Thu Dec  7 22:52:54 2023 as: /usr/bin/nmap -Pn -sCV -p80,443 --open -oN nmap/Full_Extra_3.215.172.219.nmap --system-dns --stats-every 2s 3.215.172.219
+Nmap scan report for ec2-3-215-172-219.compute-1.amazonaws.com (3.215.172.219)
+Host is up (0.23s latency).
+
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      PardotServer
+|_http-title: Did not follow redirect to https://ec2-3-215-172-219.compute-1.amazonaws.com/
+| fingerprint-strings: 
+|   DNSVersionBindReqTCP, RPCCheck: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 07 Dec 2023 17:23:10 GMT
+|     Content-Type: text/html
+|     Content-Length: 154
+|     Connection: close
+|     Server: PardotServer
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|     </html>
+|   FourOhFourRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 07 Dec 2023 17:23:04 GMT
+|     Content-Length: 0
+|     Connection: close
+|     Server: PardotServer
+|     X-Pardot-Route: e8229a0ff18ebffc83a98010d2521dd5
+|   GetRequest, HTTPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 07 Dec 2023 17:23:02 GMT
+|     Content-Length: 0
+|     Connection: close
+|     Server: PardotServer
+|     X-Pardot-Route: e8229a0ff18ebffc83a98010d2521dd5
+|   RTSPRequest, X11Probe: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 07 Dec 2023 17:23:03 GMT
+|     Content-Type: text/html
+|     Content-Length: 154
+|     Connection: close
+|     Server: PardotServer
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|_    </html>
+|_http-server-header: PardotServer
+| http-robots.txt: 2 disallowed entries 
+|_/webmail/ /shared/webmail/
+443/tcp open  ssl/https PardotServer
+|_http-server-header: PardotServer
+|_http-title: Error
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.93%I=7%D=12/7%Time=6571FF76%P=x86_64-pc-linux-gnu%r(GetR
+SF:equest,AF,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Thu,\x2007\x2
+SF:0Dec\x202023\x2017:23:02\x20GMT\r\nContent-Length:\x200\r\nConnection:\
+SF:x20close\r\nServer:\x20PardotServer\r\nX-Pardot-Route:\x20e8229a0ff18eb
+SF:ffc83a98010d2521dd5\r\n\r\n")%r(HTTPOptions,AF,"HTTP/1\.1\x20400\x20Bad
+SF:\x20Request\r\nDate:\x20Thu,\x2007\x20Dec\x202023\x2017:23:02\x20GMT\r\
+SF:nContent-Length:\x200\r\nConnection:\x20close\r\nServer:\x20PardotServe
+SF:r\r\nX-Pardot-Route:\x20e8229a0ff18ebffc83a98010d2521dd5\r\n\r\n")%r(RT
+SF:SPRequest,132,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Thu,\x200
+SF:7\x20Dec\x202023\x2017:23:03\x20GMT\r\nContent-Type:\x20text/html\r\nCo
+SF:ntent-Length:\x20154\r\nConnection:\x20close\r\nServer:\x20PardotServer
+SF:\r\n\r\n<html>\r\n<head><title>400\x20Bad\x20Request</title></head>\r\n
+SF:<body>\r\n<center><h1>400\x20Bad\x20Request</h1></center>\r\n<hr><cente
+SF:r>openresty</center>\r\n</body>\r\n</html>\r\n")%r(X11Probe,132,"HTTP/1
+SF:\.1\x20400\x20Bad\x20Request\r\nDate:\x20Thu,\x2007\x20Dec\x202023\x201
+SF:7:23:03\x20GMT\r\nContent-Type:\x20text/html\r\nContent-Length:\x20154\
+SF:r\nConnection:\x20close\r\nServer:\x20PardotServer\r\n\r\n<html>\r\n<he
+SF:ad><title>400\x20Bad\x20Request</title></head>\r\n<body>\r\n<center><h1
+SF:>400\x20Bad\x20Request</h1></center>\r\n<hr><center>openresty</center>\
+SF:r\n</body>\r\n</html>\r\n")%r(FourOhFourRequest,AF,"HTTP/1\.1\x20400\x2
+SF:0Bad\x20Request\r\nDate:\x20Thu,\x2007\x20Dec\x202023\x2017:23:04\x20GM
+SF:T\r\nContent-Length:\x200\r\nConnection:\x20close\r\nServer:\x20PardotS
+SF:erver\r\nX-Pardot-Route:\x20e8229a0ff18ebffc83a98010d2521dd5\r\n\r\n")%
+SF:r(RPCCheck,132,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Thu,\x20
+SF:07\x20Dec\x202023\x2017:23:10\x20GMT\r\nContent-Type:\x20text/html\r\nC
+SF:ontent-Length:\x20154\r\nConnection:\x20close\r\nServer:\x20PardotServe
+SF:r\r\n\r\n<html>\r\n<head><title>400\x20Bad\x20Request</title></head>\r\
+SF:n<body>\r\n<center><h1>400\x20Bad\x20Request</h1></center>\r\n<hr><cent
+SF:er>openresty</center>\r\n</body>\r\n</html>\r\n")%r(DNSVersionBindReqTC
+SF:P,132,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Thu,\x2007\x20Dec
+SF:\x202023\x2017:23:10\x20GMT\r\nContent-Type:\x20text/html\r\nContent-Le
+SF:ngth:\x20154\r\nConnection:\x20close\r\nServer:\x20PardotServer\r\n\r\n
+SF:<html>\r\n<head><title>400\x20Bad\x20Request</title></head>\r\n<body>\r
+SF:\n<center><h1>400\x20Bad\x20Request</h1></center>\r\n<hr><center>openre
+SF:sty</center>\r\n</body>\r\n</html>\r\n");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Dec  7 22:53:31 2023 -- 1 IP address (1 host up) scanned in 36.98 seconds

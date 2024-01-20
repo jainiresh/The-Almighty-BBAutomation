@@ -1,0 +1,13 @@
+# Nmap 7.93 scan initiated Wed Nov  8 01:40:28 2023 as: /usr/bin/nmap -Pn -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_129.154.237.178.nmap --system-dns --stats-every 3s 129.154.237.178
+Warning: 129.154.237.178 giving up on port because retransmission cap hit (1).
+Nmap scan report for 129.154.237.178
+Host is up (0.029s latency).
+Not shown: 65531 filtered tcp ports (no-response), 1 closed tcp port (reset)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+1544/tcp open  aspeclmd
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Wed Nov  8 01:44:50 2023 -- 1 IP address (1 host up) scanned in 262.78 seconds

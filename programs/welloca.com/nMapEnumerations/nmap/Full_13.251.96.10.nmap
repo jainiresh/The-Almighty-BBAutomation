@@ -1,0 +1,11 @@
+# Nmap 7.93 scan initiated Fri Dec 15 14:27:30 2023 as: /usr/bin/nmap -Pn -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_13.251.96.10.nmap --system-dns --stats-every 3s 13.251.96.10
+Nmap scan report for ec2-13-251-96-10.ap-southeast-1.compute.amazonaws.com (13.251.96.10)
+Host is up (0.052s latency).
+Not shown: 65533 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Fri Dec 15 14:31:56 2023 -- 1 IP address (1 host up) scanned in 265.85 seconds

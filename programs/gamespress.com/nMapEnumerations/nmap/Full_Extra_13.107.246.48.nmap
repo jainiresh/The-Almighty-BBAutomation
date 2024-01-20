@@ -1,0 +1,201 @@
+# Nmap 7.93 scan initiated Mon Dec 11 15:17:35 2023 as: /usr/bin/nmap -sCV -p80,443 --open -oN nmap/Full_Extra_13.107.246.48.nmap --system-dns --stats-every 2s 13.107.246.48
+Nmap scan report for 13.107.246.48
+Host is up (0.012s latency).
+
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:47:41 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T094741Z-0tx3zzrvdx293817rtenhb25t400000000w000000000am5p
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpage
+|   HTTPOptions: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:47:41 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T094741Z-y91xp3utah621ap169zxswy9fs00000000qg000000004ssw
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|_    href="https://azurefrontdoorpage
+|_http-title: Page not found
+443/tcp open  ssl/https
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:47:49 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T094749Z-krdhxxuuex31x7kgsux41ute7400000000mg00000000uxf7
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpage
+|   HTTPOptions: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:47:51 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T094751Z-b0t12bes4p7tzbgzp46genn2kw00000000g000000000wgpp
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|_    href="https://azurefrontdoorpage
+|_http-title: Service unavailable
+| ssl-cert: Subject: commonName=*.azureedge.net/organizationName=Microsoft Corporation/stateOrProvinceName=WA/countryName=US
+| Subject Alternative Name: DNS:*.azureedge.net, DNS:*.media.microsoftstream.com, DNS:*.origin.mediaservices.windows.net, DNS:*.streaming.mediaservices.windows.net
+| Not valid before: 2023-11-29T22:01:02
+|_Not valid after:  2024-11-23T22:01:02
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.93%I=7%D=12/11%Time=6576DABD%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,E94,"HTTP/1\.1\x20404\x20Not\x20Found\r\nDate:\x20Mon,\x2011\x2
+SF:0Dec\x202023\x2009:47:41\x20GMT\r\nContent-Type:\x20text/html\r\nConten
+SF:t-Length:\x203450\r\nConnection:\x20close\r\nVary:\x20Accept-Encoding\r
+SF:\nCache-Control:\x20no-store\r\nx-azure-ref:\x2020231211T094741Z-0tx3zz
+SF:rvdx293817rtenhb25t400000000w000000000am5p\r\nX-Cache:\x20CONFIG_NOCACH
+SF:E\r\n\r\n<!DOCTYPE\x20html>\n<!--\x20saved\x20from\x20url=\(0058\)https
+SF:://df\.onecloud\.azure-test\.net/Error/UE_404\?shown=true\x20-->\n<html
+SF:\x20lang=\"en\"\x20dir=\"ltr\">\n\x20\x20<head>\n\x20\x20\x20\x20<meta\
+SF:x20http-equiv=\"Content-Type\"\x20content=\"text/html;\x20charset=UTF-8
+SF:\"\x20/>\n\x20\x20\x20\x20<title>Page\x20not\x20found</title>\n\n\x20\x
+SF:20\x20\x20<meta\x20http-equiv=\"X-UA-Compatible\"\x20content=\"IE=edge\
+SF:"\x20/>\n\x20\x20\x20\x20<meta\x20name=\"msapplication-config\"\x20cont
+SF:ent=\"none\"\x20/>\n\x20\x20\x20\x20<link\n\x20\x20\x20\x20\x20\x20rel=
+SF:\"icon\"\n\x20\x20\x20\x20\x20\x20type=\"image/x-icon\"\n\x20\x20\x20\x
+SF:20\x20\x20href=\"https://azurefrontdoorpages\.azureedge\.net/pages/Page
+SF:NotFound_files/favicon\.ico\"\n\x20\x20\x20\x20/>\n\x20\x20\x20\x20<lin
+SF:k\n\x20\x20\x20\x20\x20\x20rel=\"shortcut\x20icon\"\n\x20\x20\x20\x20\x
+SF:20\x20type=\"image/x-icon\"\n\x20\x20\x20\x20\x20\x20href=\"https://azu
+SF:refrontdoorpage")%r(HTTPOptions,E94,"HTTP/1\.1\x20404\x20Not\x20Found\r
+SF:\nDate:\x20Mon,\x2011\x20Dec\x202023\x2009:47:41\x20GMT\r\nContent-Type
+SF::\x20text/html\r\nContent-Length:\x203450\r\nConnection:\x20close\r\nVa
+SF:ry:\x20Accept-Encoding\r\nCache-Control:\x20no-store\r\nx-azure-ref:\x2
+SF:020231211T094741Z-y91xp3utah621ap169zxswy9fs00000000qg000000004ssw\r\nX
+SF:-Cache:\x20CONFIG_NOCACHE\r\n\r\n<!DOCTYPE\x20html>\n<!--\x20saved\x20f
+SF:rom\x20url=\(0058\)https://df\.onecloud\.azure-test\.net/Error/UE_404\?
+SF:shown=true\x20-->\n<html\x20lang=\"en\"\x20dir=\"ltr\">\n\x20\x20<head>
+SF:\n\x20\x20\x20\x20<meta\x20http-equiv=\"Content-Type\"\x20content=\"tex
+SF:t/html;\x20charset=UTF-8\"\x20/>\n\x20\x20\x20\x20<title>Page\x20not\x2
+SF:0found</title>\n\n\x20\x20\x20\x20<meta\x20http-equiv=\"X-UA-Compatible
+SF:\"\x20content=\"IE=edge\"\x20/>\n\x20\x20\x20\x20<meta\x20name=\"msappl
+SF:ication-config\"\x20content=\"none\"\x20/>\n\x20\x20\x20\x20<link\n\x20
+SF:\x20\x20\x20\x20\x20rel=\"icon\"\n\x20\x20\x20\x20\x20\x20type=\"image/
+SF:x-icon\"\n\x20\x20\x20\x20\x20\x20href=\"https://azurefrontdoorpages\.a
+SF:zureedge\.net/pages/PageNotFound_files/favicon\.ico\"\n\x20\x20\x20\x20
+SF:/>\n\x20\x20\x20\x20<link\n\x20\x20\x20\x20\x20\x20rel=\"shortcut\x20ic
+SF:on\"\n\x20\x20\x20\x20\x20\x20type=\"image/x-icon\"\n\x20\x20\x20\x20\x
+SF:20\x20href=\"https://azurefrontdoorpage");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.93%T=SSL%I=7%D=12/11%Time=6576DAC5%P=x86_64-pc-linux-gn
+SF:u%r(GetRequest,E94,"HTTP/1\.1\x20404\x20Not\x20Found\r\nDate:\x20Mon,\x
+SF:2011\x20Dec\x202023\x2009:47:49\x20GMT\r\nContent-Type:\x20text/html\r\
+SF:nContent-Length:\x203450\r\nConnection:\x20close\r\nVary:\x20Accept-Enc
+SF:oding\r\nCache-Control:\x20no-store\r\nx-azure-ref:\x2020231211T094749Z
+SF:-krdhxxuuex31x7kgsux41ute7400000000mg00000000uxf7\r\nX-Cache:\x20CONFIG
+SF:_NOCACHE\r\n\r\n<!DOCTYPE\x20html>\n<!--\x20saved\x20from\x20url=\(0058
+SF:\)https://df\.onecloud\.azure-test\.net/Error/UE_404\?shown=true\x20-->
+SF:\n<html\x20lang=\"en\"\x20dir=\"ltr\">\n\x20\x20<head>\n\x20\x20\x20\x2
+SF:0<meta\x20http-equiv=\"Content-Type\"\x20content=\"text/html;\x20charse
+SF:t=UTF-8\"\x20/>\n\x20\x20\x20\x20<title>Page\x20not\x20found</title>\n\
+SF:n\x20\x20\x20\x20<meta\x20http-equiv=\"X-UA-Compatible\"\x20content=\"I
+SF:E=edge\"\x20/>\n\x20\x20\x20\x20<meta\x20name=\"msapplication-config\"\
+SF:x20content=\"none\"\x20/>\n\x20\x20\x20\x20<link\n\x20\x20\x20\x20\x20\
+SF:x20rel=\"icon\"\n\x20\x20\x20\x20\x20\x20type=\"image/x-icon\"\n\x20\x2
+SF:0\x20\x20\x20\x20href=\"https://azurefrontdoorpages\.azureedge\.net/pag
+SF:es/PageNotFound_files/favicon\.ico\"\n\x20\x20\x20\x20/>\n\x20\x20\x20\
+SF:x20<link\n\x20\x20\x20\x20\x20\x20rel=\"shortcut\x20icon\"\n\x20\x20\x2
+SF:0\x20\x20\x20type=\"image/x-icon\"\n\x20\x20\x20\x20\x20\x20href=\"http
+SF:s://azurefrontdoorpage")%r(HTTPOptions,E94,"HTTP/1\.1\x20404\x20Not\x20
+SF:Found\r\nDate:\x20Mon,\x2011\x20Dec\x202023\x2009:47:51\x20GMT\r\nConte
+SF:nt-Type:\x20text/html\r\nContent-Length:\x203450\r\nConnection:\x20clos
+SF:e\r\nVary:\x20Accept-Encoding\r\nCache-Control:\x20no-store\r\nx-azure-
+SF:ref:\x2020231211T094751Z-b0t12bes4p7tzbgzp46genn2kw00000000g000000000wg
+SF:pp\r\nX-Cache:\x20CONFIG_NOCACHE\r\n\r\n<!DOCTYPE\x20html>\n<!--\x20sav
+SF:ed\x20from\x20url=\(0058\)https://df\.onecloud\.azure-test\.net/Error/U
+SF:E_404\?shown=true\x20-->\n<html\x20lang=\"en\"\x20dir=\"ltr\">\n\x20\x2
+SF:0<head>\n\x20\x20\x20\x20<meta\x20http-equiv=\"Content-Type\"\x20conten
+SF:t=\"text/html;\x20charset=UTF-8\"\x20/>\n\x20\x20\x20\x20<title>Page\x2
+SF:0not\x20found</title>\n\n\x20\x20\x20\x20<meta\x20http-equiv=\"X-UA-Com
+SF:patible\"\x20content=\"IE=edge\"\x20/>\n\x20\x20\x20\x20<meta\x20name=\
+SF:"msapplication-config\"\x20content=\"none\"\x20/>\n\x20\x20\x20\x20<lin
+SF:k\n\x20\x20\x20\x20\x20\x20rel=\"icon\"\n\x20\x20\x20\x20\x20\x20type=\
+SF:"image/x-icon\"\n\x20\x20\x20\x20\x20\x20href=\"https://azurefrontdoorp
+SF:ages\.azureedge\.net/pages/PageNotFound_files/favicon\.ico\"\n\x20\x20\
+SF:x20\x20/>\n\x20\x20\x20\x20<link\n\x20\x20\x20\x20\x20\x20rel=\"shortcu
+SF:t\x20icon\"\n\x20\x20\x20\x20\x20\x20type=\"image/x-icon\"\n\x20\x20\x2
+SF:0\x20\x20\x20href=\"https://azurefrontdoorpage");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Dec 11 15:18:39 2023 -- 1 IP address (1 host up) scanned in 64.53 seconds

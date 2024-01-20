@@ -1,0 +1,231 @@
+<html class="writer-html4" lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Genian NAC Documentation — Genians Documentation 5.0.58
+ documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css">
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css">
+      <link rel="stylesheet" href="_static/css/my_style.css" type="text/css">
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-2242207401.js"></script><script src="https://sc.lfeeder.com/lftracker_v1_lAxoEaK6rA04OYGd.js" async=""></script><script type="text/javascript" id="zsiqscript" defer="" src="https://salesiq.zoho.com/widget"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-9FSWTHV5EG&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-NXBT6782VN&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" id="zsiqscript" defer="" src="https://salesiq.zoho.com/widget"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M2J7N4T"></script><script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/sphinx_highlight.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html">
+    <link rel="search" title="Search" href="search.html">
+    <link rel="next" title="Deployment Overview" href="deploy_overview.html"> 
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+
+<body class="wy-body-for-nav">
+    <div class="globalNav geniansNav">
+        <ul>
+            <li><a href="https://www.genians.com/genian-nac/" target="_blank">Genian NAC</a></li>
+            <li><a href="http://my.genians.com/" target="_blank">My Genians</a></li>
+            <li><a href="https://www.genians.com/hello/" target="_blank">Contact Us</a></li>
+        </ul>
+    </div>
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+            <a href="#" class="icon icon-home"> Genians Documentation
+			
+          </a>
+            <div class="version">
+				<select name="version" id="version" onchange="optionCheck()">
+					<option value="nac5" selected="">Genian NAC 5.0</option>
+					<option value="nac6">Genian ZTNA 6.0</option>
+					<option value="edr">Genian EDR 2.0</option>
+				</select>
+            </div>
+			<script type="text/javascript">
+				function optionCheck(){
+					var option = document.getElementById("version").value;
+					if (option == "nac5"){
+						window.location = "/nac/5.0/release/en/";
+					}
+					if (option == "nac6"){
+						window.location = "/nac/6.0/release/en/";
+					}
+					if (option == "edr"){
+						window.location = "/edr/2.0/release/en/";
+					}
+				}
+			</script>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs">
+    <input type="hidden" name="check_keywords" value="yes">
+    <input type="hidden" name="area" value="default">
+  </form>
+</div>
+
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Deployment Guide</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="deploy_overview.html">Deployment Overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy_phase1.html">Phase 1 - Network Surveillance / Visibility</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy_phase2.html">Phase 2 - Plan / Design</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy_phase3.html">Phase 3 - Configure</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy_phase4.html">Phase 4 - Test / Validate</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy_phase5.html">Phase 5 - Expand Deployment</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Administrator's Guide</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="intro.html">Understanding Network Access Control</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy.html">Deploying Genian NAC</a></li>
+<li class="toctree-l1"><a class="reference internal" href="install.html">Installing Genian NAC</a></li>
+<li class="toctree-l1"><a class="reference internal" href="monitor.html">Monitoring Network Assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="control.html">Controlling Network Access</a></li>
+<li class="toctree-l1"><a class="reference internal" href="onboard.html">Managing On-boarding Process</a></li>
+<li class="toctree-l1"><a class="reference internal" href="auth.html">Managing User Authentication</a></li>
+<li class="toctree-l1"><a class="reference internal" href="endpoint.html">Controlling Endpoints with Agent</a></li>
+<li class="toctree-l1"><a class="reference internal" href="threat.html">Detecting Anomalies</a></li>
+<li class="toctree-l1"><a class="reference internal" href="events.html">Managing Logs and Events</a></li>
+<li class="toctree-l1"><a class="reference internal" href="system.html">Managing Systems</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Developers</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="api.html">API Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="logformat.html">Log Format</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Support</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="group-templates.html">Node Group Templates</a></li>
+<li class="toctree-l1"><a class="reference internal" href="faq.html">Frequently Asked Questions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="troubleshoot.html">Troubleshooting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="releasenotes/genian-nac-5.0.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="advisories/advisories.html">Security Advisories</a></li>
+<li class="toctree-l1"><a class="reference internal" href="sla.html">Service Level Agreement</a></li>
+<li class="toctree-l1"><a class="reference external" href="https://www.genians.com/slack">Slack Chat</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="#">Genians Documentation</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="#" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Genian NAC Documentation</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/index.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <div class="section" id="genian-nac-documentation">
+<h1>Genian NAC Documentation<a class="headerlink" href="#genian-nac-documentation" title="Permalink to this heading"></a></h1>
+<a class="reference external image-reference" href="genian-nac-admin-guide.pdf"><img alt="_images/download_pdf.png" src="_images/download_pdf.png" style="width: 120px;"></a>
+<div class="toctree-wrapper compound">
+<p class="caption" role="heading"><span class="caption-text">Deployment Guide</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="deploy_overview.html">Deployment Overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy_phase1.html">Phase 1 - Network Surveillance / Visibility</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy_phase2.html">Phase 2 - Plan / Design</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy_phase3.html">Phase 3 - Configure</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy_phase4.html">Phase 4 - Test / Validate</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy_phase5.html">Phase 5 - Expand Deployment</a></li>
+</ul>
+</div>
+<div class="toctree-wrapper compound">
+<p class="caption" role="heading"><span class="caption-text">Administrator's Guide</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="intro.html">Understanding Network Access Control</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deploy.html">Deploying Genian NAC</a></li>
+<li class="toctree-l1"><a class="reference internal" href="install.html">Installing Genian NAC</a></li>
+<li class="toctree-l1"><a class="reference internal" href="monitor.html">Monitoring Network Assets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="control.html">Controlling Network Access</a></li>
+<li class="toctree-l1"><a class="reference internal" href="onboard.html">Managing On-boarding Process</a></li>
+<li class="toctree-l1"><a class="reference internal" href="auth.html">Managing User Authentication</a></li>
+<li class="toctree-l1"><a class="reference internal" href="endpoint.html">Controlling Endpoints with Agent</a></li>
+<li class="toctree-l1"><a class="reference internal" href="threat.html">Detecting Anomalies</a></li>
+<li class="toctree-l1"><a class="reference internal" href="events.html">Managing Logs and Events</a></li>
+<li class="toctree-l1"><a class="reference internal" href="system.html">Managing Systems</a></li>
+</ul>
+</div>
+<div class="toctree-wrapper compound">
+<p class="caption" role="heading"><span class="caption-text">Developers</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="api.html">API Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="logformat.html">Log Format</a></li>
+</ul>
+</div>
+<div class="toctree-wrapper compound">
+<p class="caption" role="heading"><span class="caption-text">Support</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="group-templates.html">Node Group Templates</a></li>
+<li class="toctree-l1"><a class="reference internal" href="faq.html">Frequently Asked Questions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="troubleshoot.html">Troubleshooting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="releasenotes/genian-nac-5.0.html">Release Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="advisories/advisories.html">Security Advisories</a></li>
+<li class="toctree-l1"><a class="reference internal" href="sla.html">Service Level Agreement</a></li>
+<li class="toctree-l1"><a class="reference external" href="https://www.genians.com/slack">Slack Chat</a></li>
+</ul>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="deploy_overview.html" class="btn btn-neutral float-right" title="Deployment Overview" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr>
+
+  <div role="contentinfo">
+    <p>© Copyright 2023 GENIANS, INC..</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+ 
+<!-- Google Tag Manager -->
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-M2J7N4T');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript"> var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"2efd4859a2f73b7655668e8b677a73fea81e2cf6a8ea4e05e9e9350c5846753c", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id=`zsiqwidget`></div>"); </script><div id="`zsiqwidget`"></div>
+<script>
+			$zoho.salesiq.ready=function(embedinfo) {		}
+</script>
+
+
+
+<div style="display: none; visibility: hidden;"><script type="text/javascript">var $zoho=$zoho||{};$zoho.salesiq=$zoho.salesiq||{widgetcode:"2efd4859a2f73b7655668e8b677a73fea81e2cf6a8ea4e05e9e9350c5846753c",values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=!0;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("\x3cdiv id\x3d'zsiqwidget'\x3e\x3c/div\x3e");</script><div id="zsiqwidget"></div></div><script type="text/javascript" id="">(function(d,b){window.ldfdr=window.ldfdr||function(){(ldfdr._q=ldfdr._q||[]).push([].slice.call(arguments))};(function(a,c){fs=a.getElementsByTagName(c)[0];var e="https://sc.lfeeder.com/lftracker_v1_"+d+(b?"_"+b:"")+".js";a=a.createElement(c);a.src=e;a.async=1;fs.parentNode.insertBefore(a,fs)})(document,"script")})("lAxoEaK6rA04OYGd");</script><script type="text/javascript" id="">var formIdsTracked={"8fadf87":!1,cec0f41:!1};jQuery(document).ajaxSuccess(function(b,c,d){jQuery('.elementor-message-success[role\x3d"alert"]').is(":visible")&&jQuery('.elementor-message-success[role\x3d"alert"]').each(function(){var a=jQuery(this).parent().find('[name\x3d"form_id"]').attr("value");formIdsTracked[a]||formIdsTracked[a]||("8fadf87"==a&&dataLayer.push({event:"contact_form_submit"}),"cec0f41"==a&&dataLayer.push({event:"register_form_submit"}),formIdsTracked[a]=!0)})});</script><script type="text/javascript" id="">window.heap=window.heap||[];
+heap.load=function(b,a){window.heap.appid=b;window.heap.config=a=a||{};a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://cdn.heapanalytics.com/js/heap-"+b+".js";b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);b=function(d){return function(){heap.push([d].concat(Array.prototype.slice.call(arguments,0)))}};a="addEventProperties addUserProperties clearEventProperties identify resetIdentity removeEventProperty setEventProperties track unsetEventProperty".split(" ");for(var c=
+0;c<a.length;c++)heap[a[c]]=b(a[c])};heap.load("2242207401");</script></body></html>

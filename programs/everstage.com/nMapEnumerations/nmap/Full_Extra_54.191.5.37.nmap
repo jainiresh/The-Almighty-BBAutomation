@@ -1,0 +1,98 @@
+# Nmap 7.93 scan initiated Fri Dec  8 00:27:27 2023 as: /usr/bin/nmap -Pn -sCV -p80,443 --open -oN nmap/Full_Extra_54.191.5.37.nmap --system-dns --stats-every 2s 54.191.5.37
+Nmap scan report for ec2-54-191-5-37.us-west-2.compute.amazonaws.com (54.191.5.37)
+Host is up (0.24s latency).
+
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     awselb/2.0
+|_http-server-header: awselb/2.0
+|_http-title: Did not follow redirect to https://ec2-54-191-5-37.us-west-2.compute.amazonaws.com:443/
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 301 Moved Permanently
+|     Server: awselb/2.0
+|     Date: Thu, 07 Dec 2023 18:57:38 GMT
+|     Content-Type: text/html
+|     Content-Length: 134
+|     Connection: close
+|     Location: https://everstage-prod-alb-1010145789.us-west-2.elb.amazonaws.com:443/nice%20ports%2C/Tri%6Eity.txt%2ebak
+|     <html>
+|     <head><title>301 Moved Permanently</title></head>
+|     <body>
+|     <center><h1>301 Moved Permanently</h1></center>
+|     </body>
+|     </html>
+|   GetRequest, HTTPOptions: 
+|     HTTP/1.1 301 Moved Permanently
+|     Server: awselb/2.0
+|     Date: Thu, 07 Dec 2023 18:57:36 GMT
+|     Content-Type: text/html
+|     Content-Length: 134
+|     Connection: close
+|     Location: https://everstage-prod-alb-1010145789.us-west-2.elb.amazonaws.com:443/
+|     <html>
+|     <head><title>301 Moved Permanently</title></head>
+|     <body>
+|     <center><h1>301 Moved Permanently</h1></center>
+|     </body>
+|     </html>
+|   RTSPRequest: 
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     </body>
+|     </html>
+|   X11Probe: 
+|     HTTP/1.1 400 Bad Request
+|     Server: awselb/2.0
+|     Date: Thu, 07 Dec 2023 18:57:37 GMT
+|     Content-Type: text/html
+|     Content-Length: 122
+|     Connection: close
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     </body>
+|_    </html>
+443/tcp open  ssl/http nginx
+| ssl-cert: Subject: commonName=*.everstage.com
+| Subject Alternative Name: DNS:*.everstage.com
+| Not valid before: 2023-12-05T00:00:00
+|_Not valid after:  2025-01-02T23:59:59
+|_http-title: Everstage
+|_ssl-date: TLS randomness does not represent time
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.93%I=7%D=12/8%Time=657215A0%P=x86_64-pc-linux-gnu%r(GetR
+SF:equest,174,"HTTP/1\.1\x20301\x20Moved\x20Permanently\r\nServer:\x20awse
+SF:lb/2\.0\r\nDate:\x20Thu,\x2007\x20Dec\x202023\x2018:57:36\x20GMT\r\nCon
+SF:tent-Type:\x20text/html\r\nContent-Length:\x20134\r\nConnection:\x20clo
+SF:se\r\nLocation:\x20https://everstage-prod-alb-1010145789\.us-west-2\.el
+SF:b\.amazonaws\.com:443/\r\n\r\n<html>\r\n<head><title>301\x20Moved\x20Pe
+SF:rmanently</title></head>\r\n<body>\r\n<center><h1>301\x20Moved\x20Perma
+SF:nently</h1></center>\r\n</body>\r\n</html>\r\n")%r(HTTPOptions,174,"HTT
+SF:P/1\.1\x20301\x20Moved\x20Permanently\r\nServer:\x20awselb/2\.0\r\nDate
+SF::\x20Thu,\x2007\x20Dec\x202023\x2018:57:36\x20GMT\r\nContent-Type:\x20t
+SF:ext/html\r\nContent-Length:\x20134\r\nConnection:\x20close\r\nLocation:
+SF:\x20https://everstage-prod-alb-1010145789\.us-west-2\.elb\.amazonaws\.c
+SF:om:443/\r\n\r\n<html>\r\n<head><title>301\x20Moved\x20Permanently</titl
+SF:e></head>\r\n<body>\r\n<center><h1>301\x20Moved\x20Permanently</h1></ce
+SF:nter>\r\n</body>\r\n</html>\r\n")%r(RTSPRequest,7A,"<html>\r\n<head><ti
+SF:tle>400\x20Bad\x20Request</title></head>\r\n<body>\r\n<center><h1>400\x
+SF:20Bad\x20Request</h1></center>\r\n</body>\r\n</html>\r\n")%r(X11Probe,1
+SF:10,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nServer:\x20awselb/2\.0\r\nDat
+SF:e:\x20Thu,\x2007\x20Dec\x202023\x2018:57:37\x20GMT\r\nContent-Type:\x20
+SF:text/html\r\nContent-Length:\x20122\r\nConnection:\x20close\r\n\r\n<htm
+SF:l>\r\n<head><title>400\x20Bad\x20Request</title></head>\r\n<body>\r\n<c
+SF:enter><h1>400\x20Bad\x20Request</h1></center>\r\n</body>\r\n</html>\r\n
+SF:")%r(FourOhFourRequest,197,"HTTP/1\.1\x20301\x20Moved\x20Permanently\r\
+SF:nServer:\x20awselb/2\.0\r\nDate:\x20Thu,\x2007\x20Dec\x202023\x2018:57:
+SF:38\x20GMT\r\nContent-Type:\x20text/html\r\nContent-Length:\x20134\r\nCo
+SF:nnection:\x20close\r\nLocation:\x20https://everstage-prod-alb-101014578
+SF:9\.us-west-2\.elb\.amazonaws\.com:443/nice%20ports%2C/Tri%6Eity\.txt%2e
+SF:bak\r\n\r\n<html>\r\n<head><title>301\x20Moved\x20Permanently</title></
+SF:head>\r\n<body>\r\n<center><h1>301\x20Moved\x20Permanently</h1></center
+SF:>\r\n</body>\r\n</html>\r\n");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Dec  8 00:28:08 2023 -- 1 IP address (1 host up) scanned in 40.21 seconds

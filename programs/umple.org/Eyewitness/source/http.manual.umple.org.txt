@@ -1,0 +1,543 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" style="height: 100%;" lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="files/layout.css">
+  <script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=014719661006816508785:azyvserhylq"></script><script type="text/javascript" src="files/script.js"></script>
+  <title>Umple User Manual: Getting Started</title>
+  <script type="text/javascript">
+    function showHide(section)
+    {
+      var sectionDivStyle = document.getElementById(section).style;
+      if(sectionDivStyle.display=="none") {
+        sectionDivStyle.display="inherit";
+      }
+      else {
+        sectionDivStyle.display="none";
+      }
+    }
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.TpYxICw8iG4.L.F4.O/am=wA/d=0/rs=AN8SPfpVjmduEbJeaKDPJmqpx8swJVpW8A/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.wrWIJCRNWIE.O/d=1/exm=el_conf/ed=1/rs=AN8SPfoz05lXvNPWKMwqOF1usHd4eWSlug/m=el_main"></script><script src="https://www.google.com/cse/static/element/0af94321fef26a3d/cse_element__en.js?usqp=CAI%3D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/cse/static/element/0af94321fef26a3d/default+en.css" rel="stylesheet"><link type="text/css" href="https://www.google.com/cse/static/style/look/v4/default.css" rel="stylesheet"><style type="text/css">.gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}.gsc-control-cse{border-color:#FFFFFF;background-color:#FFFFFF}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#D9D9D9}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#2F5BB7;background-color:#357AE8;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:#FFFFFF}.gsc-tabHeader.gsc-tabhActive,.gsc-refinementHeader.gsc-refinementhActive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-tabHeader.gsc-tabhInactive,.gsc-refinementHeader.gsc-refinementhInactive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover{border-color:#FFFFFF;background-color:#FFFFFF}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#1155CC}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#1155CC}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#1155CC}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#1155CC}.gsc-cursor-page{color:#1155CC}a.gsc-trailing-more-results:link{color:#1155CC}.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,.gs-fileFormatType{color:#333333}.gs-webResult div.gs-visibleUrl{color:#009933}.gs-webResult div.gs-visibleUrl-short{color:#009933}.gs-webResult div.gs-visibleUrl-short{display:none}.gs-webResult div.gs-visibleUrl-long{display:none}.gs-webResult div.gs-visibleUrl-breadcrumb{display:block}.gs-promotion div.gs-visibleUrl-short{display:none}.gs-promotion div.gs-visibleUrl-long{display:none}.gs-promotion div.gs-visibleUrl-breadcrumb{display:block}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-webResult.gsc-result.gsc-promotion{border-color:#F6F6F6;background-color:#F6F6F6}.gsc-completion-title{color:#1155CC}.gsc-completion-snippet{color:#333333}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#1155CC}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#1155CC}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#1155CC}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#1155CC}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#333333}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#009933}.gcsc-find-more-on-google{color:#1155CC}.gcsc-find-more-on-google-magnifier{fill:#1155CC}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-moz-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding:5px 9px 4px 9px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+
+<body style="position: relative; min-height: 100%; top: 0px;">
+
+  
+  <table class="body">
+  <tbody>
+  <tr>
+    <td class="menu">
+      <div class="title"><a href="https://cruise.umple.org/umple"><img src="files/indicator_blocks.gif" alt="Umple Logo" height="25">&nbsp;Umple </a></div>
+<div id="google_translate_element"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage" style="white-space: nowrap;" class="goog-te-gadget-simple"><img src="https://www.google.com/images/cleardot.gif" class="goog-te-gadget-icon" alt="" style="background-image: url(&quot;https://translate.googleapis.com/translate_static/img/te_ctrl3.gif&quot;); background-position: -65px 0px;"><span style="vertical-align: middle;"><a aria-haspopup="true" class="VIpgJd-ZVi9od-xl07Ob-lTBxed" href="#"><span>Select Language</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span style="border-left: 1px solid rgb(187, 187, 187);">​</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span style="color: rgb(118, 118, 118);" aria-hidden="true">▼</span></a></span></div></div></div>        <div class="level1"><a title="Simple examples and basic information" href="javascript:showHide('UserManualBasics');">User Manual Basics</a></div>
+        <div id="UserManualBasics">          <div class="level2"><b>Getting Started</b></div>
+          <div class="level2"><a title="Basic examples showing how Umple code is written" href="HelloWorldExamples.html">Hello World Examples</a></div>
+          <div class="level2"><a title="Tools to use Umple: Umpleonline, command-line compiler, and plugins" href="UmpleTools.html">Umple Tools</a></div>
+          <div class="level2"><a title="How to organize Umple code into Entities (classes, traits etc.) with methods, associations and state machines in them, as well as the use of multiple files and mixins" href="StructureofUmpleCode.html">Structure of Umple Code</a></div>
+          <div class="level2"><a title="Benefits of Umple (as opposed to traditional programming) such as less code and higher quality" href="ConvincingPotentialAdopters.html">Convincing Potential Adopters</a></div>
+          <div class="level2"><a href="ListofUmpleKeywords.html">List of Umple Keywords</a></div>
+          <div class="level2"><a href="Languagessupported.html">Languages supported</a></div>
+        </div>        <div class="level1"><a title="Ways to comment Umple code" href="javascript:showHide('CommentsandRequirements');">Comments and Requirements</a></div>
+        <div id="CommentsandRequirements" style="display: none;">          <div class="level2"><a title="Ways to specify comments in Umple code" href="UmpleComments.html">Umple Comments</a></div>
+          <div class="level2"><a title="Comments specified with two slashes, that end when the line ends" href="InlineComments.html">Inline Comments</a></div>
+          <div class="level2"><a title="Comments specified with a slash and star  that can span several lines, and can be used to comment out blocks of code" href="MultilineComments.html">Multiline Comments</a></div>
+          <div class="level2"><a title="Defined requirements can be implemented multiple times throughout the code through an implementsReq statement." href="Requirements.html">Requirements</a></div>
+        </div>        <div class="level1"><a title="Top level statements in Umple code" href="javascript:showHide('Directives');">Directives</a></div>
+        <div id="Directives" style="display: none;">          <div class="level2"><a title="Categories of top-level Umple statements to specify entities such as classes as well as control reuse and generation (use statements, before/after statements, mixsets, namespaces, and so on)" href="TypesofDirectives.html">Types of Directives</a></div>
+          <div class="level2"><a title="Use statements to incorporate the contents of another Umple file or activate a mixset" href="UseStatements.html">Use Statements</a></div>
+          <div class="level2"><a title="Define how classes will be organized into output directories so there will not be clashes among classes with the same name" href="NamespaceDirectives.html">Namespace Directives</a></div>
+          <div class="level2"><a title="Control Umple's compiler in various ways, such as suppressing unwanted warnings" href="StrictnessDirective.html">Strictness Directive</a></div>
+        </div>        <div class="level1"><a title="Ways of dividing a system into classes and arranging a generalization hierarchy to enable inheritance (See also Traits)" href="javascript:showHide('ClassesandInterfaces');">Classes and Interfaces</a></div>
+        <div id="ClassesandInterfaces" style="display: none;">          <div class="level2"><a title="Classes are structured data types that have attributes, methods and other elements; they can be instantiated to create objects" href="ClassDefinition.html">Class Definition</a></div>
+          <div class="level2"><a title="An interface defines a set of method signatures that a class must implement" href="interfaceDefinition.html">interface Definition</a></div>
+          <div class="level2"><a title="Comprehensive list of all the things that can be specified in an Umple class" href="ClassContent.html">Class Content</a></div>
+          <div class="level2"><a title="The isA clause is used to specify class generalization, implementation of an interface and inclusion of a trait" href="isAclause.html">isA clause</a></div>
+          <div class="level2"><a title="The depend clause specifies inclusion of external libraries" href="Dependclause.html">Depend clause</a></div>
+          <div class="level2"><a href="CustomConstructor.html">Custom Constructor</a></div>
+        </div>        <div class="level1"><a title="Simple data attached to each instance of a class" href="javascript:showHide('Attributes');">Attributes</a></div>
+        <div id="Attributes" style="display: none;">          <div class="level2"><a title="Basic examples of Umple attributes, along with keywords that specify how they behave" href="AttributeDefinition.html">Attribute Definition</a></div>
+          <div class="level2"><a title="Umple native data types including String, Integer, Double, Date and Time" href="UmpleBuiltinDataTypes.html">Umple Builtin Data Types</a></div>
+          <div class="level2"><a href="ClassesasAttributeTypes.html">Classes as Attribute Types</a></div>
+          <div class="level2"><a href="MultiValuedAttributes.html">MultiValued Attributes</a></div>
+          <div class="level2"><a href="LazyImmutableAttributes.html">Lazy Immutable Attributes</a></div>
+          <div class="level2"><a href="DerivedAttributes.html">Derived Attributes</a></div>
+          <div class="level2"><a href="UniqueAttributes.html">Unique Attributes</a></div>
+        </div>        <div class="level1"><a title="Data types defining sets of named items" href="javascript:showHide('Enumerations');">Enumerations</a></div>
+        <div id="Enumerations" style="display: none;">          <div class="level2"><a href="EnumerationDefinition.html">Enumeration Definition</a></div>
+        </div>        <div class="level1"><a title="Relationships that define run-time links between instances of classes" href="javascript:showHide('Associations');">Associations</a></div>
+        <div id="Associations" style="display: none;">          <div class="level2"><a title="Overview of Umple associations, and their various types" href="AssociationDefinition.html">Association Definition</a></div>
+          <div class="level2"><a title="Multiplicity: Specifies the number of connected objects allowed at each end of a link (the run time instantiation of an association)" href="Multiplicity.html">Multiplicity</a></div>
+          <div class="level2"><a title="An association specified within a class at one end or the other end" href="InlineAssociations.html">Inline Associations</a></div>
+          <div class="level2"><a title="An association specified outside of either class, using the association keyword" href="IndependentlyDefinedAssociations.html">Independently Defined Associations</a></div>
+          <div class="level2"><a title="A role name is a label given to a class in the context of an association" href="RoleNames.html">Role Names</a></div>
+          <div class="level2"><a href="One-to-OneAssociations.html">One-to-One Associations</a></div>
+          <div class="level2"><a title="A reflexive association is an association from a class to itself" href="ReflexiveAssociations.html">Reflexive Associations</a></div>
+          <div class="level2"><a title="A composition is a strong aggregation where the parts are deleted when the whole is deleted" href="Compositions.html">Compositions</a></div>
+          <div class="level2"><a href="AssociationSpecializations.html">Association Specializations</a></div>
+          <div class="level2"><a href="AssociationClassDefinition.html">Association Class Definition</a></div>
+          <div class="level2"><a href="SortedAssociations.html">Sorted Associations</a></div>
+        </div>        <div class="level1"><a title="Logic statements that define rules for permissible values" href="javascript:showHide('Constraints');">Constraints</a></div>
+        <div id="Constraints" style="display: none;">          <div class="level2"><a href="SimpleConstraints.html">Simple Constraints</a></div>
+          <div class="level2"><a href="Preconditions.html">Preconditions</a></div>
+          <div class="level2"><a href="ModelConstraints.html">Model Constraints</a></div>
+        </div>        <div class="level1"><a title="Common ways to structure parts of software, for which Umple can generate code" href="javascript:showHide('Patterns');">Patterns</a></div>
+        <div id="Patterns" style="display: none;">          <div class="level2"><a title="Singleton is a pattern that ensures only one instance of a given class can be created" href="SingletonPattern.html">Singleton Pattern</a></div>
+          <div class="level2"><a title="Immutable is a pattern whereby attributes and 1-ended associations, or entire classes are not allowed to change values after creation" href="ImmutablePattern.html">Immutable Pattern</a></div>
+          <div class="level2"><a title="Delegation is a pattern that generates code by which an object asks for work to be done by a neighbouring object, connected using an association" href="DelegationPattern.html">Delegation Pattern</a></div>
+          <div class="level2"><a title="Keys specify one or more attributes, such that if objects have the same values of these attributes, then the objects should be considered to describe the same real-world thing" href="KeysforEqualityandHashing.html">Keys for Equality and Hashing</a></div>
+          <div class="level2"><a title="This pattern allows you to tag two classes to be connected by a special one-to many association indicating that the instances of the abstraction class contain information that is in common to many occurrences that are described by a separate class." href="AbstractionOccurrence.html">Abstraction Occurrence</a></div>
+          <div class="level2"><a title="This pattern enables you to avoid making subclasses of a key class that could play different roles, and instead arranges for the subclasses to be of a designated Role class." href="PlayerRole.html">Player Role</a></div>
+          <div class="level2"><a title="This is an example of a high level pattern that can be re-used to create transporation systems for different vehicle types." href="TransportationPatternA.html">Transportation Pattern A</a></div>
+        </div>        <div class="level1"><a title="Definitions of behaviour defined in terms of states and transitions, and which generate  diagrams describing this behaviour" href="javascript:showHide('StateMachines');">State Machines</a></div>
+        <div id="StateMachines" style="display: none;">          <div class="level2"><a title="Overview of core elements of state machines, with an example" href="BasicStateMachines.html">Basic State Machines</a></div>
+          <div class="level2"><a title="Actions are code that can be executed when taking a transition, or on entry or exit from a state, and which take negligible time" href="StateMachineActionsandDoActivities.html">State Machine Actions and Do Activities</a></div>
+          <div class="level2"><a href="NestedStateMachines.html">Nested State Machines</a></div>
+          <div class="level2"><a href="StateMachineRegions.html">State Machine Regions</a></div>
+          <div class="level2"><a href="FinalStates.html">Final States</a></div>
+          <div class="level2"><a href="Auto-Transitions.html">Auto-Transitions</a></div>
+          <div class="level2"><a href="UnspecifiedEvents.html">Unspecified Events</a></div>
+          <div class="level2"><a href="TimedTransitions.html">Timed Transitions</a></div>
+          <div class="level2"><a href="Historystates.html">History states</a></div>
+          <div class="level2"><a href="EventsWithParameters.html">Events With Parameters</a></div>
+          <div class="level2"><a title="A queued state machine has separate threads to manage a queue of incoming events, and to do the resulting transitions, meaning that deadlock is less likely" href="QueuedStateMachines.html">Queued State Machines</a></div>
+          <div class="level2"><a href="PooledStateMachines.html">Pooled State Machines</a></div>
+          <div class="level2"><a href="StandaloneStateMachines.html">Standalone State Machines</a></div>
+        </div>        <div class="level1"><a title="Code for functions in target languages embedded within within Umple classes" href="javascript:showHide('Methods');">Methods</a></div>
+        <div id="Methods" style="display: none;">          <div class="level2"><a title="methods in any language supported by Umple can be embedded in Umple code" href="MethodDefinition.html">Method Definition</a></div>
+          <div class="level2"><a href="AbstractMethods.html">Abstract Methods</a></div>
+          <div class="level2"><a href="AlternativeLanguages.html">Alternative Languages</a></div>
+          <div class="level2"><a href="State-DependentMethods.html">State-Dependent Methods</a></div>
+        </div>        <div class="level1"><a title="Building blocks that can be used to define groups of common features such as attributes, associations and state machines, that can be reused in several classes" href="javascript:showHide('Traits');">Traits</a></div>
+        <div id="Traits" style="display: none;">          <div class="level2"><a title="A trait contains class elements that can be added to multiple classes; a class can implement several traits" href="Traits.html">Traits</a></div>
+          <div class="level2"><a href="ClientsofTraits.html">Clients of Traits</a></div>
+          <div class="level2"><a href="AttributesinTraits.html">Attributes in Traits</a></div>
+          <div class="level2"><a href="TraitTemplateParameters.html">Trait Template Parameters</a></div>
+          <div class="level2"><a href="AssociationsinTraits.html">Associations in Traits</a></div>
+          <div class="level2"><a href="RequiredInterfacesofTraits.html">Required Interfaces of Traits</a></div>
+          <div class="level2"><a href="StateMachinesinTraits.html">State Machines in Traits</a></div>
+          <div class="level2"><a href="MethodOperatorsinTraits.html">Method Operators in Traits</a></div>
+          <div class="level2"><a href="StateMachineOperatorsinTraits.html">State Machine Operators in Traits</a></div>
+          <div class="level2"><a href="SelectingOperators.html">Selecting Operators</a></div>
+          <div class="level2"><a href="ExtendingaState.html">Extending a State</a></div>
+          <div class="level2"><a href="TraitsandUmpleMixins.html">Traits and Umple Mixins</a></div>
+          <div class="level2"><a href="FlatteningofTraits.html">Flattening of Traits</a></div>
+        </div>        <div class="level1"><a title="Capabilities for injecting code (aspects) before or after other code in various classes defined by a pattern -- the code can be injected into generated and custom methods" href="javascript:showHide('AspectOrientation');">Aspect Orientation</a></div>
+        <div id="AspectOrientation" style="display: none;">          <div class="level2"><a title="Inject code before and after generated methods or custom methods written by the programmer, an approach that is part of aspect-oriented development" href="BeforeandAfterStatements.html">Before and After Statements</a></div>
+          <div class="level2"><a title="Use wildcard characters to select methods in which to inject code" href="CodeInjectionPatternMatching.html">Code Injection Pattern Matching</a></div>
+          <div class="level2"><a title="Add user-defined code into code generated from state machine event names" href="CodeInjectioninEventMethods.html">Code Injection in Event Methods</a></div>
+          <div class="level2"><a href="CodeInjectioninCustomMethods.html">Code Injection in Custom Methods</a></div>
+          <div class="level2"><a href="Top-levelAspects.html">Top-level Aspects</a></div>
+          <div class="level2"><a href="AroundStatement.html">Around Statement</a></div>
+        </div>        <div class="level1"><a title="Ways of grouping code to allow specification of variants, product lines or partial systems" href="javascript:showHide('MixsetsandFilters');">Mixsets and Filters</a></div>
+        <div id="MixsetsandFilters" style="display: none;">          <div class="level2"><a href="BasicMixsets.html">Basic Mixsets</a></div>
+          <div class="level2"><a href="MixsetsinMethods.html">Mixsets in Methods</a></div>
+          <div class="level2"><a href="RequireStatement.html">Require Statement</a></div>
+          <div class="level2"><a href="MixsetswithTraits.html">Mixsets with Traits</a></div>
+          <div class="level2"><a href="MixsetswithStateMachine.html">Mixsets with State Machine</a></div>
+          <div class="level2"><a href="Filters.html">Filters</a></div>
+        </div>        <div class="level1"><a title="Specifications of reusable textual output -- useful for generating messages and languages" href="javascript:showHide('GenerationTemplates');">Generation Templates</a></div>
+        <div id="GenerationTemplates" style="display: none;">          <div class="level2"><a title="Basic patterns of string output, including generated emit methods, and expression blocks allowing strings to be generated algorithmically" href="BasicTemplates.html">Basic Templates</a></div>
+          <div class="level2"><a href="HtmlGeneration.html">Html Generation</a></div>
+        </div>        <div class="level1"><a title="Capabilities to define elements of programs that will run at the same time as others" href="javascript:showHide('Concurrency');">Concurrency</a></div>
+        <div id="Concurrency" style="display: none;">          <div class="level2"><a href="ActiveObjects.html">Active Objects</a></div>
+          <div class="level2"><a href="ConcurrencyUsingDoActivities.html">Concurrency Using Do Activities</a></div>
+        </div>        <div class="level1"><a title="Capabilities to generate code for components that will run on different processors and communicate with each other" href="javascript:showHide('Distribution');">Distribution</a></div>
+        <div id="Distribution" style="display: none;">          <div class="level2"><a href="BasicDistributedSystems.html">Basic Distributed Systems</a></div>
+        </div>        <div class="level1"><a title="Capabilities to define components with nested elements and communication channels" href="javascript:showHide('CompositeStructure');">Composite Structure</a></div>
+        <div id="CompositeStructure" style="display: none;">          <div class="level2"><a href="BasicCompositeStructureDiagrams.html">Basic Composite Structure Diagrams</a></div>
+        </div>        <div class="level1"><a title="Capabilities to specify run-time tracing of API calls for attributes, associations, state machines and methods" href="javascript:showHide('Tracing');">Tracing</a></div>
+        <div id="Tracing" style="display: none;">          <div class="level2"><a href="ModelOrientedTracingLanguage(MOTL).html">Model Oriented Tracing Language (MOTL)</a></div>
+          <div class="level2"><a href="TracingBasics.html">Tracing Basics</a></div>
+          <div class="level2"><a href="TracingAttributes.html">Tracing Attributes</a></div>
+          <div class="level2"><a href="TracingStateMachines.html">Tracing State Machines</a></div>
+          <div class="level2"><a href="TracingAssociations.html">Tracing Associations</a></div>
+          <div class="level2"><a href="TracingConstraints.html">Tracing Constraints</a></div>
+          <div class="level2"><a href="TracingMethods.html">Tracing Methods</a></div>
+          <div class="level2"><a href="Tracers.html">Tracers</a></div>
+          <div class="level2"><a href="TraceOutput.html">Trace Output</a></div>
+        </div>        <div class="level1"><a title="Capabilities of the Umple web-based interface that runs at try.umple.org and in Docker" href="javascript:showHide('UmpleOnline');">UmpleOnline</a></div>
+        <div id="UmpleOnline" style="display: none;">          <div class="level2"><a href="UsingUmpleOnline.html">Using UmpleOnline</a></div>
+          <div class="level2"><a href="UmpleOnlineURLoptions.html">UmpleOnline URL options</a></div>
+          <div class="level2"><a href="UmpleinPresentationsandDocuments.html">Umple in Presentations and Documents</a></div>
+          <div class="level2"><a href="Coloringmodelelements.html">Coloring model elements</a></div>
+          <div class="level2"><a href="SettingupTasks.html">Setting up Tasks</a></div>
+          <div class="level2"><a href="UsingCompletionURLs.html">Using Completion URLs</a></div>
+          <div class="level2"><a href="RespondingtoTasks.html">Responding to Tasks</a></div>
+        </div>        <div class="level1"><a title="Capabilities of Umple to generate code" href="javascript:showHide('Generators');">Generators</a></div>
+        <div id="Generators" style="display: none;">          <div class="level2"><a href="Java.html">Java</a></div>
+          <div class="level2"><a href="PHP.html">PHP</a></div>
+          <div class="level2"><a href="Python.html">Python</a></div>
+          <div class="level2"><a href="CPlusPlus.html">CPlusPlus</a></div>
+          <div class="level2"><a href="Ruby.html">Ruby</a></div>
+          <div class="level2"><a href="Alloy.html">Alloy</a></div>
+          <div class="level2"><a href="NuSMV.html">NuSMV</a></div>
+          <div class="level2"><a href="CompositeStateTable.html">Composite State Table</a></div>
+        </div>        <div class="level1"><a title="Capabilities to reverse engineer Java to Umple" href="javascript:showHide('Umplification');">Umplification</a></div>
+        <div id="Umplification" style="display: none;">          <div class="level2"><a href="Umplification-AnIntroduction.html">Umplification - An Introduction</a></div>
+          <div class="level2"><a href="UmplificationProcess.html">Umplification Process</a></div>
+          <div class="level2"><a href="UmplificationTooling.html">Umplification Tooling</a></div>
+        </div>        <div class="level1"><a title="A selection of Umple examples, many more can be found in UmnpleOnline and other manual pages" href="javascript:showHide('Examples');">Examples</a></div>
+        <div id="Examples" style="display: none;">          <div class="level2"><a href="InterfacingtoExternalCode.html">Interfacing to External Code</a></div>
+          <div class="level2"><a href="2DShapesSystem.html">2D Shapes System</a></div>
+          <div class="level2"><a href="AirlineSystem.html">Airline System</a></div>
+          <div class="level2"><a href="BankingSystem.html">Banking System</a></div>
+          <div class="level2"><a href="BankingSystem(b).html">Banking System (b)</a></div>
+          <div class="level2"><a href="ElectionSystem.html">Election System</a></div>
+          <div class="level2"><a href="WarehouseSystem.html">Warehouse System</a></div>
+          <div class="level2"><a href="CanalSystem.html">Canal System</a></div>
+          <div class="level2"><a href="CanalLockStateMachine.html">Canal Lock State Machine</a></div>
+          <div class="level2"><a href="CardGames.html">Card Games</a></div>
+          <div class="level2"><a href="PizzaDelivery.html">Pizza Delivery</a></div>
+          <div class="level2"><a href="CommunityAssociation.html">Community Association</a></div>
+          <div class="level2"><a href="Co-OpEducation.html">Co-Op Education</a></div>
+          <div class="level2"><a href="VendingMachineClasses.html">Vending Machine Classes</a></div>
+          <div class="level2"><a href="RoutesAndLocations.html">Routes And Locations</a></div>
+          <div class="level2"><a href="CoordinationStateMachine.html">Coordination State Machine</a></div>
+        </div>        <div class="level1"><a title="A collection of all the different tips-of-the-day that would occasionally appear" href="javascript:showHide('Tips');">Tips</a></div>
+        <div id="Tips" style="display: none;">          <div class="level2"><a title="The top priority tips that will appear in the 'tip of the day' occasionally in UmpleOnline" href="Importanttips.html">Important tips</a></div>
+          <div class="level2"><a title="The second-priority tips that will appear in the 'tip of the day' occasionally in UmpleOnline" href="Secondarytips.html">Secondary tips</a></div>
+          <div class="level2"><a title="The third-priority tips that will appear in the 'tip of the day' occasionally in UmpleOnline" href="Tertiarytips.html">Tertiary tips</a></div>
+        </div>        <div class="level1"><a href="javascript:showHide('Misc');">Misc</a></div>
+        <div id="Misc" style="display: none;">          <div class="level2"><a href="PrivacyandRisks.html">Privacy and Risks</a></div>
+        </div>        <div class="level1"><a title="The syntax of each element of Umple" href="javascript:showHide('GrammarToDefineUmple');">Grammar To Define Umple</a></div>
+        <div id="GrammarToDefineUmple" style="display: none;">          <div class="level2"><a href="UmpleGrammar.html">Umple Grammar</a></div>
+          <div class="level2"><a href="GrammarNotation.html">Grammar Notation</a></div>
+        </div>        <div class="level1"><a title="Summary of key methods generated from Umple constructs" href="javascript:showHide('GeneratedAPI');">Generated API</a></div>
+        <div id="GeneratedAPI" style="display: none;">          <div class="level2"><a href="APISummary.html">API Summary</a></div>
+        </div>        <div class="level1"><a title="Explanation of error and warning messages, along with examples of the problem and how to fix it - messages with numbers from 1 to 50" href="javascript:showHide('ErrorsandWarnings1-50');">Errors and Warnings 1-50</a></div>
+        <div id="ErrorsandWarnings1-50" style="display: none;">          <div class="level2"><a href="Umplemessages.html">Umple messages</a></div>
+          <div class="level2"><a href="W001SingletonWithNon-LazyAttribute.html">W001 Singleton With Non-Lazy Attribute</a></div>
+          <div class="level2"><a href="W002SingletonWithRequiredObject.html">W002 Singleton With Required Object</a></div>
+          <div class="level2"><a href="W003RedundantLazyWithInitialization.html">W003 Redundant Lazy With Initialization</a></div>
+          <div class="level2"><a href="E004InvalidMultiplicity.html">E004 Invalid Multiplicity</a></div>
+          <div class="level2"><a href="E005UndefinedClassinAssociation.html">E005 Undefined Class in Association</a></div>
+          <div class="level2"><a href="E006MissingDefault.html">E006 Missing Default</a></div>
+          <div class="level2"><a href="W007KeyAlreadySpecified.html">W007 Key Already Specified</a></div>
+          <div class="level2"><a href="E008AssociationClassMissingEnd.html">E008 Association Class Missing End</a></div>
+          <div class="level2"><a href="E009ReflexiveLowerBound.html">E009 Reflexive Lower Bound</a></div>
+          <div class="level2"><a href="W010SingletonMultiplicityOver1.html">W010 Singleton Multiplicity Over 1</a></div>
+          <div class="level2"><a href="E011ClassisSubclassOfSelf.html">E011 Class is Subclass Of Self</a></div>
+          <div class="level2"><a href="E012ClassIndirectlySubclassofSelf.html">E012 Class Indirectly Subclass of Self</a></div>
+          <div class="level2"><a href="E013NonImmutableAssociation.html">E013 Non Immutable Association</a></div>
+          <div class="level2"><a href="E014ImmutableSubclassofMutable.html">E014 Immutable Subclass of Mutable</a></div>
+          <div class="level2"><a href="W015ImmutableClassStateMachine.html">W015 Immutable Class State Machine</a></div>
+          <div class="level2"><a href="E016NonImmutableSuperclass.html">E016 Non Immutable Superclass</a></div>
+          <div class="level2"><a href="E017NonImmutableBidirectionality.html">E017 Non Immutable Bidirectionality</a></div>
+          <div class="level2"><a href="E018ReflexiveImmutable.html">E018 Reflexive Immutable</a></div>
+          <div class="level2"><a href="E019DuplicateAssociation.html">E019 Duplicate Association</a></div>
+          <div class="level2"><a href="E020InterfaceAssociationNotOneWay.html">E020 Interface Association Not One Way</a></div>
+          <div class="level2"><a href="E021InvalidReflexiveAssociation.html">E021 Invalid Reflexive Association</a></div>
+          <div class="level2"><a href="E022DuplicateAttribute.html">E022 Duplicate Attribute</a></div>
+          <div class="level2"><a href="E023AttributeAssociationNameClash.html">E023 Attribute Association Name Clash</a></div>
+          <div class="level2"><a href="E024SortKeyNotofUmpleType.html">E024 Sort Key Not of Umple Type</a></div>
+          <div class="level2"><a href="E025SortKeyNotFound.html">E025 Sort Key Not Found</a></div>
+          <div class="level2"><a href="E026DuplicateKeyItem.html">E026 Duplicate Key Item</a></div>
+          <div class="level2"><a href="W027KeyIdentifierIncorrect.html">W027 Key Identifier Incorrect</a></div>
+          <div class="level2"><a href="E028ConstraintIdentifierIncorrect.html">E028 Constraint Identifier Incorrect</a></div>
+          <div class="level2"><a href="E029ConstraintTypeMismatch.html">E029 Constraint Type Mismatch</a></div>
+          <div class="level2"><a href="W030RedefinedNamespace.html">W030 Redefined Namespace</a></div>
+          <div class="level2"><a href="W031NamespaceNotUsed.html">W031 Namespace Not Used</a></div>
+          <div class="level2"><a href="E032ReservedRoleName.html">E032 Reserved Role Name</a></div>
+          <div class="level2"><a href="W033MissingSuperclass.html">W033 Missing Superclass</a></div>
+          <div class="level2"><a href="E034MultipleInheritance.html">E034 Multiple Inheritance</a></div>
+          <div class="level2"><a href="W035UninitializedConstant.html">W035 Uninitialized Constant</a></div>
+          <div class="level2"><a href="W036UnmanagedMultiplicity.html">W036 Unmanaged Multiplicity</a></div>
+          <div class="level2"><a href="E037UninitializedConstantObject.html">E037 Uninitialized Constant Object</a></div>
+          <div class="level2"><a href="E038AutogeneratedAttributeNameConflict.html">E038 Autogenerated Attribute Name Conflict</a></div>
+          <div class="level2"><a href="W039MissingInterface.html">W039 Missing Interface</a></div>
+          <div class="level2"><a href="E040SingletonHasSubclasses.html">E040 Singleton Has Subclasses</a></div>
+          <div class="level2"><a href="E041NonVoidMethodDeclaredasQueued.html">E041 Non Void Method Declared as Queued</a></div>
+          <div class="level2"><a href="W042NamespaceCannotBeDefault.html">W042 Namespace Cannot Be Default</a></div>
+          <div class="level2"><a href="W044AttributeDuplicatedinSuperclass.html">W044 Attribute Duplicated in Superclass</a></div>
+          <div class="level2"><a href="W045InitializedValueinKey.html">W045 Initialized Value in Key</a></div>
+          <div class="level2"><a href="W046AttributeHasTemplateType.html">W046 Attribute Has Template Type</a></div>
+          <div class="level2"><a href="W047EmptyKeyStatement.html">W047 Empty Key Statement</a></div>
+          <div class="level2"><a href="E048AttributeGeneratesDuplicateMethod.html">E048 Attribute Generates Duplicate Method</a></div>
+          <div class="level2"><a href="W049DuplicatedMethodName.html">W049 Duplicated Method Name</a></div>
+          <div class="level2"><a href="W050TargetStateNotFound.html">W050 Target State Not Found</a></div>
+        </div>        <div class="level1"><a title="Explanation of error and warning messages, along with examples of the problem and how to fix it - messages with numbers from 51 to 99" href="javascript:showHide('ErrorsandWarnings51-99');">Errors and Warnings 51-99</a></div>
+        <div id="ErrorsandWarnings51-99" style="display: none;">          <div class="level2"><a href="E051EventParametersMustMatch.html">E051 Event Parameters Must Match</a></div>
+          <div class="level2"><a href="E052StateMachineNameClash.html">E052 State Machine Name Clash</a></div>
+          <div class="level2"><a href="E053NoConcurrencyAtTopLevel.html">E053 No Concurrency At Top Level</a></div>
+          <div class="level2"><a href="W054DuplicateEvents.html">W054 Duplicate Events</a></div>
+          <div class="level2"><a href="W055DuplicateEventsWithinSubstates.html">W055 Duplicate Events Within  Substates</a></div>
+          <div class="level2"><a href="W056NoEventsinQueuedStateMachine.html">W056 No Events in Queued State Machine</a></div>
+          <div class="level2"><a href="W057NoEventsinPooledStateMachine.html">W057 No Events in Pooled State Machine</a></div>
+          <div class="level2"><a href="E058RegularQueuedandPooledStateMachinesinClass.html">E058 Regular Queued and Pooled State Machines in Class</a></div>
+          <div class="level2"><a href="E059QueuedandPooledStateMachinesinClass.html">E059 Queued and Pooled State Machines in Class</a></div>
+          <div class="level2"><a href="E060PooledandRegularStateMachinesinClass.html">E060 Pooled and Regular State Machines in Class</a></div>
+          <div class="level2"><a href="E061QueuedandRegularStateMachinesinClass.html">E061 Queued and Regular State Machines in Class</a></div>
+          <div class="level2"><a href="W062UnspecifiedEventinPooledStateMachine.html">W062 Unspecified Event in Pooled State Machine</a></div>
+          <div class="level2"><a href="E063ReservedNameHistoryState.html">E063 Reserved Name History State</a></div>
+          <div class="level2"><a href="E064NonExistentHistoryState.html">E064 Non Existent History State</a></div>
+          <div class="level2"><a href="E065NoSubstatesHistoryState.html">E065 No Substates History State</a></div>
+          <div class="level2"><a href="W066TransitionMultiplePossibleDestinations.html">W066 Transition Multiple Possible Destinations</a></div>
+          <div class="level2"><a href="W067NonReachableState.html">W067 Non Reachable State</a></div>
+          <div class="level2"><a href="W068DestinationStateNotFound.html">W068 Destination State Not Found</a></div>
+          <div class="level2"><a href="W069AutoTransitionConflict.html">W069 Auto Transition Conflict</a></div>
+          <div class="level2"><a href="W071DuplicateMethodDifferentType.html">W071 Duplicate Method Different Type</a></div>
+          <div class="level2"><a href="W072RefactoredFinalState.html">W072 Refactored Final State</a></div>
+          <div class="level2"><a href="E073DuplicateParallelStateMachineName.html">E073 Duplicate Parallel State Machine Name</a></div>
+          <div class="level2"><a href="E074UserDefinedStateCannotbeNamedFinal.html">E074 User Defined State Cannot be Named Final</a></div>
+          <div class="level2"><a href="E075UserDefinedStateMachineCannotBeNamedTimer.html">E075 UserDefinedStateMachineCannotBeNamedTimer</a></div>
+          <div class="level2"><a href="E080InvalidAbstractClassAssociation.html">E080 Invalid Abstract Class Association</a></div>
+          <div class="level2"><a href="E081InvalidMultivaluedAttributeAssignment.html">E081 Invalid Multivalued Attribute Assignment</a></div>
+          <div class="level2"><a href="W082ConflictingMethodModifiers.html">W082 Conflicting Method Modifiers</a></div>
+          <div class="level2"><a href="E083InvalidMultivaluedAttributeInitialization.html">E083 Invalid Multivalued Attribute Initialization</a></div>
+          <div class="level2"><a href="E090AttributeNameNotFoundConstraint.html">E090 Attribute Name Not Found Constraint</a></div>
+          <div class="level2"><a href="E091AttributeOfTypeNotFoundConstraint.html">E091 Attribute Of Type Not Found Constraint</a></div>
+          <div class="level2"><a href="E092ClassIsNotSubclassConstraint.html">E092 Class Is Not Subclass Constraint</a></div>
+          <div class="level2"><a href="E093ClassIsNotSuperclassConstraint.html">E093 Class Is Not Superclass Constraint</a></div>
+          <div class="level2"><a href="E094NoAssociationFoundConstraint.html">E094 No Association Found Constraint</a></div>
+          <div class="level2"><a href="E095DuplicateEnumerations.html">E095 Duplicate Enumerations</a></div>
+          <div class="level2"><a href="E096EnumerationNamingConflict.html">E096 Enumeration Naming Conflict</a></div>
+          <div class="level2"><a href="E097EnumerationandStateMachineConflict.html">E097 Enumeration and State Machine Conflict</a></div>
+        </div>        <div class="level1"><a title="Explanation of error and warning messages, along with examples of the problem and how to fix it - messages with numbers from 100 to 999" href="javascript:showHide('ErrorsandWarnings100-999');">Errors and Warnings 100-999</a></div>
+        <div id="ErrorsandWarnings100-999" style="display: none;">          <div class="level2"><a href="WE1xxIdentifierInvalid.html">WE1xx Identifier Invalid</a></div>
+          <div class="level2"><a href="W102EnumerationCausesMethodParameterAmbiguity.html">W102 Enumeration Causes Method Parameter Ambiguity</a></div>
+          <div class="level2"><a href="W103EnumerationCausesEventParameterAmbiguity.html">W103 Enumeration Causes Event Parameter Ambiguity</a></div>
+          <div class="level2"><a href="E104EnumerationinBi-directionalAssociation.html">E104 Enumeration in Bi-directional Association</a></div>
+          <div class="level2"><a href="E105EnumerationinComposition.html">E105 Enumeration in Composition</a></div>
+          <div class="level2"><a href="W106EnumerationinUni-directionalAssociation.html">W106 Enumeration in Uni-directional Association</a></div>
+          <div class="level2"><a href="E112DuplicateConstantsinInterface.html">E112 Duplicate Constants in Interface</a></div>
+          <div class="level2"><a href="W141ValueTypeMismatch.html">W141 Value Type Mismatch</a></div>
+          <div class="level2"><a href="W142Typeisaccessspecifier.html">W142 Type is access specifier</a></div>
+          <div class="level2"><a href="E180DuplicateAssociationNameClassHierarchy.html">E180 Duplicate Association Name Class Hierarchy</a></div>
+          <div class="level2"><a href="E200TraitIdentifierInvalid.html">E200 Trait Identifier Invalid</a></div>
+          <div class="level2"><a href="W201TraitNameSyntax.html">W201 Trait Name Syntax</a></div>
+          <div class="level2"><a href="E202Traitnotdefined.html">E202 Trait not defined</a></div>
+          <div class="level2"><a href="E203Nothavinganuniqueidentifier.html">E203 Not having an unique identifier</a></div>
+          <div class="level2"><a href="E204SelfUseofTraits.html">E204 Self Use of Traits</a></div>
+          <div class="level2"><a href="E205CycleinTraits.html">E205 Cycle in Traits</a></div>
+          <div class="level2"><a href="E206SatisfactionofBoundType.html">E206 Satisfaction of Bound Type</a></div>
+          <div class="level2"><a href="E208RequiredMethodsNotAvailable.html">E208 Required Methods Not Available</a></div>
+          <div class="level2"><a href="E210ConflictinMethods.html">E210 Conflict in Methods</a></div>
+          <div class="level2"><a href="E211TwoorMoreModifications.html">E211 Two or More Modifications</a></div>
+          <div class="level2"><a href="E212MethodsNotAvailable.html">E212 Methods Not Available</a></div>
+          <div class="level2"><a href="E213BidirectionalAssociationinTraits.html">E213 Bidirectional Association in Traits</a></div>
+          <div class="level2"><a href="E214TwoIdenticalParameterNames.html">E214 Two Identical Parameter Names</a></div>
+          <div class="level2"><a href="E215TemplateParameterNotAvailable.html">E215 Template Parameter Not Available</a></div>
+          <div class="level2"><a href="E216TwiceBindingofaParameter.html">E216 Twice Binding of a Parameter</a></div>
+          <div class="level2"><a href="E217ConflictinTypesofAttributes.html">E217 Conflict in Types of Attributes</a></div>
+          <div class="level2"><a href="W218ConflictinAttributes.html">W218 Conflict in Attributes</a></div>
+          <div class="level2"><a href="E219NoBindingforParameters.html">E219 No Binding for Parameters</a></div>
+          <div class="level2"><a href="E220TwoMethodsWiththeSameName.html">E220 Two Methods With the Same Name</a></div>
+          <div class="level2"><a href="E221AvailabilityofBoundType.html">E221 Availability of Bound Type</a></div>
+          <div class="level2"><a href="E222SatisfactionofRequiredInterfaces.html">E222 Satisfaction of Required Interfaces</a></div>
+          <div class="level2"><a href="E223AvailabilityofTypes.html">E223 Availability of Types</a></div>
+          <div class="level2"><a href="E224MultipleInheritanceConstraint.html">E224 Multiple Inheritance Constraint</a></div>
+          <div class="level2"><a href="E225SatisfactionofBoundType.html">E225 Satisfaction of Bound Type</a></div>
+          <div class="level2"><a href="W228DifferentInitialStates.html">W228 Different Initial States</a></div>
+          <div class="level2"><a href="E229TwoTimesRenaming.html">E229 Two Times Renaming</a></div>
+          <div class="level2"><a href="E230AvailabilityofStateMachines.html">E230 Availability of State Machines</a></div>
+          <div class="level2"><a href="E231AvailabilityofEvents.html">E231 Availability of Events</a></div>
+          <div class="level2"><a href="E232AvailabilityofEvents.html">E232 Availability of Events</a></div>
+          <div class="level2"><a href="E233RemovingInitialState.html">E233 Removing Initial State</a></div>
+          <div class="level2"><a href="E234CompositingNon-DeterministicTransitions.html">E234 Compositing Non-Deterministic Transitions</a></div>
+          <div class="level2"><a href="E235SuperCallConflict.html">E235 SuperCall Conflict</a></div>
+          <div class="level2"><a href="E236TwoStateEntries.html">E236 Two State Entries</a></div>
+          <div class="level2"><a href="E237ComposingTwoStateEntries.html">E237 Composing Two State Entries</a></div>
+          <div class="level2"><a href="W301TracingEntityNotFound.html">W301 Tracing Entity Not Found</a></div>
+          <div class="level2"><a href="W302TracerNotRecognized.html">W302 Tracer Not Recognized</a></div>
+          <div class="level2"><a href="W901DeprecatedKeywordConstant.html">W901 Deprecated Keyword Constant</a></div>
+        </div>        <div class="level1"><a title="Explanation of error and warning messages, along with examples of the problem and how to fix it - messages with numbers 1000 and above" href="javascript:showHide('ErrorsandWarnings1000+');">Errors and Warnings 1000+</a></div>
+        <div id="ErrorsandWarnings1000+" style="display: none;">          <div class="level2"><a href="E3500InvalidTemplateName.html">E3500 Invalid Template Name</a></div>
+          <div class="level2"><a href="E3501TemplateMethodCannotBeMain.html">E3501 Template Method Cannot Be Main</a></div>
+          <div class="level2"><a href="E3502TemplateNameCannotBeResolved.html">E3502 Template Name Cannot Be Resolved</a></div>
+          <div class="level2"><a href="E3503TemplateReferenceRefersToItself.html">E3503 Template Reference Refers To Itself</a></div>
+          <div class="level2"><a href="E3504TemplateReferenceCannotBeResolved.html">E3504 Template Reference Cannot Be Resolved</a></div>
+          <div class="level2"><a href="E3505TemplateReferenceCycle.html">E3505 Template Reference Cycle</a></div>
+          <div class="level2"><a href="W3506DuplicateTemplateName.html">W3506 Duplicate Template Name</a></div>
+          <div class="level2"><a href="E3507DuplicateEmitMethodName.html">E3507 Duplicate Emit Method Name</a></div>
+          <div class="level2"><a href="E3607PortNameCannotBeResolved.html">E3607 Port Name Cannot Be Resolved</a></div>
+          <div class="level2"><a href="E4500TagNotClosedCorrectly.html">E4500 Tag Not Closed Correctly</a></div>
+          <div class="level2"><a href="W1002-3UnexpectedEmbeddedCode.html">W1002-3 Unexpected Embedded Code</a></div>
+          <div class="level2"><a href="E1004-5MessagesnotasExpected.html">E1004-5 Messages not as Expected</a></div>
+          <div class="level2"><a href="W1006StateMachineNotParsed.html">W1006 State Machine Not Parsed</a></div>
+          <div class="level2"><a href="W1007ElementNotParsed.html">W1007 Element Not Parsed</a></div>
+          <div class="level2"><a href="W1008MethodNotParsed.html">W1008 Method Not Parsed</a></div>
+          <div class="level2"><a href="W1009GetterSetterMethodNameConflict.html">W1009 Getter Setter Method Name Conflict</a></div>
+          <div class="level2"><a href="W1010ConstraintSyntaxCouldNotBeProcessed.html">W1010 Constraint Syntax Could Not Be Processed</a></div>
+          <div class="level2"><a href="W1011InvalidAssociationClassKey.html">W1011 Invalid Association Class Key</a></div>
+          <div class="level2"><a href="W1012MethodNotFoundInjection.html">W1012 Method Not Found Injection</a></div>
+          <div class="level2"><a href="W1013ParameterSpecificationDoesNotApply.html">W1013 Parameter Specification Does Not Apply</a></div>
+          <div class="level2"><a href="W1014ExcludedMethodNotFoundInjection.html">W1014 Excluded Method Not Found Injection</a></div>
+          <div class="level2"><a href="E15xxParsingError.html">E15xx Parsing Error</a></div>
+          <div class="level2"><a href="W1016UnmatchedorExtraBrackets.html">W1016 Unmatched or Extra Brackets</a></div>
+          <div class="level2"><a href="W1510UseFileMissing.html">W1510 Use File Missing</a></div>
+          <div class="level2"><a href="E1511InlineMixsetIsNotSupported.html">E1511 Inline Mixset Is Not Supported</a></div>
+          <div class="level2"><a href="W1512CodeLabelsInsideMethodAreNotUnique.html">W1512 Code Labels Inside Method Are Not Unique</a></div>
+          <div class="level2"><a href="W1513MixsetUsedWithNoDeclaration.html">W1513 Mixset Used With No Declaration</a></div>
+          <div class="level2"><a href="W20xxErrorinEmbeddedCode.html">W20xx Error in Embedded Code</a></div>
+          <div class="level2"><a href="E9x00CompilerError.html">E9x00 Compiler Error</a></div>
+          <div class="level2"><a href="PageBeingDeveloped.html">Page Being Developed</a></div>
+          <div class="level2"><a href="W9999FeatureUnderDevelopment.html">W9999 Feature Under Development</a></div>
+        </div>        <div class="level1"><a title="Certain situations that throw exceptions in runtime code" href="javascript:showHide('RuntimeExceptions');">Runtime Exceptions</a></div>
+        <div id="RuntimeExceptions" style="display: none;">          <div class="level2"><a href="RE001ViolationofImmutability.html">RE001 Violation of Immutability</a></div>
+          <div class="level2"><a href="RE002ViolationofAssociationMultiplicity.html">RE002 Violation of Association Multiplicity</a></div>
+          <div class="level2"><a href="RE003ViolationofUniqueness.html">RE003 Violation of Uniqueness</a></div>
+        </div>        <div class="level1"><a title="Capabilities for Umple code to contain internal assertions and tests, including tests that test the validity of models" href="javascript:showHide('Tests');">Tests</a></div>
+        <div id="Tests" style="display: none;">          <div class="level2"><a href="BasicTestcase.html">Basic Testcase</a></div>
+          <div class="level2"><a href="AutomaticTest.html">Automatic Test</a></div>
+          <div class="level2"><a href="TestwithMixset.html">Test with Mixset</a></div>
+          <div class="level2"><a href="GenericTesting.html">Generic Testing</a></div>
+        </div>
+<div class="level1"><a href="UmpleUserManualCombined.html">Combined Version</a></div>
+<div class="level1"><a title="Click here to open an editor in Github on the original source for this manual page.
+You can submit a pull request after making your changes" href="https://github.com/umple/umple/tree/master/build/reference/0101gettingStarted.txt">Edit on Github</a></div>
+<div class="level1">&nbsp; &nbsp;<a title="Hello World Examples
+
+Basic examples showing how Umple code is written" href="HelloWorldExamples.html">[Next]</a>&nbsp; &nbsp;</div>
+    </td>
+
+    <td class="dotSeparator"><img src="files/dots.gif" alt="list of dots"></td>
+
+      <td class="content">
+
+<span style="float: right">  <a title="Umple is led by Timothy Lethbridge, professor at the University of Ottawa. Much of the development has been by graduate students at uOttawa." href="https://www.uottawa.ca" target="uottawatab"><img src="files/uottawa_ver_black.png" alt="University of Ottawa logo / Université d'Ottawa" height="20px"></a></span>      <h2><i>User Manual &nbsp; &nbsp;<a title="Hello World Examples
+
+Basic examples showing how Umple code is written" href="HelloWorldExamples.html">[Next]</a>&nbsp; &nbsp;</i></h2>
+<div id="___gcse_0"><div class="gsc-control-cse gsc-control-cse-en"><div class="gsc-control-wrapper-cse" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table role="presentation" class="gsc-search-box" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id1"><table style="width: 100%; padding: 0px;" role="presentation" id="gs_id50" class="gstl_50 gsc-input" cellspacing="0" cellpadding="0"><tbody><tr><td id="gs_tti50" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="search" style="width: 100%; padding: 0px; border: medium none; margin: 0px; height: auto; background: rgb(255, 255, 255) url(&quot;https://www.google.com/cse/static/images/1x/en/branding.png&quot;) left center no-repeat; outline: none;" id="gsc-i-id1" dir="ltr" spellcheck="false"></td><td class="gsib_b"><div class="gsst_b" id="gs_st50" dir="ltr"><a class="gsst_a" href="javascript:void(0)" style="display: none;" title="Clear search box" role="button"><span class="gscb_a" id="gs_cb50" aria-hidden="true">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13" viewBox="0 0 13 13"><title>search</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg></button></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table></form><div class="gsc-results-wrapper-nooverlay"><div class="gsc-positioningWrapper"><div class="gsc-tabsAreaInvisible"><div aria-label="refinement" role="tab" class="gsc-tabHeader gsc-inline-block gsc-tabhActive">Web</div><span class="gs-spacer"> </span><div tabindex="0" aria-label="refinement" role="tab" class="gsc-tabHeader gsc-tabhInactive gsc-inline-block">Image</div><span class="gs-spacer"> </span></div></div><div class="gsc-positioningWrapper"><div class="gsc-refinementsAreaInvisible"></div></div><div class="gsc-above-wrapper-area-invisible"><div class="gsc-above-wrapper-area-backfill-container"></div><table role="presentation" class="gsc-above-wrapper-area-container" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-result-info-container"><div class="gsc-result-info-invisible"></div></td></tr></tbody></table></div><div class="gsc-adBlockInvisible"></div><div class="gsc-wrapper"><div class="gsc-adBlockInvisible"></div><div class="gsc-resultsbox-invisible"><div class="gsc-resultsRoot gsc-tabData gsc-tabdActive"><div><div class="gsc-expansionArea"></div></div></div><div class="gsc-resultsRoot gsc-tabData gsc-tabdInactive"><div><div class="gsc-expansionArea"></div></div></div></div></div></div></div></div></div>
+      <h1><font size="+1">Getting Started</font></h1>
+      <p class="description"></p><p>Umple is a technology for Model-Oriented Programming.</p>
+
+<p>The Umple home page is <a href="https://www.umple.org">https://www.umple.org</a>. To download Umple for the command line or an IDE, go to <a href="https://umple.org/dl">https://umple.org/dl</a>. To use Umple online as a web app, go to <a href="https://try.umple.org">https://try.umple.org</a></p>
+
+<p>Umple allows you to do the following things: </p>
+
+<ol>
+
+<li><b>Create UML models textually</b>. Rather than drawing diagrams, it can often be faster to create UML 
+<a href="ClassDefinition.html">class</a> diagrams and <a href="BasicStateMachines.html">state machines</a> using Umple's textual format that looks 
+just like programming-language code. Editing, comparing and many other 
+tasks can often be done faster using this textual form. Umple has <a href="UmpleTools.html">tools</a> that 
+allow you to edit the model textually (and see changes appear in a UML 
+diagram) or to edit a UML diagram (and see changes appear in the textual 
+code)</li>
+
+<br>
+
+<li><b>Add UML modeling constructs directly into your programs, when you 
+are programming in Java, PHP, C++ or  Ruby</b>. For example, when programming in 
+Java, you can directly add a UML <a href="BasicStateMachines.html">state machine</a> into your code. This can 
+save you a lot of coding. The Umple compiler acts as a pre-processor, 
+first compiling the state machine to Java, and then compiling the Java 
+into an executable program.</li>
+
+<br>
+
+
+<li><b>Generate high quality code from UML models</b>. The Umple 
+compiler creates code in languages like Java, C++ and PHP that is of top 
+quality. It is a goal of the Umple team to create the best open-source 
+code-generation tool available. The generated code never needs to be 
+edited and never should be edited, since You can always embed native methods  (i.e. 
+Java, Php, etc.) in the Umple, or else use Umple's <a href="BeforeandAfterStatements.html">aspect oriented</a> 
+capabilities to alter the effects of generated code. As a result the concept of 'round 
+tripping' is obsolete in Umple. You should treat Umple-generated code just 
+like you would treat bytecode-or machine code, i.e. as a development 
+artifact that can be thrown away and recreated. Nevertheless, we have 
+endeavoured to make the generated code as clean and readable as possible 
+so you can verify its correctness and learn how it works.</li>
+
+<br>
+
+<li><b>Incrementally Umplify a program.</b> A program in a base 
+language like Java should pass through the Umple compiler unchanged. As a 
+result you can incrementally refactor such a program, stripping off 
+complex code for such things as associations, state machines and certain patterns, 
+and replacing it by simple Umple code. This can be done bit-by-bit, while 
+testing thoroughly at each step. When you are done, you will have a 
+program that should not only be more compact, but also more reliable and 
+more maintainable. In addition, you have the benefit of being able to view 
+UML diagrams of your program.</li>
+
+</ol>
+
+<p>The term "Umple" derives from "UML Programming Language", "Simple" 
+and "Ample".</p>
+
+<p>The quickest way to get started with Umple is to go to <a href="https://try.umple.org/">UmpleOnline</a>, and 
+select an example listed under 'EXAMPLES'. Each of the user manual
+pages also allows you to instantly load the examples into UmpleOnline.</p>
+
+<p>To learn more about Umple, read the links on the left of this page, or 
+go to the <a href="https://www.umple.org">Umple Home page</a>. In 
+particular, you should browse the <a href="https://github.com/umple/Umple/wiki/Tutorials">tutorials and videos 
+about Umple</a></p>
+
+<hr>
+
+<p><a href="PrivacyandRisks.html">See here for the statement regarding <b>privacy and other risks when using Umple</b>.</a></p>
+
+<hr>
+
+<i>If you are an ordinary user and notice an error in this manual, <a href="https://github.com/umple/Umple/issues">please report it using our issue tracking system here</a> Flag it as a defect in the user documentation. If you still have trouble after reading this manual, please contact our <a href="mailto:umple-help@googlegroups.com"> help mailing list and post a request for help</a>. If you are a contributer, you can click on the link 'edit in github' found at the bottom left of each manual page; also <a href="https://github.com/umple/Umple/wiki/Deploying">instructions on how to edit this manual are here</a>.</i><p></p>
+
+
+<span class="notranslate" translate="no">      <h3>YouTube Video with Additional Explanation</h3>
+  <iframe src="https://www.youtube.com/embed/xD-zTpB_zyQ?rel=0" allow="autoplay; encrypted-media" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+&nbsp; <br> &nbsp; <br>
+</span>
+
+      </td>
+    </tr>
+  </tbody></table><link type="text/css" rel="stylesheet" href="syntaxhighlighter/SyntaxHighlighter.css">
+<script language="javascript" src="syntaxhighlighter/shCore.js"></script>
+<script language="javascript" src="syntaxhighlighter/shBrushCSharp.js"></script>
+<script language="javascript" src="syntaxhighlighter/shBrushXml.js"></script>
+<script language="javascript">
+dp.SyntaxHighlighter.ClipboardSwf = 'syntaxhighlighter/clipboard.swf';
+dp.SyntaxHighlighter.HighlightAll('code');
+</script>
+<script language="javascript">
+showHide("CommentsandRequirements");
+showHide("Directives");
+showHide("ClassesandInterfaces");
+showHide("Attributes");
+showHide("Enumerations");
+showHide("Associations");
+showHide("Constraints");
+showHide("Patterns");
+showHide("StateMachines");
+showHide("Methods");
+showHide("Traits");
+showHide("AspectOrientation");
+showHide("MixsetsandFilters");
+showHide("GenerationTemplates");
+showHide("Concurrency");
+showHide("Distribution");
+showHide("CompositeStructure");
+showHide("Tracing");
+showHide("UmpleOnline");
+showHide("Generators");
+showHide("Umplification");
+showHide("Examples");
+showHide("Tips");
+showHide("Misc");
+showHide("GrammarToDefineUmple");
+showHide("GeneratedAPI");
+showHide("ErrorsandWarnings1-50");
+showHide("ErrorsandWarnings51-99");
+showHide("ErrorsandWarnings100-999");
+showHide("ErrorsandWarnings1000+");
+showHide("RuntimeExceptions");
+showHide("Tests");
+
+</script>
+<script>
+  (function() {
+    var cx = '014719661006816508785:azyvserhylq';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout:google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" alt="" width="24" height="24"></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">Original text</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Rate this translation</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Your feedback will be used to help improve Google Translate</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Good translation" aria-label="Good translation" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Poor translation" aria-label="Poor translation" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0"></iframe></div></div></div>
+
+<div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><iframe class="VIpgJd-ZVi9od-xl07Ob-OEVmcd skiptranslate" title="Language Translate Widget" style="visibility: visible; box-sizing: content-box; width: 1287px; height: 274px; display: none;" frameborder="0"></iframe><table style="width: 167px; display: none; top: 70px; left: 279px; position: absolute;" role="presentation" class="gstl_50 gssb_c" cellspacing="0" cellpadding="0"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table></body></html>

@@ -1,0 +1,11 @@
+# Nmap 7.93 scan initiated Sat Dec 16 10:29:41 2023 as: /usr/bin/nmap -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_185.136.65.6.nmap --system-dns --stats-every 3s 185.136.65.6
+Nmap scan report for web2v1.flowmailer.net (185.136.65.6)
+Host is up (0.16s latency).
+Not shown: 65533 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Sat Dec 16 10:34:10 2023 -- 1 IP address (1 host up) scanned in 269.21 seconds

@@ -1,0 +1,2 @@
+azurewebtools.autovu.cloud
+ptms-d-es.autovu.cloud

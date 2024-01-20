@@ -1,0 +1,16 @@
+# Nmap 7.93 scan initiated Wed Dec  6 13:59:12 2023 as: /usr/bin/nmap -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_178.33.233.189.nmap --system-dns --stats-every 3s 178.33.233.189
+Nmap scan report for ns375727.ip-178-33-233.eu (178.33.233.189)
+Host is up (0.15s latency).
+Not shown: 65519 closed tcp ports (reset), 9 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+111/tcp   open  rpcbind
+2377/tcp  open  swarm
+5432/tcp  open  postgresql
+7946/tcp  open  unknown
+24007/tcp open  unknown
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Wed Dec  6 14:01:29 2023 -- 1 IP address (1 host up) scanned in 137.29 seconds

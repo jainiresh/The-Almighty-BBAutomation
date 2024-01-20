@@ -1,0 +1,3 @@
+Protocol,Port,Domain,Request Status,Screenshot Path, Source Path
+http,80,floridashorestruckcenter.com,Successful,/home/jai/Documents/automations/programs/floridashorestruckcenter.com/Eyewitness/screens/http.www.floridashorestruckcenter.com.png,/home/jai/Documents/automations/programs/floridashorestruckcenter.com/Eyewitness/source/http.floridashorestruckcenter.com.txt
+http,80,www.floridashorestruckcenter.com,Successful,/home/jai/Documents/automations/programs/floridashorestruckcenter.com/Eyewitness/screens/http.www.floridashorestruckcenter.com.png,/home/jai/Documents/automations/programs/floridashorestruckcenter.com/Eyewitness/source/http.www.floridashorestruckcenter.com.txt

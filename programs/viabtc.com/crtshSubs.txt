@@ -1,0 +1,5 @@
+saas-proxy.viabtc.com
+support.viabtc.com
+test-coinex.viabtc.com
+test.viabtc.com
+www.viabtc.com

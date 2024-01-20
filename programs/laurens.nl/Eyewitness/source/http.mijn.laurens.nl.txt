@@ -1,0 +1,140 @@
+<html class="js-focus-visible js_keyEvent" data-js-focus-visible="" lang="nl"><head>
+                <meta charset="utf-8">
+                <meta name="copyright" content="Copyright 2024 triptic (http://www.triptic.nl). All Rights Reserved.">
+                <meta name="generator" content="iris 4.17.16">
+                <meta name="creator" content="triptic bv">
+                <meta name="format-detection" content="telephone=no,date=no,address=no,email=no">
+                <base href="https://mijn.laurens.nl/"><link rel="stylesheet" href="content/builds/ZaZRtw/custom/triptic-projects/laurens/Maintemplate/Intranet/css/main-visitor.scss.css"><link rel="stylesheet" href="content/builds/ZaZRtw/node_modules/tippy.js/dist/tippy.css"><link rel="stylesheet" href="content/builds/ZaZRtw/node_modules/tippy.js/animations/shift-away.css"><link rel="stylesheet" href="content/builds/ZaZRtw/packages/iris/iris/Maintemplate/Intranet/css/vendor/tippy/tippy-iris.scss.css"><link rel="stylesheet" href="content/builds/ZaZRtw/packages/iris/iris/Maintemplate/Intranet/css/components/onboarding-tip.scss.a34383c7fd06f64d153cb70fb098cb56779910b2.css"><script type="text/javascript" data-qdo-original="bundles/head.js" src="content/builds/ZaZRtw/bundles/head.js"></script><script type="text/javascript">
+                var qdo_clientStartTime = new Date(); // this must be set as early as possible to calculate qdo.serverTime better
+                (function() {
+                    'use strict';
+                    Sentry.init({"dsn":"https:\/\/dummy:dummy@localhost:9000\/2","allowUrls":["https:\/\/mijn.laurens.nl"],"tunnel":"\/packages\/iris\/iris\/reportJavascriptError.php?cm_lg=nl","sendClientReports":false});
+                })();
+            </script><title> - Iris</title>
+        <meta name="referrer" content="same-origin"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="icon" type="image/png" sizes="16x16" href="content/builds/ZaZRtw/custom/triptic-projects/laurens/Maintemplate/Intranet/images/favicons/favicon-16tf.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="content/builds/ZaZRtw/custom/triptic-projects/laurens/Maintemplate/Intranet/images/favicons/favicon-32tf.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="content/builds/ZaZRtw/custom/triptic-projects/laurens/Maintemplate/Intranet/images/favicons/favicon-188b.png">
+        <link rel="manifest" href="content/manifest/8.webmanifest?1705398881">
+        <meta name="msapplication-TileImage" content="content/builds/ZaZRtw/custom/triptic-projects/laurens/Maintemplate/Intranet/images/favicons/favicon-16tf.png">
+        <meta name="msapplication-TileColor" content="#DF3557">
+        <meta name="theme-color" content="#DF3557"></head><body><div class="app-visitor app-visitor--login app-visitor--first-load" id="iris_iris_sitewrap" data-test-id="sitewrap">
+            <noscript class="browser-javascript">
+                <p><strong>Oeps, om dit intranet optimaal te bekijken moet je browser JavaScript ondersteunen.</strong></p>
+                <p>JavaScript staat momenteel uit in je browser. Schakel JavaScript in.</p>
+            </noscript>
+            <div id="iris-system-notifications" class="system-notifications system-notifications-sticky environment-state">
+                <div id="environment-state"></div>
+            </div><div class="visitor__wrapper">
+                <div class="visitor__content" id="content">
+                    <header class="visitor__header clear" role="banner"><div class="header__logo-wrapper left"><img src="content/builds/ZaZRtw/custom/triptic-projects/laurens/Maintemplate/Intranet/images/logo.svg" alt="Logo Iris" width="64" height="64"></div>
+                    </header><div id="inner" data-test-id="inner" role="main"><div class="userlogin"><form id="loginForm" action="/?cm_redir=1&amp;action=ProcessLogin&amp;cm_apeo=529" method="post" class="formview" accept-charset="utf-8"><input type="hidden" name="formdata[loginForm][form_xsrf_token]" id="formdata_loginForm__form_xsrf_token" value="81d7a4c68cb32d763c2da91d5c"><h1 class="sr-only">Inloggen</h1><fieldset>
+                    <legend class="sr-only">Inloggen formulier</legend><div class="formrow">
+                <div class="form__col">
+                    <label for="formdata_loginForm__username">Gebruikersnaam of e-mailadres&nbsp;<abbr class="required" title="Verplicht veld" aria-label="Verplicht veld">*</abbr></label>
+                </div>
+                <div class="form__col"><input type="text" name="formdata[loginForm][username]" id="formdata_loginForm__username" value="" maxlength="255" class="focus-visible" data-focus-visible-added=""></div>
+            </div>
+<div class="formrow">
+                <div class="form__col">
+                    <label for="formdata_loginForm__password">Wachtwoord&nbsp;<abbr class="required" title="Verplicht veld" aria-label="Verplicht veld">*</abbr></label>
+                </div>
+                <div class="form__col"><div class="input-group"><input type="password" name="formdata[loginForm][password]" id="formdata_loginForm__password" value="" maxlength="255" autocomplete="current-password"><span class="button-addon"><button type="button" id="formdata_loginForm__password_togglePassword" class="button button--transparent button-expand" aria-expanded="false" aria-controls="formdata_loginForm__password">
+                        <span class="button-expand__not-expanded" aria-label="Toon wachtwoord als platte tekst. Let op: hierdoor wordt uw wachtwoord visueel op het scherm weergegeven." title="Toon wachtwoord als platte tekst. Let op: hierdoor wordt uw wachtwoord visueel op het scherm weergegeven.">
+                            <svg class="icon icon-eye" aria-hidden="true"><use href="content/builds/ZaZRtw/packages/iris/iris/Maintemplate/Intranet/images/sprite_icons_thin.svg#eye"></use></svg>
+                        </span>
+                        <span class="button-expand__expanded" aria-label="Verberg wachtwoord als platte tekst." title="Verberg wachtwoord als platte tekst.">
+                            <svg class="icon icon-eye-slash" aria-hidden="true"><use href="content/builds/ZaZRtw/packages/iris/iris/Maintemplate/Intranet/images/sprite_icons_thin.svg#eye-slash"></use></svg>
+                        </span>
+                    </button>
+                </span>
+                <script type="text/javascript">
+                    $(function() {
+                        'use strict';
+                        let htmlId = "formdata_loginForm__password";
+                        const $passwordField = $('#'+$.escapeSelector(htmlId));
+                        const $passwordFieldToggler = $('#'+$.escapeSelector(htmlId+'_togglePassword'));
+                        $passwordFieldToggler.click(function() {
+                            if ($passwordField.attr('type') === 'password') {
+                                $passwordField.attr('type', 'text');
+                                $(this).attr('aria-expanded','true');
+                            } else {
+                                $passwordField.attr('type', 'password');
+                                $(this).attr('aria-expanded','false');
+                            }
+                        });
+                    });
+                </script></div><script type="text/javascript">
+                $(function() {
+                    'use strict';
+                    let htmlId = "formdata_loginForm__password";
+                    const $passwordField = $('#'+$.escapeSelector(htmlId));
+                    const $capsLockWarning = $('#'+$.escapeSelector(htmlId+'_capsLockWarning'));
+
+                    $passwordField.bind('keyup', function (e) {
+                        if (e.which === 20) {
+                            $capsLockWarning.toggle(!e.originalEvent.getModifierState('CapsLock'));
+                        }
+                    });
+                    $passwordField.bind('keypress', function (e) {
+                        $capsLockWarning.toggle(e.which >= 65 && e.which <= 90 && !e.originalEvent.getModifierState('Shift'));
+                    });
+                });
+            </script><div id="formdata_loginForm__password_capsLockWarning" class="help-text error" style="display: none;">Caps Lock is ingeschakeld</div></div>
+            </div>
+<div class="formrow">
+                    <label for="formdata_loginForm__remember_login">Inlog onthouden</label><div class="switch">
+                <input type="checkbox" name="formdata[loginForm][remember_login]" id="formdata_loginForm__remember_login" value="1">
+                <span class="switch__toggle"></span></div><button type="button" role="button" class="button button--transparent button--rounded onboarding-tip-trigger-button remember-password-tooltip js_onboardingTrigger" aria-expanded="false" aria-controls="rememberLoginOnboardingTip" data-trigger="rememberLoginOnboardingTip" title="Uitleg over inlog onthouden" aria-label="Uitleg over inlog onthouden">
+                        <svg class="icon icon-info-circle" aria-hidden="true"><use href="content/builds/ZaZRtw/packages/iris/iris/Maintemplate/Intranet/images/sprite_icons_thin.svg#info-circle"></use></svg>
+                    </button>
+                    <div class="onboarding-tip-placeholder">
+                        <div class="onboarding-tip onboarding-tip__arrow--top onboarding-tip--radius" id="rememberLoginOnboardingTip" style="display: none;">
+                            <div class="onboarding-tip__group">
+                                <div class="onboarding-tip__body">Als je dit aanvinkt, word je de volgende keer automatisch ingelogd op het intranet. Makkelijk! Dat werkt 14 dagen, maar je kunt 't in de tussentijd uitschakelen door op 'Uitloggen' te klikken.<br><br>Je blijft aangemeld dankzij een cookiebestand: je inloggegevens worden niet opgeslagen. We adviseren je om deze optie niet te gebruiken als je inlogt vanaf een openbare computer.</div>
+                                <button type="button" class="button button--transparent onboarding-tip__close-button js_onboardingClose" aria-label="Sluit uitleg over inlog onthouden" title="Sluiten">
+                                    <svg class="icon icon-times" aria-hidden="true"><use href="content/builds/ZaZRtw/packages/iris/iris/Maintemplate/Intranet/images/sprite_icons_thin.svg#times"></use></svg>
+                                </button>
+                            </div>
+                            <div class="onboarding-tip__arrow" id="rememberLoginOnboardingTipArrow"></div>
+                        </div>
+                    </div></div><div class="formrow">
+                        <div class="button-group button-group--full button-group--full-button-nogrow"><button class="button right" type="submit">
+                                <svg class="icon icon-check">
+                                    <use href="content/builds/ZaZRtw/packages/iris/iris/Maintemplate/Intranet/images/sprite_icons_thin.svg#check"></use>
+                                </svg> Inloggen</button><a class="button button--link button--link--underline forgot-passwordlink" href="/wachtwoord-vergeten">Problemen met inloggen?</a></div>
+                    </div></fieldset></form></div></div>
+                </div>
+            </div><div class="app__splashscreen"></div></div><div class="click-fallback-layer"></div><script type="text/javascript" data-qdo-original="bundles/main.js" src="content/builds/ZaZRtw/bundles/main.js"></script><script type="text/javascript" data-qdo-original="bundles/main_nl.js" src="content/builds/ZaZRtw/bundles/main_nl.js"></script><script type="text/javascript" data-qdo-original="custom/qdo/qdo/Custom/dictionaries/nl.js" src="content/builds/ZaZRtw/custom/qdo/qdo/Custom/dictionaries/nl.js"></script><script type="text/javascript" data-qdo-original="packages/iris/iris/Authentication/Template/js/UserLogin.js" src="content/builds/ZaZRtw/packages/iris/iris/Authentication/Template/js/UserLogin.js"></script><script type="text/javascript">
+                qdo.init(function() {
+                    qdo.registerModule('forms', function() {
+                        qdo.modules.forms.initForm('loginForm', 'loginForm', {"username":{"type":"text","htmlId":"formdata_loginForm__username","jsFiles":[]},"password":{"type":"passwordcheck","htmlId":"formdata_loginForm__password","extraValues":{"options":{"htmlId":"formdata_loginForm__password","formId":"loginForm","userFieldHtmlId":"formdata_loginForm__username","passwordDummy":"********"}},"jsFiles":[],"resetValue":""},"remember_login":{"type":"checkbox","htmlId":"formdata_loginForm__remember_login","jsFiles":[]}});
+                    });
+                });
+            </script><script type="text/javascript">
+                $(function() {
+                    'use strict';
+                    tippy.delegate('body', {
+                        target: '[title]:not([title=""]):not([title=" "])',
+                        animation: 'shift-away',
+                        arrow: true,
+                        theme: 'iris',
+                        touch: false,
+                        inlinePositioning: true,
+                        aria: {
+                            content: null, // 'auto' | 'describedby' | 'labelledby' | null,
+                            expanded: false, // 'auto' | boolean,
+                        },
+                        content: function (reference) {
+                            const $element = $(reference);
+                            const title = $element.attr('title');
+                            $element.removeAttr('title');
+                            $element.attr('data-removed-title', title);
+                            return title;
+                        }
+                    });
+                    $('html').addClass('js_keyEvent');
+                });
+            </script><script type="text/javascript">
+                $(function() {
+                        qdo.init({"displayErrors":false,"currentSitetreeItemId":529,"contentSitetreeItemId":529,"currentSitePath":[529],"currentContenttypeName":"user_login","currentSectionId":8,"isIrisSection":true,"mainTemplateName":"intranet","mainTemplateBaseName":"intranet","mainTemplatePath":"custom\/triptic-projects\/laurens\/Maintemplate\/Intranet","languageId":3,"languageCode":"nl","pingUrl":"\/packages\/qdo\/qdo\/ping.php?cm_lg=nl","pingInterval":28800,"serverTime":1705502024.091496,"user":{"isVisitor":true,"id":null},"timezone":"Europe\/Amsterdam","contentBodyErrorHtml":"<div class=\"wrapped--list\">\n            <div>&nbsp;<\/div>\n            <h1 class=\"heading-2 font-color-base\">Oeps, er gaat hier iets mis<\/h1>\n            <div class=\"wysiwyg\"><div data-qdo-type=\"feedbackAlert\" class=\"feedback-alert\"><p>Deze functionaliteit is even niet beschikbaar. Je kunt wel nog gebruik maken van de andere functionaliteiten van het intranet of het later nog eens proberen.<\/p><\/div><\/div><\/div>","build":"ZaZRtw","buildUrl":"content\/builds\/ZaZRtw\/","buildUrlFull":"https:\/\/mijn.laurens.nl\/content\/builds\/ZaZRtw\/","jsBundles":[],"javascriptSourceMapping":[],"sessionToken":"khGjnt3o5Kbv3mAENEi57FGAC370TxjoEXCAD60E","pageLoadId":14610,"isPreview":null,"reconnectUrl":"\/packages\/qdo\/qdo\/Core\/reconnect.php?cm_lg=nl"});                    });            </script><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button type="button" id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>

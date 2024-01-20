@@ -1,0 +1,14 @@
+# Nmap 7.93 scan initiated Fri Dec 15 14:43:48 2023 as: /usr/bin/nmap -sCV -p22,33593 --open -oN nmap/Full_Extra_165.232.97.47.nmap --system-dns --stats-every 2s 165.232.97.47
+Nmap scan report for 165.232.97.47
+Host is up (0.19s latency).
+
+PORT      STATE SERVICE    VERSION
+22/tcp    open  ssh        OpenSSH 8.2p1 Ubuntu 4ubuntu0.4 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 8631a7ec1ea2a5a5b3784ff0790fb89c (RSA)
+|_  256 b8bee7cdd81e45cebf9efd4712952bf2 (ED25519)
+33593/tcp open  tcpwrapped
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Dec 15 14:43:55 2023 -- 1 IP address (1 host up) scanned in 6.50 seconds

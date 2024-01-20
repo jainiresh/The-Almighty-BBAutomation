@@ -1,0 +1,22 @@
+# Nmap 7.93 scan initiated Wed Nov  8 11:27:22 2023 as: /usr/bin/nmap -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_104.16.51.111.nmap --system-dns --stats-every 3s 104.16.51.111
+Nmap scan report for 104.16.51.111
+Host is up (0.022s latency).
+Not shown: 65522 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Wed Nov  8 11:31:44 2023 -- 1 IP address (1 host up) scanned in 262.87 seconds

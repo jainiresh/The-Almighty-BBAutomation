@@ -1,0 +1,963 @@
+<html><head>
+	<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>OPPO Developer</title>
+<link rel="stylesheet" href="/static/styles/vendor-f57feadf8f.css">
+
+<!--[if lt IE 8]>
+<link rel="stylesheet" href="/static/styles/bootstrap_ie7-0859c2a72d.css">
+<![endif]-->
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="/static/scripts/iehack-0b2374952c.js"></script>
+<![endif]-->
+
+<link rel="stylesheet" href="/static/styles/common-2231315472.css">
+
+	<link rel="stylesheet" href="/static/styles/home-bde83944ca.css">
+</head>
+
+<body>
+
+	
+	<header class="openpl-header header-bg navbar-default navbar-static-top nav-main" role="navigation">
+            <div class="alert alert-danger text-center" role="alert" style="border-radius: 0;">It is recommended that you use
+        the Chrome browser to ensure a better experience.<span class="close-alert-btn">x</span></div>
+        <div class="top-bar dis-flex pd-lr-60-40">
+        <div class="top-link">
+                            <a href="https://open.oppomobile.com/">中国</a>
+                    </div>
+    </div>
+    <div class="hd-main dis-flex pd-lr-60-40">
+        <div class="hd-nav dis-flex">
+            <h1><a href="/"><img src="/static/images/logo.png?20210127" alt="" width="100%"></a></h1>
+            
+            <nav id="navMenu">
+                <ul class="dis-flex">
+                    <li class="nav-item"><a href="/">Home</a></li>
+                    <li data-toggle="app" class="nav-item"><a href="javascript:void(0);">Application service<i class="iconfont icon-os-icon-arrow-down openplfont-down"></i></a></li>
+                    <li class="nav-item"><a href="/wiki/doc/index">Document Center</a></li>
+                    <!-- <li class="nav-item"><a href="javascript:void(0);">Online Activity</a></li> -->
+                    <li class="nav-item"><a href="/user/admin/qualification">Management Center</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="hd-menu">
+            <ul class="login-menu dis-flex">
+                                                <li class="login-btn" onclick="jump()"><a href="javascript:void(0);">Login</a></li>
+                <li class="registered" onclick="register()"><a href="javascript:void(0);">Register</a></li>
+                                
+            </ul>
+        </div>
+    </div>
+    <div id="navDropdown" class="nav-dropdown" style="display:none;">
+        <div data-target="app" class="dropdownItem dropdown-category-container">
+            <div class="dis-flex">
+                <div class="category-column">
+                    <div class="item-title">Application service</div>
+                    <ul class="item-ul">
+                        <li>
+                            <a href="/newservice/capability?pagename=app_store">App Market</a>
+                        </li>
+                        <li>
+                            <a href="/newservice/capability?pagename=game_center">Game Center</a>
+                        </li>
+                        <li>
+                            <a href="/newservice/capability?pagename=theme_store">Theme Store</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/newservice/capability?pagename=h5game">HeyFun</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="category-column">
+                    <div class="item-title">Development service</div>
+                    <ul class="item-ul">
+                        <li>
+                            <a href="/newservice/capability?pagename=cloudmachine">Remote  Phone</a>
+                        </li>                  
+                    </ul>
+                </div>
+                <div class="category-column">
+                    <div class="item-title">Mobile services</div>
+                    <ul class="item-ul">
+                        <li>
+                            <a href="/newservice/capability?pagename=push">Push</a>
+                        </li>
+                        <li>
+                            <a href="/newservice/capability?pagename=game_service">Game Services</a>
+                        </li>
+                        <li>
+                            <a href="/newservice/capability?pagename=hyper_boost">Hyper Boost</a>
+                        </li>
+                        <li><a href="/newservice/capability?pagename=cameraunit">CameraUnit</a></li>
+                        <!-- 物光引擎入口 -->
+                        <li><a href="https://developers.oppomobile.com/wiki/doc/index#id=129">PhysRay Engine</a></li>
+                    </ul>
+                </div>
+                <div class="category-column">
+                    <div class="item-title">Promotion service</div>
+                    <ul class="item-ul">
+                        <li>
+                            <a href="/newservice/capability?pagename=app_moment">App Review</a>
+                        </li>
+                        <!-- <li>
+                            <a href="/newservice/capability?pagename=adaptation">Customized Promotion</a>
+                        </li>    -->
+                        <li>
+                            <a href="/newservice/capability?pagename=preferences">User Benefit Cooperation</a>
+                        </li>                    
+                    </ul>
+                </div>
+                <!-- <div class="category-column">
+                    <div class="item-title">推广服务</div>
+                    <ul class="item-ul">
+                        <li>
+                            <a href="/newservice/capability?pagename=app_promotion">应用推广</a>
+                        </li>
+                        <li>
+                            <a href="/newservice/capability?pagename=app_first_issue">应用首发</a>
+                        </li>
+                        <li>
+                            <a href="/newservice/capability?pagename=app_moment">应用时刻</a>
+                        </li>
+                        <li>
+                            <a href="/newservice/capability?pagename=preferences">优惠精选</a>
+                        </li>
+                        <li>
+                            <a href="/newservice/capability?pagename=app_unitization">应用联运</a>
+                        </li>
+                        <li>
+                            <a href="/home/gravity/index">引力计划</a>
+                        </li>
+                    </ul>
+                </div> -->
+            </div>
+        </div>
+        <!-- <div data-target="iot" class="dropdownItem dropdown-category-container">
+            <div class="dis-flex">
+                <div class="category-column">
+                    <div class="item-title">AI & IoT</div>
+                    <ul class="item-ul">
+                        <li>
+                            <a href="/newservice/capability?pagename=iot">HeyThings IoT服务平台</a>
+                        </li>
+                        <li>
+                            <a href="/newservice/capability?pagename=breeno">Breeno 语音技能平台</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div> -->
+    </div>
+</header>
+<input type="hidden" value="https://id.heytap.com/index.html?region=EN&amp;callback=" name="login_url">
+<script>
+    var jumpUrl = "https%3A%2F%2Fdevelopers.oppomobile.com";
+
+    function jump() {
+        window.location.href = "https://id.heytap.com/index.html?region=EN&callback=" + jumpUrl;
+    }
+
+    function register() {
+        window.location.href = "https://id.heytap.com/register.html?region=EN&type=1&callback=" + jumpUrl;
+    }
+
+    function signOut() {
+        window.location.href = "/user/logout";
+        return false;
+    }
+</script>
+	<section class="banner">
+		<div class="swiper-container main-banner swiper-container-fade swiper-container-horizontal">
+			
+			<div class="swiper-wrapper" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" style="background: url(&quot;https://openfs.oppomobile.com/open/oop/202009/10/e9a3e75502f9684419de549e48f5a0b5.png&quot;) center center / cover no-repeat; width: 1354px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);" data-swiper-slide-index="4">
+					<a href="https://developers.oppomobile.com/wiki/doc/index#id=20" target="_blank"></a>					<div class="item-content">
+						<div class="position-block animated">
+							<h3 class="title" style="color: #ffffff;">
+								Frequently Asked Questions</h3>							<!--  -->
+							<p class="desc" style="color: #ffffff;">
+								For some common problems encountered daily, you can quickly find solutions in our document center</p>													</div>
+					</div>
+				</div> 
+								<div class="swiper-slide swiper-slide-active" style="background: url(&quot;https://openfs.oppomobile.com/open/oop/202307/11/147dade0c625499792bbf890bea0475f.png&quot;) center center / cover no-repeat; width: 1354px; transition-duration: 0ms; opacity: 1; transform: translate3d(-1354px, 0px, 0px);" data-swiper-slide-index="0">
+					<a href="https://www.oppo.com/en/events/coloroshack-2023/" target="_blank"></a>					<div class="item-content">
+						<div class="position-block animated">
+														<!--  -->
+																				</div>
+					</div>
+				</div>
+								<div class="swiper-slide swiper-slide-next" style="background: url(&quot;https://openfs.oppomobile.com/open/oop/202105/10/f9934856b6114162ad58b6a9bb1b11e9.jpg&quot;) center center / cover no-repeat; width: 1354px; transition-duration: 0ms; opacity: 0; transform: translate3d(-2708px, 0px, 0px);" data-swiper-slide-index="1">
+					<a href="https://developers.oppomobile.com/wiki/doc/index#id=94" target="_blank"></a>					<div class="item-content">
+						<div class="position-block animated">
+														<!--  -->
+																				</div>
+					</div>
+				</div>
+								<div class="swiper-slide" style="background: url(&quot;https://openfs.oppomobile.com/open/oop/202009/10/bf372f6d4aa9a2dd7f2bee1543f97075.png&quot;) center center / cover no-repeat; width: 1354px; transition-duration: 0ms; opacity: 0; transform: translate3d(-4062px, 0px, 0px);" data-swiper-slide-index="2">
+					<a href="https://developers.oppomobile.com/wiki/doc/index#id=4" target="_blank"></a>					<div class="item-content">
+						<div class="position-block animated">
+							<h3 class="title" style="color: #ffffff;">
+								Join us and become a member of OPPO developers</h3>							<!--  -->
+							<p class="desc" style="color: #ffffff;">
+								Here you can register for a free developer account，upload &amp; manage your apps，and distribute them through APP Market.</p>													</div>
+					</div>
+				</div>
+								<div class="swiper-slide" style="background: url(&quot;https://openfs.oppomobile.com/open/oop/202009/10/fb7d69a70694831b659492b13fed8c56.png&quot;) center center / cover no-repeat; width: 1354px; transition-duration: 0ms; opacity: 0; transform: translate3d(-5416px, 0px, 0px);" data-swiper-slide-index="3">
+					<a href="https://developers.oppomobile.com/wiki/doc/index#id=88" target="_blank"></a>					<div class="item-content">
+						<div class="position-block animated">
+							<h3 class="title" style="color: #ffffff;">
+								Contact Us</h3>							<!--  -->
+							<p class="desc" style="color: #ffffff;">
+								No matter what problems you encounter, you can always contact us</p>													</div>
+					</div>
+				</div>
+								<div class="swiper-slide swiper-slide-duplicate-prev" style="background: url(&quot;https://openfs.oppomobile.com/open/oop/202009/10/e9a3e75502f9684419de549e48f5a0b5.png&quot;) center center / cover no-repeat; width: 1354px; transition-duration: 0ms; opacity: 0; transform: translate3d(-6770px, 0px, 0px);" data-swiper-slide-index="4">
+					<a href="https://developers.oppomobile.com/wiki/doc/index#id=20" target="_blank"></a>					<div class="item-content">
+						<div class="position-block animated">
+							<h3 class="title" style="color: #ffffff;">
+								Frequently Asked Questions</h3>							<!--  -->
+							<p class="desc" style="color: #ffffff;">
+								For some common problems encountered daily, you can quickly find solutions in our document center</p>													</div>
+					</div>
+				</div>
+							<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" style="background: url(&quot;https://openfs.oppomobile.com/open/oop/202307/11/147dade0c625499792bbf890bea0475f.png&quot;) center center / cover no-repeat; width: 1354px; transition-duration: 0ms; opacity: 0; transform: translate3d(-8124px, 0px, 0px);" data-swiper-slide-index="0">
+					<a href="https://www.oppo.com/en/events/coloroshack-2023/" target="_blank"></a>					<div class="item-content">
+						<div class="position-block animated">
+														<!--  -->
+																				</div>
+					</div>
+				</div></div>
+			<!-- 如果需要分页器 -->
+			<div class="swiper-pagination main-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+
+			<!-- 如果需要导航按钮 -->
+			<div class="swiper-button-prev iconfont" tabindex="0" role="button" aria-label="Previous slide"></div>
+			<div class="swiper-button-next iconfont" tabindex="0" role="button" aria-label="Next slide"></div>
+		<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+	</section>
+	<section class="bulletin-container">
+		<div class="center dis-flex">
+			<ul class="bulletin-list dis-flex">
+														<li>
+						<a href="/service/message/detail?id=10336">
+							<p class="title">Theme Store notification letter</p>
+							<!-- <p class="desc">Theme Store notification letter  Dear partner: Based on the needs of OPPO&#039;s overseas Internet business planning, it is planned to switch the contracting entity of overseas Theme Store business from Se</p> -->
+						</a>
+					</li>
+												</ul>
+			<a href="/service/message/index" class="more">View More</a>
+		</div>
+		<!-- Marquee -->
+		<!-- <div class="notice center">
+			<div class='marquee '></div>
+			<a class="more-notice">more&nbsp; &gt;</a>
+		</div> -->
+		<!-- /.marquee -->
+
+	</section>
+
+	<section class="business-menu">
+		<div class="app-market wow fadeInUp" data-wow-duration="0.6s" style="visibility: hidden; animation-duration: 0.6s; animation-name: none;">
+			<div class="app-market-main dis-flex ">
+				<div class="business-menu-info">
+					<h2>OPPO App Market</h2>
+					<p>OPPO APP Market is official application and game download&amp;management platform released by OPPO, which is perfectly integrated with OPPO mobile phones.
+						OPPO APP Market is committed to providing users with rich and secure application resources and a one-stop application management experience covering the entire life cycle of the application</p>
+					<a href="/newservice/capability?pagename=app_store">View More</a>
+				</div>
+				<div class="business-menu-img">
+					<img src="/static/images/offset/image_appmarket.png" alt="">
+				</div>
+			</div>
+		</div>
+		<div class="theme-store wow fadeInUp" data-wow-duration="0.6s" style="visibility: hidden; animation-duration: 0.6s; animation-name: none;">
+			<div class="theme-store-main dis-flex">
+				<div class="business-menu-img">
+					<img src="/static/images/offset/image_themestore.png" alt="">
+				</div>
+				<div class="business-menu-info">
+					<h2>OPPO Theme Store</h2>
+					<p>OPPO Theme Store is a personalization app developed by OPPO. It provides a selection of themes, font, wallpapers (static and dynamic) and video ringtones to help users personalize their phones. OPPO Theme Store app is available in over 110 countries/regions. Its most active markets include India, Indonesia, Thailand, Vietnam, the Philippines, Malaysia, and other markets. It helps content creators and developers to reach out to OPPO's large global user base.</p>
+					<a href="/newservice/capability?pagename=theme_store">View More</a>
+				</div>
+			</div>
+		</div>
+		<div class="game-market wow fadeInUp" data-wow-duration="0.6s" style="visibility: hidden; animation-duration: 0.6s; animation-name: none;">
+			<div class="game-market-main dis-flex">
+				<div class="business-menu-info">
+					<h2>OPPO Game Center</h2>
+					<p>Game Center is committed to helping developers to provide users with fun and entertaining games without spam and viruses. It provides one-stop services that feature fine-grained operations and maintenance, precise user targeting, and effective monetization.</p>
+					<a href="/newservice/capability?pagename=game_center">View More</a>
+				</div>
+				<div class="business-menu-img">
+					<img src="/static/images/offset/image_gamecenter.png" alt="">
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="development-S-C">
+		<div class="development-S-C-main clearfix  wow fadeInUp" data-wow-duration="0.6s" style="visibility: hidden; animation-duration: 0.6s; animation-name: none;">
+			<h3>Development Services and Capabilities</h3>
+			<ul class="develop-menu dis-flex">
+				<li class="develop-item" data-redirect="/newservice/capability?pagename=push">
+					<img src="/static/images/offset/icon_push.png" alt="">
+					<h4>OPPO PUSH</h4>
+					<p title="OPPO PUSH is a system level channel on ColorOS, providing developers with stable and efficient message push services.">OPPO PUSH is a system level channel on ColorOS, providing developers with stable and efficient message push services.</p>
+				</li>
+				<li class="develop-item" data-redirect="/newservice/capability?pagename=game_service">
+					<img src="/static/images/offset/icon_game.png" alt="">
+					<h4>Game Service</h4>
+					<p title="OPPO Game Service provides a one-stop access service for game developers around the world.It provides mature local payment, policy compliance guidance, activity, player welfare, game zone and account, payment, data analysis and other basic capabilities.">OPPO Game Service provides a one-stop access service for game developers around the world.It provides mature local payment, policy compliance guidance, activity, player welfare, game zone and account, payment, data analysis and other basic capabilities.</p>
+				</li>
+				<li class="develop-item" data-redirect="/newservice/capability?pagename=hyper_boost">
+					<img src="/static/images/offset/icon_hyper.png" alt="">
+					<h4>Hyper Boost</h4>
+					<p title="A full-scene, system-level resource scheduling optimization solution provided by OPPO to accelerate mobile phones from three levels: system, game, and application.">A full-scene, system-level resource scheduling optimization solution provided by OPPO to accelerate mobile phones from three levels: system, game, and application.</p>
+				</li>
+				<li class="develop-item" data-redirect="/newservice/capability?pagename=cloudmachine">
+					<img src="/static/images/offset/icon_remote.png" alt="">
+					<h4>Remote Phone</h4>
+					<p title="Fast access, online remote debugging, support the latest series of OPPO mobile phones">Fast access, online remote debugging, support the latest series of OPPO mobile phones</p>
+				</li>
+			</ul>
+		</div>
+	</section>
+	<section class="guidance">
+		<div class="guidance-main  wow fadeInUp" data-wow-duration="0.6s" style="visibility: hidden; animation-duration: 0.6s; animation-name: none;">
+			<h3>How to Upload?</h3>
+				<p class="guidance-title">Create incredible apps, discover more possibilities</p>
+				<ul class="guidance-menu">
+					<li class="guidance-item">
+						<img src="/static/images/offset/image_step01.png" alt="" width="140">
+						<p>Register</p>
+						<span>Register with OPPO Developers to access a wide array of capabilities and services for building high-quality apps.</span>
+					</li>
+					<li class="guidance-item">
+						<img src="/static/images/offset/image_step02.png" alt="" width="140">
+						<p>Develop</p>
+						<span>Develop your apps and continually improve user experience by harnessing OPPO Developers' open capabilities .</span>
+					</li>
+					<li class="guidance-item">
+						<img src="/static/images/offset/image_step03.png" alt="" width="140">
+						<p>Grow</p>
+						<span>Leverage OPPO massive user base and diversified promotion channels to quickly gain users.</span>
+					</li>
+					<li class="guidance-item">
+						<img src="/static/images/offset/image_step04.png" alt="" width="140">
+						<p>Monetize</p>
+						<span>Quickly monetize products through paid downloads, in-app purchases, and more.</span>
+					</li>
+				</ul>
+				<a class="register-now" href="javascript:void(0);" onclick="register()">Register Now</a>
+		</div>
+	</section>
+	<!--
+ * @Author: your name
+ * @Date: 2020-08-25 16:53:05
+ * @LastEditTime: 2020-09-07 11:51:55
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \src\pages\include\footer_map.html
+-->
+<footer>
+    <div class="main-official-menu dis-flex">
+        <div class="official-wrapper dis-flex">
+
+        
+        <div class="other-official dis-flex">
+            <div class="official-content">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="https://www.oppo.com/en/">OPPO</a></li>
+                    
+                    <li><a href="https://www.coloros.com/en/coloros7">ColorOS</a></li>
+                    <li><a href="https://www.heytap.com/en/index.html">HeyTap</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="self-official dis-flex">
+            <div class="official-content">
+                <h3>Application service</h3>
+                <ul>
+                    <li><a href="/newservice/capability?pagename=app_store">App Market</a></li>
+                    <li><a href="/newservice/capability?pagename=game_center">Game Center</a></li>
+                    <li><a href="/newservice/capability?pagename=theme_store">Theme Store</a></li>
+                    <li><a href="/newservice/capability?pagename=h5game">HeyFun</a></li>
+                    
+                </ul>
+            </div>
+            <div class="official-content">
+                <h3>Development service</h3>
+                <ul>
+                    <li><a href="/newservice/capability?pagename=cloudmachine">Remote Phone</a></li>
+                   
+                </ul>
+            </div>
+            <div class="official-content">
+                <h3>Mobile services</h3>
+                <ul>
+                    <li><a href="/newservice/capability?pagename=push">Push</a></li>
+                    <li><a href="/newservice/capability?pagename=game_service">Game Services</a></li>
+                    <li><a href="/newservice/capability?pagename=hyper_boost">Hyper Boost</a></li>
+                    <li><a href="/newservice/capability?pagename=cameraunit">CameraUnit</a></li>
+                </ul>
+                
+            </div>
+            <div class="official-content">
+                <h3>Promotion service</h3>
+                <ul>
+                    <li><a href="/newservice/capability?pagename=app_moment">App Review</a></li>
+                    
+                </ul>
+                
+            </div>
+            <div class="official-content">
+                <h3>Support</h3>
+                <ul>
+                    <li><a href="/wiki/doc/index#id=2">Guidelines</a></li>
+                   <li><a href="/wiki/doc/index#id=88">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    </div>
+</footer>
+	<footer id="footer">
+  <section class="bottom">
+    <!-- 获取帮助 -->
+    <ul class="help">
+      <li>
+        <span>Need Help? Please send an email to <i>devservice@oppo.com</i>,</span>
+        <span>QQ：3004640850 &nbsp;</span>
+      </li>
+    </ul>
+    <!-- 链接 -->
+    <ul class="links">
+      <li class="jump_to_privacy" data-redirect="/home/index/oppo-privacy">
+        <a href="javascript:void(0);">Privacy</a>
+      </li>
+      <li class="jump_to_terms" data-redirect="/home/index/team-of-use">
+        <a href="javascript:void(0);">Terms of Use</a>
+      </li>
+      <li class="rights">
+        Copyright © 2004-2021 OPPO. All rights reserved.
+      </li>
+    </ul>
+  </section>
+</footer>
+
+	<script>
+		var messageList = '[{"id":"10336","title":"Theme Store notification letter","summary":"Theme Store notification letter  Dear partner: Based on the needs of OPPO&#039;s overseas Internet business planning, it is planned to switch the contracting entity of overseas Theme Store business from Se"}]';
+	</script>
+	<div class="nav-scroll">
+    <a class="to-top" href="javascript:void(0)" title="top"></a>
+    <a class="business" href="javascript:void(0)" title="business cooperation">Business</a>
+    <a class="workOrder" href="javascript:void(0)" title="Help center">Help center</a>
+    <a class="help" href="javascript:void(0)" title="document">Document</a>
+</div>
+
+<!-- 底部cookie栏 -->
+<div class="cp-cookie-tip" style="display: block;">
+    <span class="tip">
+      We use cookies and similar technologies to make this site work properly and to analyse traffic and optimise your browsing experience. By continuing to browse the site, you agree to the use of such cookies.<a href="javascript:;" class="link">Read More</a>.
+    </span>
+    <span class="consent-btn"><a href="javascript:;">Consent to all cookie</a></span>
+    <span class="manage-btn"><a href="javascript:;">Manage Cookie</a></span>
+    <a href="javascript:;" class="close-btn">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAABSUlEQVRIS72WQWoDMQxF39BjJD1RNwkEUmgP0EVymmxygAQS0kU3PVHbY5QWwRg8RtLIzjBeztj/yfKXrY6ZRzczjxz4BBz7APbAx53BrIED8Ae8AZ+ilwO/gGUP+QVegUsj9Bk4AQ/9+m/gsQTKx0UGaIWWMJFUgZKCWxaVTKyFajDR2KQjKk2zBc6NUAv2AlxT5jSXWgu9Mw2vscoiLADUzB24tDRkRCgyZ6A7VvieoAjl1g+ZbAwoIhZU/qU6C8HKOvRqXIPm88PlE9lhEragYVjNDq3UhlPp1aGW2llTOqtpWspicJWV6fJME7lXQ/dnDrWAEZjnXnGuulMNWAOrhkafJ/dceqoVqPk8rYB35bqKwNJOLaj6AOc9TSroGpgH/Un9ktdEtcAsqNrTpDZRgthN0CbKEUmbKENtE73XYrJ/Na/FJNB/IKt3HTaQn2EAAAAASUVORK5CYII=" alt="close">
+    </a>
+</div>
+<div class="cp-cookie-tip-place" style=""></div>
+<!-- cookie选项 -->
+<div class="cp-cookie-select" style="display:none;">
+    <div class="select-close">
+        <a href="javascript:;" class="close-btn">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAABSUlEQVRIS72WQWoDMQxF39BjJD1RNwkEUmgP0EVymmxygAQS0kU3PVHbY5QWwRg8RtLIzjBeztj/yfKXrY6ZRzczjxz4BBz7APbAx53BrIED8Ae8AZ+ilwO/gGUP+QVegUsj9Bk4AQ/9+m/gsQTKx0UGaIWWMJFUgZKCWxaVTKyFajDR2KQjKk2zBc6NUAv2AlxT5jSXWgu9Mw2vscoiLADUzB24tDRkRCgyZ6A7VvieoAjl1g+ZbAwoIhZU/qU6C8HKOvRqXIPm88PlE9lhEragYVjNDq3UhlPp1aGW2llTOqtpWspicJWV6fJME7lXQ/dnDrWAEZjnXnGuulMNWAOrhkafJ/dceqoVqPk8rYB35bqKwNJOLaj6AOc9TSroGpgH/Un9ktdEtcAsqNrTpDZRgthN0CbKEUmbKENtE73XYrJ/Na/FJNB/IKt3HTaQn2EAAAAASUVORK5CYII=" alt="close">
+        </a>
+    </div>
+    <div class="select-title">Cookie setting</div>
+    <ul class="select-box">
+        <li>
+            <label><input type="checkbox" checked="" onclick="return false;"><span>Necessary Cookies</span></label>
+            <p>Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.</p>
+        </li>
+        <li>
+            <label><input type="checkbox"><span>Analytics Cookies</span></label>
+            <p>These cookies permit us to count the number of visitors to our website and to inform us about how visitors are using our website in order to provide improvements to the way that this site works.</p>
+        </li>
+        <li>
+            <label><input type="checkbox"><span>Advertising Cookies</span></label>
+            <p>These cookies (including those of third parties) provide advertisements tailored to you based on your browsing activities and interests. Refusing these cookies may result in seeing general advertisements that do not target any specific person, or you will not be able to link effectively with Facebook, Twitter, or other social networks and/or share content on social media.</p>
+        </li>
+    </ul>
+    <div class="select-done">DONE</div>
+</div>
+<!-- 登录弹窗 -->
+<div class="modal modal-wide fade" id="signInModal" tabindex="-1" role="dialog" aria-labelledby="signInModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="signInModalLabel">LOGIN</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="form-horizontal login validation" action="/user/signin" noredirect="true" needreload="true" showerrmsghere="true" needcaptcha="true" novalidate="true">
+                    <fieldset>
+                        <div class="alert alert-warning"></div>
+                        <!-- 账号 input-->
+                        <div class="form-group">
+                            <label class="col-xs-2 col-sm-2 col-lg-2 control-label">Username</label>
+                            <div class="col-xs-8 col-sm-8 col-lg-8">
+                                <input name="userName" type="text" placeholder="" class="form-control" required="" data-event="change-msg">
+                                <span class="help-block">username / email</span>
+                                <span class="error-tip">Username must be 4-12 digits and consist of numbers and letters.</span>
+                            </div>
+                        </div>
+                        <!-- 密码 input-->
+                        <div class="form-group">
+                            <label class="col-xs-2 col-sm-2 col-lg-2 control-label">Password</label>
+                            <div class="col-xs-8 col-sm-8 col-lg-8">
+                                <input name="password" type="password" placeholder="" class="form-control" required="" data-event="change-msg">
+                                <span class="error-tip">Please fill in password</span>
+                            </div>
+                        </div>
+                        <!-- 验证码 input-->
+                        <div class="form-group special">
+                            <label class="col-xs-2 col-sm-2 col-lg-2 control-label">Captcha</label>
+                            <div class="col-xs-8 col-sm-8 col-lg-8">
+                                <div class="row">
+                                    <div class="col-xs-3 col-sm-3 col-md-5">
+                                        <input name="verifyCode" type="text" placeholder="" class="form-control" required="">
+                                        <span class="error-tip">Please fill in Captcha.</span>
+                                    </div>
+                                    <div class="col-xs-9 col-sm-9 col-md-7 captcha-wrap"><div class="captcha"><img src="https://developers.oppomobile.com/user/signin/captcha?v=65a98754bf1f5" class="captcha-img" width="100"><a href="javascript:void(0)" class="captcha-handler">refresh</a></div></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- 按钮-->
+                        <div class="form-group btn-wrap">
+                            <div class="col-xs-8 col-sm-8 col-lg-8 col-xs-offset-2 col-sm-offset-2 col-md-offset-2">
+                                <button type="submit" name="singlebutton" class="btn btn-primary col-md-12 col-sm-12 col-xs-12">Login</button>
+                            </div>
+                        </div>
+                        <!-- 注册新账号 忘记密码-->
+                        <div class="form-group special2">
+                            <div class="col-xs-8 col-sm-8 col-lg-8 col-xs-offset-2 col-sm-offset-2 col-md-offset-2 text-center">
+                                <a href="javascript:void(0);" class="switch-modal" data-it="signInModal" data-id="signUpModal">Create Account</a>
+                                <a href="javascript:void(0);" class="switch-modal" data-it="signInModal" data-id="retrieveModal">Forgot your password?</a>
+                            </div>
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 登录弹窗 -->
+<!-- 注册弹窗 -->
+<div class="modal modal-wide fade" id="signUpModal" tabindex="-1" role="dialog" aria-labelledby="signUpModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="signUpModalLabel">Create Account</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="form-horizontal signup validation" action="/user/signup" redirect="/user/account/notifyemail?type=1" data-param="email" showerrmsghere="true" needcaptcha="true" novalidate="true">
+                    <fieldset>
+                        <div class="alert alert-warning"></div>
+                        <!-- 账号 input-->
+                        <div class="form-group">
+                            <label class="col-xs-2 col-sm-2 col-lg-2 control-label">Username</label>
+                            <div class="col-xs-8 col-sm-8 col-lg-8">
+                                <input name="userName" type="username" placeholder="" class="form-control input-md" maxlength="12" required="" data-key="userName" data-method="getJSON" data-event="change-msg">
+                                <span class="help-block">Username must consist of letters and numbers.</span>
+                                <span class="error-tip">Please fill in username</span>
+                            </div>
+                        </div>
+                        <!-- 邮箱 input-->
+                        <div class="form-group">
+                            <label class="col-xs-2 col-sm-2 col-lg-2 control-label">Email</label>
+                            <div class="col-xs-8 col-sm-8 col-lg-8">
+                                <input name="email" type="email" placeholder="" class="form-control input-md" required="" data-key="email" data-method="getJSON" data-event="change-msg">
+                                <span class="help-block">Please fill in a frequently used email address</span>
+                                <span class="error-tip">Please fill in valid email address.</span>
+                            </div>
+                        </div>
+                        <!-- 密码 input-->
+                        <div class="form-group">
+                            <label class="col-xs-2 col-sm-2 col-lg-2 control-label">Password</label>
+                            <div class="col-xs-8 col-sm-8 col-lg-8">
+                                <input name="password" type="password" data-type="pwd" class="form-control input-md" maxlength="16" required="" data-event="change-msg">
+                                <span class="help-block">6-16 character-long [a-z,A-Z,0-9] (e.g. Abcd1234)</span>
+                                <span class="error-tip">Password must consist of uppercase,lowercase letters and numbers.</span>
+                            </div>
+                        </div>
+                        <!-- 密码 input-->
+                        <div class="form-group">
+                            <label class="col-xs-2 col-sm-2 col-lg-2 control-label">Confirm password</label>
+                            <div class="col-xs-8 col-sm-8 col-lg-8">
+                                <input name="repasswd" type="password" data-type="repasswd" class="form-control input-md" required="" data-event="change-msg">
+                                <span class="help-block">6-16 character-long [a-zA-Z0-9] (e.g. Abcd1234)</span>
+                                <span class="error-tip">Password must consist of uppercase,lowercase letters and numbers.</span>
+                            </div>
+                        </div>
+                        <!-- 验证码 input-->
+                        <div class="form-group special">
+                            <label class="col-xs-2 col-sm-2 col-lg-2 control-label">Captcha</label>
+                            <div class="col-xs-8 col-sm-8 col-lg-8">
+                                <div class="row">
+                                    <div class="col-xs-3 col-sm-3 col-md-5">
+                                        <input name="verifyCode" type="text" placeholder="" class="form-control input-md" required="">
+                                        <span class="error-tip">Please fill in captcha.</span>
+                                    </div>
+                                    <div class="col-xs-9 col-sm-9 col-md-7 captcha-wrap"><div class="captcha"><img src="https://developers.oppomobile.com/user/signin/captcha?v=65a98754bf1f5" class="captcha-img" width="100"><a href="javascript:void(0)" class="captcha-handler">refresh</a></div></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- 按钮-->
+                        <div class="form-group btn-wrap">
+                            <div class="col-xs-8 col-sm-8 col-lg-8 col-xs-offset-2 col-sm-offset-2 col-md-offset-2">
+                              <button class="btn btn-primary col-md-12 col-xs-12" type="submit">Create Account</button>
+                            </div>
+                        </div>
+                        <!-- 注册新账号 忘记密码-->
+                        <div class="form-group special2">
+                            <div class="col-xs-8 col-sm-8 col-lg-8 col-xs-offset-2 col-sm-offset-2 col-md-offset-2 text-center">
+                                <p>By clicking "Create Account" I agree to <br>
+                                    <a href="/static/files/the_agreement_of_oppo_account_usage.doc">OPPO User Agreement</a></p>
+                            </div>
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 注册弹窗 -->
+<!-- 找回密码弹窗 -->
+<div class="modal modal-mid fade" id="retrieveModal" tabindex="-1" role="dialog" aria-labelledby="retrieveModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="retrieveModalLabel">Set a new password</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="form-horizontal login validation" action="/user/password/forget" redirect="/user/account/notifyemail?type=0" data-param="email" showerrmsghere="true" novalidate="true">
+                    <fieldset>
+                        <div class="alert alert-warning"></div>
+                        <!-- 账号 input-->
+                        <div class="form-group">
+                            <label class="col-xs-2 col-sm-2 col-lg-2 control-label" for="">Email</label>
+                            <div class="col-xs-8 col-sm-8 col-lg-8">
+                                <input name="email" type="email" placeholder="" class="form-control input-md" required="" data-event="change-msg">
+                                <span class="error-tip">Invalid email</span>
+                            </div>
+                        </div>
+                        <!-- 验证码 input-->
+                        <div class="form-group special">
+                            <label class="col-xs-2 col-sm-2 col-lg-2 control-label" for="">Captcha</label>
+                            <div class="col-xs-8 col-sm-8 col-lg-8">
+                                <div class="row">
+                                    <div class="col-xs-3 col-sm-3 col-md-5">
+                                        <input name="verifyCode" type="text" placeholder="" class="form-control input-md" required="">
+                                        <span class="error-tip">Please fill in Captcha</span>
+                                    </div>
+                                    <div class="col-xs-9 col-sm-9 col-md-7 captcha-wrap">
+                                    <div class="captcha"><img src="https://developers.oppomobile.com/user/signin/captcha?v=65a98754bf1f5" class="captcha-img" width="100"><a href="javascript:void(0)" class="captcha-handler">refresh</a></div></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- 按钮-->
+                        <div class="form-group btn-wrap">
+                            <div class="col-xs-8 col-sm-8 col-lg-8 col-xs-offset-2 col-sm-offset-2 col-md-offset-2">
+                                <button type="submit" name="singlebutton" class="btn btn-primary col-md-12 col-sm-12 col-xs-12">Next</button>
+                            </div>
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 找回密码弹窗 -->
+<!-- 激活邮件弹窗 -->
+<div class="modal fade" id="noticeModal" tabindex="-1" role="dialog" aria-labelledby="noticeModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="noticeModalLabel"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form name="resend" action="" class="notice-email" showerrmsghere="true">
+                    <div class="main">
+                        <div class="row message-wrap">
+                            <div class="alert"></div>
+                        </div>
+                        <input type="hidden" name="email" value="">
+                        <p class="content">The mail has sent to your emailBox：<br><span class="email-text"></span></p>
+                        <p>Please check the mail in 24 hours</p>
+                        <div class="notice">
+                            <span>Haven't received email?</span>
+                            <ol>
+                                <li>Make sure your email is valid</li>
+                                <li>Check in spam-mail and your mail blacklist</li>
+                                                                <li><a href="javascript:void(0);" class="resend-handler">Send again</a></li>
+                                                            </ol>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 激活邮件弹窗 -->
+<!-- 错误提示 -->
+<div class="modal fade" tabindex="-1" role="dialog" id="errorMsg">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+            </div>
+            <div class="modal-body">
+                <p></p>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+<!-- 错误提示 -->
+<!-- loading -->
+<style>
+.loading-shadow{
+    position: fixed;
+    z-index: 999991;
+    top: 0;
+    left: 0;
+    display: none;
+    width: 100%;
+    height: 100%;
+}
+.loading-shadow:after{
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    content: "";
+    background-color: #000;
+    opacity: 0.3;
+}
+.loading-shadow img{
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    margin: -60px 0 0 -60px;
+}
+.loading-rotate {
+	animation: loading-rotate 1s infinite linear;
+	-webkit-animation: loading-rotate 1s infinite linear;
+}
+.loading-text {
+    position: absolute;
+    z-index: 999999;
+    top: 50%;
+    left: 50%;
+    margin: -12px 0 0 -58px;
+    /* color: #49c9a2; */
+}
+@keyframes loading-rotate {
+	0% {
+		transform: rotate(0deg);
+		-webkit-transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+		-webkit-transform: rotate(360deg);
+	}
+}
+
+@key-webkit-frames loading-rotate {
+	0% {
+		transform: rotate(0deg);
+		-webkit-transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+		-webkit-transform: rotate(360deg);
+	}
+}
+</style>
+<div class="loading-shadow">
+    <img class="loading-rotate" src="/static/images/loading2.png" onerror="this.onerror=null; this.src='/static/images/loading'" width="40" height="40">
+    <p style="display: none" class="loading-text dsn">上传中...</p>
+</div>
+
+<!-- 
+  框架：bootStrap + jquery
+  modal使用：modal('show')
+ -->
+<style>
+  .modal-box {
+    font-size: 16px;
+  }
+  .modal-box .modal-dialog {
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    margin: 0 auto!important;
+    transform: translate(-50%, -100%)!important;
+  }
+  .modal-box .modal-dialog .modal-header {
+    padding: 15px;
+  }
+  .modal-box .modal-dialog .modal-header .close {
+    line-height: 10px;
+  }
+</style>
+<div class="modal-box">
+  <!-- 账号不一致 -->
+  <div class="modal fade" id="account-consist" tabindex="-1" role="dialog" aria-labelledby="consistModal" data-backdrop="static">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <!-- <button type="button" class="close" data-dismiss="modal" ><span aria-hidden="true">&times;</span></button> -->
+          <!-- <h4 class="modal-title" id="consistModal">Tips</h4> -->
+        </div>
+        <div class="modal-body text-center">
+          <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true" style="color:#ffcc1f"></span>
+          The account cannot be activated because the it is not the invited one. Please log out and click the invitation link again to complete the account activation. 
+          If you have any question, please contact 
+          <a href="/order/index#/order/apply">customer service</a>
+        </div>
+        <div class="modal-footer">
+          <span type="button" class="btn btn-primary common_sure" data-dismiss="modal">Confirm</span>
+          <!-- <span type="button" class="btn btn-primary return_login" data-dismiss="modal" >退出登录</span> -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 成功加入团队 -->
+  <div class="modal fade" id="account-join" tabindex="-1" role="dialog" aria-labelledby="joinModal">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
+          <!-- <h4 class="modal-title" id="joinModal">Tips</h4> -->
+        </div>
+        <div class="modal-body text-center">
+          <span class="glyphicon glyphicon-ok-circle" aria-hidden="true" style="color:#5fd3bc"></span>
+          The member account has been successfully activated. You have joined the team.
+        </div>
+        <div class="modal-footer">
+          <span type="button" class="btn btn-primary common_sure" data-dismiss="modal">Confirm</span>
+          <span type="button" class="btn btn-primary return_login" data-dismiss="modal">Log out</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 邀请失败 -->
+  <div class="modal fade" id="account-invite-failure" tabindex="-1" role="dialog" aria-labelledby="joinModal">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
+          <!-- <h4 class="modal-title" id="joinModal">Tips</h4> -->
+        </div>
+        <div class="modal-body text-center">
+          <span class="glyphicon glyphicon-remove" aria-hidden="true" style="color:#ffcc1f"></span>
+          Invitation failed
+        </div>
+        <div class="modal-footer">
+          <span type="button" class="btn btn-primary common_sure" data-dismiss="modal">Confirm</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 链接激活 -->
+  <div class="modal fade" id="account-link-active" tabindex="-1" role="dialog" aria-labelledby="linkActiveModal">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
+          <!-- <h4 class="modal-title" id="linkActiveModal">Tips</h4> -->
+        </div>
+        <div class="modal-body text-center">
+          <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true" style="color:#ffcc1f"></span>
+          The link has been activated. You have joined the team.
+        </div>
+        <div class="modal-footer">
+          <span type="button" class="btn btn-primary common_sure" data-dismiss="modal">Confirm</span>
+          <!-- <span type="button" class="btn btn-primary return_login" data-dismiss="modal" >Log out</span> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+</script>
+<!-- loading -->
+<script src="/static/scripts/jquery.min.js"></script>
+<script src="/static/scripts/polyfill.min.js"></script>
+
+<script src="/static/scripts/vendor-6560f99046.js"></script>
+<script src="/static/scripts/common-46411423af.js"></script>
+<script>
+window.contentUploadURL = '//api-intl.cc.heytapmobile.com/api/utility/upload';
+window.uploadURL = '//apidev.open.oppomobile.com/api/utility/upload';
+window.uploadH5 = '//apidev.open.oppomobile.com/api/utility/upload';
+window.uploadHOST = '//apidev.open.oppomobile.com';
+window.openplatUploadURL = '/user/profile/upload';
+window.openplatOmsUploadURL = "//open.oppomobile.com/openplat/upload";
+window.privkey = '-----BEGIN PUBLIC KEY----- MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDKoHEtT/bliM/2faZfUUreDyqHPf5dH9DpsEhEf9y0S9mVaR4BY4+yd3pQi/9oWCmKNSDY0cOYkUyznuk6tvLbEPrSkiy8Azd5GTUhQXSdaGqJIZiTuZNb0xsb9DcDF9OwJjk8T+xQDJgg4wjrJ9h5thDXZn8pIuO5T/RYkMD4QwIDAQAB -----END PUBLIC KEY-----';
+// 测试环境
+window.captcha = new Captcha($('.captcha-wrap'), {}, {}, {});
+$('body').bind('reset-captcha', function () {
+    window.captcha.reset();
+});
+
+var justNow = (new Date()).getTime();
+var user = 'devid=;username=;'
+var userAgent = navigator.userAgent;
+var isOpera = userAgent.indexOf("Opera") > -1;
+var isMaxthon = userAgent.indexOf("Maxthon") > -1 ;
+var isIE = userAgent.indexOf("compatible") > -1 && userAgent.indexOf("MSIE") > -1 && !isOpera ;
+var isFF = userAgent.indexOf("Firefox") > -1 ;
+var isSafari = userAgent.indexOf("Safari") > -1 && userAgent.indexOf("Chrome") < 1 ;
+var isChrome = userAgent.indexOf("Chrome") > -1 ;
+var isIE5 = isIE55 = isIE6 = isIE7 = isIE8 = false;
+</script>
+<div class="static-wrap" style="display: none; position: absolute;">
+    <script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=1278733223&amp;web_id=1278733223"></script>
+</div>
+
+	<script src="/static/scripts/home-3ae86fa830.js"></script>
+
+
+</body></html>

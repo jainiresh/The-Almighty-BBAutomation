@@ -1,0 +1,464 @@
+<html lang="en"><head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="description" content="OLC Invest, Making Investments in Mutual Funds easy with the power of Technology. Invest today for better future">
+    <meta name="keywords" content="OLC Invest, Investment in Mutual Funds, OLC Technology">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;900&amp;display=swap">
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    
+    <link rel="stylesheet" href="/lib/bootstrap@5.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/lib/font-awesome@5.15.4/css/all.min.css">
+
+    <link rel="stylesheet" href="/css/jquery.mmenu.all.min.css">
+    <link rel="stylesheet" href="/css/outer/easy-responsive-tabs.min.css">
+    <link rel="stylesheet" href="/css/main.min.css">
+    <link rel="stylesheet" href="/css/outer/responsive.min.css">
+
+    
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    connectionString: 'InstrumentationKey=a01209a8-1371-4148-95f2-3ce7e58ccfc5;IngestionEndpoint=https://centralindia-0.in.applicationinsights.azure.com/;LiveEndpoint=https://centralindia.livediagnostics.monitor.azure.com/'
+}});</script><script src="https://js.monitor.azure.com/scripts/b/ai.2.min.js" crossorigin="anonymous"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+<body><nav class="headerWrap__navigation mm-menu mm-offcanvas mm-theme-black" id="mm-menu" aria-hidden="true"><div class="mm-panels"><div class="mm-panel mm-hasnavbar mm-opened" id="mm-menu-header-menu"><div class="mm-navbar"><a class="mm-title">Menu</a></div><ul class="menu mm-listview">
+                        <li class="menu-item">
+                            <a href="/">
+                                <label>Home</label>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/About">
+                                <label>About Us</label>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/Faq">
+                                <label>FAQs</label>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/Learn">
+                                <label>Learn</label>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/Contact">
+                                <label>Contact Us</label>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/Identity/Account/Register">
+                                <label>Sign up</label>
+                            </a>
+                        </li>
+                    </ul></div><div class="searchsec mm-panel mm-hidden mm-hasnavbar" id="mm-0" aria-hidden="true"><div class="mm-navbar"><a class="mm-title">Menu</a></div>
+                        <ol class="mm-listview">
+                            <li class="full">
+                                <a class="rmbttn" href="/Identity/Account/Login">
+                                    <i class="fa fa-user" aria-hidden="true"></i>
+                                    <label> Log in</label>
+                                </a>
+                            </li>
+
+                            <li style="display: none">
+                                <button text="English" onclick="OnChangeLanguage();" causesvalidation="false" forecolor="#1e69b5" font-size="14px" font-bold="true">
+                                    English
+                                </button>
+                            </li>
+                        </ol>
+                    </div></div>
+                    
+                    
+                </nav>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8EBgv0HihT5ItTAApB_lvWdYeE6jB0myGKrA-fIamIcgGsqLY6es1LY30srUKKfMhrJQacEWmCeDIjGJC7Z_PfF_K65Z5TgUF3FqGiJjL1r7FQRUGG-k99FWsU-9Vq94ZUgAn41ZCCq_G335Su2UpQ4">
+<div id="wraperHolder" class="mm-page mm-slideout">
+    <style>
+    label {
+        cursor: pointer;
+    }
+</style>
+<header class="fulwidth headerWrap">
+    <!-- nav sec -->
+    <div class="headerWrap__nav">
+        <div class="container">
+            <div class="headerWrap__logo">
+                <a href="/">
+                    <img src="/images/logo.png" alt="OLC invest">
+                </a>
+            </div>
+            <div class="headerWrap__right">
+                <a href="#menu" class="responsmenu">
+                    <i class="fa fa-bars" aria-hidden="true"></i>
+                </a>
+                
+                <nav class="headerWrap__navigation" id="menu">
+                    <ul id="menu-header-menu" class="menu">
+                        <li class="menu-item">
+                            <a href="/">
+                                <label>Home</label>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/About">
+                                <label>About Us</label>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/Faq">
+                                <label>FAQs</label>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/Learn">
+                                <label>Learn</label>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/Contact">
+                                <label>Contact Us</label>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/Identity/Account/Register">
+                                <label>Sign up</label>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="searchsec">
+                        <ol>
+                            <li class="full">
+                                <a class="rmbttn" href="/Identity/Account/Login">
+                                    <i class="fa fa-user" aria-hidden="true"></i>
+                                    <label> Log in</label>
+                                </a>
+                            </li>
+
+                            <li style="display: none">
+                                <button text="English" onclick="OnChangeLanguage();" causesvalidation="false" forecolor="#1e69b5" font-size="14px" font-bold="true">
+                                    English
+                                </button>
+                            </li>
+                        </ol>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+    <div>
+        
+<style>
+	.validation-summary-errors {
+		display: contents
+	}
+</style>
+
+<div class="homebodypart after">
+	<section class="fulwidth login-sec" id="inner-page" onload="document.form1.text1.focus()">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="contactform">
+						<h2 class="abouthead2">Welcome To OLC Invest</h2>
+						<form method="post" id="formLogin" novalidate="novalidate">
+							
+							<ul>
+								<li class="full">
+									<i>
+										<img src="/images/loginicon2.png" alt="OLC invest">
+									</i>
+									<input id="Email" type="email" placeholder="Your Email Here" data-val="true" data-val-regex="Enter a valid email" data-val-regex-pattern="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" data-val-required="Email is required" name="LoginViewModel.Email" value="">
+									<span class="validation-summary-errors text-danger field-validation-valid" data-valmsg-for="LoginViewModel.Email" data-valmsg-replace="true"></span>
+								</li>
+								<li class="full">
+									<i>
+										<img src="/images/loginicon4.png" alt="OLC invest">
+									</i>
+									<input id="Password" type="password" placeholder="Password" data-val="true" data-val-required="Password is required" name="LoginViewModel.Password">
+									<span class="validation-summary-errors text-danger field-validation-valid" data-valmsg-for="LoginViewModel.Password" data-valmsg-replace="true"></span>
+								</li>
+								<li class="full">
+									<input id="buttonLogin" class="rmbttn" value="Log in" type="submit">
+								</li>
+
+								<li class="full loginlink">
+									<a id="HyperLinkSignUp" href="/Identity/Account/Register">Sign up</a>
+									<a id="ForgotPasswordHyperLink" href="/Identity/Account/ForgotPassword">Forgot password?</a>
+								</li>
+							</ul>
+						<input name="__RequestVerificationToken" type="hidden" value="CfDJ8EBgv0HihT5ItTAApB_lvWdYeE6jB0myGKrA-fIamIcgGsqLY6es1LY30srUKKfMhrJQacEWmCeDIjGJC7Z_PfF_K65Z5TgUF3FqGiJjL1r7FQRUGG-k99FWsU-9Vq94ZUgAn41ZCCq_G335Su2UpQ4"></form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- login form area End -->
+	<div class="modal fade" id="modalOtpWindow" tabindex="-1" role="dialog" aria-labelledby="modalOtpWindowTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="closebtnsec" data-bs-dismiss="modal" aria-label="Close"><i class="fas fa-times"></i></div>
+                <h2>
+                    <span></span> Verification
+                </h2>
+                <p>
+                    A OTP (One Time Password) has been sent to your
+                    <span></span><br> <br>
+                    <span></span>
+                </p>
+                <div class="otpemail">
+                    <form>
+                        <ul>
+                            <li class="full resendpass">
+                                <label><strong>Enter OTP</strong></label>
+                            </li>
+                            <li class="full aader">
+                                <label id="spanErrorMessage" class="text-danger"></label>
+                                <input type="text" id="TextBoxOtp">
+                            </li>
+                            <li class="submit addsub">
+                                <input type="button" value="Verify" onclick="OtpDialog.doOtpVerification('', TextBoxOtp.value, '', spanErrorMessage);">
+                            </li>
+                        </ul>
+                    </form>
+                    <div class="otptextcont">
+                        Didn't Receive the OTP?
+                        <button type="button" class="btn btn-link" onclick="OtpDialog.resendEmailOtp('', spanErrorMessage);" style="font-size:13px; margin-bottom: 15px;">Click here to resend <span></span></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+    </div>
+
+    <footer id="colophon" class="fulwidth footerWrap">
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                    <a class="comdetails" href="">
+                        support@olcinvest.com
+                    </a>
+                </div>
+                <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                    <div class="footerbox">
+                        <h5>
+                            Main Menu
+                        </h5>
+                        <ul>
+                            <li>
+                                <a href="/">
+                                    Home
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/About">
+                                    About Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Contact">
+                                    Contact Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Faq">
+                                    FAQs
+                                </a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                    <div class="footerbox">
+                        <h5>
+                            Learning Center
+                        </h5>
+                        <ul>
+                            <li>
+                                <a href="/UsefulLinks">
+                                    Useful Links
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Calculators/CalculatorFV">
+                                    FV Calculator
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Calculators/CalculatorPMT">
+                                    PMT Calculator
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Calculators/TaxCalculator">
+                                    Tax Calculator
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Learn">
+                                    Learn About Mutual Funds
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Blog">
+                                    Blog
+                                </a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
+                    <div class="footerbox">
+                        <h5>
+                            Information
+                        </h5>
+                        <ul>
+                            <li>
+                                <a href="/TermsOfService">
+                                    Terms of Service
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/PrivacyPolicy">
+                                    Privacy Policy
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/DataSecurity">
+                                    Data Security
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer end -->
+<section class="fulwidth copy">
+    <div class="page_container">
+        <div class="notearea">
+            <p>
+                * Mutual Fund investments are subject to market risks, read all scheme related documents carefully.
+            </p>
+        </div>
+        <div class="copyboxsec">
+            <p>
+                <span>Copyright 2020, OLC Invest, All Rights Reserved</span>
+            </p>
+            <div class="social-media">
+                <ul>
+                    <li>
+                        <a href="https://www.facebook.com/OLCInvest" target="_blank">
+                            <img src="/images/social1.png" alt="OLC invest">
+                        </a>
+                    </li>
+                    <li>
+                        <a href=" https://twitter.com/InvestOlc" target="_blank">
+                            <img src="/images/social2.png" alt="OLC invest">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/olcinvest" target="_blank">
+                            <img src="/images/social3.png" alt="OLC invest">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCu8trmiCHzECie1lUWht4XQ" target="_blank">
+                            <img src="/images/social4.png" alt="OLC invest">
+                        </a>
+                    </li>
+                    <li style="display: none">
+                        <a href="#">
+                            <img src="/images/social5.png" alt="OLC invest">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="chatsec" style="display: none">
+    <img src="/images/chat.png" alt="OLC invest">
+</div>
+
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-YRNWCSMQYJ"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    // ReSharper disable once IdentifierTypo
+    // ReSharper disable once IdentifierTypo
+    function gtag() { dataLayer.push(arguments); }
+
+    gtag('js', new Date());
+
+
+    // ReSharper disable once StringLiteralTypo
+    gtag('config', 'G-YRNWCSMQYJ');
+</script>
+
+<script type="text/javascript" src="/lib/jquery@3.6.0/jquery.min.js"></script>
+<script type="text/javascript" src="/lib/bootstrap@5.1.3/js/bootstrap.bundle.min.js"></script>
+
+<script type="text/javascript" src="/lib/slick-carousel@1.8.1/slick.min.js"></script>
+<script type="text/javascript" src="/lib/notiflix@3.1.0/dist/notiflix-aio-3.1.0.min.js"></script>
+
+<script type="text/javascript" src="/js/easyResponsiveTabs.min.js"></script>
+<script type="text/javascript" src="/js/jquery.mmenu.all.min.js"></script>
+<script type="text/javascript" src="/js/main.min.js"></script>
+<script type="text/javascript" src="/js/notification-helper.min.js"></script>
+<script type="text/javascript" src="/js/utility.min.js"></script>
+
+<script type="text/javascript">
+    
+</script>
+
+
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js" crossorigin="anonymous" integrity="sha256-F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=">
+    </script>
+<script>(window.jQuery && window.jQuery.validator||document.write("\u003Cscript src=\u0022/Identity/lib/jquery-validation/dist/jquery.validate.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha256-F6h55Qw6sweK\u002Bt7SiOJX\u002B2bpSAa3b/fnlrVCJvmEj1A=\u0022\u003E\u003C/script\u003E"));</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js" crossorigin="anonymous" integrity="sha256-9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY=">
+    </script>
+<script>(window.jQuery && window.jQuery.validator && window.jQuery.validator.unobtrusive||document.write("\u003Cscript src=\u0022/Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha256-9GycpJnliUjJDVDqP0UEu/bsm9U\u002B3dnQUH8\u002B3W10vkY=\u0022\u003E\u003C/script\u003E"));</script>
+
+
+
+    <script type="text/javascript" src="/js/otp-dialog.min.js"></script>
+    <script type="text/javascript" src="/js/ajax-helper.min.js"></script>
+
+
+
+<a href="#" id="hamburger" class="mm-slideout">
+                    <span class="hamburger hamburger--collapse">
+                        <span class="hamburger-box">
+                            <span class="hamburger-inner"></span>
+                        </span>
+                    </span>
+                </a><div id="mm-blocker" class="mm-slideout"></div></body></html>

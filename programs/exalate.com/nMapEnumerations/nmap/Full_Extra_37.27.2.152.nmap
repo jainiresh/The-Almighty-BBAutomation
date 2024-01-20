@@ -1,0 +1,21 @@
+# Nmap 7.93 scan initiated Thu Nov 23 23:56:49 2023 as: /usr/bin/nmap -Pn -sCV -p22,80,443 --open -oN nmap/Full_Extra_37.27.2.152.nmap --system-dns --stats-every 2s 37.27.2.152
+Nmap scan report for static.152.2.27.37.clients.your-server.de (37.27.2.152)
+Host is up (0.19s latency).
+
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      OpenSSH 8.9p1 Ubuntu 3ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 62c17e02f34a0fe60290ad5c28342742 (ECDSA)
+|_  256 3b84ba8c72c6509fa756125d553413ba (ED25519)
+80/tcp  open  http     nginx
+|_http-title: 503 Service Temporarily Unavailable
+443/tcp open  ssl/http nginx
+|_ssl-date: TLS randomness does not represent time
+|_http-title: 503 Service Temporarily Unavailable
+| ssl-cert: Subject: commonName=letsencrypt-nginx-proxy-companion
+| Not valid before: 2023-09-01T11:35:16
+|_Not valid after:  2024-08-31T11:35:16
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Nov 23 23:57:11 2023 -- 1 IP address (1 host up) scanned in 22.46 seconds

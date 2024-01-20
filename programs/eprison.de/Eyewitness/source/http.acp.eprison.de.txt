@@ -1,0 +1,52 @@
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" id="eprison" style="background: url(https://acp.eprison.de/src/public/backend/assets/images/bg-login.jpg) repeat fixed 0 0;background-size: 100%;"><head>
+            
+        <!-- [enuis title & meta] -->
+        <title>Dashboard | ACP v.2024.0.0</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="language" content="de">
+        <meta name="language-version" content="German 20070418-00">
+        <meta name="description" content="Dashboard">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+            
+        <!-- [enuis acp / favicon] -->
+        <link rel="shortcut icon" href="https://acp.eprison.de/src/public/backend/assets/css/favicon.ico" type="image/x-icon">
+            
+        <!-- [enuis acp / css] -->
+        <link rel="stylesheet" type="text/css" href="https://acp.eprison.de/src/public/css/lib/bootstrap-grid.css">
+        <link rel="stylesheet" type="text/css" href="https://acp.eprison.de/src/public/backend/assets/css/lib/checkboxes.min.css">
+        <link rel="stylesheet" type="text/css" href="https://acp.eprison.de/src/public/backend/assets/css/lib/font-awesome-5.15.2/css/all.min.css">
+        <link rel="stylesheet" type="text/css" href="https://acp.eprison.de/src/public/backend/assets/css/lib/font-awesome-4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="https://acp.eprison.de/src/public/backend/assets/css/lib/animate.min.css">
+        <link rel="stylesheet" type="text/css" href="https://acp.eprison.de/src/public/backend/assets/css/lib/Chart.min.css">
+        <link rel="stylesheet" type="text/css" href="https://acp.eprison.de/src/public/backend/assets/css/material.css">
+
+        <!-- [enuis acp / jquery ui css] -->
+        <link rel="stylesheet" type="text/css" href="https://acp.eprison.de/src/public/backend/assets/jquery/1.11.4/jquery-ui.min.css">
+        <link rel="stylesheet" type="text/css" href="https://acp.eprison.de/src/public/backend/assets/jquery/1.11.4/jquery-ui.theme.min.css">
+            
+        <!-- [enuis acp / js jquery] -->
+        <script type="text/javascript" src="https://acp.eprison.de/src/public/backend/js/jquery-1.11.1.js"></script>
+        <script type="text/javascript" src="https://acp.eprison.de/src/public/backend/js/ui/1.11.2/jquery-ui.min.js"></script>
+        <!-- [enuis acp / js dist] -->
+        <script type="text/javascript" src="https://acp.eprison.de/src/public/backend/js/jquery.dataTables.min.js"></script>
+        <script type="text/javascript" src="https://acp.eprison.de/src/public/backend/js/jquery.timePicker.js"></script>
+        <script type="text/javascript" src="https://acp.eprison.de/src/public/backend/js/jquery.easytabs.min.js"></script>
+        <script type="text/javascript" src="https://acp.eprison.de/src/public/backend/js/jquery.colorbox.js"></script>
+        <script type="text/javascript" src="https://acp.eprison.de/src/public/backend/js/Chart.min.js"></script>
+        <!-- [enuis acp / js enu] -->
+        <script type="text/javascript" src="https://acp.eprison.de/src/public/backend/js/backend.js"></script>
+	    <script type="text/javascript" src="https://acp.eprison.de/src/public/backend/js/notification.js"></script>
+        <script type="text/javascript" src="https://unpkg.com/web-animations-js@2.3.2/web-animations.min.js"></script>
+        <script type="text/javascript" src="https://unpkg.com/muuri@0.8.0/dist/muuri.min.js"></script>
+        <script type="text/javascript" src="https://acp.eprison.de/src/App/Admin/Resources/js/app-admin.js"></script>
+        <script type="text/javascript">let Core = {"routing":{"pxMod":"\/"}};</script>
+        </head>
+        <body>
+		<script type="text/javascript">
+		$(window).ready(function() {		    
+			refreshDashboardTimeout();
+            refreshSteamTimeout();
+		});
+		</script><div class="acp-infobox"><form method="post" name="form" id="form" action="?app=acp&amp;action=login"><div class="mce-input"><input type="text" id="user_nick" name="user_nick" value="" maxlength="20" size="25" class="input-login" placeholder="Benutzername"></div><div class="mce-input"><input type="password" id="user_password" name="user_password" value="" maxlength="20" size="25" class="input-login" placeholder="Kennwort"></div><div class="mce-submit"><input type="submit" id="login" name="login" value="Login" class="px-login"></div><span class="info">Enuis Engine by nilius</span></form></div><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>

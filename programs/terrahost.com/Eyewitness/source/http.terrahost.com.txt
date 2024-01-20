@@ -1,0 +1,439 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://terrahost.com/themes/terrahost/assets/img/ficon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://terrahost.com/themes/terrahost/assets/img/ficon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://terrahost.com/themes/terrahost/assets/img/ficon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://terrahost.com/themes/terrahost/assets/img/ficon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://terrahost.com/themes/terrahost/assets/img/ficon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://terrahost.com/themes/terrahost/assets/img/ficon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://terrahost.com/themes/terrahost/assets/img/ficon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://terrahost.com/themes/terrahost/assets/img/ficon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://terrahost.com/themes/terrahost/assets/img/ficon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://terrahost.com/themes/terrahost/assets/img/ficon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://terrahost.com/themes/terrahost/assets/img/ficon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://terrahost.com/themes/terrahost/assets/img/ficon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://terrahost.com/themes/terrahost/assets/img/ficon/favicon-16x16.png">
+    <link rel="manifest" href="https://terrahost.com/themes/terrahost/assets/img/ficon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://terrahost.com/themes/terrahost/assets/img/ficon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>Terrahost - Home</title>
+    <meta name="description" content="">
+    <meta name="title" content="">
+    <meta name="author" content="OctoberCMS">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="OctoberCMS">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://terrahost.com/themes/terrahost/assets/css/app.css">
+
+    <!-- <link rel="icon" type="image/png" href="https://terrahost.com/themes/terrahost/assets/images/october.png">
+    <link href="https://terrahost.com/themes/terrahost/assets/css/vendor.css" rel="stylesheet"> -->
+    <!-- <link href="https://terrahost.com/themes/terrahost/assets/css/theme.css" rel="stylesheet"> -->
+    
+    <script src="https://embed.tawk.to/_s/v4/app/65839862293/js/twk-main.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/65839862293/js/twk-vendor.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/65839862293/js/twk-chunk-vendors.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/65839862293/js/twk-chunk-common.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/65839862293/js/twk-runtime.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/65839862293/js/twk-app.js" charset="UTF-8" crossorigin="*"></script><script async="" src="https://embed.tawk.to/5d651b6d77aa790be330f743/default" charset="UTF-8" crossorigin="*"></script><script src="https://connect.facebook.net/signals/config/1563189600598649?v=2.9.140&amp;r=stable&amp;domain=terrahost.com" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://matomo.terrahost.com/js/container_LO9cEc2L.js"></script><script async="" src="//matomo.terrahost.com/matomo.js"></script><script>
+      var _paq = window._paq = window._paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//matomo.terrahost.com/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <script>
+    var _mtm = window._mtm = window._mtm || [];
+    _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='https://matomo.terrahost.com/js/container_LO9cEc2L.js'; s.parentNode.insertBefore(g,s);
+    </script>
+    <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1563189600598649');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1563189600598649&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header class="header">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark-">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="https://terrahost.com"><img src="https://terrahost.com/themes/terrahost/assets/img/logo.png" alt=""></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="
+                collapse
+                navbar-collapse
+                justify-content-center
+                align-items-end
+            " id="navbarSupportedContent">
+            <ul class="navbar-nav mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="https://terrahost.com">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Services </a>
+                    <ul class="dropdown-menu mega-dropdown" aria-labelledby="navbarDropdown">
+                        <li class="mega-dropdown__item">
+                            <ul class="drop-navlist">
+                                <li class="drop-navlist__item">
+                                    <h4 class="drop-navlist__title">
+                                        <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M16.0047 5.99198L15.7485 6.43889C15.6547 6.60453 15.4547 6.67328 15.2766 6.60765C14.9078 6.47014 14.5702 6.27325 14.2733 6.02635C14.1296 5.90759 14.0921 5.6982 14.1858 5.53569L14.4421 5.08878C14.2265 4.83876 14.0577 4.54811 13.9452 4.23246H13.4295C13.242 4.23246 13.0795 4.09807 13.0482 3.91055C12.9857 3.53552 12.9826 3.14174 13.0482 2.75108C13.0795 2.56357 13.242 2.42606 13.4295 2.42606H13.9452C14.0577 2.11041 14.2265 1.81976 14.4421 1.56974L14.1858 1.12282C14.0921 0.96031 14.1265 0.750918 14.2733 0.632158C14.5702 0.385263 14.9109 0.188372 15.2766 0.0508602C15.4547 -0.0147702 15.6547 0.0539854 15.7485 0.219624L16.0047 0.666536C16.3329 0.607156 16.6673 0.607156 16.9954 0.666536L17.2517 0.219624C17.3455 0.0539854 17.5455 -0.0147702 17.7236 0.0508602C18.0924 0.188372 18.4299 0.385263 18.7268 0.632158C18.8706 0.750918 18.9081 0.96031 18.8143 1.12282L18.5581 1.56974C18.7737 1.81976 18.9425 2.11041 19.055 2.42606H19.5707C19.7582 2.42606 19.9207 2.56044 19.9519 2.74796C20.0144 3.12299 20.0176 3.51677 19.9519 3.90743C19.9207 4.09494 19.7582 4.23246 19.5707 4.23246H19.055C18.9425 4.54811 18.7737 4.83876 18.5581 5.08878L18.8143 5.53569C18.9081 5.6982 18.8737 5.90759 18.7268 6.02635C18.4299 6.27325 18.0893 6.47014 17.7236 6.60765C17.5455 6.67328 17.3455 6.60453 17.2517 6.43889L16.9954 5.99198C16.6704 6.05136 16.3329 6.05136 16.0047 5.99198ZM15.6766 4.15432C16.8798 5.0794 18.2518 3.70741 17.3267 2.50419C16.1235 1.57599 14.7515 2.9511 15.6766 4.15432ZM12.0732 8.9641L13.1264 9.48914C13.442 9.6704 13.5795 10.0548 13.4545 10.3986C13.1764 11.1549 12.6295 11.8487 12.1232 12.455C11.8919 12.7332 11.4919 12.8019 11.1762 12.6206L10.2668 12.0956C9.76673 12.5238 9.18543 12.8644 8.551 13.0863V14.1364C8.551 14.4989 8.2916 14.8115 7.93532 14.874C7.16651 15.0052 6.36019 15.0115 5.56325 14.874C5.20385 14.8115 4.9382 14.5021 4.9382 14.1364V13.0863C4.30377 12.8613 3.72248 12.5238 3.22243 12.0956L2.31298 12.6175C2.00046 12.7988 1.5973 12.73 1.36603 12.4519C0.85974 11.8456 0.32532 11.1518 0.0471723 10.3986C-0.077838 10.0579 0.0596734 9.67353 0.375324 9.48914L1.41604 8.9641C1.29415 8.31092 1.29415 7.63899 1.41604 6.98268L0.375324 6.45451C0.0596734 6.27325 -0.0809632 5.88884 0.0471723 5.54819C0.32532 4.79188 0.85974 4.09807 1.36603 3.49177C1.5973 3.21362 1.99733 3.14487 2.31298 3.32613L3.22243 3.85117C3.72248 3.42301 4.30377 3.08236 4.9382 2.86047V1.80726C4.9382 1.44785 5.19447 1.13532 5.55075 1.07282C6.31957 0.941559 7.12901 0.935308 7.92595 1.06969C8.28535 1.1322 8.551 1.4416 8.551 1.80726V2.85734C9.18543 3.08236 9.76673 3.41989 10.2668 3.84805L11.1762 3.32301C11.4887 3.14174 11.8919 3.2105 12.1232 3.48864C12.6295 4.09494 13.1608 4.78875 13.4389 5.54506C13.5639 5.88572 13.442 6.27012 13.1264 6.45451L12.0732 6.97956C12.1951 7.63586 12.1951 8.30779 12.0732 8.9641ZM8.39786 9.62353C10.248 7.21708 7.50091 4.46998 5.09446 6.32013C3.24431 8.72658 5.99141 11.4737 8.39786 9.62353ZM16.0047 15.3334L15.7485 15.7803C15.6547 15.9459 15.4547 16.0147 15.2766 15.949C14.9078 15.8115 14.5702 15.6146 14.2733 15.3678C14.1296 15.249 14.0921 15.0396 14.1858 14.8771L14.4421 14.4302C14.2265 14.1802 14.0577 13.8895 13.9452 13.5739H13.4295C13.242 13.5739 13.0795 13.4395 13.0482 13.252C12.9857 12.8769 12.9826 12.4831 13.0482 12.0925C13.0795 11.905 13.242 11.7675 13.4295 11.7675H13.9452C14.0577 11.4518 14.2265 11.1612 14.4421 10.9111L14.1858 10.4642C14.0921 10.3017 14.1265 10.0923 14.2733 9.97355C14.5702 9.72666 14.9109 9.52977 15.2766 9.39226C15.4547 9.32663 15.6547 9.39538 15.7485 9.56102L16.0047 10.0079C16.3329 9.94855 16.6673 9.94855 16.9954 10.0079L17.2517 9.56102C17.3455 9.39538 17.5455 9.32663 17.7236 9.39226C18.0924 9.52977 18.4299 9.72666 18.7268 9.97355C18.8706 10.0923 18.9081 10.3017 18.8143 10.4642L18.5581 10.9111C18.7737 11.1612 18.9425 11.4518 19.055 11.7675H19.5707C19.7582 11.7675 19.9207 11.9018 19.9519 12.0894C20.0144 12.4644 20.0176 12.8582 19.9519 13.2488C19.9207 13.4363 19.7582 13.5739 19.5707 13.5739H19.055C18.9425 13.8895 18.7737 14.1802 18.5581 14.4302L18.8143 14.8771C18.9081 15.0396 18.8737 15.249 18.7268 15.3678C18.4299 15.6146 18.0893 15.8115 17.7236 15.949C17.5455 16.0147 17.3455 15.9459 17.2517 15.7803L16.9954 15.3334C16.6704 15.3928 16.3329 15.3928 16.0047 15.3334ZM15.6766 13.4926C16.8798 14.4177 18.2518 13.0457 17.3267 11.8425C16.1235 10.9174 14.7515 12.2894 15.6766 13.4926Z" fill="black"></path>
+                                        </svg>
+                                       Services  
+                                    </h4>
+                                </li>
+                                <li class="drop-navlist__item">
+                                    <a href="https://terrahost.com/virtual-servers" class="drop-navlist__link">Virtual servers </a>
+                                </li>
+                                <li class="drop-navlist__item">
+                                    <a href="https://terrahost.com/dedicated-servers" class="drop-navlist__link">Dedicated Servers </a>
+                                </li>
+                                <li class="drop-navlist__item">
+                                    <a href="https://terrahost.com/dedicated-servers" class="drop-navlist__link">Storage servers </a>
+                                </li>
+                                <li class="drop-navlist__item">
+                                    <a href="https://terrahost.com/resilient-storage" class="drop-navlist__link">Resilient Object Storage </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="mega-dropdown__item">
+                            <ul class="drop-navlist">
+                                <li class="drop-navlist__item">
+                                    <h4 class="drop-navlist__title">
+                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M20.75 8.25H3.25C2.55965 8.25 2 7.69035 2 7V4.5C2 3.80965 2.55965 3.25 3.25 3.25H20.75C21.4404 3.25 22 3.80965 22 4.5V7C22 7.69035 21.4404 8.25 20.75 8.25ZM18.875 4.8125C18.3572 4.8125 17.9375 5.23223 17.9375 5.75C17.9375 6.26777 18.3572 6.6875 18.875 6.6875C19.3928 6.6875 19.8125 6.26777 19.8125 5.75C19.8125 5.23223 19.3928 4.8125 18.875 4.8125ZM16.375 4.8125C15.8572 4.8125 15.4375 5.23223 15.4375 5.75C15.4375 6.26777 15.8572 6.6875 16.375 6.6875C16.8928 6.6875 17.3125 6.26777 17.3125 5.75C17.3125 5.23223 16.8928 4.8125 16.375 4.8125ZM20.75 14.5H3.25C2.55965 14.5 2 13.9404 2 13.25V10.75C2 10.0596 2.55965 9.5 3.25 9.5H20.75C21.4404 9.5 22 10.0596 22 10.75V13.25C22 13.9404 21.4404 14.5 20.75 14.5ZM18.875 11.0625C18.3572 11.0625 17.9375 11.4822 17.9375 12C17.9375 12.5178 18.3572 12.9375 18.875 12.9375C19.3928 12.9375 19.8125 12.5178 19.8125 12C19.8125 11.4822 19.3928 11.0625 18.875 11.0625ZM16.375 11.0625C15.8572 11.0625 15.4375 11.4822 15.4375 12C15.4375 12.5178 15.8572 12.9375 16.375 12.9375C16.8928 12.9375 17.3125 12.5178 17.3125 12C17.3125 11.4822 16.8928 11.0625 16.375 11.0625ZM20.75 20.75H3.25C2.55965 20.75 2 20.1904 2 19.5V17C2 16.3096 2.55965 15.75 3.25 15.75H20.75C21.4404 15.75 22 16.3096 22 17V19.5C22 20.1904 21.4404 20.75 20.75 20.75ZM18.875 17.3125C18.3572 17.3125 17.9375 17.7322 17.9375 18.25C17.9375 18.7678 18.3572 19.1875 18.875 19.1875C19.3928 19.1875 19.8125 18.7678 19.8125 18.25C19.8125 17.7322 19.3928 17.3125 18.875 17.3125ZM16.375 17.3125C15.8572 17.3125 15.4375 17.7322 15.4375 18.25C15.4375 18.7678 15.8572 19.1875 16.375 19.1875C16.8928 19.1875 17.3125 18.7678 17.3125 18.25C17.3125 17.7322 16.8928 17.3125 16.375 17.3125Z" fill="black"></path>
+                                        </svg>
+                                       datacenter  
+                                    </h4>
+                                </li>
+                                <li class="drop-navlist__item">
+                                    <a href="https://terrahost.com/colocation" class="drop-navlist__link">Colocation </a>
+                                </li>
+                                <li class="drop-navlist__item">
+                                    <a href="https://terrahost.com/whitebox" class="drop-navlist__link">Whitebox datacenter </a>
+                                </li>
+                                <li class="drop-navlist__item">
+                                    <a href="https://terrahost.com/containerized-dc" class="drop-navlist__link">Containerized
+                                        DC </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="mega-dropdown__item">
+                            <ul class="drop-navlist">
+                                <li class="drop-navlist__item">
+                                    <h4 class="drop-navlist__title">
+                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M21.6 9.5999C22.9238 9.5999 24 8.52365 24 7.1999C24 5.87615 22.9238 4.7999 21.6 4.7999C20.2763 4.7999 19.2 5.87615 19.2 7.1999C19.2 8.52365 20.2763 9.5999 21.6 9.5999ZM2.4 11.3999C1.07625 11.3999 0 12.4762 0 13.7999C0 15.1237 1.07625 16.1999 2.4 16.1999C3.72375 16.1999 4.8 15.1237 4.8 13.7999C4.8 12.4762 3.72375 11.3999 2.4 11.3999ZM19.26 10.0049L18.54 9.0449L16.74 10.3949L17.46 11.3549L19.26 10.0049ZM21.6 16.7999C21.06 16.7999 20.565 16.9874 20.1638 17.2874L16.5638 15.1274C16.7063 14.7074 16.8 14.2649 16.8 13.7962C16.8 11.4749 14.9213 9.59615 12.6 9.59615C12.285 9.59615 11.9775 9.6374 11.685 9.7049L10.155 6.4274C10.5525 5.9999 10.8 5.4299 10.8 4.7999C10.8 3.47615 9.72375 2.3999 8.4 2.3999C7.07625 2.3999 6 3.47615 6 4.7999C6 6.12365 7.07625 7.1999 8.4 7.1999C8.44125 7.1999 8.47875 7.18865 8.52 7.18865L10.0575 10.4812C9.05625 11.2462 8.4 12.4424 8.4 13.7999C8.4 16.1212 10.2788 17.9999 12.6 17.9999C13.8038 17.9999 14.88 17.4862 15.645 16.6762L19.2375 18.8324C19.2188 18.9524 19.2 19.0762 19.2 19.1999C19.2 20.5237 20.2763 21.5999 21.6 21.5999C22.9238 21.5999 24 20.5237 24 19.1999C24 17.8762 22.9238 16.7999 21.6 16.7999ZM12.6 15.5999C11.6063 15.5999 10.8 14.7937 10.8 13.7999C10.8 12.8062 11.6063 11.9999 12.6 11.9999C13.5938 11.9999 14.4 12.8062 14.4 13.7999C14.4 14.7937 13.5938 15.5999 12.6 15.5999ZM5.7 14.3999H7.5V13.1999H5.7V14.3999Z" fill="black"></path>
+                                        </svg>
+                                       network  
+                                    </h4>
+                                </li>
+                                <li class="drop-navlist__item">
+                                    <a href="https://terrahost.com/ip-transit" class="drop-navlist__link">IP Transit </a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://terrahost.com/virtual-servers">KVM VPS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://terrahost.com/dedicated-servers">Dedicated Servers</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://terrahost.com/datacenter">Datacenters</a>
+                </li>
+                 <li class="nav-item">
+                    <a class="nav-link" href="https://terrahost.com/contact">Contact Us</a>
+                </li>
+            </ul>
+        </div>
+        <a class="enigma-login-btn mr-2" href="https://enigma.terrahost.com">Login</a>
+        <a class="main-s-btn" href="https://terrahost.com/get-quote">Get a quote</a>
+    </div>
+</nav>    </header>
+
+    <!-- Content -->
+    <main class="page">
+        <section class="start-hero" style="background-image: url(https://terrahost.com/themes/terrahost/assets/img/hero-home.jpg)">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <p class="start-hero__pre-title">Professional
+                </p>
+                <h1 class="start-hero__title">Dedicated Servers
+                </h1>
+                <p class="start-hero__post-title">Terrahost Premium Datacenters
+                </p>
+            </div>
+        </div>
+        <div class="row b-margin">
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="hero-blocks">
+                    <h3 class="hero-blocks__title">Dedicated Servers
+                    </h3>
+                    <p class="hero-blocks__text">We offer dedicated servers in all price ranges. Servers are tailored to the customer's needs. Unmetered Dedicated Servers from $42/mo.</p><a class="hero-blocks__link" href="https://terrahost.com/dedicated-servers">Learn More</a>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="hero-blocks">
+                    <h3 class="hero-blocks__title">Virtual servers
+                    </h3>
+                    <p class="hero-blocks__text">Fully redundant virtualization with KVM. VPS with fast NVMe storage and 10GE network.</p>
+                    <a class="hero-blocks__link" href="https://terrahost.com/virtual-servers">Learn More</a>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="hero-blocks">
+                    <h3 class="hero-blocks__title">Colocation 
+                    </h3>
+                    <p class="hero-blocks__text">Place your own equipment in our datacenter. Either a single server or full racks.</p>
+                    <a class="hero-blocks__link" href="https://terrahost.com/colocation">Learn More</a>
+                </div>
+            </div>
+        </div>
+        <div class="row" style="margin-top:25px;display:none;">
+            <div class="col-lg-12">
+                <div class="alert alert-info" style="width:100%;text-align:center;padding:5px;"><a href="/dedicated-servers" style="color:#000;">Terrahost turns 17 in September and we celebrate with a 25% discount on all AMD Ryzen servers. <img src="http://cdn.shopify.com/s/files/1/1061/1924/products/4_grande.png?v=1571606116" style="width:20px;height:20px;"> Use discount code: <strong>BIRTHDAY2023</strong></a></div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="h-section-two">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-6"><a class="hst-link hst-link-ls" href="https://terrahost.com/whitebox">
+                    <h3 class="hst-link__title">Whitebox datacenter 
+                    </h3><span class="hst-link__text">Apply your own network and autonomous system to our servers</span>
+                </a>
+            </div>
+            <div class="col-12 col-md-6">
+                    <a class="hst-link hst-link-rs" href="https://terrahost.com/resilient-storage">
+                    <h3 class="hst-link__title">resilient storage
+                    </h3><span class="hst-link__text">Object Storage for better resiliency</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="control-panel">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-6 col-lg-4">
+                <p class="control-panel__pre-title">self-developed 
+                </p>
+                <h3 class="control-panel__title">ENIGMA control panel
+                </h3>
+                <p class="control-panel__text">Our innovative control panel ENIGMA is developed in-house and customizable around your services. We are constantly building on new features and opportunities.
+                </p>
+                <p class="control-panel__text">Among other things, you can reinstall your server completely without
+                    our influence. Also, restart your server if necessary.
+                </p><a class="control-panel__link" href="https://terrahost.com/enigma">Learn More About ENIGMA </a>
+            </div>
+            <div class="col-12 col-md-6"><img class="img-fluid" src="https://terrahost.com/themes/terrahost/assets/img/laptop.png" alt=""></div>
+        </div>
+    </div>
+</section><section class="cloud-storage-pricing">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-12 col-md-6 order-sm-1 order-md-2 mb-sm-4"><img class="img-fluid" src="https://terrahost.com/themes/terrahost/assets/img/cloud-storage-pricing2.png" alt=""></div>
+            <div class="cloud-storage-pricing__content col-12 offset-lg-1 col-md-6 col-lg-5 mb-4 order-sm-2 order-md-1">
+                <h3 class="cloud-storage-pricing__title">We live and breathe resiliency</h3>
+                <p class="cloud-storage-pricing__text">With cyber defenses increasingly moving out of the office and into the cloud, having a scalable and crucially secure environment to host your applications and data has become a necessity.</p>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <h4 class="cloud-storage-pricing__sm-title">Security is at our core.</h4>
+                        <p class="cloud-storage-pricing__sm-text">We’ll guarantee the highest levels of security and compliance to safeguard your most valuable assets.</p>
+                    </div>
+                    <div class="col-lg-6">
+                        <h4 class="cloud-storage-pricing__sm-title"> Compliance guaranteed</h4>
+                        <p class="cloud-storage-pricing__sm-text">We ensure compliance is always front-of-mind, and our bespoke solutions are designed to exceed industry standards.</p>
+                    </div>
+                    <div class="col-12"> <a class="main-b-btn" href="https://terrahost.com/dedicated-servers">Get Started</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="truly-resilient">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-6 col-lg-6">
+                <div class="tr-content">
+                    <p class="tr-content__pre-title">Terrahost</p>
+                    <h3 class="tr-content__title">Truly resilient</h3>
+                    <p class="tr-content__text">We are a cloud and unmanaged services provider delivering the highest standards of security, with compliance guaranteed.  We operate and manage some of the world's most hardened bunkers and datacenters in the world for maximum resiliency. </p>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <ul class="tr-list">
+                    <li class="tr-list__item"> <img src="https://terrahost.com/themes/terrahost/assets/img/svg/tr-icon1.svg" alt="" role="presentation"><span class="tr-list__text">Redundant infrastructure at all levels</span>
+                    </li>
+                    <li class="tr-list__item"> <img src="https://terrahost.com/themes/terrahost/assets/img/svg/tr-icon2.svg" alt="" role="presentation"><span class="tr-list__text">Datacenters with world-class security</span>
+                    </li>
+                    <li class="tr-list__item"> <img src="https://terrahost.com/themes/terrahost/assets/img/svg/tr-icon3.svg" alt="" role="presentation"><span class="tr-list__text">A solid company in operation since 2006</span>
+                    </li>
+                    <li class="tr-list__item"> <img src="https://terrahost.com/themes/terrahost/assets/img/svg/tr-icon4.svg" alt="" role="presentation"><span class="tr-list__text">Experienced employees with decades of industry leadership</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="security-iaoc">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-5">
+                <h2 class="security-iaoc__title">Security is at our core.</h2>
+                <p class="security-iaoc__text">It runs through everything we do.  We have an acute understanding of the challenges and threats security companies face as your first line of defense.  We are your managed services and datacentre provider of choice. </p>
+                <a class="main-b-btn" href="https://terrahost.com/dedicated-servers">Get Started</a>
+            </div>
+        </div>
+    </div>
+</section>    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+    <div class="row">
+        <div class="col-12 col-lg-7">
+            <div class="col-lg-12">
+                <div class="row">
+                    <div class="col-md-4 col-lg-4">
+                        <ul class="link-list">
+                            <li class="link-list__item">
+                                <h4 class="link-list__title">Services</h4>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/dedicated-servers">Dedicated Servers</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/virtual-servers">Virtual Servers&nbsp;</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/containerized-dc">Containerized
+                                        DC</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/colocation">Colocation</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/whitebox">Whitebox datacenter</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/resilient-storage">Resilient Object Storage</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://enigma.terrahost.no" target="_blank">ENIGMA Login</a>
+                            </li>
+                        </ul>
+                        <ul class="link-list" style="display:none;">
+                            <li class="link-list__item">
+                                <h4 class="link-list__title">Remote Support</h4>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="xxx">Teamviewer xx</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="xxx">Teamviewer xx</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 col-lg-4">
+                        <ul class="link-list">
+                            <li class="link-list__item">
+                                <h4 class="link-list__title">Resources</h4>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/enigma">ENIGMA control panel</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://docs.terrahost.no/" target="_blank">Documentation</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/api">API</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahoststatus.com/" target="_blank">Service Status</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://slack.terrahost.no/" target="_blank">Slack Community</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://lg.terrahost.no/" target="_blank">Looking Glass</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://trello.com/b/niUuAh7y/public-roadmap-for-terrahost-as" target="_blank">Trello Public Roadmap </a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/bug-bounty-program">Bug Bounty Program</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 col-lg-4">
+                        <ul class="link-list">
+                            <li class="link-list__item">
+                                <h4 class="link-list__title">about</h4>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/about">About Us</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/datacenter">Datacenter</a>
+                            </li>
+                            <li class="link-list__item"> <a class="link-list__link" href="https://terrahost.com/contact">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="f-contact col-12 col-lg-5">
+            <div class="f-contact__item">
+                <h4 class="f-contact__title">Contact Us 
+                </h4><a class="f-contact__link" href="mailto: support@terrahost.com">sales@terrahost.com</a>
+            </div>
+            <div class="f-contact__item">
+                <h4 class="f-contact__title">Call us today</h4>
+                <p class="f-contact__text">
+                    <a class="f-contact__link" href="tel:+4733808800">+47 33 80 88 00</a>
+                </p>
+            </div>
+            <ul class="social">
+                <li class="social__item"> <a href="https://www.facebook.com/terrahost"><img src="https://terrahost.com/themes/terrahost/assets/img/svg/icon-facebook.svg" alt=""></a>
+                </li>
+                <li class="social__item"> <a href="https://instagram.com/terrahost"><img src="https://terrahost.com/themes/terrahost/assets/img/svg/icon-instagram.svg" alt=""></a>
+                </li>
+                <li class="social__item"> <a href="https://twitter.com/terrahost"><img src="https://terrahost.com/themes/terrahost/assets/img/svg/icon-twitter.svg" alt=""></a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-12 col-lg-12">
+            <div class="f-bottom-link"><img class="f-bottom-link__img" src="https://terrahost.com/themes/terrahost/assets/img/logo.png" alt="" role="presentation"><a class="f-bottom-link__link" href="https://terrahost.com/tos">Terms of Service</a><a class="f-bottom-link__link" href="https://terrahost.com/privacy">Privacy Policy</a><span class="f-bottom-link__copy">© Copyright <script>document.write(new Date().getFullYear())</script>2024 Terrahost AS</span>
+            </div>
+        </div>
+    </div>
+</div>    </footer>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <!--<script src="js/app.js"></script>-->
+    <script src="https://terrahost.com/themes/terrahost/assets/js/app.js"></script>
+
+    <!-- <script src="https://terrahost.com/themes/terrahost/assets/vendor/jquery.js"></script> -->
+    <!-- <script src="https://terrahost.com/themes/terrahost/assets/vendor/bootstrap.js"></script> -->
+    <!-- <script src="https://terrahost.com/themes/terrahost/assets/javascript/app.js"></script> -->
+    <script src="/modules/system/assets/js/framework.combined-min.js"></script>
+<link rel="stylesheet" property="stylesheet" href="/modules/system/assets/css/framework.extras-min.css">
+    
+
+
+<div class="stripe-loading-indicator loaded"><div class="stripe"></div><div class="stripe-loaded"></div></div><script async="" charset="UTF-8" src="https://embed.tawk.to/_s/v4/app/65839862293/languages/en.js"></script></body></html>

@@ -1,0 +1,5 @@
+Protocol,Port,Domain,Request Status,Screenshot Path, Source Path
+http,80,banks--nearme.com,BadStatus,/home/jai/Documents/automations/programs/nearme.com/Eyewitness/screens/http.banks--nearme.com.png,/home/jai/Documents/automations/programs/nearme.com/Eyewitness/source/http.banks--nearme.com.txt
+http,80,nearme.com,BadStatus,/home/jai/Documents/automations/programs/nearme.com/Eyewitness/screens/http.nearme.com.png,/home/jai/Documents/automations/programs/nearme.com/Eyewitness/source/http.nearme.com.txt
+http,80,www.banks--nearme.com,BadStatus,/home/jai/Documents/automations/programs/nearme.com/Eyewitness/screens/http.www.banks--nearme.com.png,/home/jai/Documents/automations/programs/nearme.com/Eyewitness/source/http.www.banks--nearme.com.txt
+http,80,www.nearme.com,BadStatus,/home/jai/Documents/automations/programs/nearme.com/Eyewitness/screens/http.www.nearme.com.png,/home/jai/Documents/automations/programs/nearme.com/Eyewitness/source/http.www.nearme.com.txt

@@ -1,0 +1,705 @@
+<html><head>
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q464N1Z4QC&amp;cx=c&amp;_slc=1"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/u/analytics_debug.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NWRRCH"></script><script type="text/javascript" src="https://cdn1.codashop.com/S/content/common/js/xss.min.js"></script>
+
+<!-- Google Tag Manager -->
+<script>
+    dataLayer = [{
+      'totalPrice': '',
+      'orderId': '',
+      'currency': '',
+      'orderStatus': '',
+      'paymentChannel': '',
+      'items': '',
+      'country': 'IN',
+      'gvt': '',
+      'lvt': '',
+	  'gameName': '',
+	  'checkoutId': '',
+      'pagetype': filterXSS('Home')
+    }];
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NWRRCH');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://script.tapfiliate.com/tapfiliate.js" type="text/javascript" async=""></script>
+
+<script type="text/javascript">
+    (function(t,a,p){t.TapfiliateObject=a;t[a]=t[a]||function(){ (t[a].q=t[a].q||[]).push(arguments)}})(window,'tap');
+
+    tap('create', '11857-697628');
+    tap('detect');
+
+</script>
+    
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="UTF-8">
+
+<!--[if lt IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+
+<title>Codashop - India</title>
+
+<meta name="generator" content="coda2">
+<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="application-name" content="Codashop">
+<meta name="apple-mobile-web-app-capable " content="yes ">
+<meta name="apple-mobile-web-app-status-bar-style " content="black ">
+<meta name="apple-mobile-web-app-title " content="Codashop ">
+<link rel="apple-touch-icon " href="/content/mobile/images/app/apple-touch-icon-192.4c5d5260ea.png">
+<meta name="msapplication-TileImage " content="/content/mobile/images/app/ms-tile-icon-142.170436b541.png">
+<meta name="msapplication-TileColor " content="#f76b1d ">
+<meta name="theme-color " content="#f76b1d">
+<link rel="manifest" href="/manifest.json">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="icon" type="image/x-icon" href="https://cdn1.codashop.com/S/content/common/images/reskin/favicon.ico">
+<link rel="stylesheet" type="text/css" media="all" href="https://cdn1.codashop.com/S/content/common/css/flags.css">
+
+<script type="text/javascript" src="/content/common/js/jquery331.min.46df95a434.js"></script>
+<link rel="stylesheet" href="/content/common/css/flickity.min.7f88ab36db.css">
+<script type="text/javascript" src="/content/common/js/flickity.pkgd.min.f04d1ca0e7.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/content/common/css/shared-fontfaces.c2d228c49d.css">
+
+<!-- info bar css -->
+<link rel="stylesheet" type="text/css" href="/content/mobile/css/infoBar.4a54acc925.css">
+
+
+<link rel="stylesheet" type="text/css" href="/content/common/css/shared-topnav2.620239603e.css">
+
+<!-- switching css for arabic country -->
+
+  <link rel="stylesheet" type="text/css" media="all" href="/content/mobile/css/codashop-landing2.8d94bffc7d.css">
+
+
+<link rel="alternate" hreflang="x-default" href="https://www.codashop.com/international/">
+
+    <link rel="alternate" hreflang="ar-EG" href="https://www.codashop.com/eg/">
+
+    <link rel="alternate" hreflang="ar-MA" href="https://www.codashop.com/ma/">
+
+    <link rel="alternate" hreflang="en-KE" href="https://www.codashop.com/ke/">
+
+    <link rel="alternate" hreflang="en-NG" href="https://www.codashop.com/ng/">
+
+    <link rel="alternate" hreflang="en-ZA" href="https://www.codashop.com/za/">
+
+    <link rel="alternate" hreflang="es-AR" href="https://www.codashop.com/ar/">
+
+    <link rel="alternate" hreflang="es-BO" href="https://www.codashop.com/bo/">
+
+    <link rel="alternate" hreflang="pt-BR" href="https://www.codashop.com/br/">
+
+    <link rel="alternate" hreflang="en-CA" href="https://www.codashop.com/ca/">
+
+    <link rel="alternate" hreflang="es-CL" href="https://www.codashop.com/cl/">
+
+    <link rel="alternate" hreflang="es-CO" href="https://www.codashop.com/co/">
+
+    <link rel="alternate" hreflang="es-EC" href="https://www.codashop.com/ec/">
+
+    <link rel="alternate" hreflang="es-MX" href="https://www.codashop.com/mx/">
+
+    <link rel="alternate" hreflang="es-PY" href="https://www.codashop.com/py/">
+
+    <link rel="alternate" hreflang="es-PE" href="https://www.codashop.com/pe/">
+
+    <link rel="alternate" hreflang="es-UY" href="https://www.codashop.com/uy/">
+
+    <link rel="alternate" hreflang="en-US" href="https://www.codashop.com/us/">
+
+    <link rel="alternate" hreflang="de-AT" href="https://www.codashop.com/at/">
+
+    <link rel="alternate" hreflang="nl-BE" href="https://www.codashop.com/be/">
+
+    <link rel="alternate" hreflang="cs-CZ" href="https://www.codashop.com/cz/">
+
+    <link rel="alternate" hreflang="da-DK" href="https://www.codashop.com/dk/">
+
+    <link rel="alternate" hreflang="fr-FR" href="https://www.codashop.com/fr/">
+
+    <link rel="alternate" hreflang="de-DE" href="https://www.codashop.com/de/">
+
+    <link rel="alternate" hreflang="it-IT" href="https://www.codashop.com/it/">
+
+    <link rel="alternate" hreflang="nl-NL" href="https://www.codashop.com/nl/">
+
+    <link rel="alternate" hreflang="no-NO" href="https://www.codashop.com/no/">
+
+    <link rel="alternate" hreflang="pl-PL" href="https://www.codashop.com/pl/">
+
+    <link rel="alternate" hreflang="ro-RO" href="https://www.codashop.com/ro/">
+
+    <link rel="alternate" hreflang="es-ES" href="https://www.codashop.com/es/">
+
+    <link rel="alternate" hreflang="sv-SE" href="https://www.codashop.com/se/">
+
+    <link rel="alternate" hreflang="de-CH" href="https://www.codashop.com/ch/">
+
+    <link rel="alternate" hreflang="en-GB" href="https://www.codashop.com/gb/">
+
+    <link rel="alternate" hreflang="hu-HU" href="https://www.codashop.com/hu/">
+
+    <link rel="alternate" hreflang="pt-PT" href="https://www.codashop.com/pt/">
+
+    <link rel="alternate" hreflang="en-BH" href="https://www.codashop.com/bh/">
+
+    <link rel="alternate" hreflang="ar-IQ" href="https://www.codashop.com/iq/">
+
+    <link rel="alternate" hreflang="en-KW" href="https://www.codashop.com/kw/">
+
+    <link rel="alternate" hreflang="en-QA" href="https://www.codashop.com/qa/">
+
+    <link rel="alternate" hreflang="ar-SA" href="https://www.codashop.com/sa/">
+
+    <link rel="alternate" hreflang="tr-TR" href="https://www.codashop.com/tr/">
+
+    <link rel="alternate" hreflang="en-AE" href="https://www.codashop.com/ae/">
+
+    <link rel="alternate" hreflang="km-KH" href="https://www.codashop.com/kh/">
+
+    <link rel="alternate" hreflang="id-ID" href="https://www.codashop.com/id/">
+
+    <link rel="alternate" hreflang="lo-LA" href="https://www.codashop.com/la/">
+
+    <link rel="alternate" hreflang="en-MY" href="https://www.codashop.com/my/">
+
+    <link rel="alternate" hreflang="my-MM" href="https://www.codashop.com/mm/">
+
+    <link rel="alternate" hreflang="en-PH" href="https://www.codashop.com/ph/">
+
+    <link rel="alternate" hreflang="en-SG" href="https://www.codashop.com/sg/">
+
+    <link rel="alternate" hreflang="th-TH" href="https://www.codashop.com/th/">
+
+    <link rel="alternate" hreflang="vi-VN" href="https://www.codashop.com/vn/">
+
+    <link rel="alternate" hreflang="en-TL" href="https://www.codashop.com/tl/">
+
+    <link rel="alternate" hreflang="en-LK" href="https://www.codashop.com/lk/">
+
+    <link rel="alternate" hreflang="en-IN" href="https://www.codashop.com/in/">
+
+    <link rel="alternate" hreflang="en-BD" href="https://www.codashop.com/bd/">
+
+    <link rel="alternate" hreflang="en-PK" href="https://www.codashop.com/pk/">
+
+    <link rel="alternate" hreflang="en-NP" href="https://www.codashop.com/np/">
+
+    <link rel="alternate" hreflang="ja-JP" href="https://www.codashop.com/jp/">
+
+    <link rel="alternate" hreflang="ko-KR" href="https://www.codashop.com/kr/">
+
+    <link rel="alternate" hreflang="ru-RU" href="https://www.codashop.com/ru/">
+
+    <link rel="alternate" hreflang="zh-TW" href="https://www.codashop.com/tw/">
+
+    <link rel="alternate" hreflang="mn-MN" href="https://www.codashop.com/mn/">
+
+    <link rel="alternate" hreflang="zh-HK" href="https://www.codashop.com/hk/">
+
+    <link rel="alternate" hreflang="en-AU" href="https://www.codashop.com/au/">
+
+    <link rel="alternate" hreflang="ru-KZ" href="https://www.codashop.com/kz/">
+
+    <link rel="alternate" hreflang="en-NZ" href="https://www.codashop.com/nz/">
+
+
+
+
+
+
+
+
+<!-- OG Tags Start -->
+<meta property="og:url" content="https://www.codashop.com/in/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Codashop - India">
+<meta property="og:description" content="Buy Mobile Legends Diamonds &amp; Starlight Member, and more. Pay using PayTM, and more. No registration or login!">
+
+<meta property="og:image" content="https://cdn1.codashop.com/S/content/common/images/rebrand/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<!-- OG Tags End -->
+    <meta name="description" content="Buy Mobile Legends Diamonds &amp; Starlight Member, and more. Pay using PayTM, and more. No registration or login!">
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+
+
+
+    <body class="theme-page--landing-page">
+
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-NWRRCH' height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <input type="hidden" id="data_landing_page" value="{
+	&quot;promoBannerSection&quot;: {
+		&quot;cycleTime&quot;: 5000,
+		&quot;images&quot;: [
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/113/cod_paytm_in.jpg&quot;,
+				&quot;altText&quot;: &quot;CODM cashback on Codashop India&quot;,
+				&quot;href&quot;: &quot;https://www.codashop.com/en-in/call-of-duty-mobile?promo_name=IN_CODM-X-Paytm-INR-500-Cashback_18-06-2021&amp;promo_position=1&quot;,
+				&quot;starttime&quot;: &quot;2021-06-18T05:36:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2021-06-30T15:29:00.000Z&quot;
+			},
+{
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/107/steam_ws_en.jpeg&quot;,
+				&quot;altText&quot;: &quot;STEAM WINTER SALE 2020 on Codashop India&quot;,
+				&quot;href&quot;: &quot;https://www.codashop.com/in/steam-wallet-code-india?promo_name=IN_STEAM-WINTER-SALE-2020_22-12-2020&amp;promo_position=2&quot;,
+				&quot;starttime&quot;: &quot;2020-12-23T00:01:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2021-01-05T01:30:00.000Z&quot;
+			},
+                       {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/paytm_junecashback_in.jpg&quot;,
+				&quot;altText&quot;: &quot;Paytm Cashback Promo India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/37Nt4TU&quot;,
+				&quot;starttime&quot;: &quot;2020-06-20T10:50:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-30T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/mlbb_s17_en.jpg&quot;,
+				&quot;altText&quot;: &quot;MLBB Season 17 featuring Kharina New Skin India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/3fCnhTZ&quot;,
+				&quot;starttime&quot;: &quot;2020-06-20T10:50:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-07-03T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/mlbb_yuzhong_in.jpg&quot;,
+				&quot;altText&quot;: &quot;MLBB New Hero Yu Zhong India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/3edMZ0E&quot;,
+				&quot;starttime&quot;: &quot;2020-06-18T15:50:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-25T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/mlbb_dragonarmor_en.jpg&quot;,
+				&quot;altText&quot;: &quot;MLBB Masha Dragon Armor Skin India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2BbBacU&quot;,
+				&quot;starttime&quot;: &quot;2020-06-22T07:50:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-30T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/tinder_junepromo_in.jpg&quot;,
+				&quot;altText&quot;: &quot;Tinder June Promo India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2AEN1jJ&quot;,
+				&quot;starttime&quot;: &quot;2020-06-12T15:50:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-30T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/mlbb_30skindiscount_en.jpg&quot;,
+				&quot;altText&quot;: &quot;MLBB 30% Skin Discount Promo India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2AoVjMt&quot;,
+				&quot;starttime&quot;: &quot;2020-06-12T15:50:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-14T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/pubg_dcamoskin_in.jpg&quot;,
+				&quot;altText&quot;: &quot;PayTM PUBGM Gunskin Dcamo Promo India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2ARjzH3&quot;,
+				&quot;starttime&quot;: &quot;2020-06-09T14:50:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-15T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/turbovpn_launch_en.jpg&quot;,
+				&quot;altText&quot;: &quot;Turbo VPN Launch on Codashop India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/3feWrkI&quot;,
+				&quot;starttime&quot;: &quot;2020-06-09T14:50:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-25T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/mlbb_et_en.jpg&quot;,
+				&quot;altText&quot;: &quot;MLBB Zhask Extraterrestrial Skin India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2XOanvZ&quot;,
+				&quot;starttime&quot;: &quot;2020-06-11T7:00:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-15T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/okcupid_promo_in.jpg&quot;,
+				&quot;altText&quot;: &quot;OK Cupid Promo India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2XJXB1I&quot;,
+				&quot;starttime&quot;: &quot;2020-06-01T10:30:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-30T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/mlbb_ratandragon_en.jpg&quot;,
+				&quot;altText&quot;: &quot;MLBB Estes Rattan Dragon Skin India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2Yin8y6&quot;,
+				&quot;starttime&quot;: &quot;2020-06-01T10:30:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-15T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/mlbb_lunarmagic_en.jpg&quot;,
+				&quot;altText&quot;: &quot;MLBB Chang e Lunar Magic Skin India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/3dA5lsC&quot;,
+				&quot;starttime&quot;: &quot;2020-06-01T10:30:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-10T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/okcupid_launch_in.jpg&quot;,
+				&quot;altText&quot;: &quot;OK Cupid Launch on Codashop India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2XmPA2q&quot;,
+				&quot;starttime&quot;: &quot;2020-06-01T10:30:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-30T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/mlbb_june_starlight.jpg&quot;,
+				&quot;altText&quot;: &quot;Mobile Legends Xborg Starlight India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2yKmAbj&quot;,
+				&quot;starttime&quot;: &quot;2020-06-01T10:30:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-15T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/mlbb_gusionskin_in.jpg&quot;,
+				&quot;altText&quot;: &quot;Mobile Legends Gusion Cosmic Gleam Skin India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2M9bTSC&quot;,
+				&quot;starttime&quot;: &quot;2020-05-29T10:30:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-05T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/codashop_paytm_in.jpg&quot;,
+				&quot;altText&quot;: &quot;Codashop Paytm Promo India&quot;,
+				&quot;href&quot;: &quot;http://bit.ly/3c4nzAM&quot;,
+				&quot;starttime&quot;: &quot;2020-05-29T10:30:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-05-31T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/ff_paytm_in.jpg&quot;,
+				&quot;altText&quot;: &quot;Free Fire Paytm Promo India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2AzKZkn&quot;,
+				&quot;starttime&quot;: &quot;2020-05-20T10:30:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-05-30T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/mlbb_dragonicflame_en.jpg&quot;,
+				&quot;altText&quot;: &quot;Mobile Legends Valir Dragonic Flame Skin India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/3gtT22I&quot;,
+				&quot;starttime&quot;: &quot;2020-05-20T10:30:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-03T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/mlbb_midnightjustice_in.jpg&quot;,
+				&quot;altText&quot;: &quot;Mobile Legends Silvanna Midnight Justice Skin India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/2ZDFcVq&quot;,
+				&quot;starttime&quot;: &quot;2020-05-23T10:30:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-02T23:59:00.000Z&quot;
+			},
+                        {
+				&quot;srcUrl&quot;: &quot;https://cdn1.codashop.com/S/content/common/images/promos/101/pubg_promo_in.jpg&quot;,
+				&quot;altText&quot;: &quot;PUBGM Promo India&quot;,
+				&quot;href&quot;: &quot;https://bit.ly/3cQ4Xpl&quot;,
+				&quot;starttime&quot;: &quot;2020-05-20T10:30:00.000Z&quot;,
+				&quot;endtime&quot;: &quot;2020-06-14T23:59:00.000Z&quot;
+			}
+		]
+	},
+	&quot;categorySection&quot;: {
+		&quot;name&quot;: &quot;Direct top-up&quot;,
+		&quot;shortDescription&quot;: &quot;&quot;,
+		&quot;products&quot;: [   {
+				&quot;thumbnailUrl&quot;: &quot;https://cdn1.codashop.com/S/content/mobile/images/product-tiles/a9_tile.jpg&quot;,
+				&quot;productName&quot;: &quot;Asphalt 9: Legends&quot;,
+				&quot;productUrl&quot;: &quot;/in/asphalt-9-legends&quot;
+			},
+{
+                    &quot;thumbnailUrl&quot;: &quot;https://cdn1.codashop.com/S/content/mobile/images/product-tiles/rsz_egs_tile.png&quot;,
+                    &quot;productName&quot;: &quot;Epic Games Store&quot;,
+                    &quot;productUrl&quot;: &quot;/in/epic-games-store&quot;
+			    },
+{
+            &quot;thumbnailUrl&quot;:&quot;https://cdn1.codashop.com/S/content/mobile/images/product-tiles/mlbb_tile.jpg&quot;,
+            &quot;productName&quot;:&quot;Mobile Legends&quot;,
+            &quot;productUrl&quot;:&quot;/in/mobile-legends&quot;
+         },
+{
+				&quot;thumbnailUrl&quot;: &quot;https://cdn1.codashop.com/S/content/mobile/images/product-tiles/tinder_tile.jpg&quot;,
+				&quot;productName&quot;: &quot;Tinder Direct Top Up&quot;,
+				&quot;productUrl&quot;: &quot;/in/tinder&quot;
+			},
+{
+            &quot;thumbnailUrl&quot;:&quot;https://cdn1.codashop.com/S/content/mobile/images/product-tiles/Rise_of_Empires_tile.jpg&quot;,
+            &quot;productName&quot;:&quot;Rise of Empires&quot;,
+            &quot;productUrl&quot;:&quot;/in/rise-of-empires-ice-and-fire&quot;
+         },
+{
+            &quot;thumbnailUrl&quot;:&quot;https://cdn1.codashop.com/S/content/mobile/images/product-tiles/devilhunter_tile.png&quot;,
+            &quot;productName&quot;:&quot;Devil Hunter&quot;,
+            &quot;productUrl&quot;:&quot;/in/devil-hunter&quot;
+         },
+{
+            &quot;thumbnailUrl&quot;:&quot;https://cdn1.codashop.com/S/content/mobile/images/product-tiles/nfs_tile.jpg&quot;,
+            &quot;productName&quot;:&quot;Need for Speed No Limits&quot;,
+            &quot;productUrl&quot;:&quot;/in/need-for-speed-no-limit&quot;
+         },
+{
+            &quot;thumbnailUrl&quot;:&quot;https://cdn1.codashop.com/S/content/mobile/images/product-tiles/olaparty_tile.png&quot;,
+            &quot;productName&quot;:&quot;Ola Party&quot;,
+            &quot;productUrl&quot;:&quot;/in/ola-party&quot;
+         },
+{
+            &quot;thumbnailUrl&quot;:&quot;https://cdn1.codashop.com/S/content/mobile/images/product-tiles/steam_tile.jpg&quot;,
+            &quot;productName&quot;:&quot;Steam Wallet&quot;,
+            &quot;productUrl&quot;:&quot;/in/steam-wallet-code-india&quot;
+         },
+                        {
+				&quot;thumbnailUrl&quot;: &quot;https://cdn1.codashop.com/S/content/mobile/images/product-tiles/pubgm_rps_tile.jpg&quot;,
+				&quot;productName&quot;: &quot;PUBGM &quot;,
+				&quot;productUrl&quot;: &quot;/in/pubg-mobile-vouchers&quot;
+			},
+                        {
+				&quot;thumbnailUrl&quot;: &quot;https://cdn1.codashop.com/S/content/mobile/images/product-tiles/googleplay_tile.png&quot;,
+				&quot;productName&quot;: &quot;Google Play&quot;,
+				&quot;productUrl&quot;: &quot;/in/google-play-epay-microsoft&quot;
+			}
+                      ]
+		},
+		&quot;aboutSection&quot;: {
+			&quot;title&quot;: &quot;Why top up games on Codashop?&quot;,
+			&quot;subTitle&quot;: &quot;Millions of gamers count on Codashop every month for a seamless purchase experience when buying game credits or vouchers – No registration or log-in is required, and purchase are added to your game account instantly. Top-up Free Fire, Mobile Legends, Rules of Survival and more now!&quot;,
+			&quot;content&quot;: [{
+					&quot;imageUrl&quot;: &quot;https://cdn1.codashop.com/S/content/mobile/images/usp-icons/pay_in_seconds.png&quot;,
+					&quot;altText&quot;: &quot;Quick icon&quot;,
+					&quot;title&quot;: &quot;Easy and Fast&quot;,
+					&quot;subTitle&quot;: &quot;It only takes a few seconds to complete a purchase on Codashop.&quot;
+				},
+				{
+					&quot;imageUrl&quot;: &quot;https://cdn1.codashop.com/S/content/mobile/images/usp-icons/fast_delivery.png&quot;,
+					&quot;altText&quot;: &quot;Delivery icon&quot;,
+					&quot;title&quot;: &quot;Instant Delivery&quot;,
+					&quot;subTitle&quot;: &quot;When you top-up on Codashop, your purchase is delivered directly to your game account as soon as your payment is complete.&quot;
+				},
+				{
+					&quot;imageUrl&quot;: &quot;https://cdn1.codashop.com/S/content/mobile/images/usp-icons/best_payment_method.png&quot;,
+					&quot;altText&quot;: &quot;Payments icon&quot;,
+					&quot;title&quot;: &quot;Convenient Payment Methods&quot;,
+					&quot;subTitle&quot;: &quot;Pay with PayTM Wallet or UPI&quot;
+				},
+				{
+					&quot;imageUrl&quot;: &quot;https://cdn1.codashop.com/S/content/mobile/images/usp-icons/24h_support.png&quot;,
+					&quot;altText&quot;: &quot;24h support&quot;,
+					&quot;title&quot;: &quot;24-hour Customer Support&quot;,
+					&quot;subTitle&quot;: &quot;Our support team is available 24 hours a day, 7 days a week. You can reach us by email or FB messenger.&quot;
+				},
+				{
+					&quot;imageUrl&quot;: &quot;https://cdn1.codashop.com/S/content/mobile/images/usp-icons/promo.png&quot;,
+					&quot;altText&quot;: &quot;Promo icon&quot;,
+					&quot;title&quot;: &quot;Exciting Promotions&quot;,
+					&quot;subTitle&quot;: &quot;Keep a lookout for the best deals for your favourite games with Codashop promotions&quot;
+				}
+			]
+		},
+		&quot;newsBannerSection&quot;: {
+			&quot;title&quot;: &quot;News &amp; Promotions&quot;,
+			&quot;content&quot;: [
+
+			]
+		}
+	}">
+    <input type="hidden" id="server" value="/">
+
+    <script type="text/javascript">
+    $(document).ready(function () {
+        countryCode = '356';
+    });
+
+    var viewAllText = 'View all';
+    var resultUnitText = 'Results';
+    var notFoundText = 'No results found';
+    
+</script>
+
+<script type="text/javascript" src="/content/common/js/shop-topnav2.078ca6d94f.js"></script>
+
+<nav class="top-navbar top-nav--general">
+    <div class="top-nav-container">
+        
+        
+        <div class="logo-container">
+            
+            
+            
+                <a href="/" class="logo-container-link">
+                    <img class="logo-image theme-default__logo" src="https://cdn1.codashop.com/S/content/mobile/images/codashop-logo-new-2x.png" alt="Codashop">
+                </a>
+            
+            <h3 class="slogan-element">The fastest way to get game credits online, without a credit card!</h3>
+        </div>
+        <div class="search-container">
+            <div class="search-icon-container">
+                <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M23.809 21.646l-6.205-6.205c1.167-1.605 1.857-3.579 1.857-5.711 0-5.365-4.365-9.73-9.731-9.73-5.365 0-9.73 4.365-9.73 9.73 0 5.366 4.365 9.73 9.73 9.73 2.034 0 3.923-.627 5.487-1.698l6.238 6.238 2.354-2.354zm-20.955-11.916c0-3.792 3.085-6.877 6.877-6.877s6.877 3.085 6.877 6.877-3.085 6.877-6.877 6.877c-3.793 0-6.877-3.085-6.877-6.877z"></path></svg>
+            </div>
+        </div>
+    </div>
+
+     <div class="search-input-container">
+        <input type="search" name="search-keyword" id="search-keyword" class="input-search" placeholder="Search for a game or voucher">
+    </div>
+    <div class="search-result-list"></div>
+</nav>
+
+<nav class="top-navbar top-nav--productpage">
+    <div class="top-nav-container">
+        <div class="custom-page__logo tmw-logo">
+            <div class="logo-image-container">
+                <a href="/th"><img class="logo-image" src="/content/mobile/images/tmw-logo-header.0ce5607079.png" alt="True Money Wallet"></a>
+            </div>
+            
+            
+        </div>
+        <div class="logo-container">
+            
+                
+                
+                    <a href="/" class="logo-container-link">
+                        <img class="logo-image theme-default__logo" src="https://cdn1.codashop.com/S/content/mobile/images/codashop-logo-new-2x.png" alt="Codashop">
+                    </a>
+                
+            
+
+            <h3 class="slogan-element">The fastest way to get game credits online, without a credit card!</h3>
+        </div>
+
+        <div class="search-input-container">
+            <div class="search-input-container--productpage">
+                <input type="search" name="search-input" id="search-input" class="search-input__productpage" placeholder="Search for a game or voucher">
+                <svg class="search-icon--productpage" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M23.809 21.646l-6.205-6.205c1.167-1.605 1.857-3.579 1.857-5.711 0-5.365-4.365-9.73-9.731-9.73-5.365 0-9.73 4.365-9.73 9.73 0 5.366 4.365 9.73 9.73 9.73 2.034 0 3.923-.627 5.487-1.698l6.238 6.238 2.354-2.354zm-20.955-11.916c0-3.792 3.085-6.877 6.877-6.877s6.877 3.085 6.877 6.877-3.085 6.877-6.877 6.877c-3.793 0-6.877-3.085-6.877-6.877z"></path></svg>
+            </div>
+            <div class="search-result-list"></div>
+        </div>
+
+    </div>
+</nav>
+<div class="notification-wrapper"></div>
+    
+    <link rel="stylesheet" type="text/css" href="/content/common/css/shared-footer2.6867445fc2.css">
+
+<div class="category-container"><div class="category__product-row"><div class="category__title">Direct top-up</div><a href="/in/asphalt-9-legends" class="category__product-container js-link-click"><img data-src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/a9_tile.jpg" alt="" class="category__product-image lozad" src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/a9_tile.jpg" data-loaded="true"><div class="category__product-title">Asphalt 9: Legends</div></a><a href="/in/epic-games-store" class="category__product-container js-link-click"><img data-src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/rsz_egs_tile.png" alt="" class="category__product-image lozad" src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/rsz_egs_tile.png" data-loaded="true"><div class="category__product-title">Epic Games Store</div></a><a href="/in/mobile-legends" class="category__product-container js-link-click"><img data-src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/mlbb_tile.jpg" alt="" class="category__product-image lozad" src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/mlbb_tile.jpg" data-loaded="true"><div class="category__product-title">Mobile Legends</div></a><a href="/in/tinder" class="category__product-container js-link-click"><img data-src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/tinder_tile.jpg" alt="" class="category__product-image lozad" src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/tinder_tile.jpg" data-loaded="true"><div class="category__product-title">Tinder Direct Top Up</div></a><a href="/in/rise-of-empires-ice-and-fire" class="category__product-container js-link-click"><img data-src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/Rise_of_Empires_tile.jpg" alt="" class="category__product-image lozad" src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/Rise_of_Empires_tile.jpg" data-loaded="true"><div class="category__product-title">Rise of Empires</div></a><a href="/in/devil-hunter" class="category__product-container js-link-click"><img data-src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/devilhunter_tile.png" alt="" class="category__product-image lozad" src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/devilhunter_tile.png" data-loaded="true"><div class="category__product-title">Devil Hunter</div></a><a href="/in/need-for-speed-no-limit" class="category__product-container js-link-click"><img data-src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/nfs_tile.jpg" alt="" class="category__product-image lozad" src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/nfs_tile.jpg" data-loaded="true"><div class="category__product-title">Need for Speed No Limits</div></a><a href="/in/ola-party" class="category__product-container js-link-click"><img data-src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/olaparty_tile.png" alt="" class="category__product-image lozad" src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/olaparty_tile.png" data-loaded="true"><div class="category__product-title">Ola Party</div></a><a href="/in/steam-wallet-code-india" class="category__product-container js-link-click"><img data-src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/steam_tile.jpg" alt="" class="category__product-image lozad" src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/steam_tile.jpg" data-loaded="true"><div class="category__product-title">Steam Wallet</div></a><a href="/in/pubg-mobile-vouchers" class="category__product-container js-link-click"><img data-src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/pubgm_rps_tile.jpg" alt="" class="category__product-image lozad" src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/pubgm_rps_tile.jpg" data-loaded="true"><div class="category__product-title">PUBGM </div></a><a href="/in/google-play-epay-microsoft" class="category__product-container js-link-click"><img data-src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/googleplay_tile.png" alt="" class="category__product-image lozad" src="https://cdn1.codashop.com/S/content/mobile/images/product-tiles/googleplay_tile.png" data-loaded="true"><div class="category__product-title">Google Play</div></a></div></div><div class="coda-about-container"><div class="coda-about__header"> Why top up games on Codashop? </div><div class="coda-about__short-description"> Millions of gamers count on Codashop every month for a seamless purchase experience when buying game credits or vouchers – No registration or log-in is required, and purchase are added to your game account instantly. Top-up Free Fire, Mobile Legends, Rules of Survival and more now! </div><div class="coda-about-card-all"><div class="coda-about__card-container"><div class="coda-about__card__icon-area"><img class="coda-about__icon-card" src="https://cdn1.codashop.com/S/content/mobile/images/usp-icons/pay_in_seconds.png" alt="Quick icon" id="coda-about__card__icon-style"></div><div class="coda-about__card-content"> <div class="coda-about__card__title-area">Easy and Fast</div> <div class="coda-about__card__desc-area">It only takes a few seconds to complete a purchase on Codashop.</div> </div></div><div class="coda-about__card-container"><div class="coda-about__card__icon-area"><img class="coda-about__icon-card" src="https://cdn1.codashop.com/S/content/mobile/images/usp-icons/fast_delivery.png" alt="Delivery icon" id="coda-about__card__icon-style"></div><div class="coda-about__card-content"> <div class="coda-about__card__title-area">Instant Delivery</div> <div class="coda-about__card__desc-area">When you top-up on Codashop, your purchase is delivered directly to your game account as soon as your payment is complete.</div> </div></div><div class="coda-about__card-container"><div class="coda-about__card__icon-area"><img class="coda-about__icon-card" src="https://cdn1.codashop.com/S/content/mobile/images/usp-icons/best_payment_method.png" alt="Payments icon" id="coda-about__card__icon-style"></div><div class="coda-about__card-content"> <div class="coda-about__card__title-area">Convenient Payment Methods</div> <div class="coda-about__card__desc-area">Pay with PayTM Wallet or UPI</div> </div></div><div class="coda-about__card-container"><div class="coda-about__card__icon-area"><img class="coda-about__icon-card" src="https://cdn1.codashop.com/S/content/mobile/images/usp-icons/24h_support.png" alt="24h support" id="coda-about__card__icon-style"></div><div class="coda-about__card-content"> <div class="coda-about__card__title-area">24-hour Customer Support</div> <div class="coda-about__card__desc-area">Our support team is available 24 hours a day, 7 days a week. You can reach us by email or FB messenger.</div> </div></div><div class="coda-about__card-container"><div class="coda-about__card__icon-area"><img class="coda-about__icon-card" src="https://cdn1.codashop.com/S/content/mobile/images/usp-icons/promo.png" alt="Promo icon" id="coda-about__card__icon-style"></div><div class="coda-about__card-content"> <div class="coda-about__card__title-area">Exciting Promotions</div> <div class="coda-about__card__desc-area">Keep a lookout for the best deals for your favourite games with Codashop promotions</div> </div></div></div></div><footer class="footer-container">
+    <div class="footer-area">
+        <section class="left-blocks-container">
+            <div class="socials-container">
+                <p class="social-title">Stay updated with us:</p>
+                <div class="footer__social-media-container">
+                    
+                        <a href="https://www.facebook.com/codapay/" target="_blank" class="social-icon-container" aria-label="Codashop Official Facebook" rel="noopener">
+                            <img src="https://cdn1.codashop.com/S/content/social-media-logo/36/socmed-facebook-H36.png" alt="" class="social-icon">
+                        </a>
+                    
+
+                    
+
+                    
+
+                    
+                </div>
+            </div>
+
+            <div class="support-container">
+                <p class="support-title">Need help?</p>
+                <div class="support-icons">
+                    
+                    
+                        <a href="https://m.me/Codashop.IN" target="_blank" class="social-icon-container" aria-label="Contact via Facebook" rel="noopener">
+                            <img src="https://cdn1.codashop.com/S/content/social-media-logo/36/socmed-facebook-msg-H36.png" alt="" class="social-icon">
+                        </a>
+                    
+
+                    
+
+                </div>
+                <a href="https://support.codapay.com/hc/en-us" target="_blank" class="support-link" aria-label="Contact Codashop support" rel="noopener">
+                    <div class="contact-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M320 352h-23.1a174.08 174.08 0 0 1-145.8 0H128A128 128 0 0 0 0 480a32 32 0 0 0 32 32h384a32 32 0 0 0 32-32 128 128 0 0 0-128-128zM48 224a16 16 0 0 0 16-16v-16c0-88.22 71.78-160 160-160s160 71.78 160 160v16a80.09 80.09 0 0 1-80 80h-32a32 32 0 0 0-32-32h-32a32 32 0 0 0 0 64h96a112.14 112.14 0 0 0 112-112v-16C416 86.13 329.87 0 224 0S32 86.13 32 192v16a16 16 0 0 0 16 16zm160 0h32a64 64 0 0 1 55.41 32H304a48.05 48.05 0 0 0 48-48v-16a128 128 0 0 0-256 0c0 40.42 19.1 76 48.35 99.47-.06-1.17-.35-2.28-.35-3.47a64.07 64.07 0 0 1 64-64z"></path></svg>
+                    </div>
+
+                    
+                    
+                        <div class="contact-text">Contact Us</div>
+                    
+                </a>
+            </div>
+            <div class="international-container">
+                <a href="/international" class="international-flag-block" rel="noopener">
+                    
+                        <i class="f32_india footer__country-flag" id="footer__country-flag"></i>
+                    
+                    <div class="international__country-name">India</div>
+                </a>
+            </div>
+        </section>
+
+        <section class="right-blocks-container">
+            <div class="legal-content-container">
+                
+                	
+                    <a href="/marketing-and-partnerships?country2Name=IN" target="_blank" rel="noopener"></a>
+                
+                <a href="https://www.codapay.com/toc" target="_blank" rel="noopener">Terms &amp; Conditions</a>
+                <a href="https://www.codapay.com/toc" target="_blank" rel="noopener">Privacy Policy</a>
+            </div>
+            
+            <div class="copyright-container"> © 2021 Coda Payments PTE LTD </div>
+        </section>
+    </div>
+</footer>
+    <script type="text/javascript" src="https://cdn1.codashop.com/S/content/common/js/jquery.cookie.js?v=282"></script>
+
+    <script type="text/javascript" src="/content/pages/js/landingPage.89fc71b163.js?v=282"></script>
+    <script type="text/javascript" src="/content/common/js/common-sw.bc168f847c.js?v=282"></script>
+
+    <script>
+        // Pass countryCode to JS
+        getCurrentCountry2Name('IN');
+
+        var CODA = CODA || {};
+        CODA.Shop = CODA.Shop || {};
+        CODA.Shop.searchUrl = 'https://qa.codashop.com/search';
+
+        CODA.Shop.infoBar = '[];
+
+        var checker = "/" + "en_IN".split("_")[1].toLowerCase() + "/";
+        if (window.location.pathname != checker) window.location.pathname = checker;
+     </script>
+    <script>
+        $(document).ready(function () {
+            if('') {
+                window.sessionStorage.setItem("tmw-access-token", "");
+            }
+        });
+    </script>
+    <script type="text/javascript" src="/content/common/js/infoBar.a77298ae2c.js?v=282"></script>
+
+
+
+<script type="text/javascript" id="">dataLayer.push({event:"TonyTest",ecommerce:{purchase:{actionField:{id:"",affiliation:"Online Store",revenue:"35.43",tax:"4.90",shipping:"5.99",coupon:"SUMMER_SALE"},products:[{name:"Triblend Android T-Shirt",id:"12345",price:"15.25",brand:"Google",category:"Apparel",variant:"Gray",quantity:1,coupon:""},{name:"Donut Friday Scented T-Shirt",id:"67890",price:"33.75",brand:"Google",category:"Apparel",variant:"Black",quantity:1}]}}});</script></body></html>

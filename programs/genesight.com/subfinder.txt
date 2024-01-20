@@ -1,0 +1,9 @@
+www.genesight.com
+paymentsdev.genesight.com
+info.genesight.com
+autodiscover.genesight.com
+genesight.com
+payments.genesight.com
+paymentsfnl.genesight.com
+go.genesight.com
+webpay.genesight.com

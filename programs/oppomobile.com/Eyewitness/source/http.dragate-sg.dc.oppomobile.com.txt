@@ -1,0 +1,7 @@
+<html><head><link rel="stylesheet" href="resource://content-accessible/plaintext.css"></head><body><pre>{
+	path: '/
+	message: Not Found
+	time: 2024-01-19 01:47:16
+	error: 'Not Found
+	status: 404
+}</pre></body></html>

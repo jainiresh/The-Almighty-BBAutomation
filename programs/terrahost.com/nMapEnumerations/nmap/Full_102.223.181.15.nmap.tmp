@@ -1,0 +1,16 @@
+Starting Nmap 7.93 ( https://nmap.org ) at 2024-01-17 23:01 IST
+Initiating Ping Scan at 23:01
+Scanning 102.223.181.15 [4 ports]
+Completed Ping Scan at 23:01, 0.35s elapsed (1 total hosts)
+Initiating System DNS resolution of 1 host. at 23:01
+Completed System DNS resolution of 1 host. at 23:01, 1.33s elapsed
+Initiating SYN Stealth Scan at 23:01
+Scanning 102.223.181.15 [65535 ports]
+Discovered open port 80/tcp on 102.223.181.15
+Discovered open port 443/tcp on 102.223.181.15
+Stats: 0:00:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.04% done
+Stats: 0:00:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.17% done; ETC: 23:08 (0:07:03 remaining)
+Stats: 0:00:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.94% done; ETC: 23:05 (0:04:24 remaining)

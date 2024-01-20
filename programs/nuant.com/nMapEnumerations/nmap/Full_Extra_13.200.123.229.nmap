@@ -1,0 +1,108 @@
+# Nmap 7.93 scan initiated Mon Nov 13 22:11:19 2023 as: /usr/bin/nmap -Pn -sCV -p80,443 --open -oN nmap/Full_Extra_13.200.123.229.nmap --system-dns --stats-every 2s 13.200.123.229
+Nmap scan report for ec2-13-200-123-229.ap-south-1.compute.amazonaws.com (13.200.123.229)
+Host is up (0.038s latency).
+
+PORT    STATE SERVICE    VERSION
+80/tcp  open  http
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 301 Moved Permanently
+|     Date: Mon, 13 Nov 2023 16:41:23 GMT
+|     Content-Type: text/html
+|     Content-Length: 166
+|     Connection: close
+|     Location: https:///nice%20ports%2C/Tri%6Eity.txt%2ebak
+|     <html>
+|     <head><title>301 Moved Permanently</title></head>
+|     <body>
+|     <center><h1>301 Moved Permanently</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|     </html>
+|   GetRequest, HTTPOptions: 
+|     HTTP/1.1 301 Moved Permanently
+|     Date: Mon, 13 Nov 2023 16:41:23 GMT
+|     Content-Type: text/html
+|     Content-Length: 166
+|     Connection: close
+|     Location: https:///
+|     <html>
+|     <head><title>301 Moved Permanently</title></head>
+|     <body>
+|     <center><h1>301 Moved Permanently</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|     </html>
+|   RPCCheck: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Mon, 13 Nov 2023 16:41:26 GMT
+|     Content-Type: text/html
+|     Content-Length: 154
+|     Connection: close
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|     </html>
+|   RTSPRequest: 
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|     </html>
+|   X11Probe: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Mon, 13 Nov 2023 16:41:23 GMT
+|     Content-Type: text/html
+|     Content-Length: 154
+|     Connection: close
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|_    </html>
+|_http-title: Did not follow redirect to https://ec2-13-200-123-229.ap-south-1.compute.amazonaws.com/
+443/tcp open  ssl/https?
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.93%I=7%D=11/13%Time=655251B3%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,143,"HTTP/1\.1\x20301\x20Moved\x20Permanently\r\nDate:\x20Mon,\
+SF:x2013\x20Nov\x202023\x2016:41:23\x20GMT\r\nContent-Type:\x20text/html\r
+SF:\nContent-Length:\x20166\r\nConnection:\x20close\r\nLocation:\x20https:
+SF:///\r\n\r\n<html>\r\n<head><title>301\x20Moved\x20Permanently</title></
+SF:head>\r\n<body>\r\n<center><h1>301\x20Moved\x20Permanently</h1></center
+SF:>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n")%r(HTTPO
+SF:ptions,143,"HTTP/1\.1\x20301\x20Moved\x20Permanently\r\nDate:\x20Mon,\x
+SF:2013\x20Nov\x202023\x2016:41:23\x20GMT\r\nContent-Type:\x20text/html\r\
+SF:nContent-Length:\x20166\r\nConnection:\x20close\r\nLocation:\x20https:/
+SF://\r\n\r\n<html>\r\n<head><title>301\x20Moved\x20Permanently</title></h
+SF:ead>\r\n<body>\r\n<center><h1>301\x20Moved\x20Permanently</h1></center>
+SF:\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n")%r(RTSPRe
+SF:quest,9A,"<html>\r\n<head><title>400\x20Bad\x20Request</title></head>\r
+SF:\n<body>\r\n<center><h1>400\x20Bad\x20Request</h1></center>\r\n<hr><cen
+SF:ter>openresty</center>\r\n</body>\r\n</html>\r\n")%r(X11Probe,11C,"HTTP
+SF:/1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Mon,\x2013\x20Nov\x202023\x2
+SF:016:41:23\x20GMT\r\nContent-Type:\x20text/html\r\nContent-Length:\x2015
+SF:4\r\nConnection:\x20close\r\n\r\n<html>\r\n<head><title>400\x20Bad\x20R
+SF:equest</title></head>\r\n<body>\r\n<center><h1>400\x20Bad\x20Request</h
+SF:1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n
+SF:")%r(FourOhFourRequest,166,"HTTP/1\.1\x20301\x20Moved\x20Permanently\r\
+SF:nDate:\x20Mon,\x2013\x20Nov\x202023\x2016:41:23\x20GMT\r\nContent-Type:
+SF:\x20text/html\r\nContent-Length:\x20166\r\nConnection:\x20close\r\nLoca
+SF:tion:\x20https:///nice%20ports%2C/Tri%6Eity\.txt%2ebak\r\n\r\n<html>\r\
+SF:n<head><title>301\x20Moved\x20Permanently</title></head>\r\n<body>\r\n<
+SF:center><h1>301\x20Moved\x20Permanently</h1></center>\r\n<hr><center>ope
+SF:nresty</center>\r\n</body>\r\n</html>\r\n")%r(RPCCheck,11C,"HTTP/1\.1\x
+SF:20400\x20Bad\x20Request\r\nDate:\x20Mon,\x2013\x20Nov\x202023\x2016:41:
+SF:26\x20GMT\r\nContent-Type:\x20text/html\r\nContent-Length:\x20154\r\nCo
+SF:nnection:\x20close\r\n\r\n<html>\r\n<head><title>400\x20Bad\x20Request<
+SF:/title></head>\r\n<body>\r\n<center><h1>400\x20Bad\x20Request</h1></cen
+SF:ter>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Nov 13 22:11:35 2023 -- 1 IP address (1 host up) scanned in 15.57 seconds

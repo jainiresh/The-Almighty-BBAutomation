@@ -1,0 +1,620 @@
+
+[0;33mRunning a Full scan on [0m128.1.106.170
+[0m
+[0;33mNo ping detected.. Will not use ping scans!
+[0m
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+[0K
+[0K
+PORT      STATE SERVICE
+80/tcp    open  http
+443/tcp   open  https
+3306/tcp  open  mysql
+3478/tcp  open  stun
+6379/tcp  open  redis
+8000/tcp  open  http-alt
+8066/tcp  open  toad-bi-appsrvr
+8080/tcp  open  http-proxy
+8081/tcp  open  blackice-icecap
+8082/tcp  open  blackice-alerts
+8090/tcp  open  opsmessaging
+8443/tcp  open  https-alt
+9000/tcp  open  cslistener
+9091/tcp  open  xmltec-xmlmail
+9092/tcp  open  XmlIpcRegSvc
+9292/tcp  open  armtechdaemon
+9325/tcp  open  unknown
+9326/tcp  open  unknown
+9875/tcp  open  sapv1
+10060/tcp open  unknown
+10070/tcp open  unknown
+10080/tcp open  amanda
+10090/tcp open  unknown
+10443/tcp open  cirrossp
+10997/tcp open  unknown
+12100/tcp open  unknown
+12101/tcp open  unknown
+12110/tcp open  unknown
+12111/tcp open  unknown
+20003/tcp open  commtact-https
+30001/tcp open  pago-services1
+30003/tcp open  amicon-fpsu-ra
+41081/tcp open  unknown
+50080/tcp open  unknown
+65530/tcp open  unknown
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+[0K
+[0K
+PORT      STATE SERVICE              VERSION
+80/tcp    open  http                 TencentEdgeOne
+|_http-title: Site doesn't have a title.
+| http-server-header: 
+|   Lego Server
+|_  TencentEdgeOne
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 418 Unknown Status
+|     Content-Length: 0
+|     Connection: close
+|     Date: Tue, 14 Nov 2023 13:22:08 GMT
+|     Server: TencentEdgeOne
+|     EO-LOG-UUID: 5518496014032138872
+|   GenericLines: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:22:08 GMT
+|   GetRequest: 
+|     HTTP/1.1 418 Unknown Status
+|     Content-Length: 0
+|     Connection: close
+|     Date: Tue, 14 Nov 2023 13:22:03 GMT
+|     Server: TencentEdgeOne
+|     EO-LOG-UUID: 17372949718979461052
+|   HTTPOptions: 
+|     HTTP/1.1 418 Unknown Status
+|     Content-Length: 0
+|     Connection: close
+|     Date: Tue, 14 Nov 2023 13:22:03 GMT
+|     Server: TencentEdgeOne
+|     EO-LOG-UUID: 12790594932543140244
+|   RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:22:03 GMT
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:23:11 GMT
+443/tcp   open  ssl/https            TencentEdgeOne
+|_http-server-header: TencentEdgeOne
+|_ssl-date: TLS randomness does not represent time
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_http-title: Site doesn't have a title.
+3306/tcp  open  ssl/mysql?
+|_ssl-date: TLS randomness does not represent time
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+3478/tcp  open  ssl/stun?
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+6379/tcp  open  ssl/redis?
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+|_ssl-date: TLS randomness does not represent time
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+8000/tcp  open  http-alt             Lego Server
+| fingerprint-strings: 
+|   GenericLines: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:22:02 GMT
+|   RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:22:13 GMT
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:23:16 GMT
+|   Socks5: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:22:07 GMT
+|_http-server-header: Lego Server
+8066/tcp  open  toad-bi-appsrvr?
+| fingerprint-strings: 
+|   GenericLines, RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:22:02 GMT
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:23:10 GMT
+8080/tcp  open  http-proxy           TencentEdgeOne
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 418 Unknown Status
+|     Content-Length: 0
+|     Connection: close
+|     Date: Tue, 14 Nov 2023 13:22:02 GMT
+|     Server: TencentEdgeOne
+|     EO-LOG-UUID: 14201803607013130717
+|   GenericLines: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:22:08 GMT
+|   GetRequest: 
+|     HTTP/1.1 418 Unknown Status
+|     Content-Length: 0
+|     Connection: close
+|     Date: Tue, 14 Nov 2023 13:22:02 GMT
+|     Server: TencentEdgeOne
+|     EO-LOG-UUID: 13577826470563882204
+|   HTTPOptions: 
+|     HTTP/1.1 418 Unknown Status
+|     Content-Length: 0
+|     Connection: close
+|     Date: Tue, 14 Nov 2023 13:22:02 GMT
+|     Server: TencentEdgeOne
+|     EO-LOG-UUID: 13457608485925354901
+|   RTSPRequest, Socks5: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:22:02 GMT
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:23:15 GMT
+| http-server-header: 
+|   Lego Server
+|_  TencentEdgeOne
+|_http-title: Site doesn't have a title.
+8081/tcp  open  ssl/blackice-icecap?
+|_ssl-date: TLS randomness does not represent time
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+8082/tcp  open  ssl/blackice-alerts?
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+|_ssl-date: TLS randomness does not represent time
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| tls-alpn: 
+|   h2
+|_  http/1.1
+8090/tcp  open  ssl/opsmessaging?
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+8443/tcp  open  ssl/https-alt        Lego Server
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+|_http-server-header: Lego Server
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+|_http-title: Site doesn't have a title.
+9000/tcp  open  ssl/cslistener?
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+9091/tcp  open  ssl/xmltec-xmlmail?
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+| tls-alpn: 
+|   h2
+|_  http/1.1
+9092/tcp  open  ssl/XmlIpcRegSvc?
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+9292/tcp  open  ssl/armtechdaemon?
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+9325/tcp  open  ssl/unknown
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+9326/tcp  open  ssl/unknown
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+|_ssl-date: TLS randomness does not represent time
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+9875/tcp  open  ssl/sapv1?
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+10060/tcp open  unknown
+| fingerprint-strings: 
+|   GenericLines, RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:22:02 GMT
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:23:10 GMT
+10070/tcp open  unknown
+| fingerprint-strings: 
+|   GenericLines, RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:24:07 GMT
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:25:15 GMT
+10080/tcp open  amanda?
+| fingerprint-strings: 
+|   GenericLines, RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:24:07 GMT
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:25:15 GMT
+10090/tcp open  unknown
+| fingerprint-strings: 
+|   GenericLines, RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:24:08 GMT
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:25:16 GMT
+10443/tcp open  ssl/cirrossp?
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+|_ssl-date: TLS randomness does not represent time
+10997/tcp open  ssl/unknown
+|_ssl-date: TLS randomness does not represent time
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+12100/tcp open  unknown
+| fingerprint-strings: 
+|   GenericLines, RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:24:13 GMT
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:25:21 GMT
+12101/tcp open  ssl/unknown
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+|_ssl-date: TLS randomness does not represent time
+| tls-alpn: 
+|   h2
+|_  http/1.1
+12110/tcp open  unknown
+| fingerprint-strings: 
+|   GenericLines, RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:24:31 GMT
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:25:39 GMT
+12111/tcp open  ssl/unknown
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+|_ssl-date: TLS randomness does not represent time
+20003/tcp open  ssl/commtact-https?
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+|_ssl-date: TLS randomness does not represent time
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+30001/tcp open  ssl/pago-services1?
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+30003/tcp open  ssl/amicon-fpsu-ra?
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+41081/tcp open  ssl/unknown
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=*.unionpayintl.com/organizationName=Unionpay International Co.,Ltd/stateOrProvinceName=Shanghai/countryName=CN
+| Subject Alternative Name: DNS:*.unionpayintl.com, DNS:unionpayintl.com
+| Not valid before: 2023-10-10T00:00:00
+|_Not valid after:  2024-11-09T23:59:59
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+50080/tcp open  unknown
+| fingerprint-strings: 
+|   GenericLines, RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:24:31 GMT
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:25:39 GMT
+65530/tcp open  unknown
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 418 Unknown Status
+|     Content-Length: 0
+|     Connection: close
+|     Date: Tue, 14 Nov 2023 13:25:24 GMT
+|     Server: TencentEdgeOne
+|     EO-LOG-UUID: 11942432589413167733
+|   GenericLines, RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|     Date: Tue, 14 Nov 2023 13:24:31 GMT
+|   GetRequest: 
+|     HTTP/1.1 418 Unknown Status
+|     Content-Length: 0
+|     Connection: close
+|     Date: Tue, 14 Nov 2023 13:24:31 GMT
+|     Server: TencentEdgeOne
+|     EO-LOG-UUID: 5759258671667120672
+|   HTTPOptions: 
+|     HTTP/1.1 418 Unknown Status
+|     Content-Length: 0
+|     Connection: close
+|     Date: Tue, 14 Nov 2023 13:24:31 GMT
+|     Server: TencentEdgeOne
+|     EO-LOG-UUID: 4753162958387888051
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|     Content-Length: 0
+|     Server: Lego Server
+|_    Date: Tue, 14 Nov 2023 13:25:39 GMT
+9 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 0 seconds
+[0m

@@ -1,0 +1,164 @@
+<html class="locale_en theme_light" lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=1010"><meta name="theme-color" content="#175DDC"><title page-title="">Vaultwarden Web</title><link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png"><link rel="mask-icon" href="images/safari-pinned-tab.svg" color="#175DDC"><link rel="manifest" href="cca56971e438d22818d6.json"><script defer="defer" src="theme_head.1df11f603fda400762b7.js"></script><link href="app/main.a5d3a3a9125fcf07f286.css" rel="stylesheet"></head><body class="layout_frontend"><app-root ng-version="15.2.9"><router-outlet></router-outlet><app-frontend-layout><router-outlet></router-outlet><app-login><form novalidate="" class="tw-container tw-mx-auto ng-untouched ng-pristine ng-invalid">
+  <div class="tw-mx-auto tw-mt-5 tw-flex tw-max-w-lg tw-flex-col tw-items-center tw-justify-center tw-p-8">
+    <div>
+      <img alt="Bitwarden" class="logo logo-themed">
+      <p class="tw-mx-4 tw-mb-4 tw-mt-3 tw-text-center tw-text-xl">
+        Log in or create a new account to access your secure vault.
+      </p>
+      <div class="tw-mt-3 tw-rounded-md tw-border tw-border-solid tw-border-secondary-300 tw-bg-background tw-p-6">
+        
+          <div class="tw-mb-3">
+            <bit-form-field class="tw-block tw-mb-6"><label class="tw-mb-1 tw-block tw-font-semibold tw-text-main" for="login_input_email">
+  <bit-label>Email address</bit-label>
+  <span class="tw-text-xs tw-font-normal"> (required)</span><!---->
+</label>
+<div class="tw-flex">
+  <!---->
+  
+              
+              <input id="login_input_email" bitinput="" type="email" formcontrolname="email" appautofocus="" class="ng-untouched ng-pristine ng-invalid [&amp;:is(input,textarea):read-only]:tw-bg-secondary-100 disabled:tw-bg-secondary-100 first:tw-rounded-l focus:tw-border-primary-700 focus:tw-outline-none focus:tw-ring-1 focus:tw-ring-inset focus:tw-ring-primary-700 focus:tw-z-10 last:tw-rounded-r tw-bg-background-alt tw-block tw-border tw-border-secondary-500 tw-border-solid tw-placeholder-text-muted tw-px-3 tw-py-1.5 tw-rounded-none tw-text-main tw-w-full" required="">
+            
+  <!---->
+</div>
+
+  <!---->
+  <!---->
+<!---->
+</bit-form-field>
+          </div>
+
+          <div class="tw-mb-3 tw-flex tw-items-start">
+            <bit-form-control class="tw-mb-0 tw-block tw-mb-6"><label class="tw-cursor-pointer tw-mb-0 tw-select-none tw-transition">
+  
+              <input type="checkbox" bitcheckbox="" formcontrolname="rememberEmail" class="[&amp;:not(:indeterminate)]:checked:before:tw-mask-image-[var(--mask-image)] [&amp;>label:hover]:checked:tw-bg-primary-700 [&amp;>label:hover]:checked:tw-border-primary-700 [&amp;>label:hover]:indeterminate:tw-bg-primary-700 [&amp;>label:hover]:indeterminate:tw-border-primary-700 [&amp;>label]:tw-border-2 before:tw-absolute before:tw-block before:tw-content-[''] before:tw-inset-0 checked:before:tw-bg-text-contrast checked:before:tw-mask-position-[center] checked:before:tw-mask-repeat-[no-repeat] checked:disabled:before:tw-bg-text-muted checked:disabled:tw-bg-secondary-100 checked:disabled:tw-border-secondary-100 checked:hover:tw-bg-primary-700 checked:hover:tw-border-primary-700 checked:tw-bg-primary-500 checked:tw-border-primary-500 disabled:tw-bg-secondary-100 disabled:tw-border disabled:tw-cursor-auto focus-visible:tw-ring-2 focus-visible:tw-ring-offset-2 focus-visible:tw-ring-primary-700 hover:tw-border-2 indeterminate:before:tw-bg-text-contrast indeterminate:before:tw-mask-image-[var(--indeterminate-mask-image)] indeterminate:before:tw-mask-position-[center] indeterminate:before:tw-mask-repeat-[no-repeat] indeterminate:disabled:before:tw-bg-text-muted indeterminate:disabled:tw-bg-secondary-100 indeterminate:disabled:tw-border-secondary-100 indeterminate:hover:tw-bg-primary-700 indeterminate:hover:tw-border-primary-700 indeterminate:tw-bg-primary-500 indeterminate:tw-border-primary-500 tw-appearance-none tw-border tw-border-secondary-500 tw-border-solid tw-bottom-[-1px] tw-cursor-pointer tw-h-3.5 tw-inline-block tw-mr-1.5 tw-outline-none tw-relative tw-rounded tw-transition tw-w-3.5 ng-untouched ng-pristine ng-valid" style="--mask-image: url('data:image/svg+xml,%3Csvg class=&quot;svg&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; width=&quot;8&quot; height=&quot;8&quot; viewBox=&quot;0 0 10 10&quot;%3E%3Cpath d=&quot;M0.5 6.2L2.9 8.6L9.5 1.4&quot; fill=&quot;none&quot; stroke=&quot;white&quot; stroke-width=&quot;2&quot;%3E%3C/path%3E%3C/svg%3E'); --indeterminate-mask-image: url('data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;13&quot; height=&quot;13&quot; fill=&quot;none&quot; viewBox=&quot;0 0 13 13&quot;%3E%3Cpath stroke=&quot;%23fff&quot; stroke-width=&quot;2&quot; d=&quot;M2.5 6.5h8&quot;/%3E%3C/svg%3E%0A');">
+              
+            
+  <span class="tw-font-semibold tw-text-main">
+    <bit-label>Remember email</bit-label>
+    <!---->
+  </span>
+</label>
+<div>
+  <!---->
+</div>
+<!---->
+</bit-form-control>
+          </div>
+
+          <div class="tw-mb-3">
+            <button bitbutton="" type="button" buttontype="primary" class="tw-w-full !tw-text-contrast disabled:!tw-text-contrast/60 disabled:tw-bg-clip-padding disabled:tw-bg-primary-500/60 disabled:tw-border-primary-500/60 disabled:tw-cursor-not-allowed focus-visible:tw-ring focus-visible:tw-ring-offset-2 focus-visible:tw-ring-primary-700 focus-visible:tw-z-10 focus:tw-outline-none hover:tw-bg-primary-700 hover:tw-border-primary-700 hover:tw-no-underline tw-bg-primary-500 tw-border tw-border-primary-500 tw-border-solid tw-font-semibold tw-inline-block tw-px-3 tw-py-1.5 tw-rounded tw-text-center tw-transition"><span class="tw-relative">
+  <span>
+    
+              <span> Continue </span>
+            
+  </span>
+  <span class="tw-absolute tw-inset-0 tw-flex tw-items-center tw-justify-center tw-invisible">
+    <i aria-hidden="true" class="bwi bwi-spinner bwi-lg bwi-spin"></i>
+  </span>
+</span>
+</button>
+          </div>
+
+          <hr>
+
+          <p class="tw-m-0 tw-text-sm">
+            New around here?
+            
+            <a routerlink="/register" href="#/register">Create account</a>
+          </p>
+        <!----><!---->
+
+        <div class="tw-hidden">
+          <div class="tw-mb-6 tw-h-28">
+            <bit-form-field class="!tw-mb-1 tw-block tw-mb-6"><label class="tw-mb-1 tw-block tw-font-semibold tw-text-main" for="login_input_master-password">
+  <bit-label>Master password</bit-label>
+  <span class="tw-text-xs tw-font-normal"> (required)</span><!---->
+</label>
+<div class="tw-flex">
+  <!---->
+  
+              
+              <input id="login_input_master-password" type="password" bitinput="" formcontrolname="masterPassword" class="ng-untouched ng-pristine ng-invalid [&amp;:is(input,textarea):read-only]:tw-bg-secondary-100 disabled:tw-bg-secondary-100 first:tw-rounded-l focus:tw-border-primary-700 focus:tw-outline-none focus:tw-ring-1 focus:tw-ring-inset focus:tw-ring-primary-700 focus:tw-z-10 last:tw-rounded-r tw-bg-background-alt tw-block tw-border tw-border-secondary-500 tw-border-solid tw-placeholder-text-muted tw-px-3 tw-py-1.5 tw-rounded-none tw-text-main tw-w-full" required="">
+              
+            
+  <div class="tw-flex">
+    <button type="button" bitsuffix="" biticonbutton="" bitpasswordinputtoggle="" class="focus:tw-outline-none hover:tw-no-underline tw-border tw-border-solid tw-font-semibold tw-px-2.5 tw-py-1.5 tw-rounded tw-transition disabled:hover:tw-bg-secondary-100 disabled:hover:tw-text-muted disabled:tw-bg-secondary-100 disabled:tw-opacity-100 focus-visible:tw-border-l focus-visible:tw-border-primary-700 focus-visible:tw-ml-[-1px] focus-visible:tw-ring-1 focus-visible:tw-ring-inset focus-visible:tw-ring-primary-700 focus-visible:tw-z-10 hover:tw-bg-text-muted hover:tw-text-contrast last:tw-rounded-r tw-bg-background-alt tw-border-l-0 tw-border-secondary-500 tw-rounded-none tw-text-muted" aria-pressed="false" title="Toggle visibility" aria-label="Toggle visibility"><span class="tw-relative">
+  <span>
+    <i aria-hidden="true" class="bwi bwi-eye !tw-m-0"></i>
+  </span>
+  <span class="tw-absolute tw-inset-0 tw-flex tw-items-center tw-justify-center tw-invisible">
+    <i aria-hidden="true" class="bwi bwi-spinner bwi-spin bwi-lg"></i>
+  </span>
+</span>
+</button>
+  </div><!---->
+</div>
+
+  <!---->
+  <!---->
+<!---->
+</bit-form-field>
+            <a routerlink="/hint" class="-tw-mt-2" href="#/hint">Get master password hint</a>
+          </div>
+
+          <div hidden="">
+            <iframe id="hcaptcha_iframe" sandbox="allow-scripts allow-same-origin" height="80"></iframe>
+          </div>
+
+          <div class="tw-mb-3 tw-flex tw-space-x-4">
+            <button bitbutton="" buttontype="primary" type="submit" class="!tw-text-contrast disabled:!tw-text-contrast/60 disabled:tw-bg-clip-padding disabled:tw-bg-primary-500/60 disabled:tw-border-primary-500/60 disabled:tw-cursor-not-allowed focus-visible:tw-ring focus-visible:tw-ring-offset-2 focus-visible:tw-ring-primary-700 focus-visible:tw-z-10 focus:tw-outline-none hover:tw-bg-primary-700 hover:tw-border-primary-700 hover:tw-no-underline tw-bg-primary-500 tw-block tw-border tw-border-primary-500 tw-border-solid tw-font-semibold tw-px-3 tw-py-1.5 tw-rounded tw-text-center tw-transition tw-w-full"><span class="tw-relative">
+  <span>
+    
+              <span> Log in with master password </span>
+            
+  </span>
+  <span class="tw-absolute tw-inset-0 tw-flex tw-items-center tw-justify-center tw-invisible">
+    <i aria-hidden="true" class="bwi bwi-spinner bwi-lg bwi-spin"></i>
+  </span>
+</span>
+</button>
+          </div>
+
+          <!---->
+
+          <div class="tw-mb-3">
+            <a routerlink="/sso" bitbutton="" buttontype="secondary" class="tw-w-full !tw-text-muted disabled:!tw-text-muted/60 disabled:tw-bg-transparent disabled:tw-border-text-muted/60 disabled:tw-cursor-not-allowed focus-visible:tw-ring focus-visible:tw-ring-offset-2 focus-visible:tw-ring-primary-700 focus-visible:tw-z-10 focus:tw-outline-none hover:!tw-text-contrast hover:tw-bg-text-muted hover:tw-border-text-muted hover:tw-no-underline tw-bg-transparent tw-border tw-border-solid tw-border-text-muted tw-font-semibold tw-inline-block tw-px-3 tw-py-1.5 tw-rounded tw-text-center tw-transition" href="#/sso?email="><span class="tw-relative">
+  <span>
+    
+              <i class="bwi bwi-provider tw-mr-2"></i>
+              Enterprise single sign-on
+            
+  </span>
+  <span class="tw-absolute tw-inset-0 tw-flex tw-items-center tw-justify-center tw-invisible">
+    <i aria-hidden="true" class="bwi bwi-spinner bwi-lg bwi-spin"></i>
+  </span>
+</span>
+</a>
+          </div>
+
+          <hr>
+
+          <div class="tw-m-0 tw-text-sm">
+            <p class="tw-mb-1">Logging in as </p>
+            <a href="#/login">Not you?</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+</app-login><!---->
+<div class="container my-5 text-muted text-center">
+  <environment-selector><!---->
+</environment-selector>
+  Vaultwarden Web<br>
+  Version 2023.10.0
+  <br><br>
+  <div class="small">
+    A modified version of the Bitwarden® Web Vault for Vaultwarden (an unofficial rewrite of the
+    Bitwarden® server).<br>
+    Vaultwarden is not associated with the Bitwarden® project nor Bitwarden Inc.
+  </div>
+</div>
+</app-frontend-layout><!---->
+</app-root><script defer="defer" src="app/polyfills.4275a7f2798b637a6613.js"></script><script defer="defer" src="app/vendor.351bf938ddfd5e202e99.js"></script><script defer="defer" src="app/main.b193f247301cc37bf60b.js"></script></body></html>

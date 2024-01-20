@@ -1,0 +1,147 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>LibreNMS</title>
+    <base href="https://librenms.snel.com:443/">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="apple-touch-icon" sizes="180x180" href="https://librenms.snel.com/images/apple-touch-icon.png">
+        <link rel="icon" type="image/png" href="https://librenms.snel.com/images/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="https://librenms.snel.com/images/favicon-16x16.png" sizes="16x16">
+        <link rel="mask-icon" href="https://librenms.snel.com/images/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="https://librenms.snel.com/images/favicon.ico">
+    
+    <link rel="manifest" href="https://librenms.snel.com/images/manifest.json" crossorigin="use-credentials">
+    <meta name="csrf-token" content="28utSm4TZqDJAXs4etHvUc3lmmxdqmw5n6LMC4PQ">
+    <meta name="msapplication-config" content="https://librenms.snel.com/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <link href="https://librenms.snel.com/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/bootstrap-switch.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/toastr.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/jquery.bootgrid.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/tagmanager.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/mktree.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/vis.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/fontawesome.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/v4-shims.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/jquery.gridster.min.css?ver=09292021" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/leaflet.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/MarkerCluster.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/MarkerCluster.Default.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/L.Control.Locate.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/leaflet.awesome-markers.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/select2.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/select2-bootstrap.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/query-builder.default.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/app.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/styles.css?ver=20230928" rel="stylesheet">
+    <link href="https://librenms.snel.com/css/light.css?ver=632417643" rel="stylesheet">
+            
+    <script src="https://librenms.snel.com/js/polyfill.min.js"></script>
+    <script src="https://librenms.snel.com/js/alpine.min.js" defer=""></script>
+    <script src="https://librenms.snel.com/js/popper.min.js"></script>
+    <script src="https://librenms.snel.com/js/jquery.min.js?ver=05072021"></script>
+    <script src="https://librenms.snel.com/js/bootstrap.min.js?ver=05072021"></script>
+    <script src="https://librenms.snel.com/js/bootstrap-hover-dropdown.min.js?ver=05072021"></script>
+    <script src="https://librenms.snel.com/js/bootstrap-switch.min.js?ver=05072021"></script>
+    <script src="https://librenms.snel.com/js/hogan-2.0.0.js"></script>
+    <script src="https://librenms.snel.com/js/moment.min.js"></script>
+    <script src="https://librenms.snel.com/js/bootstrap-datetimepicker.min.js?ver=05072021"></script>
+    <script src="https://librenms.snel.com/js/typeahead.bundle.min.js?ver=05072021"></script>
+    <script src="https://librenms.snel.com/js/tagmanager.js?ver=05072021"></script>
+    <script src="https://librenms.snel.com/js/mktree.js"></script>
+    <script src="https://librenms.snel.com/js/jquery.bootgrid.min.js"></script>
+    <script src="https://librenms.snel.com/js/handlebars.min.js"></script>
+    <script src="https://librenms.snel.com/js/pace.min.js"></script>
+    <script src="https://librenms.snel.com/js/qrcode.min.js"></script>
+    <script src="https://librenms.snel.com/js/select2.min.js"></script>
+    <script>
+        $.ajaxSetup({
+            headers: {
+                'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+            }
+        });
+        var ajax_url = "https://librenms.snel.com/ajax";
+    </script>
+    <script src="https://librenms.snel.com/js/librenms.js?ver=07312023"></script>
+    <script type="text/javascript" src="https://librenms.snel.com/js/overlib_mini.js"></script>
+    <script type="text/javascript" src="https://librenms.snel.com/js/flasher.min.js?ver=0.6.1"></script>
+    <script type="text/javascript" src="https://librenms.snel.com/js/toastr.min.js?ver=05072021"></script>
+    <script type="text/javascript" src="https://librenms.snel.com/js/boot.js?ver=10272021"></script>
+    <script>
+        // Apply color scheme
+        if ('light' === 'dark') {
+            document.documentElement.classList.add('tw-dark')
+        } else {
+            document.documentElement.classList.remove('tw-dark')
+        }
+    </script>
+        
+<script type="text/javascript" class="flasher-js">(function() {    var rootScript = '';    var FLASHER_FLASH_BAG_PLACE_HOLDER = {};    var options = mergeOptions([], FLASHER_FLASH_BAG_PLACE_HOLDER);    function mergeOptions(first, second) {        return {            context: merge(first.context || {}, second.context || {}),            envelopes: merge(first.envelopes || [], second.envelopes || []),            options: merge(first.options || {}, second.options || {}),            scripts: merge(first.scripts || [], second.scripts || []),            styles: merge(first.styles || [], second.styles || []),        };    }    function merge(first, second) {        if (Array.isArray(first) && Array.isArray(second)) {            return first.concat(second).filter(function(item, index, array) {                return array.indexOf(item) === index;            });        }        return Object.assign({}, first, second);    }    function renderOptions(options) {        if(!window.hasOwnProperty('flasher')) {            console.error('Flasher is not loaded');            return;        }        requestAnimationFrame(function () {            window.flasher.render(options);        });    }    function render(options) {        if ('loading' !== document.readyState) {            renderOptions(options);            return;        }        document.addEventListener('DOMContentLoaded', function() {            renderOptions(options);        });    }    if (1 === document.querySelectorAll('script.flasher-js').length) {        document.addEventListener('flasher:render', function (event) {            render(event.detail);        });    }    if (window.hasOwnProperty('flasher') || !rootScript || document.querySelector('script[src="' + rootScript + '"]')) {        render(options);    } else {        var tag = document.createElement('script');        tag.setAttribute('src', rootScript);        tag.setAttribute('type', 'text/javascript');        tag.onload = function () {            render(options);        };        document.head.appendChild(tag);    }})();</script>
+</head>
+<body class="  pace-done"><div class="pace  pace-inactive"><div class="pace-progress" style="transform: translate3d(100%, 0px, 0px);" data-progress-text="100%" data-progress="99">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+
+
+<br>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title"><img class="logon-logo img-responsive" src="https://librenms.snel.com/images/librenms_logo_light.svg"></h3>
+  </div>
+
+  <div class="panel-body ">
+    <div class="container-fluid">
+        <form class="form-horizontal" role="form" action="https://librenms.snel.com/login" method="post" name="logonform">
+            <input type="hidden" name="_token" value="28utSm4TZqDJAXs4etHvUc3lmmxdqmw5n6LMC4PQ">
+            <div class="form-group">
+                <div class="col-md-12">
+                    <input type="text" name="username" id="username" value="" class="form-control" placeholder="Username" required="" autofocus="">
+                                    </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-12">
+                    <input type="password" name="password" id="password" autocomplete="off" class="form-control" placeholder="Password">
+                                    </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-12">
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" name="remember" id="remember"> Remember Me
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-12">
+                    <button type="submit" id="login" class="btn btn-primary btn-block" name="submit">
+                        <i class="fa fa-btn fa-sign-in"></i> Login
+                    </button>
+                </div>
+            </div>
+        </form>
+
+            </div>
+  </div>
+
+
+  <div class="panel-footer text-center">
+    <div class="logon-message">Unauthorised access or use shall render the user liable to criminal and/or civil prosecution.</div>
+  </div>
+</div>
+        </div>
+    </div>
+    </div>
+
+
+
+
+</body></html>

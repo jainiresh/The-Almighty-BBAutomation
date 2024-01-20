@@ -1,0 +1,4 @@
+[detect-dangling-cname] [dns] [info] next.dev.video.geneteccloud.com [dev-video-global-next-tm.trafficmanager.net]
+[detect-dangling-cname] [dns] [info] next.prod.video.geneteccloud.com [prod-video-global-next-tm.trafficmanager.net]
+[detect-dangling-cname] [dns] [info] next.mca.prod.video.geneteccloud.com [prod-video-global-next-tm.trafficmanager.net]
+[detect-dangling-cname] [dns] [info] next.mca.dev.video.geneteccloud.com [dev-video-global-next-tm.trafficmanager.net]

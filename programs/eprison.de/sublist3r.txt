@@ -1,0 +1,11 @@
+www.eprison.de
+acp.eprison.de
+api.eprison.de
+assets.eprison.de
+cdn.eprison.de
+data.eprison.de
+dev.eprison.de
+josy.eprison.de
+plesk.eprison.de
+webmail.eprison.de
+xcdn.eprison.de

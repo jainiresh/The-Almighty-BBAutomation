@@ -1,0 +1,431 @@
+
+[0;33mRunning a Full scan on [0m13.107.213.48
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+In progress: SYN Stealth Scan (0:03:00 elapsed - 0:01:23 remaining)   
+[####################################################################>                                ] 68% done   
+[2AIn progress: SYN Stealth Scan (0:03:03 elapsed - 0:01:20 remaining)   
+[#####################################################################>                               ] 69% done   
+[2AIn progress: SYN Stealth Scan (0:03:06 elapsed - 0:01:17 remaining)   
+[######################################################################>                              ] 70% done   
+[2AIn progress: SYN Stealth Scan (0:03:09 elapsed - 0:01:14 remaining)   
+[#######################################################################>                             ] 71% done   
+[2AIn progress: SYN Stealth Scan (0:03:12 elapsed - 0:01:11 remaining)   
+[#########################################################################>                           ] 73% done   
+[2AIn progress: SYN Stealth Scan (0:03:15 elapsed - 0:01:08 remaining)   
+[##########################################################################>                          ] 74% done   
+[2AIn progress: SYN Stealth Scan (0:03:18 elapsed - 0:01:05 remaining)   
+[###########################################################################>                         ] 75% done   
+[2AIn progress: SYN Stealth Scan (0:03:21 elapsed - 0:01:02 remaining)   
+[############################################################################>                        ] 76% done   
+[2AIn progress: SYN Stealth Scan (0:03:24 elapsed - 0:00:59 remaining)   
+[#############################################################################>                       ] 77% done   
+[2AIn progress: SYN Stealth Scan (0:03:27 elapsed - 0:00:56 remaining)   
+[##############################################################################>                      ] 78% done   
+[2AIn progress: SYN Stealth Scan (0:03:30 elapsed - 0:00:53 remaining)   
+[###############################################################################>                     ] 79% done   
+[2AIn progress: SYN Stealth Scan (0:03:33 elapsed - 0:00:50 remaining)   
+[#################################################################################>                   ] 81% done   
+[2AIn progress: SYN Stealth Scan (0:03:36 elapsed - 0:00:47 remaining)   
+[##################################################################################>                  ] 82% done   
+[2AIn progress: SYN Stealth Scan (0:03:39 elapsed - 0:00:44 remaining)   
+[###################################################################################>                 ] 83% done   
+[2AIn progress: SYN Stealth Scan (0:03:42 elapsed - 0:00:41 remaining)   
+[####################################################################################>                ] 84% done   
+[2AIn progress: SYN Stealth Scan (0:03:45 elapsed - 0:00:38 remaining)   
+[#####################################################################################>               ] 85% done   
+[2AIn progress: SYN Stealth Scan (0:03:48 elapsed - 0:00:35 remaining)   
+[######################################################################################>              ] 86% done   
+[2AIn progress: SYN Stealth Scan (0:03:51 elapsed - 0:00:32 remaining)   
+[#######################################################################################>             ] 87% done   
+[2AIn progress: SYN Stealth Scan (0:03:54 elapsed - 0:00:29 remaining)   
+[#########################################################################################>           ] 89% done   
+[2AIn progress: SYN Stealth Scan (0:03:57 elapsed - 0:00:26 remaining)   
+[##########################################################################################>          ] 90% done   
+[2AIn progress: SYN Stealth Scan (0:04:00 elapsed - 0:00:23 remaining)   
+[###########################################################################################>         ] 91% done   
+[2AIn progress: SYN Stealth Scan (0:04:03 elapsed - 0:00:20 remaining)   
+[############################################################################################>        ] 92% done   
+[2AIn progress: SYN Stealth Scan (0:04:06 elapsed - 0:00:17 remaining)   
+[#############################################################################################>       ] 93% done   
+[2AIn progress: SYN Stealth Scan (0:04:09 elapsed - 0:00:14 remaining)   
+[##############################################################################################>      ] 94% done   
+[2AIn progress: SYN Stealth Scan (0:04:12 elapsed - 0:00:11 remaining)   
+[###############################################################################################>     ] 95% done   
+[2AIn progress: SYN Stealth Scan (0:04:15 elapsed - 0:00:08 remaining)   
+[#################################################################################################>   ] 97% done   
+[2AIn progress: SYN Stealth Scan (0:04:18 elapsed - 0:00:05 remaining)   
+[##################################################################################################>  ] 98% done   
+[2AIn progress: SYN Stealth Scan (0:04:21 elapsed - 0:00:02 remaining)   
+[###################################################################################################> ] 99% done   
+[2A[0K
+[0K
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+In progress: No Scan (0:00:00 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: No Scan (0:00:00 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: No Scan (0:00:00 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:06 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:06 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:06 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:11 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:11 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:11 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:16 elapsed - 0:00:16 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: Script Scan (0:00:18 elapsed - 0:00:00 remaining)   
+[###############################################################################################>     ] 95% done   
+[2AIn progress: Script Scan (0:00:20 elapsed - 0:00:00 remaining)   
+[##################################################################################################>  ] 98% done   
+[2A[0K
+[0K
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:36:31 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T093631Z-4k2kwgnpd127x4110v2zsh1r6800000000zg00000000e6r6
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpage
+|   HTTPOptions: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:36:31 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T093631Z-s0g25apsg11rfb8h4xvwhdxqnn00000000rg00000000kez1
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|_    href="https://azurefrontdoorpage
+|_http-title: Page not found
+443/tcp open  ssl/https
+| ssl-cert: Subject: commonName=*.azureedge.net/organizationName=Microsoft Corporation/stateOrProvinceName=WA/countryName=US
+| Subject Alternative Name: DNS:*.azureedge.net, DNS:*.media.microsoftstream.com, DNS:*.origin.mediaservices.windows.net, DNS:*.streaming.mediaservices.windows.net
+| Not valid before: 2023-11-29T22:01:02
+|_Not valid after:  2024-11-23T22:01:02
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:36:36 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T093636Z-y91xp3utah621ap169zxswy9fs00000000s00000000020yy
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpage
+|   HTTPOptions: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:36:36 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T093636Z-2bamufb5p518vfywrg9dyaquzg00000000v0000000007k9t
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|_    href="https://azurefrontdoorpage
+|_http-title: Page not found
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 1 minute(s) and 48 second(s)
+[0m
+###########################################################>                         ] 75% done   
+[2AIn progress: SYN Stealth Scan (0:03:21 elapsed - 0:01:02 remaining)   
+[############################################################################>                        ] 76% done   
+[2AIn progress: SYN Stealth Scan (0:03:24 elapsed - 0:00:59 remaining)   
+[#############################################################################>                       ] 77% done   
+[2AIn progress: SYN Stealth Scan (0:03:27 elapsed - 0:00:56 remaining)   
+[##############################################################################>                      ] 78% done   
+[2AIn progress: SYN Stealth Scan (0:03:30 elapsed - 0:00:53 remaining)   
+[###############################################################################>                     ] 79% done   
+[2AIn progress: SYN Stealth Scan (0:03:33 elapsed - 0:00:50 remaining)   
+[#################################################################################>                   ] 81% done   
+[2AIn progress: SYN Stealth Scan (0:03:36 elapsed - 0:00:47 remaining)   
+[##################################################################################>                  ] 82% done   
+[2AIn progress: SYN Stealth Scan (0:03:39 elapsed - 0:00:44 remaining)   
+[###################################################################################>                 ] 83% done   
+[2AIn progress: SYN Stealth Scan (0:03:42 elapsed - 0:00:41 remaining)   
+[####################################################################################>                ] 84% done   
+[2AIn progress: SYN Stealth Scan (0:03:45 elapsed - 0:00:38 remaining)   
+[#####################################################################################>               ] 85% done   
+[2AIn progress: SYN Stealth Scan (0:03:48 elapsed - 0:00:35 remaining)   
+[######################################################################################>              ] 86% done   
+[2AIn progress: SYN Stealth Scan (0:03:51 elapsed - 0:00:32 remaining)   
+[#######################################################################################>             ] 87% done   
+[2AIn progress: SYN Stealth Scan (0:03:54 elapsed - 0:00:29 remaining)   
+[#########################################################################################>           ] 89% done   
+[2AIn progress: SYN Stealth Scan (0:03:57 elapsed - 0:00:26 remaining)   
+[##########################################################################################>          ] 90% done   
+[2AIn progress: SYN Stealth Scan (0:04:00 elapsed - 0:00:23 remaining)   
+[###########################################################################################>         ] 91% done   
+[2AIn progress: SYN Stealth Scan (0:04:03 elapsed - 0:00:20 remaining)   
+[############################################################################################>        ] 92% done   
+[2AIn progress: SYN Stealth Scan (0:04:06 elapsed - 0:00:17 remaining)   
+[#############################################################################################>       ] 93% done   
+[2AIn progress: SYN Stealth Scan (0:04:09 elapsed - 0:00:14 remaining)   
+[##############################################################################################>      ] 94% done   
+[2AIn progress: SYN Stealth Scan (0:04:12 elapsed - 0:00:11 remaining)   
+[###############################################################################################>     ] 95% done   
+[2AIn progress: SYN Stealth Scan (0:04:15 elapsed - 0:00:08 remaining)   
+[#################################################################################################>   ] 97% done   
+[2AIn progress: SYN Stealth Scan (0:04:18 elapsed - 0:00:05 remaining)   
+[##################################################################################################>  ] 98% done   
+[2AIn progress: SYN Stealth Scan (0:04:21 elapsed - 0:00:02 remaining)   
+[###################################################################################################> ] 99% done   
+[2A[0K
+[0K
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+In progress: No Scan (0:00:00 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: No Scan (0:00:00 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: No Scan (0:00:00 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:06 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:06 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:06 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:11 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:11 elapsed - 0:00:00 remaining)   
+[#>                                                                                                    ] 0% done   
+[2AIn progress: Service Scan (0:00:16 elapsed - 0:00:16 remaining)   
+[##################################################>                                                  ] 50% done   
+[2AIn progress: Script Scan (0:00:18 elapsed - 0:00:00 remaining)   
+[###############################################################################################>     ] 95% done   
+[2AIn progress: Script Scan (0:00:20 elapsed - 0:00:00 remaining)   
+[##################################################################################################>  ] 98% done   
+[2A[0K
+[0K
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:36:31 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T093631Z-4k2kwgnpd127x4110v2zsh1r6800000000zg00000000e6r6
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpage
+|   HTTPOptions: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:36:31 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T093631Z-s0g25apsg11rfb8h4xvwhdxqnn00000000rg00000000kez1
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|_    href="https://azurefrontdoorpage
+|_http-title: Page not found
+443/tcp open  ssl/https
+| ssl-cert: Subject: commonName=*.azureedge.net/organizationName=Microsoft Corporation/stateOrProvinceName=WA/countryName=US
+| Subject Alternative Name: DNS:*.azureedge.net, DNS:*.media.microsoftstream.com, DNS:*.origin.mediaservices.windows.net, DNS:*.streaming.mediaservices.windows.net
+| Not valid before: 2023-11-29T22:01:02
+|_Not valid after:  2024-11-23T22:01:02
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:36:36 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T093636Z-y91xp3utah621ap169zxswy9fs00000000s00000000020yy
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpage
+|   HTTPOptions: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 11 Dec 2023 09:36:36 GMT
+|     Content-Type: text/html
+|     Content-Length: 3450
+|     Connection: close
+|     Vary: Accept-Encoding
+|     Cache-Control: no-store
+|     x-azure-ref: 20231211T093636Z-2bamufb5p518vfywrg9dyaquzg00000000v0000000007k9t
+|     X-Cache: CONFIG_NOCACHE
+|     <!DOCTYPE html>
+|     <!-- saved from url=(0058)https://df.onecloud.azure-test.net/Error/UE_404?shown=true -->
+|     <html lang="en" dir="ltr">
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+|     <title>Page not found</title>
+|     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+|     <meta name="msapplication-config" content="none" />
+|     <link
+|     rel="icon"
+|     type="image/x-icon"
+|     href="https://azurefrontdoorpages.azureedge.net/pages/PageNotFound_files/favicon.ico"
+|     <link
+|     rel="shortcut icon"
+|     type="image/x-icon"
+|_    href="https://azurefrontdoorpage
+|_http-title: Page not found
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 4 minute(s) and 47 second(s)
+[0m

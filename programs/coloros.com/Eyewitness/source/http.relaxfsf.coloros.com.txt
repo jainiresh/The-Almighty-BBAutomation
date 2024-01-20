@@ -1,0 +1,8 @@
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you access does not belong to you.</Message>
+  <RequestId>65A98484048FEF343182676F</RequestId>
+  <HostId>relaxfsf-coloros-com.oss-ap-southeast-1.aliyuncs.com</HostId>
+  <EC>0003-00000905</EC>
+  <RecommendDoc>https://api.alibabacloud.com/troubleshoot?q=0003-00000905</RecommendDoc>
+</Error>

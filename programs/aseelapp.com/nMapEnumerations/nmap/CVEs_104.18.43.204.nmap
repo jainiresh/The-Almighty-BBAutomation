@@ -1,0 +1,35 @@
+WARNING: Duplicate port number(s) specified.  Are you alert enough to be using Nmap?  Have some coffee or Jolt(tm).
+# Nmap 7.93 scan initiated Wed Nov  8 01:37:20 2023 as: /usr/bin/nmap -sV --script vulners --script-args mincvss=7.0 -p80,443,8080,8443,80,443,2052,2053,2082,2083,2086,2087,2095,2096,8080,8443,8880 --open -oN nmap/CVEs_104.18.43.204.nmap --system-dns --stats-every 3s 104.18.43.204
+Nmap scan report for 104.18.43.204
+Host is up (0.011s latency).
+
+PORT     STATE SERVICE       VERSION
+80/tcp   open  http          Cloudflare http proxy
+|_http-server-header: cloudflare
+443/tcp  open  ssl/https     cloudflare
+|_http-server-header: cloudflare
+2052/tcp open  http          Cloudflare http proxy
+|_http-server-header: cloudflare
+2053/tcp open  ssl/http      nginx
+|_http-server-header: cloudflare
+2082/tcp open  http          Cloudflare http proxy
+|_http-server-header: cloudflare
+2083/tcp open  ssl/http      nginx
+|_http-server-header: cloudflare
+2086/tcp open  http          Cloudflare http proxy
+|_http-server-header: cloudflare
+2087/tcp open  ssl/http      nginx
+|_http-server-header: cloudflare
+2095/tcp open  http          Cloudflare http proxy
+|_http-server-header: cloudflare
+2096/tcp open  ssl/http      nginx
+|_http-server-header: cloudflare
+8080/tcp open  http          Cloudflare http proxy
+|_http-server-header: cloudflare
+8443/tcp open  ssl/https-alt cloudflare
+|_http-server-header: cloudflare
+8880/tcp open  http          Cloudflare http proxy
+|_http-server-header: cloudflare
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Nov  8 01:37:34 2023 -- 1 IP address (1 host up) scanned in 13.55 seconds

@@ -1,0 +1,131 @@
+
+[0;33mRunning a Full scan on [0m13.215.41.29
+[0m
+[0;33mNo ping detected.. Will not use ping scans!
+[0m
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+[0K
+[0K
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+[0K
+[0K
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      awselb/2.0
+|_http-server-header: awselb/2.0
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 301 Moved Permanently
+|     Server: awselb/2.0
+|     Date: Tue, 14 Nov 2023 13:34:21 GMT
+|     Content-Type: text/html
+|     Content-Length: 134
+|     Connection: close
+|     Location: https://www.bybit-com-1596998193.ap-southeast-1.elb.amazonaws.com:443/nice%20ports%2C/Tri%6Eity.txt%2ebak
+|     <html>
+|     <head><title>301 Moved Permanently</title></head>
+|     <body>
+|     <center><h1>301 Moved Permanently</h1></center>
+|     </body>
+|     </html>
+|   GetRequest, HTTPOptions: 
+|     HTTP/1.1 301 Moved Permanently
+|     Server: awselb/2.0
+|     Date: Tue, 14 Nov 2023 13:34:21 GMT
+|     Content-Type: text/html
+|     Content-Length: 134
+|     Connection: close
+|     Location: https://www.bybit-com-1596998193.ap-southeast-1.elb.amazonaws.com:443/
+|     <html>
+|     <head><title>301 Moved Permanently</title></head>
+|     <body>
+|     <center><h1>301 Moved Permanently</h1></center>
+|     </body>
+|     </html>
+|   RTSPRequest: 
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     </body>
+|     </html>
+|   X11Probe: 
+|     HTTP/1.1 400 Bad Request
+|     Server: awselb/2.0
+|     Date: Tue, 14 Nov 2023 13:34:21 GMT
+|     Content-Type: text/html
+|     Content-Length: 122
+|     Connection: close
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     </body>
+|_    </html>
+|_http-title: Did not follow redirect to https://www.ec2-13-215-41-29.ap-southeast-1.compute.amazonaws.com:443/
+443/tcp open  ssl/https awselb/2.0
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 301 Moved Permanently
+|     Server: awselb/2.0
+|     Date: Tue, 14 Nov 2023 13:34:27 GMT
+|     Content-Type: text/html
+|     Content-Length: 134
+|     Connection: close
+|     Location: https://www.bybit-com-1596998193.ap-southeast-1.elb.amazonaws.com:443/nice%20ports%2C/Tri%6Eity.txt%2ebak
+|     <html>
+|     <head><title>301 Moved Permanently</title></head>
+|     <body>
+|     <center><h1>301 Moved Permanently</h1></center>
+|     </body>
+|     </html>
+|   GetRequest, HTTPOptions: 
+|     HTTP/1.1 301 Moved Permanently
+|     Server: awselb/2.0
+|     Date: Tue, 14 Nov 2023 13:34:27 GMT
+|     Content-Type: text/html
+|     Content-Length: 134
+|     Connection: close
+|     Location: https://www.bybit-com-1596998193.ap-southeast-1.elb.amazonaws.com:443/
+|     <html>
+|     <head><title>301 Moved Permanently</title></head>
+|     <body>
+|     <center><h1>301 Moved Permanently</h1></center>
+|     </body>
+|_    </html>
+|_ssl-date: TLS randomness does not represent time
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_http-server-header: awselb/2.0
+|_http-title: Did not follow redirect to https://www.ec2-13-215-41-29.ap-southeast-1.compute.amazonaws.com:443/
+| ssl-cert: Subject: commonName=test_need_update_cer.com/stateOrProvinceName=unknown
+| Subject Alternative Name: DNS:test_need_update_cer.com
+| Not valid before: 2020-10-14T06:34:00
+|_Not valid after:  2030-10-12T06:34:00
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 0 seconds
+[0m

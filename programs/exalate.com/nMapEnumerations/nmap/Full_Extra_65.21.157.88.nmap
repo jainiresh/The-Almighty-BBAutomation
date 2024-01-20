@@ -1,0 +1,14 @@
+# Nmap 7.93 scan initiated Fri Nov 24 00:17:36 2023 as: /usr/bin/nmap -sCV -p22 --open -oN nmap/Full_Extra_65.21.157.88.nmap --system-dns --stats-every 2s 65.21.157.88
+Nmap scan report for static.88.157.21.65.clients.your-server.de (65.21.157.88)
+Host is up (0.20s latency).
+
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.9 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 cfac8c0fa33678500af2e72d7655b47e (RSA)
+|   256 be8c253ee03f317b99266cf965d9b234 (ECDSA)
+|_  256 d761756d980ad30a56eb7d3915ebcf96 (ED25519)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Nov 24 00:17:43 2023 -- 1 IP address (1 host up) scanned in 6.65 seconds

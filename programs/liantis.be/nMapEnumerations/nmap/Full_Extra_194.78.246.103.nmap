@@ -1,0 +1,110 @@
+# Nmap 7.93 scan initiated Sat Dec 16 10:43:39 2023 as: /usr/bin/nmap -sCV -p443 --open -oN nmap/Full_Extra_194.78.246.103.nmap --system-dns --stats-every 2s 194.78.246.103
+Nmap scan report for 103.246-78-194.adsl-static.isp.belgacom.be (194.78.246.103)
+Host is up (0.19s latency).
+
+PORT    STATE SERVICE   VERSION
+443/tcp open  ssl/https
+| ssl-cert: Subject: commonName=*.liantis.be
+| Subject Alternative Name: DNS:*.liantis.be, DNS:liantis.be
+| Not valid before: 2023-01-06T18:15:29
+|_Not valid after:  2024-02-07T18:15:28
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 404 
+|     Content-Type: text/html;charset=UTF-8
+|     Content-Length: 1031
+|     Date: Sat, 16 Dec 2023 05:13:55 GMT
+|     Set-Cookie: NSC_WTSW_MC_BDD_IUUQT_BN=ffffffff09f3bd0a45525d5f4f58455e445a4a4216cb;expires=Sat, 16-Dec-2023 15:13:54 GMT;path=/;secure;httponly
+|     Connection: close
+|     <!DOCTYPE html>
+|     <html lang="en">
+|     <head>
+|     <meta charset="UTF-8"/>
+|     <title>An unexpected error occurred ...</title>
+|     </head>
+|     <body>
+|     <!--
+|     This is an error page, Internet Explorer needs at least 512 bytes
+|     this comments is just existing in order to make Internet Explorer to accept the error page
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|   GetRequest: 
+|     HTTP/1.1 404 
+|     Content-Type: text/html;charset=UTF-8
+|     Content-Length: 1031
+|     Date: Sat, 16 Dec 2023 05:13:53 GMT
+|     Set-Cookie: NSC_WTSW_MC_BDD_IUUQT_BN=ffffffff09f3bd0a45525d5f4f58455e445a4a4216cb;expires=Sat, 16-Dec-2023 15:13:53 GMT;path=/;secure;httponly
+|     Connection: close
+|     <!DOCTYPE html>
+|     <html lang="en">
+|     <head>
+|     <meta charset="UTF-8"/>
+|     <title>An unexpected error occurred ...</title>
+|     </head>
+|     <body>
+|     <!--
+|     This is an error page, Internet Explorer needs at least 512 bytes
+|     this comments is just existing in order to make Internet Explorer to accept the error page
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+|   HTTPOptions: 
+|     HTTP/1.1 200 
+|     Allow: OPTIONS, GET, HEAD, POST
+|     Content-Length: 0
+|     Date: Sat, 16 Dec 2023 05:13:53 GMT
+|     Connection: close
+|     Keep-Alive: timeout=290
+|_    Set-Cookie: NSC_WTSW_MC_BDD_IUUQT_BN=ffffffff09f3bd0a45525d5f4f58455e445a4a4216cb;expires=Sat, 16-Dec-2023 15:13:54 GMT;path=/;secure;httponly
+|_http-title: An unexpected error occurred ...
+|_ssl-date: TLS randomness does not represent time
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port443-TCP:V=7.93%T=SSL%I=7%D=12/16%Time=657D3211%P=x86_64-pc-linux-gn
+SF:u%r(GetRequest,51D,"HTTP/1\.1\x20404\x20\r\nContent-Type:\x20text/html;
+SF:charset=UTF-8\r\nContent-Length:\x201031\r\nDate:\x20Sat,\x2016\x20Dec\
+SF:x202023\x2005:13:53\x20GMT\r\nSet-Cookie:\x20NSC_WTSW_MC_BDD_IUUQT_BN=f
+SF:fffffff09f3bd0a45525d5f4f58455e445a4a4216cb;expires=Sat,\x2016-Dec-2023
+SF:\x2015:13:53\x20GMT;path=/;secure;httponly\r\nConnection:\x20close\r\n\
+SF:r\n\n<!DOCTYPE\x20html>\n<html\x20lang=\"en\">\n<head>\n\x20\x20\x20\x2
+SF:0<meta\x20charset=\"UTF-8\"/>\n\x20\x20\x20\x20<title>An\x20unexpected\
+SF:x20error\x20occurred\x20\.\.\.</title>\n</head>\n<body>\n<!--\n\x20\x20
+SF:\x20\x20This\x20is\x20an\x20error\x20page,\x20Internet\x20Explorer\x20n
+SF:eeds\x20at\x20least\x20512\x20bytes\n\x20\x20\x20\x20So\x20this\x20comm
+SF:ents\x20is\x20just\x20existing\x20in\x20order\x20to\x20make\x20Internet
+SF:\x20Explorer\x20to\x20accept\x20the\x20error\x20page\n\x20\x20\x20\x20a
+SF:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\x20\x20\
+SF:x20\x20aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\
+SF:x20\x20\x20\x20aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+SF:aaaaa\n\x20\x20\x20\x20aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+SF:aaaaaaaaaaaaa\n\x20\x20\x20\x20aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+SF:aaaaa")%r(HTTPOptions,126,"HTTP/1\.1\x20200\x20\r\nAllow:\x20OPTIONS,\x
+SF:20GET,\x20HEAD,\x20POST\r\nContent-Length:\x200\r\nDate:\x20Sat,\x2016\
+SF:x20Dec\x202023\x2005:13:53\x20GMT\r\nConnection:\x20close\r\nKeep-Alive
+SF::\x20timeout=290\r\nSet-Cookie:\x20NSC_WTSW_MC_BDD_IUUQT_BN=ffffffff09f
+SF:3bd0a45525d5f4f58455e445a4a4216cb;expires=Sat,\x2016-Dec-2023\x2015:13:
+SF:54\x20GMT;path=/;secure;httponly\r\n\r\n")%r(FourOhFourRequest,51D,"HTT
+SF:P/1\.1\x20404\x20\r\nContent-Type:\x20text/html;charset=UTF-8\r\nConten
+SF:t-Length:\x201031\r\nDate:\x20Sat,\x2016\x20Dec\x202023\x2005:13:55\x20
+SF:GMT\r\nSet-Cookie:\x20NSC_WTSW_MC_BDD_IUUQT_BN=ffffffff09f3bd0a45525d5f
+SF:4f58455e445a4a4216cb;expires=Sat,\x2016-Dec-2023\x2015:13:54\x20GMT;pat
+SF:h=/;secure;httponly\r\nConnection:\x20close\r\n\r\n\n<!DOCTYPE\x20html>
+SF:\n<html\x20lang=\"en\">\n<head>\n\x20\x20\x20\x20<meta\x20charset=\"UTF
+SF:-8\"/>\n\x20\x20\x20\x20<title>An\x20unexpected\x20error\x20occurred\x2
+SF:0\.\.\.</title>\n</head>\n<body>\n<!--\n\x20\x20\x20\x20This\x20is\x20a
+SF:n\x20error\x20page,\x20Internet\x20Explorer\x20needs\x20at\x20least\x20
+SF:512\x20bytes\n\x20\x20\x20\x20So\x20this\x20comments\x20is\x20just\x20e
+SF:xisting\x20in\x20order\x20to\x20make\x20Internet\x20Explorer\x20to\x20a
+SF:ccept\x20the\x20error\x20page\n\x20\x20\x20\x20aaaaaaaaaaaaaaaaaaaaaaaa
+SF:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\x20\x20\x20\x20aaaaaaaaaaaaaaaa
+SF:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\x20\x20\x20\x20aaaaaaaa
+SF:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\x20\x20\x20\x20
+SF:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\x20\x20
+SF:\x20\x20aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Dec 16 10:45:52 2023 -- 1 IP address (1 host up) scanned in 133.10 seconds

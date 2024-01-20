@@ -1,0 +1,98 @@
+# Nmap 7.93 scan initiated Thu Nov 23 20:24:37 2023 as: /usr/bin/nmap -sCV -p22,80,443,9000 --open -oN nmap/Full_Extra_135.181.92.188.nmap --system-dns --stats-every 2s 135.181.92.188
+Nmap scan report for static.188.92.181.135.clients.your-server.de (135.181.92.188)
+Host is up (0.18s latency).
+
+PORT     STATE SERVICE     VERSION
+22/tcp   open  ssh         OpenSSH 8.2p1 Ubuntu 4ubuntu0.9 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 1935952631ac57218f362c80b2c1da2e (RSA)
+|   256 640bd4956e4445dd6d1a781c4746ac0f (ECDSA)
+|_  256 56bfe964a0aa89fcb5cf66f28dbfcc16 (ED25519)
+80/tcp   open  http        nginx
+|_http-title: 503 Service Temporarily Unavailable
+443/tcp  open  ssl/http    nginx
+| ssl-cert: Subject: commonName=letsencrypt-nginx-proxy-companion
+| Not valid before: 2023-08-08T08:00:58
+|_Not valid after:  2024-08-07T08:00:58
+|_http-title: 503 Service Temporarily Unavailable
+|_ssl-date: TLS randomness does not represent time
+9000/tcp open  cslistener?
+| fingerprint-strings: 
+|   DNSVersionBindReqTCP: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 23 Nov 2023 14:54:51 GMT
+|     Connection: close
+|     Content-Type: text/plain; charset=UTF-8
+|     Content-Length: 23
+|     Unsupported HTTP method
+|   GetRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 23 Nov 2023 14:54:49 GMT
+|     Connection: close
+|     Content-Type: text/plain; charset=UTF-8
+|     Content-Length: 107
+|     Cannot establish effective URI of request to `/`, request has a relative URI and is missing a `Host` header
+|   HTTPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 23 Nov 2023 14:54:50 GMT
+|     Connection: close
+|     Content-Type: text/plain; charset=UTF-8
+|     Content-Length: 107
+|     Cannot establish effective URI of request to `/`, request has a relative URI and is missing a `Host` header
+|   RPCCheck: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 23 Nov 2023 14:54:50 GMT
+|     Connection: close
+|     Content-Type: text/plain; charset=UTF-8
+|     Content-Length: 23
+|     Unsupported HTTP method
+|   RTSPRequest: 
+|     HTTP/1.1 505 HTTP Version Not Supported
+|     Date: Thu, 23 Nov 2023 14:54:50 GMT
+|     Connection: close
+|     Content-Type: text/plain; charset=UTF-8
+|     Content-Length: 74
+|     server does not support the HTTP protocol version used in the request.
+|   SSLSessionReq, TerminalServerCookie: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Thu, 23 Nov 2023 14:55:04 GMT
+|     Connection: close
+|     Content-Type: text/plain; charset=UTF-8
+|     Content-Length: 23
+|_    Unsupported HTTP method
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port9000-TCP:V=7.93%I=7%D=11/23%Time=655F67B9%P=x86_64-pc-linux-gnu%r(G
+SF:etRequest,FD,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Thu,\x2023
+SF:\x20Nov\x202023\x2014:54:49\x20GMT\r\nConnection:\x20close\r\nContent-T
+SF:ype:\x20text/plain;\x20charset=UTF-8\r\nContent-Length:\x20107\r\n\r\nC
+SF:annot\x20establish\x20effective\x20URI\x20of\x20request\x20to\x20`/`,\x
+SF:20request\x20has\x20a\x20relative\x20URI\x20and\x20is\x20missing\x20a\x
+SF:20`Host`\x20header")%r(HTTPOptions,FD,"HTTP/1\.1\x20400\x20Bad\x20Reque
+SF:st\r\nDate:\x20Thu,\x2023\x20Nov\x202023\x2014:54:50\x20GMT\r\nConnecti
+SF:on:\x20close\r\nContent-Type:\x20text/plain;\x20charset=UTF-8\r\nConten
+SF:t-Length:\x20107\r\n\r\nCannot\x20establish\x20effective\x20URI\x20of\x
+SF:20request\x20to\x20`/`,\x20request\x20has\x20a\x20relative\x20URI\x20an
+SF:d\x20is\x20missing\x20a\x20`Host`\x20header")%r(RTSPRequest,EA,"HTTP/1\
+SF:.1\x20505\x20HTTP\x20Version\x20Not\x20Supported\r\nDate:\x20Thu,\x2023
+SF:\x20Nov\x202023\x2014:54:50\x20GMT\r\nConnection:\x20close\r\nContent-T
+SF:ype:\x20text/plain;\x20charset=UTF-8\r\nContent-Length:\x2074\r\n\r\nTh
+SF:e\x20server\x20does\x20not\x20support\x20the\x20HTTP\x20protocol\x20ver
+SF:sion\x20used\x20in\x20the\x20request\.")%r(RPCCheck,A8,"HTTP/1\.1\x2040
+SF:0\x20Bad\x20Request\r\nDate:\x20Thu,\x2023\x20Nov\x202023\x2014:54:50\x
+SF:20GMT\r\nConnection:\x20close\r\nContent-Type:\x20text/plain;\x20charse
+SF:t=UTF-8\r\nContent-Length:\x2023\r\n\r\nUnsupported\x20HTTP\x20method")
+SF:%r(DNSVersionBindReqTCP,A8,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nDate:
+SF:\x20Thu,\x2023\x20Nov\x202023\x2014:54:51\x20GMT\r\nConnection:\x20clos
+SF:e\r\nContent-Type:\x20text/plain;\x20charset=UTF-8\r\nContent-Length:\x
+SF:2023\r\n\r\nUnsupported\x20HTTP\x20method")%r(SSLSessionReq,A8,"HTTP/1\
+SF:.1\x20400\x20Bad\x20Request\r\nDate:\x20Thu,\x2023\x20Nov\x202023\x2014
+SF::55:04\x20GMT\r\nConnection:\x20close\r\nContent-Type:\x20text/plain;\x
+SF:20charset=UTF-8\r\nContent-Length:\x2023\r\n\r\nUnsupported\x20HTTP\x20
+SF:method")%r(TerminalServerCookie,A8,"HTTP/1\.1\x20400\x20Bad\x20Request\
+SF:r\nDate:\x20Thu,\x2023\x20Nov\x202023\x2014:55:04\x20GMT\r\nConnection:
+SF:\x20close\r\nContent-Type:\x20text/plain;\x20charset=UTF-8\r\nContent-L
+SF:ength:\x2023\r\n\r\nUnsupported\x20HTTP\x20method");
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Nov 23 20:25:48 2023 -- 1 IP address (1 host up) scanned in 71.09 seconds

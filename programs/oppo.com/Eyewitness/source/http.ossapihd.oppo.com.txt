@@ -1,0 +1,1 @@
+<html><head></head><body>Lumen (5.4.6) (Laravel Components 5.4.*)</body></html>

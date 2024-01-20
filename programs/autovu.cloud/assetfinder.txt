@@ -1,0 +1,8 @@
+tracking.autovu.cloud
+portal.autovu.cloud
+ptms-d-sts.autovu.cloud
+azurewebtools.autovu.cloud
+autovu.cloud
+autovu.cloud
+autovu.cloud
+ptms-d-es.autovu.cloud

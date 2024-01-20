@@ -1,0 +1,42 @@
+Starting Nmap 7.93 ( https://nmap.org ) at 2023-11-27 10:29 IST
+Initiating Ping Scan at 10:29
+Scanning 13.107.213.58 [4 ports]
+Completed Ping Scan at 10:29, 0.07s elapsed (1 total hosts)
+Initiating System DNS resolution of 1 host. at 10:29
+Completed System DNS resolution of 1 host. at 10:29, 0.00s elapsed
+Initiating SYN Stealth Scan at 10:29
+Scanning 13.107.213.58 [65535 ports]
+Discovered open port 443/tcp on 13.107.213.58
+Discovered open port 80/tcp on 13.107.213.58
+Stats: 0:00:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.50% done
+Stats: 0:00:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.22% done; ETC: 10:34 (0:04:24 remaining)
+Stats: 0:00:09 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 3.37% done; ETC: 10:33 (0:04:18 remaining)
+Stats: 0:00:12 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.51% done; ETC: 10:33 (0:04:14 remaining)
+Stats: 0:00:15 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 5.65% done; ETC: 10:33 (0:04:10 remaining)
+Stats: 0:00:18 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.79% done; ETC: 10:33 (0:04:07 remaining)
+Stats: 0:00:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.94% done; ETC: 10:33 (0:04:04 remaining)
+Stats: 0:00:24 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 9.08% done; ETC: 10:33 (0:04:00 remaining)
+Stats: 0:00:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.22% done; ETC: 10:33 (0:03:57 remaining)
+Stats: 0:00:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.37% done; ETC: 10:33 (0:03:54 remaining)
+Stats: 0:00:33 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.51% done; ETC: 10:33 (0:03:51 remaining)
+Stats: 0:00:36 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.65% done; ETC: 10:33 (0:03:48 remaining)
+Stats: 0:00:39 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.79% done; ETC: 10:33 (0:03:45 remaining)
+Stats: 0:00:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.94% done; ETC: 10:33 (0:03:42 remaining)
+Stats: 0:00:45 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.08% done; ETC: 10:33 (0:03:38 remaining)
+Error from pcap_next_ex: The interface went down
+

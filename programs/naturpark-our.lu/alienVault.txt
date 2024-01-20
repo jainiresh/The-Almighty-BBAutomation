@@ -1,0 +1,15 @@
+bats.naturpark-our.lu
+db.naturpark-our.lu
+erp.naturpark-our.lu
+expowifi.naturpark-our.lu
+fledermaustunnel.naturpark-our.lu
+kids.naturpark-our.lu
+mc.naturpark-our.lu
+naturpark-our.lu
+photoserver.naturpark-our.lu
+photoserverwincrange.naturpark-our.lu
+smtp.naturpark-our.lu
+stats.naturpark-our.lu
+support.naturpark-our.lu
+webgis.naturpark-our.lu
+www.naturpark-our.lu

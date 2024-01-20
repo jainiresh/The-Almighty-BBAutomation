@@ -1,0 +1,74 @@
+
+[0;33mRunning a Full scan on [0m107.20.99.188
+[0m
+[0;33mNo ping detected.. Will not use ping scans!
+[0m
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+[0K
+[0K
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+[0K
+[0K
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.0 404 Not Found
+|     Content-Type: text/plain; charset=utf-8
+|     X-Content-Type-Options: nosniff
+|     X-Request: 2cf225b7-058a-4e0c-8ecb-2719b6eefdd3
+|     X-Stack: trk1
+|     X-Version: 42027de
+|     Date: Wed, 13 Dec 2023 10:19:27 GMT
+|     Content-Length: 19
+|     page not found
+|   GenericLines, Help, RTSPRequest, SSLSessionReq, TLSSessionReq, TerminalServerCookie: 
+|     HTTP/1.1 400 Bad Request
+|     Content-Type: text/plain; charset=utf-8
+|     Connection: close
+|     Request
+|   GetRequest: 
+|     HTTP/1.0 200 OK
+|     Accept-Ranges: bytes
+|     Content-Length: 13
+|     Content-Type: text/html; charset=utf-8
+|     Last-Modified: Fri, 13 Oct 2023 11:50:47 GMT
+|     X-Request: 4bdf66f0-fa50-4c9d-8863-b53e7aee17c3
+|     X-Stack: trk1
+|     X-Version: 42027de
+|     Date: Wed, 13 Dec 2023 10:19:21 GMT
+|     cloudmta.net
+|   HTTPOptions: 
+|     HTTP/1.0 404 Not Found
+|     Content-Type: text/plain; charset=utf-8
+|     X-Content-Type-Options: nosniff
+|     X-Request: 926c136b-ebbb-409b-9afa-351f2a7bc89d
+|     X-Stack: trk1
+|     X-Version: 42027de
+|     Date: Wed, 13 Dec 2023 10:19:21 GMT
+|     Content-Length: 19
+|_    page not found
+|_http-title: Site doesn't have a title (text/html; charset=utf-8).
+443/tcp open  ssl/https
+|_http-title: Site doesn't have a title.
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 1 seconds
+[0m

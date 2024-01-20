@@ -1,0 +1,35 @@
+<html lang="en"><head>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="Author" content="Zabbix SIA"><title>Zabbix</title>		<link rel="icon" href="favicon.ico">
+		<link rel="apple-touch-icon-precomposed" sizes="76x76" href="assets/img/apple-touch-icon-76x76-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="120x120" href="assets/img/apple-touch-icon-120x120-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="assets/img/apple-touch-icon-152x152-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="180x180" href="assets/img/apple-touch-icon-180x180-precomposed.png">
+		<link rel="icon" sizes="192x192" href="assets/img/touch-icon-192x192.png">
+		<meta name="csrf-token" content="e7d690a79aef69b0">
+		<meta name="msapplication-TileImage" content="assets/img/ms-tile-144x144.png">
+		<meta name="msapplication-TileColor" content="#d40000">
+		<meta name="msapplication-config" content="none">
+<link rel="stylesheet" type="text/css" href="assets/styles/dark-theme.css?1702455453"><style type="text/css">:root {
+--severity-color-na-bg: #97AAB3;
+--severity-color-info-bg: #7499FF;
+--severity-color-warning-bg: #FFC859;
+--severity-color-average-bg: #FFA059;
+--severity-color-high-bg: #E97659;
+--severity-color-disaster-bg: #E45959;
+}
+.na-bg, .na-bg input[type="radio"]:checked + label, .na-bg:before, .flh-na-bg, .status-na-bg, .status-na-bg:before { background-color: #97AAB3 }
+.info-bg, .info-bg input[type="radio"]:checked + label, .info-bg:before, .flh-info-bg, .status-info-bg, .status-info-bg:before { background-color: #7499FF }
+.warning-bg, .warning-bg input[type="radio"]:checked + label, .warning-bg:before, .flh-warning-bg, .status-warning-bg, .status-warning-bg:before { background-color: #FFC859 }
+.average-bg, .average-bg input[type="radio"]:checked + label, .average-bg:before, .flh-average-bg, .status-average-bg, .status-average-bg:before { background-color: #FFA059 }
+.high-bg, .high-bg input[type="radio"]:checked + label, .high-bg:before, .flh-high-bg, .status-high-bg, .status-high-bg:before { background-color: #E97659 }
+.disaster-bg, .disaster-bg input[type="radio"]:checked + label, .disaster-bg:before, .flh-disaster-bg, .status-disaster-bg, .status-disaster-bg:before { background-color: #E45959 }
+
+</style><script>
+			const PHP_ZBX_FULL_DATE_TIME = "Y-m-d H:i:s";
+			const PHP_TZ_OFFSETS = {"0":3600,"220921200":3600,"228877200":7200,"243997200":3600,"260326800":7200,"276051600":3600,"291776400":7200,"307501200":3600,"323830800":7200,"338950800":3600,"354675600":7200,"370400400":3600,"386125200":7200,"401850000":3600,"417574800":7200,"433299600":3600,"449024400":7200,"465354000":3600,"481078800":7200,"496803600":3600,"512528400":7200,"528253200":3600,"543978000":7200,"559702800":3600,"575427600":7200,"591152400":3600,"606877200":7200,"622602000":3600,"638326800":7200,"654656400":3600,"670381200":7200,"686106000":3600,"701830800":7200,"717555600":3600,"733280400":7200,"749005200":3600,"764730000":7200,"780454800":3600,"796179600":7200,"811904400":3600,"828234000":7200,"846378000":3600,"859683600":7200,"877827600":3600,"891133200":7200,"909277200":3600,"922582800":7200,"941331600":3600,"954032400":7200,"972781200":3600,"985482000":7200,"1004230800":3600,"1017536400":7200,"1035680400":3600,"1048986000":7200,"1067130000":3600,"1080435600":7200,"1099184400":3600,"1111885200":7200,"1130634000":3600,"1143334800":7200,"1162083600":3600,"1174784400":7200,"1193533200":3600,"1206838800":7200,"1224982800":3600,"1238288400":7200,"1256432400":3600,"1269738000":7200,"1288486800":3600,"1301187600":7200,"1319936400":3600,"1332637200":7200,"1351386000":3600,"1364691600":7200,"1382835600":3600,"1396141200":7200,"1414285200":3600,"1427590800":7200,"1445734800":3600,"1459040400":7200,"1477789200":3600,"1490490000":7200,"1509238800":3600,"1521939600":7200,"1540688400":3600,"1553994000":7200,"1572138000":3600,"1585443600":7200,"1603587600":3600,"1616893200":7200,"1635642000":3600,"1648342800":7200,"1667091600":3600,"1679792400":7200,"1698541200":3600,"1711846800":7200,"1729990800":3600,"1743296400":7200,"1761440400":3600,"1774746000":7200,"1792890000":3600,"1806195600":7200,"1824944400":3600,"1837645200":7200,"1856394000":3600,"1869094800":7200,"1887843600":3600,"1901149200":7200,"1919293200":3600,"1932598800":7200,"1950742800":3600,"1964048400":7200,"1982797200":3600,"1995498000":7200,"2014246800":3600,"2026947600":7200,"2045696400":3600,"2058397200":7200,"2077146000":3600,"2090451600":7200,"2108595600":3600,"2121901200":7200,"2140045200":3600};
+		</script><script src="js/browsers.js?1702455437"></script></head>
+<body><div class="wrapper"><main><div class="signin-container"><div class="signin-logo"><div class="zabbix-logo"></div></div><form method="post" action="index.php" accept-charset="utf-8" aria-label="Sign in"><ul><li><label for="name">Username</label><input type="text" id="name" name="name" value="" maxlength="255" autofocus="autofocus"></li><li><label for="password">Password</label><input type="password" id="password" name="password" value="" maxlength="255" autocomplete="new-password"></li><li><input type="checkbox" id="autologin" name="autologin" value="1" class="checkbox-radio" checked="checked"><label for="autologin"><span></span>Remember me for 30 days</label></li><li><button type="submit" id="enter" name="enter" value="Sign in">Sign in</button></li></ul></form></div><div class="signin-links"><a target="_blank" rel="noopener noreferrer" class="grey link-alt" href="https://www.zabbix.com/documentation/6.0/">Help</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer" class="grey link-alt" href="https://www.zabbix.com/support">Support</a></div></main><footer role="contentinfo">© 2001–2023, <a class="grey link-alt" target="_blank" rel="noopener noreferrer" href="https://www.zabbix.com/">Zabbix SIA</a></footer></div>
+</body></html>

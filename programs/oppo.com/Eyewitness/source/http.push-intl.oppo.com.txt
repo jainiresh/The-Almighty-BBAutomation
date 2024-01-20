@@ -1,0 +1,685 @@
+<html class="g-lang-en" lang="en"><head><style>
+.anticon {
+  display: inline-block;
+  color: inherit;
+  font-style: normal;
+  line-height: 0;
+  text-align: center;
+  text-transform: none;
+  vertical-align: -0.125em;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.anticon > * {
+  line-height: 1;
+}
+
+.anticon svg {
+  display: inline-block;
+}
+
+.anticon::before {
+  display: none;
+}
+
+.anticon .anticon-icon {
+  display: block;
+}
+
+.anticon[tabindex] {
+  cursor: pointer;
+}
+
+.anticon-spin::before,
+.anticon-spin {
+  display: inline-block;
+  -webkit-animation: loadingCircle 1s infinite linear;
+  animation: loadingCircle 1s infinite linear;
+}
+
+@-webkit-keyframes loadingCircle {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes loadingCircle {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+</style><meta http-equiv="Content-type" content="text/html; charset=utf-8"><meta http-equiv="x-dns-prefetch-control" content="on"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=yes"><meta name="renderer" content="webkit"><link rel="dns-prefetch" href="//push-intl.oppo.com"><link rel="dns-prefetch" href="//oversea-push.heytapimg.com"><meta name="keywords" content="OPPO push,OPUSH,GCM,APNS,Message push,jiguang push,Millet push,HUAWEI push"><meta name="description" content="OPPO Push provides developers with stable and efficient message push brushing"><title>OPush Operation Platform</title><link rel="shortcut icon" href="https://oversea-push.heytapimg.com/favicon.ico"><link href="https://oversea-push.heytapimg.com/antd.4dc96c2e.chunk.css" rel="stylesheet"><link href="https://oversea-push.heytapimg.com/umi.f2610030.chunk.css" rel="stylesheet"><script>window.publicPath = 'https://oversea-push.heytapimg.com/';
+      var GlobalConfig = {
+        development: false,
+        env: 'prod',
+        oversea: true
+      }</script><script>var _hmt = _hmt || []
+          window._hmt = _hmt
+          // var baiduStatistics = function() {
+          //   var hm = document.createElement("script")
+          //   hm.src = "https://hm.baidu.com/hm.js?9f18814aa3ec7e78f6faf4655939982e"
+          //
+          //   var s = document.getElementsByTagName("script")[0]
+          //   s.parentNode.insertBefore(hm, s)
+          //   _hmt.push([
+          //     '_requirePlugin', 'UrlChangeTracker', {
+          //       shouldTrackUrlChange: function(newPath, oldPath) {
+          //         newPath = newPath.split('?')[0]
+          //         oldPath = oldPath.split('?')[0]
+          //         return newPath !== oldPath
+          //       }
+          //     }
+          //   ])
+          // }
+          //
+          // baiduStatistics()</script><script src="https://static-common.heytapdl.com/oreport/oreport-record-2.0.0.min.js"></script><script src="https://static-common.heytapdl.com/otrack/otrack-latest.min.js"></script><script>// var _push_data_buried_point_track = null;
+
+          (function() {
+            var info = null
+            var badjsProjectInfo = {
+              test: {
+                key: 'test',
+                id: 148,
+                appKey: '5db2a3ebc6fafae115e4b7345ed251e0',
+                doMainName:'Opush运营平台测试环境(海内外)',
+                region: ''
+              },
+              intl: {
+                key: 'intl',
+                id: 20,
+                appKey: 'a19c2b6a088cc5ad5be2b7fe0e2d7209',
+                doMainName:'Opush运营平台生产环境(海外)',
+                region: 'sg'
+              }
+            }
+
+            if ((GlobalConfig.env === 'prod' || GlobalConfig.env === 'gray') && GlobalConfig.oversea) {
+              info = badjsProjectInfo.intl
+            } else {
+              info = badjsProjectInfo.test
+            }
+
+            var errorRules = [
+              /"code":[345]\d{1,3}/i,
+              /server\s+error/i
+            ]
+
+            if (window.oReport) {
+              window.oreport = new window.oReport({
+                id: info.id,
+                appKey: info.appKey,
+                region: info.region,
+                console: true,
+                delay: 2 * 1000,
+                isReplay: false, //开启录屏
+                recordType: 0,
+                desensitize: false,
+                firstReport: true,
+                apiErrorRule: errorRules,//状态匹配，上报
+                captureConsole: true,//捕获console日志
+                consoleLimitSize: 3,//console日志占据的空间  3MB
+                consoleLimitCount: 20,//console日志存储的最大条数 20
+                beforeReport: function(reportObj) {
+                  const username = sessionStorage.getItem('username') || ''
+                  reportObj.msg = reportObj.msg + ',' + username
+                  return true
+                }
+              })
+            }
+          }())</script><script charset="utf-8" src="https://oversea-push.heytapimg.com/vendors.f563ee26.async.js" crossorigin="anonymous"></script><script charset="utf-8" src="https://oversea-push.heytapimg.com/emoji.b53ede1d.async.js" crossorigin="anonymous"></script><link rel="stylesheet" type="text/css" href="https://oversea-push.heytapimg.com/layouts__index.61a3dccc.chunk.css" crossorigin="anonymous"><script charset="utf-8" src="https://oversea-push.heytapimg.com/layouts__index.1eb3cda3.async.js" crossorigin="anonymous"></script><style type="text/css">.emoji-mart,
+.emoji-mart * {
+  box-sizing: border-box;
+  line-height: 1.15;
+}
+
+.emoji-mart {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  display: inline-block;
+  color: #222427;
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.emoji-mart .emoji-mart-emoji {
+  padding: 6px;
+}
+
+.emoji-mart-bar {
+  border: 0 solid #d9d9d9;
+}
+.emoji-mart-bar:first-child {
+  border-bottom-width: 1px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.emoji-mart-bar:last-child {
+  border-top-width: 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.emoji-mart-anchors {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 6px;
+  color: #858585;
+  line-height: 0;
+}
+
+.emoji-mart-anchor {
+  position: relative;
+  display: block;
+  flex: 1 1 auto;
+  text-align: center;
+  padding: 12px 4px;
+  overflow: hidden;
+  transition: color .1s ease-out;
+  margin: 0;
+  box-shadow: none;
+  background: none;
+  border: none;
+}
+.emoji-mart-anchor:hover,
+.emoji-mart-anchor-selected {
+  color: #464646;
+}
+
+.emoji-mart-anchor-selected .emoji-mart-anchor-bar {
+  bottom: 0;
+}
+
+.emoji-mart-anchor-bar {
+  position: absolute;
+  bottom: -3px; left: 0;
+  width: 100%; height: 3px;
+  background-color: #464646;
+}
+
+.emoji-mart-anchors i {
+  display: inline-block;
+  width: 100%;
+  max-width: 22px;
+}
+
+.emoji-mart-anchors svg,
+.emoji-mart-anchors img {
+  fill: #858585;
+  height: 18px;
+  width: 18px;
+}
+
+.emoji-mart-scroll {
+  overflow-y: scroll;
+  height: 270px;
+  padding: 0 6px 6px 6px;
+  will-change: transform; /* avoids "repaints on scroll" in mobile Chrome */
+}
+
+.emoji-mart-search {
+  margin-top: 6px;
+  padding: 0 6px;
+  position: relative;
+}
+
+.emoji-mart-search input {
+  font-size: 16px;
+  display: block;
+  width: 100%;
+  padding: 5px 25px 6px 10px;
+  border-radius: 5px;
+  border: 1px solid #d9d9d9;
+  outline: 0;
+}
+
+.emoji-mart-search input,
+.emoji-mart-search input::-webkit-search-decoration,
+.emoji-mart-search input::-webkit-search-cancel-button,
+.emoji-mart-search input::-webkit-search-results-button,
+.emoji-mart-search input::-webkit-search-results-decoration {
+  /* remove webkit/blink styles for <input type="search">
+   * via https://stackoverflow.com/a/9422689 */
+  -webkit-appearance: none;
+}
+
+.emoji-mart-search-icon {
+  position: absolute;
+  top: 7px;
+  right: 11px;
+  z-index: 2;
+  padding: 2px 5px 1px;
+  border: none;
+  background: none;
+}
+
+.emoji-mart-category .emoji-mart-emoji span {
+  z-index: 1;
+  position: relative;
+  text-align: center;
+  cursor: default;
+}
+
+.emoji-mart-category .emoji-mart-emoji:hover:before {
+  z-index: 0;
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-color: #f4f4f4;
+  border-radius: 100%;
+}
+
+.emoji-mart-category-label {
+  z-index: 2;
+  position: relative;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.emoji-mart-category-label span {
+  display: block;
+  width: 100%;
+  font-weight: 500;
+  padding: 5px 6px;
+  background-color: #fff;
+  background-color: rgba(255, 255, 255, .95);
+}
+
+.emoji-mart-category-list {
+  margin: 0;
+  padding: 0;
+}
+
+.emoji-mart-category-list li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+.emoji-mart-emoji {
+  position: relative;
+  display: inline-block;
+  font-size: 0;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  box-shadow: none;
+}
+
+.emoji-mart-emoji-native {
+  font-family: "Segoe UI Emoji", "Segoe UI Symbol", "Segoe UI", "Apple Color Emoji", "Twemoji Mozilla", "Noto Color Emoji", "EmojiOne Color", "Android Emoji";
+}
+
+.emoji-mart-no-results {
+  font-size: 14px;
+  text-align: center;
+  padding-top: 70px;
+  color: #858585;
+}
+.emoji-mart-no-results-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.emoji-mart-no-results .emoji-mart-category-label {
+  display: none;
+}
+.emoji-mart-no-results .emoji-mart-no-results-label {
+  margin-top: .2em;
+}
+.emoji-mart-no-results .emoji-mart-emoji:hover:before {
+  content: none;
+}
+
+.emoji-mart-preview {
+  position: relative;
+  height: 70px;
+}
+
+.emoji-mart-preview-emoji,
+.emoji-mart-preview-data,
+.emoji-mart-preview-skins {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.emoji-mart-preview-emoji {
+  left: 12px;
+}
+
+.emoji-mart-preview-data {
+  left: 68px; right: 12px;
+  word-break: break-all;
+}
+
+.emoji-mart-preview-skins {
+  right: 30px;
+  text-align: right;
+}
+
+.emoji-mart-preview-skins.custom {
+  right: 10px;
+  text-align: right;
+}
+
+.emoji-mart-preview-name {
+  font-size: 14px;
+}
+
+.emoji-mart-preview-shortname {
+  font-size: 12px;
+  color: #888;
+}
+.emoji-mart-preview-shortname + .emoji-mart-preview-shortname,
+.emoji-mart-preview-shortname + .emoji-mart-preview-emoticon,
+.emoji-mart-preview-emoticon + .emoji-mart-preview-emoticon {
+  margin-left: .5em;
+}
+
+.emoji-mart-preview-emoticon {
+  font-size: 11px;
+  color: #bbb;
+}
+
+.emoji-mart-title span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.emoji-mart-title .emoji-mart-emoji {
+  padding: 0;
+}
+
+.emoji-mart-title-label {
+  color: #999A9C;
+  font-size: 26px;
+  font-weight: 300;
+}
+
+.emoji-mart-skin-swatches {
+  font-size: 0;
+  padding: 2px 0;
+  border: 1px solid #d9d9d9;
+  border-radius: 12px;
+  background-color: #fff;
+}
+
+.emoji-mart-skin-swatches.custom {
+  font-size: 0;
+  border: none;
+  background-color: #fff;
+}
+
+.emoji-mart-skin-swatches.opened .emoji-mart-skin-swatch {
+  width: 16px;
+  padding: 0 2px;
+}
+
+.emoji-mart-skin-swatches.opened .emoji-mart-skin-swatch.selected:after {
+  opacity: .75;
+}
+
+.emoji-mart-skin-swatch {
+  display: inline-block;
+  width: 0;
+  vertical-align: middle;
+  transition-property: width, padding;
+  transition-duration: .125s;
+  transition-timing-function: ease-out;
+}
+
+.emoji-mart-skin-swatch:nth-child(1) { transition-delay: 0s }
+.emoji-mart-skin-swatch:nth-child(2) { transition-delay: .03s }
+.emoji-mart-skin-swatch:nth-child(3) { transition-delay: .06s }
+.emoji-mart-skin-swatch:nth-child(4) { transition-delay: .09s }
+.emoji-mart-skin-swatch:nth-child(5) { transition-delay: .12s }
+.emoji-mart-skin-swatch:nth-child(6) { transition-delay: .15s }
+
+.emoji-mart-skin-swatch.selected {
+  position: relative;
+  width: 16px;
+  padding: 0 2px;
+}
+
+.emoji-mart-skin-swatch.selected:after {
+  content: "";
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 4px; height: 4px;
+  margin: -2px 0 0 -2px;
+  background-color: #fff;
+  border-radius: 100%;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity .2s ease-out;
+}
+
+.emoji-mart-skin-swatch.custom {
+  display: inline-block;
+  width: 0;
+  height: 38px;
+  overflow: hidden;
+  vertical-align: middle;
+  transition-property: width, height;
+  transition-duration: .125s;
+  transition-timing-function: ease-out;
+  cursor: default;
+}
+
+.emoji-mart-skin-swatch.custom.selected {
+  position: relative;
+  width: 36px;
+  height: 38px;
+  padding: 0 2px 0 0;
+}
+
+.emoji-mart-skin-swatch.custom.selected:after {
+  content: "";
+  width: 0;
+  height: 0;
+}
+
+.emoji-mart-skin-swatches.custom .emoji-mart-skin-swatch.custom:hover {
+  background-color: #f4f4f4;
+  border-radius: 10%;
+}
+
+.emoji-mart-skin-swatches.custom.opened .emoji-mart-skin-swatch.custom {
+  width: 36px;
+  height: 38px;
+  padding: 0 2px 0 0;
+}
+
+.emoji-mart-skin-swatches.custom.opened .emoji-mart-skin-swatch.custom.selected:after {
+  opacity: .75;
+}
+
+.emoji-mart-skin-text.opened {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+  color: #888;
+  font-size: 11px;
+  padding: 5px 2px;
+  width: 95px;
+  height: 40px;
+  border-radius: 10%;
+  background-color: #fff;
+}
+
+.emoji-mart-skin {
+  display: inline-block;
+  width: 100%;
+  padding-top: 100%;
+  max-width: 12px;
+  border-radius: 100%;
+}
+
+.emoji-mart-skin-tone-1 { background-color: #ffc93a }
+.emoji-mart-skin-tone-2 { background-color: #fadcbc }
+.emoji-mart-skin-tone-3 { background-color: #e0bb95 }
+.emoji-mart-skin-tone-4 { background-color: #bf8f68 }
+.emoji-mart-skin-tone-5 { background-color: #9b643d }
+.emoji-mart-skin-tone-6 { background-color: #594539 }
+
+/* For screenreaders only, via https://stackoverflow.com/a/19758620 */
+.emoji-mart-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+
+</style><style type="text/css">.react-input-emoji--container {
+  color: #4b4b4b;
+  text-rendering: optimizeLegibility;
+  background-color: #fff;
+  margin: 5px 10px;
+  box-sizing: border-box;
+  flex: 1 1 auto;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 400;
+  line-height: 20px;
+  min-height: 20px;
+  min-width: 0;
+  outline: none;
+  width: inherit;
+  will-change: width;
+  vertical-align: baseline;
+  margin-right: 0;
+}
+
+.react-input-emoji--wrapper {
+  display: flex;
+  overflow: hidden;
+  flex: 1;
+  position: relative;
+  padding-right: 0;
+  vertical-align: baseline;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.react-input-emoji--input {
+  font-weight: 400;
+  max-height: 100px;
+  min-height: 20px;
+  outline: none;
+  overflow-x: hidden;
+  overflow-y: auto;
+  position: relative;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  z-index: 1;
+  width: 100%;
+  user-select: text;
+  padding: 9px 12px 11px;
+  text-align: left;
+}
+
+
+.react-input-emoji--input img {
+  vertical-align: middle;
+  width: 18px!important;
+  height: 18px!important;
+  display: inline!important;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+.react-input-emoji--placeholder {
+  color: #a0a0a0;
+  pointer-events: none;
+  position: absolute;
+  transition: opacity .08s linear;
+  user-select: none;
+  z-index: 2;
+  left: 12px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  width: calc(100% - 22px);
+}
+
+.react-input-emoji--button {
+  position: relative;
+  display: block;
+  text-align: center;
+  padding: 0 10px;
+  overflow: hidden;
+  transition: color .1s ease-out;
+  margin: 0;
+  box-shadow: none;
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  flex-shrink: 0;
+  margin-bottom: 12px;
+}
+
+.react-input-emoji--button svg {
+  fill: #858585;
+}
+
+.react-input-emoji--button__show svg {
+  fill: #128b7e;
+}
+
+.react-emoji {
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+}
+
+.react-emoji-picker--container {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.react-emoji-picker--wrapper.react-emoji-picker--wrapper__show {
+  height: 357px;
+}
+
+.react-emoji-picker--wrapper {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 0;
+  width: 338px;
+  overflow: hidden;
+  z-index: 10;
+}
+
+.react-emoji-picker {
+  position: absolute;
+  top: 357px;
+  left: 0;
+  transition: top 0.1s ease-in-out;
+}
+
+.react-emoji-picker__show {
+  top: 0;
+}
+</style></head><body id="root"><h1 class="h1" style="font-size: 0;width: 0;height: 0;overflow: hidden;"><a href="/">OPush Operation Platform</a></h1><div id="__root"><header class="topHeader___37Eaq"><ul class="regLeft___1-NuY"><li><a href="http://www.oppo.com/cn/"><span>OPPO Official Website</span></a></li><li><a href="https://www.coloros.com/"><span>ColorOS Community</span></a></li><li><a href="https://open.oppomobile.com/"><span>Open Platform</span></a></li><li><a href="https://id.oppo.com"><span>User Center</span></a></li></ul><ul class="regRight___28tSl"><li><a><span>English</span></a></li><li><a>Indian Standard Time</a></li><li><button type="button" class="ant-btn ant-btn-link"><span>Login</span></button><button type="button" class="ant-btn ant-btn-link"><span>Registered</span></button></li></ul></header><div><div class="titleBar___22YLG"><img src="data:image/png;base64,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" class="logoImage____TQvM" alt=""><ul class="ant-menu-overflow ant-menu ant-menu-root ant-menu-horizontal ant-menu-dark topMenu___2ze9h" role="menu" tabindex="0" data-menu-list="true"><li class="ant-menu-overflow-item ant-menu-item ant-menu-item-selected ant-menu-item-only-child bottomColor___1O1PO" style="opacity: 1; order: 0;" role="menuitem" tabindex="-1" data-menu-id="rc-menu-uuid-14363-1-home"><span class="ant-menu-title-content"><a href="/"><span>Home</span></a></span></li><li class="ant-menu-overflow-item ant-menu-item ant-menu-item-only-child noChecked___lRt8i" style="opacity: 1; order: 1;" role="menuitem" tabindex="-1" data-menu-id="rc-menu-uuid-14363-1-list"><span class="ant-menu-title-content"><a href="/top/application-list"><span>Push management</span></a></span></li><li class="ant-menu-overflow-item ant-menu-item ant-menu-item-only-child noChecked___lRt8i" style="opacity: 1; order: 2;" role="menuitem" tabindex="-1" data-menu-id="rc-menu-uuid-14363-1-doc"><span class="ant-menu-title-content"><span>Development documents</span></span></li><li class="ant-menu-overflow-item ant-menu-overflow-item-rest ant-menu-submenu ant-menu-submenu-horizontal ant-menu-submenu-disabled" style="opacity: 0; height: 0px; overflow-y: hidden; order: 2147483647; pointer-events: none; position: absolute;" aria-hidden="true" role="none"><div role="menuitem" class="ant-menu-submenu-title" aria-expanded="false" aria-haspopup="true" data-menu-id="rc-menu-uuid-14363-1-rc-menu-more" aria-controls="rc-menu-uuid-14363-1-rc-menu-more-popup" aria-disabled="true"><span role="img" aria-label="ellipsis" class="anticon anticon-ellipsis"><svg viewBox="64 64 896 896" focusable="false" data-icon="ellipsis" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M176 511a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0z"></path></svg></span><i class="ant-menu-submenu-arrow"></i></div></li></ul><div style="display: none;" aria-hidden="true"></div></div><div><div class="homeBanner___xdo43"><div class="fontWords___1G9Hx"><h1><span>OPPO PUSH Platform</span></h1><h2><span>System-level channel, fast, stable, and easy to use</span></h2><p><span>OPPO PUSH is a system-level channel on ColorOS, providing developers with stable and efficient message push services</span></p><a href="/top/application-list"><button><span>I would like to push messages</span></button></a></div></div><div class="homeMain___sawgZ"><div class="platformAdd___1qwUi"><div class="platformAddTitle___2IUs-"><h3><span>Advantages of the Platform</span></h3><hr></div><div class="ant-row addRowStyle___2MZKS" style="row-gap: 0px;"><div class="ant-col ant-col-xl-6"><img src="https://oversea-push.heytapimg.com/static/group1_1.6cda05ad.jpg" alt=""><h4 class="platformAddFour___3NYqD"><span>Efficient distribution</span></h4><p class="platformAddPlabel___GgNlA"><span>High speed rate of millions messages per second and 99% successful rate.</span></p></div><div class="ant-col ant-col-xl-6"><img src="https://oversea-push.heytapimg.com/static/group1_2.41a24a74.jpg" alt=""><h4 class="platformAddFour___3NYqD"><span>System-level channel</span></h4><p class="platformAddPlabel___GgNlA"><span>Shares system-level persistent connection of ColorOS, with a stable service to ensure a high arrival rate of messages.</span></p></div><div class="ant-col ant-col-xl-6"><img src="https://oversea-push.heytapimg.com/static/group1_3.b234f5b1.jpg" alt=""><h4 class="platformAddFour___3NYqD"><span>Rapid integration</span></h4><p class="platformAddPlabel___GgNlA"><span>Keeps the size of SDK package around 20 KB to ensure quick and easy client integration.</span></p></div><div class="ant-col ant-col-xl-6"><img src="https://oversea-push.heytapimg.com/static/group1_4.cff3633a.jpg" alt=""><h4 class="platformAddFour___3NYqD"><span>Easy to use</span></h4><p class="platformAddPlabel___GgNlA"><span>Provides two push methods in operation (via Web platform or API), effectively improving the retention rate through business operations.</span></p></div></div></div><div class="steps___a_q2l"><div class="stepsTitle___3KAex"><h3><span>Access process</span></h3><hr></div><div class="ant-row addRowStyle___2MZKS" style="row-gap: 0px;"><div class="ant-col ant-col-xl-6"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAMCAYAAABIkK4RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDY3IDc5LjE1Nzc0NywgMjAxNS8wMy8zMC0yMzo0MDo0MiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjU1QkU2RTk1QTM2QTExRTc5QTlDODhDQjM1Qzc3RTc5IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjU1QkU2RTk2QTM2QTExRTc5QTlDODhDQjM1Qzc3RTc5Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NTVCRTZFOTNBMzZBMTFFNzlBOUM4OENCMzVDNzdFNzkiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NTVCRTZFOTRBMzZBMTFFNzlBOUM4OENCMzVDNzdFNzkiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6QXoiMAAAA0ElEQVR42uzYvQnCUBSG4UTSCSraqoXuYGFl4RJu4ABqoRuIA7iBSwh2ipUWFoqI+FPZCIK2+gYSCIFkAM/3wkMgt7sc7g1xN7u9o8xXQRFHfMKXGe2L6epY4ootHuiHi572x/RgLIJTIyyLMQoY6eSwmYtebDCiddHQcNgsh07Kuv/90favlRvK2i8Vq6aTQyXmpdw76n/L4xI8kzrr5LDZC7OU9SfmGg6bfTHBPWF9irWGw24ntLCKvHtjgGH4zaFsD0gTVZRwcCK/z38CDACLbB2xSHljgAAAAABJRU5ErkJggg==" alt="" class="nextStep___2NlSP"><img src="data:image/jpeg;base64,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" alt=""><h4 class="platformAddFour___3NYqD"><span>Developer certification</span></h4><a rel="noopener noreferrer" href="http://open.oppomobile.com/" target="_blank"><span>To be developer</span></a><p class="stepsPlabel___3peo-"><span>A released app or game is also required</span></p></div><div class="ant-col ant-col-xl-6"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAMCAYAAABIkK4RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDY3IDc5LjE1Nzc0NywgMjAxNS8wMy8zMC0yMzo0MDo0MiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjU1QkU2RTk1QTM2QTExRTc5QTlDODhDQjM1Qzc3RTc5IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjU1QkU2RTk2QTM2QTExRTc5QTlDODhDQjM1Qzc3RTc5Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NTVCRTZFOTNBMzZBMTFFNzlBOUM4OENCMzVDNzdFNzkiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NTVCRTZFOTRBMzZBMTFFNzlBOUM4OENCMzVDNzdFNzkiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6QXoiMAAAA0ElEQVR42uzYvQnCUBSG4UTSCSraqoXuYGFl4RJu4ABqoRuIA7iBSwh2ipUWFoqI+FPZCIK2+gYSCIFkAM/3wkMgt7sc7g1xN7u9o8xXQRFHfMKXGe2L6epY4ootHuiHi572x/RgLIJTIyyLMQoY6eSwmYtebDCiddHQcNgsh07Kuv/90favlRvK2i8Vq6aTQyXmpdw76n/L4xI8kzrr5LDZC7OU9SfmGg6bfTHBPWF9irWGw24ntLCKvHtjgGH4zaFsD0gTVZRwcCK/z38CDACLbB2xSHljgAAAAABJRU5ErkJggg==" alt="" class="nextStep___2NlSP"><img src="data:image/jpeg;base64,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" alt=""><h4 class="platformAddFour___3NYqD"><span>Service application</span></h4><p class="stepsPlabel___3peo-"><span>Apply for a push service in an open platform</span></p></div><div class="ant-col ant-col-xl-6"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAMCAYAAABIkK4RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDY3IDc5LjE1Nzc0NywgMjAxNS8wMy8zMC0yMzo0MDo0MiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjU1QkU2RTk1QTM2QTExRTc5QTlDODhDQjM1Qzc3RTc5IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjU1QkU2RTk2QTM2QTExRTc5QTlDODhDQjM1Qzc3RTc5Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NTVCRTZFOTNBMzZBMTFFNzlBOUM4OENCMzVDNzdFNzkiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NTVCRTZFOTRBMzZBMTFFNzlBOUM4OENCMzVDNzdFNzkiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6QXoiMAAAA0ElEQVR42uzYvQnCUBSG4UTSCSraqoXuYGFl4RJu4ABqoRuIA7iBSwh2ipUWFoqI+FPZCIK2+gYSCIFkAM/3wkMgt7sc7g1xN7u9o8xXQRFHfMKXGe2L6epY4ootHuiHi572x/RgLIJTIyyLMQoY6eSwmYtebDCiddHQcNgsh07Kuv/90favlRvK2i8Vq6aTQyXmpdw76n/L4xI8kzrr5LDZC7OU9SfmGg6bfTHBPWF9irWGw24ntLCKvHtjgGH4zaFsD0gTVZRwcCK/z38CDACLbB2xSHljgAAAAABJRU5ErkJggg==" alt="" class="nextStep___2NlSP"><img src="data:image/jpeg;base64,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" alt=""><h4 class="platformAddFour___3NYqD"><span>SDK integration</span></h4><p class="stepsPlabel___3peo-"><span>Integrate SDK according to the document</span></p></div><div class="ant-col ant-col-xl-6"><img src="data:image/jpeg;base64,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" alt=""><h4 class="platformAddFour___3NYqD"><span>Get started</span></h4><p class="stepsPlabel___3peo-"><span>Push app messages using the push platform or API</span></p></div></div></div><div class="correlation___2izxr"><div class="ant-row" style="row-gap: 0px;"><div class="ant-col ant-col-5 ant-col-offset-2"><div class="correlationLi___2P5qO"><div class="correlationImage___1DYas"></div><span class="correlationTitle___2-J36"><span>Help doc</span></span><a rel="noopener noreferrer" href="https://open.oppomobile.com/wiki/doc#id=10195" target="_blank"><span>Guide to Activating OPPO PUSH Service</span></a><a rel="noopener noreferrer" href="https://open.oppomobile.com/wiki/doc#id=10200" target="_blank"><span>OPPO PUSH FAQ</span></a><a rel="noopener noreferrer" href="https://open.oppomobile.com/wiki/doc#id=10194" target="_blank"><span>Service Agreement for OPPO Message PUSH Technology</span></a></div></div><div class="ant-col ant-col-5 ant-col-offset-2"><div class="correlationLi___2P5qO"><div class="correlationImage___1DYas"></div><span class="correlationTitle___2-J36"><span>Doc. center</span></span><a rel="noopener noreferrer" href="https://open.oppomobile.com/wiki/doc#id=10704" target="_blank"><span>Document for OPPO PUSH SDK Interface</span></a><a rel="noopener noreferrer" href="https://open.oppomobile.com/wiki/doc#id=10688" target="_blank"><span>Document for OPPO PUSH Server API</span></a></div></div><div class="ant-col ant-col-5 ant-col-offset-2"><div class="correlationLi___2P5qO"><div class="correlationImage___1DYas"></div><span class="correlationTitle___2-J36"><span>Download SDK</span></span><a rel="noopener noreferrer" href="https://openfs.oppomobile.com/open/res/202009/22/f8f6bf562463616800f5d58d6af5e203.zip" target="_blank"><span>Client SDK</span></a><a rel="noopener noreferrer" href="https://openfs.oppomobile.com/open/res/202009/21/cc0458dc32bac0e6b3c68c616a02824a.rar" target="_blank">Push Demo</a></div></div></div></div><div class="contact___3yNMc"><div class="contactTitle___hZIeu"><h3><span>Contact us</span></h3><hr></div><div class="contactList___1hmri"><ul class="contactUl___2Jp8q"><li class="contactLi___1MKx-"><span>Technical Issues Feedback: push@oppo.com</span></li><li class="contactLi___1MKx-"><span><span>Customer Service Consultation: </span></span><a rel="noopener noreferrer" href="http://open.oppomobile.com/push/notification" target="_blank"><span>Online Customer Service for OPPO Open Platform</span></a></li></ul></div></div></div><footer><span>Copyright © 2005 - 2014 Guangdong OPPO Mobile Telecommunications Corp., Ltd. All rights reserved. Record number: Guangdong for 08130115 ICP</span></footer></div></div></div><script src="https://oversea-push.heytapimg.com/assets/echarts.min.js" crossorigin="anonymous"></script><script src="https://oversea-push.heytapimg.com/runtime.06d20e0c.js"></script><script src="https://oversea-push.heytapimg.com/base.cad34406.async.js"></script><script src="https://oversea-push.heytapimg.com/antd.75364ae4.async.js"></script><script src="https://oversea-push.heytapimg.com/umi.59ac6de1.async.js"></script></body></html>

@@ -1,0 +1,11 @@
+# Nmap 7.93 scan initiated Tue Nov 14 18:44:01 2023 as: /usr/bin/nmap -Pn -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_100.25.234.73.nmap --system-dns --stats-every 3s 100.25.234.73
+Nmap scan report for ec2-100-25-234-73.compute-1.amazonaws.com (100.25.234.73)
+Host is up (0.24s latency).
+Not shown: 65531 filtered tcp ports (no-response), 2 closed tcp ports (reset)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Tue Nov 14 18:48:35 2023 -- 1 IP address (1 host up) scanned in 274.49 seconds

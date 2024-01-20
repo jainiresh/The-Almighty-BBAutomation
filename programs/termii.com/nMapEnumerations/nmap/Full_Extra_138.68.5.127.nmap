@@ -1,0 +1,108 @@
+# Nmap 7.93 scan initiated Wed Dec 13 18:07:02 2023 as: /usr/bin/nmap -sCV -p22,80,443,1433,8081 --open -oN nmap/Full_Extra_138.68.5.127.nmap --system-dns --stats-every 2s 138.68.5.127
+Nmap scan report for 138.68.5.127
+Host is up (0.33s latency).
+
+Bug in ms-sql-ntlm-info: no string output.
+PORT     STATE SERVICE          VERSION
+22/tcp   open  ssh              OpenSSH 8.9p1 Ubuntu 3ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 0457c7bcc195464113bc91b1a0091869 (ECDSA)
+|_  256 9ad232556e5d6ef8bf0a9d68f7f0d46c (ED25519)
+80/tcp   open  http             nginx 1.18.0 (Ubuntu)
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+|_http-title: 404 Not Found
+443/tcp  open  ssl/http         nginx 1.18.0 (Ubuntu)
+|_ssl-date: TLS randomness does not represent time
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+| ssl-cert: Subject: commonName=mobile-api.termii.com
+| Subject Alternative Name: DNS:mobile-api.termii.com, DNS:www.mobile-api.termii.com
+| Not valid before: 2023-10-18T03:59:05
+|_Not valid after:  2024-01-16T03:59:04
+|_http-title: Site doesn't have a title (application/json).
+1433/tcp open  ms-sql-s         Microsoft SQL Server 2022 16.00.4075.00; RC0+
+| ssl-cert: Subject: commonName=SSL_Self_Signed_Fallback
+| Not valid before: 2023-10-09T13:46:56
+|_Not valid after:  2053-10-09T13:46:56
+| ms-sql-info: 
+|   138.68.5.127:1433: 
+|     Version: 
+|       name: Microsoft SQL Server 2022 RC0+
+|       number: 16.00.4075.00
+|       Product: Microsoft SQL Server 2022
+|       Service pack level: RC0
+|       Post-SP patches applied: true
+|_    TCP port: 1433
+|_ssl-date: TLS randomness does not represent time
+8081/tcp open  blackice-icecap?
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 404 
+|     Vary: Origin
+|     Vary: Access-Control-Request-Method
+|     Vary: Access-Control-Request-Headers
+|     Content-Disposition: inline;filename=f.txt
+|     Content-Type: application/json
+|     Date: Wed, 13 Dec 2023 12:37:11 GMT
+|     Connection: close
+|     {"timestamp":"2023-12-13T12:37:11.654+00:00","status":404,"error":"Not Found","path":"/nice%20ports%2C/Tri%6Eity.txt%2ebak"}
+|   GetRequest: 
+|     HTTP/1.1 404 
+|     Vary: Origin
+|     Vary: Access-Control-Request-Method
+|     Vary: Access-Control-Request-Headers
+|     Content-Type: application/json
+|     Date: Wed, 13 Dec 2023 12:37:10 GMT
+|     Connection: close
+|     {"timestamp":"2023-12-13T12:37:10.069+00:00","status":404,"error":"Not Found","path":"/"}
+|   SIPOptions: 
+|     HTTP/1.1 400 
+|     Content-Type: text/html;charset=utf-8
+|     Content-Language: en
+|     Content-Length: 435
+|     Date: Wed, 13 Dec 2023 12:37:11 GMT
+|     Connection: close
+|     <!doctype html><html lang="en"><head><title>HTTP Status 400 
+|     Request</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 400 
+|     Request</h1></body></html>
+|   WWWOFFLEctrlstat: 
+|     <!doctype html><html lang="en"><head><title>HTTP Status 400 
+|     Request</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 400 
+|_    Request</h1></body></html>
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port8081-TCP:V=7.93%I=7%D=12/13%Time=6579A576%P=x86_64-pc-linux-gnu%r(G
+SF:etRequest,11B,"HTTP/1\.1\x20404\x20\r\nVary:\x20Origin\r\nVary:\x20Acce
+SF:ss-Control-Request-Method\r\nVary:\x20Access-Control-Request-Headers\r\
+SF:nContent-Type:\x20application/json\r\nDate:\x20Wed,\x2013\x20Dec\x20202
+SF:3\x2012:37:10\x20GMT\r\nConnection:\x20close\r\n\r\n{\"timestamp\":\"20
+SF:23-12-13T12:37:10\.069\+00:00\",\"status\":404,\"error\":\"Not\x20Found
+SF:\",\"path\":\"/\"}")%r(FourOhFourRequest,16A,"HTTP/1\.1\x20404\x20\r\nV
+SF:ary:\x20Origin\r\nVary:\x20Access-Control-Request-Method\r\nVary:\x20Ac
+SF:cess-Control-Request-Headers\r\nContent-Disposition:\x20inline;filename
+SF:=f\.txt\r\nContent-Type:\x20application/json\r\nDate:\x20Wed,\x2013\x20
+SF:Dec\x202023\x2012:37:11\x20GMT\r\nConnection:\x20close\r\n\r\n{\"timest
+SF:amp\":\"2023-12-13T12:37:11\.654\+00:00\",\"status\":404,\"error\":\"No
+SF:t\x20Found\",\"path\":\"/nice%20ports%2C/Tri%6Eity\.txt%2ebak\"}")%r(SI
+SF:POptions,24E,"HTTP/1\.1\x20400\x20\r\nContent-Type:\x20text/html;charse
+SF:t=utf-8\r\nContent-Language:\x20en\r\nContent-Length:\x20435\r\nDate:\x
+SF:20Wed,\x2013\x20Dec\x202023\x2012:37:11\x20GMT\r\nConnection:\x20close\
+SF:r\n\r\n<!doctype\x20html><html\x20lang=\"en\"><head><title>HTTP\x20Stat
+SF:us\x20400\x20\xe2\x80\x93\x20Bad\x20Request</title><style\x20type=\"tex
+SF:t/css\">body\x20{font-family:Tahoma,Arial,sans-serif;}\x20h1,\x20h2,\x2
+SF:0h3,\x20b\x20{color:white;background-color:#525D76;}\x20h1\x20{font-siz
+SF:e:22px;}\x20h2\x20{font-size:16px;}\x20h3\x20{font-size:14px;}\x20p\x20
+SF:{font-size:12px;}\x20a\x20{color:black;}\x20\.line\x20{height:1px;backg
+SF:round-color:#525D76;border:none;}</style></head><body><h1>HTTP\x20Statu
+SF:s\x20400\x20\xe2\x80\x93\x20Bad\x20Request</h1></body></html>")%r(WWWOF
+SF:FLEctrlstat,1B3,"<!doctype\x20html><html\x20lang=\"en\"><head><title>HT
+SF:TP\x20Status\x20400\x20\xe2\x80\x93\x20Bad\x20Request</title><style\x20
+SF:type=\"text/css\">body\x20{font-family:Tahoma,Arial,sans-serif;}\x20h1,
+SF:\x20h2,\x20h3,\x20b\x20{color:white;background-color:#525D76;}\x20h1\x2
+SF:0{font-size:22px;}\x20h2\x20{font-size:16px;}\x20h3\x20{font-size:14px;
+SF:}\x20p\x20{font-size:12px;}\x20a\x20{color:black;}\x20\.line\x20{height
+SF::1px;background-color:#525D76;border:none;}</style></head><body><h1>HTT
+SF:P\x20Status\x20400\x20\xe2\x80\x93\x20Bad\x20Request</h1></body></html>
+SF:");
+Service Info: OSs: Linux, Windows; CPE: cpe:/o:linux:linux_kernel, cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Dec 13 18:07:47 2023 -- 1 IP address (1 host up) scanned in 45.48 seconds

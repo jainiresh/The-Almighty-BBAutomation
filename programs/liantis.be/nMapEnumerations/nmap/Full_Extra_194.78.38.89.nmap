@@ -1,0 +1,82 @@
+# Nmap 7.93 scan initiated Sat Dec 16 15:57:40 2023 as: /usr/bin/nmap -sCV -p80 --open -oN nmap/Full_Extra_194.78.38.89.nmap --system-dns --stats-every 2s 194.78.38.89
+Nmap scan report for 89.38-78-194.adsl-static.isp.belgacom.be (194.78.38.89)
+Host is up (0.16s latency).
+
+PORT   STATE SERVICE VERSION
+80/tcp open  http
+| fingerprint-strings: 
+|   GetRequest, HTTPOptions: 
+|     HTTP/1.1 503 Service Unavailable
+|     Content-Type: text/html; charset=UTF-8
+|     Content-Length: 1432
+|     Connection: close
+|     P3P: CP="CAO PSA OUR"
+|     Expires: Thu, 01 Jan 1970 00:00:00 GMT
+|     Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+|     Pragma: no-cache
+|     <html>
+|     <head>
+|     <title>Web Page Blocked</title>
+|     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+|     <META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+|     <meta name="viewport" content="initial-scale=1.0">
+|     <style>
+|     #content {
+|     border:3px solid#532778;
+|     background-color:#fff;
+|     margin:1.5em;
+|     padding:1.5em;
+|     color:#7843A5;
+|     font-family:Poppins;
+|     font-size:1.1em;
+|     font-weight:bold;
+|     font-size:2em;
+|     font-weight:bold;
+|     color:#7843A5;
+|     font-family:Poppins
+|     font-size:1.3em;
+|     font-weight:bold;
+|     color:#7843A5;
+|_    font-family:Poppins
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.93%I=7%D=12/16%Time=657D7BA3%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,6AD,"HTTP/1\.1\x20503\x20Service\x20Unavailable\r\nContent-Type
+SF::\x20text/html;\x20charset=UTF-8\r\nContent-Length:\x201432\r\nConnecti
+SF:on:\x20close\r\nP3P:\x20CP=\"CAO\x20PSA\x20OUR\"\r\nExpires:\x20Thu,\x2
+SF:001\x20Jan\x201970\x2000:00:00\x20GMT\r\nCache-Control:\x20no-store,\x2
+SF:0no-cache,\x20must-revalidate,\x20post-check=0,\x20pre-check=0\r\nPragm
+SF:a:\x20no-cache\r\n\r\n<html>\r\n<head>\r\n<title>Web\x20Page\x20Blocked
+SF:</title>\r\n<meta\x20http-equiv=\"Content-Type\"\x20content=\"text/html
+SF:;\x20charset=utf-8\">\r\n<META\x20HTTP-EQUIV=\"PRAGMA\"\x20CONTENT=\"NO
+SF:-CACHE\">\r\n<meta\x20name=\"viewport\"\x20content=\"initial-scale=1\.0
+SF:\">\r\n<style>\r\n\x20\x20#content\x20{\r\n\x20\x20\x20\x20border:3px\x
+SF:20solid#532778;\r\n\x20\x20\x20\x20background-color:#fff;\r\n\x20\x20\x
+SF:20\x20margin:1\.5em;\r\n\x20\x20\x20\x20padding:1\.5em;\r\n\tcolor:#784
+SF:3A5;\r\n\x20\x20\x20\x20font-family:Poppins;\r\n\x20\x20\x20\x20font-si
+SF:ze:1\.1em;\r\n\x20\x20\x20\x20font-weight:bold;\r\n\x20\x20}\r\n\x20\x2
+SF:0h1\x20{\r\n\x20\x20\x20\x20font-size:2em;\r\n\x20\x20\x20\x20font-weig
+SF:ht:bold;\r\n\x20\x20\x20\x20color:#7843A5;\r\n\tfont-family:Poppins\r\n
+SF:\x20\x20}\r\n\x20\x20b\x20{\r\n\x20\x20\x20\x20font-size:1\.3em;\r\n\tf
+SF:ont-weight:bold;\r\n\x20\x20\x20\x20color:#7843A5;\r\n\tfont-family:Pop
+SF:pins\r\n\x20\x20}\r")%r(HTTPOptions,6AD,"HTTP/1\.1\x20503\x20Service\x2
+SF:0Unavailable\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\nContent
+SF:-Length:\x201432\r\nConnection:\x20close\r\nP3P:\x20CP=\"CAO\x20PSA\x20
+SF:OUR\"\r\nExpires:\x20Thu,\x2001\x20Jan\x201970\x2000:00:00\x20GMT\r\nCa
+SF:che-Control:\x20no-store,\x20no-cache,\x20must-revalidate,\x20post-chec
+SF:k=0,\x20pre-check=0\r\nPragma:\x20no-cache\r\n\r\n<html>\r\n<head>\r\n<
+SF:title>Web\x20Page\x20Blocked</title>\r\n<meta\x20http-equiv=\"Content-T
+SF:ype\"\x20content=\"text/html;\x20charset=utf-8\">\r\n<META\x20HTTP-EQUI
+SF:V=\"PRAGMA\"\x20CONTENT=\"NO-CACHE\">\r\n<meta\x20name=\"viewport\"\x20
+SF:content=\"initial-scale=1\.0\">\r\n<style>\r\n\x20\x20#content\x20{\r\n
+SF:\x20\x20\x20\x20border:3px\x20solid#532778;\r\n\x20\x20\x20\x20backgrou
+SF:nd-color:#fff;\r\n\x20\x20\x20\x20margin:1\.5em;\r\n\x20\x20\x20\x20pad
+SF:ding:1\.5em;\r\n\tcolor:#7843A5;\r\n\x20\x20\x20\x20font-family:Poppins
+SF:;\r\n\x20\x20\x20\x20font-size:1\.1em;\r\n\x20\x20\x20\x20font-weight:b
+SF:old;\r\n\x20\x20}\r\n\x20\x20h1\x20{\r\n\x20\x20\x20\x20font-size:2em;\
+SF:r\n\x20\x20\x20\x20font-weight:bold;\r\n\x20\x20\x20\x20color:#7843A5;\
+SF:r\n\tfont-family:Poppins\r\n\x20\x20}\r\n\x20\x20b\x20{\r\n\x20\x20\x20
+SF:\x20font-size:1\.3em;\r\n\tfont-weight:bold;\r\n\x20\x20\x20\x20color:#
+SF:7843A5;\r\n\tfont-family:Poppins\r\n\x20\x20}\r");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Dec 16 15:59:18 2023 -- 1 IP address (1 host up) scanned in 98.50 seconds

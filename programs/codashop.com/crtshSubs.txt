@@ -1,0 +1,11 @@
+api.codashop.com
+club.codashop.com
+codacash.codashop.com
+community.codashop.com
+dev-shop-api.codashop.com
+games.codashop.com
+legal.codashop.com
+marketing.codashop.com
+publisher.codashop.com
+support.codashop.com
+www.codashop.com

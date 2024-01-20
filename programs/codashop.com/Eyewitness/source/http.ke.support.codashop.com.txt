@@ -1,0 +1,1141 @@
+<html dir="ltr" lang="en-US"><head>
+  <meta charset="utf-8">
+  <!-- v24053 -->
+
+
+  <title>Codashop Kenya</title>
+
+  
+
+  <link rel="canonical" href="https://ke.support.codashop.com/hc/en-us">
+<link rel="alternate" hreflang="en-us" href="https://ke.support.codashop.com/hc/en-us">
+<link rel="alternate" hreflang="x-default" href="https://ke.support.codashop.com/hc/en-us">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-f897d93bd06b67f136ea5da710f56464.css" media="all" id="stylesheet">
+  <link rel="stylesheet" type="text/css" href="//p15.zdassets.com/hc/theming_assets/10201709/6516560907663/style.css?digest=8394272014351">
+
+  <link rel="icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/10201709/ee24536cbe47319489ed30bcc011b59db5810471.png">
+
+    
+    
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!-- Make the translated search clear button label available for use in JS -->
+<!-- See buildClearSearchButton() in script.js -->
+<script type="text/javascript">window.searchClearButtonLabelLocalized = "Clear search";</script>
+
+  
+<style>/*!
+ * Copyright Zendesk, Inc.
+ *
+ * Use of this source code is governed under the Apache License, Version 2.0
+ * found at http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY{
+  position:relative;
+  border:1px solid #d8dcde;
+  border-radius:4px;
+  background-color:#fff;
+  padding:20px 40px;
+  line-height:1.42857;
+  color:#68737d;
+  font-size:14px;
+}
+
+.oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  display:block;
+  margin:0;
+  color:#2f3941;
+  font-weight:600;
+}
+
+.j4PjRpHW7lSNqzFUVkdiwquA5yhyJevI{
+  margin:10px 0 0;
+}
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS{
+  direction:rtl;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL{
+  display:block;
+  position:absolute;
+  top:4px;
+  right:4px;
+  transition:background-color .1s ease-in-out;
+  border:none;
+  border-radius:50%;
+  background-color:transparent;
+  cursor:pointer;
+  width:28px;
+  height:28px;
+  overflow:hidden;
+  text-decoration:none;
+  font-size:0;
+  -webkit-user-select:none;
+     -moz-user-select:none;
+          user-select:none;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  display:block;
+  position:absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  transition:opacity .25s ease-in-out;
+  background-repeat:no-repeat;
+  background-position:50%;
+  background-size:12px;
+  content:"";
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  opacity:1;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%2368737d%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  opacity:0;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%232f3941%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta:before,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Qt6yLNXIu6VkEq6Q8Cb7w8fVqEvVWQzq:before,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus:before,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:hover:before{
+  opacity:0;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Qt6yLNXIu6VkEq6Q8Cb7w8fVqEvVWQzq:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:hover:after{
+  opacity:1;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  outline:none;
+  background-color:color-mod(#68737d alpha(15%));
+}
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL{
+  right:auto;
+  left:4px;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23d93f4c%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23681219%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23228f67%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%230b3b29%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23ad5918%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23703815%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  background-color:color-mod(#cc3340 alpha(15%));
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  background-color:color-mod(#038153 alpha(15%));
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  background-color:color-mod(#ad5918 alpha(15%));
+}
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta:active,.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus:active{
+  background-color:transparent;
+}
+
+.zuqb1_E1eW6vR2QIOcifg43IL35dkVtW{
+  background-color:#f8f9f9;
+}
+
+.A7206VdtAqwtFIm3sAvVw_FSKzfgZ6no{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%2368737d%27%3E%3Cg stroke=%27currentColor%27%3E%3Ccircle cx=%277.5%27 cy=%278.5%27 r=%277%27 fill=%27none%27/%3E%3Cpath stroke-linecap=%27round%27 d=%27M7.5 12.5V8%27/%3E%3C/g%3E%3Ccircle cx=%277.5%27 cy=%275%27 r=%271%27 fill=%27currentColor%27/%3E%3C/svg%3E");
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN{
+  border-color:#f5b5ba;
+  background-color:#fff0f1;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%23cc3340%27%3E%3Cg fill=%27none%27 stroke=%27currentColor%27%3E%3Ccircle cx=%277.5%27 cy=%278.5%27 r=%277%27/%3E%3Cpath stroke-linecap=%27round%27 d=%27M7.5 4.5V9%27/%3E%3C/g%3E%3Ccircle cx=%277.5%27 cy=%2712%27 r=%271%27 fill=%27currentColor%27/%3E%3C/svg%3E");
+  color:#8c232c;
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj{
+  border-color:#aecfc2;
+  background-color:#edf8f4;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%23038153%27%3E%3Cg fill=%27none%27 stroke=%27currentColor%27%3E%3Cpath stroke-linecap=%27round%27 stroke-linejoin=%27round%27 d=%27m4 9 2.5 2.5 5-5%27/%3E%3Ccircle cx=%277.5%27 cy=%278.5%27 r=%277%27/%3E%3C/g%3E%3C/svg%3E");
+  color:#186146;
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm{
+  border-color:#fed6a8;
+  background-color:#fff7ed;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%23ad5918%27%3E%3Cpath fill=%27none%27 stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27M.88 13.77 7.06 1.86c.19-.36.7-.36.89 0l6.18 11.91c.17.33-.07.73-.44.73H1.32c-.37 0-.61-.4-.44-.73zM7.5 6v3.5%27/%3E%3Ccircle cx=%277.5%27 cy=%2712%27 r=%271%27 fill=%27currentColor%27/%3E%3C/svg%3E");
+  color:#ad5918;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN,.A7206VdtAqwtFIm3sAvVw_FSKzfgZ6no,.X7J83wFig6JDZULO8MWowIxp6uStzirj,.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm{
+  background-repeat:no-repeat;
+  background-position:24px 22px;
+  padding-left:50px;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq{
+  box-shadow:0 20px 28px 0 color-mod(#17494d alpha(15%));
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.FhX7nbqWv2hn1LUryjQwcA562pfet9cN,.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.X7J83wFig6JDZULO8MWowIxp6uStzirj,.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm{
+  border-color:#d8dcde;
+  background-color:#fff;
+  color:#49545c;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#681219;
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#0b3b29;
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#703815;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.FhX7nbqWv2hn1LUryjQwcA562pfet9cN .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#cc3340;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.X7J83wFig6JDZULO8MWowIxp6uStzirj .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#038153;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#ad5918;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS,.A7206VdtAqwtFIm3sAvVw_FSKzfgZ6no.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS,.X7J83wFig6JDZULO8MWowIxp6uStzirj.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS,.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS{
+  background-position:calc(100% - 24px) 22px;
+  padding-right:50px;
+  padding-left:40px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL25vZGVfbW9kdWxlcy9AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7Ozs7O0VBS0U7O0FBRUY7RUFDRSxpQkFBaUI7RUFDakIsd0JBQXdCO0VBQ3hCLGlCQUFpQjtFQUNqQixxQkFBcUI7RUFDckIsaUJBQWlCO0VBQ2pCLG1CQUFtQjtFQUNuQixhQUFhO0VBQ2IsY0FBYztBQUNoQjs7QUFFQTtFQUNFLGFBQWE7RUFDYixRQUFRO0VBQ1IsYUFBYTtFQUNiLGVBQWU7QUFDakI7O0FBRUE7RUFDRSxlQUFlO0FBQ2pCOztBQUVBO0VBQ0UsYUFBYTtBQUNmOztBQUVBO0VBQ0UsYUFBYTtFQUNiLGlCQUFpQjtFQUNqQixPQUFPO0VBQ1AsU0FBUztFQUNULDJDQUEyQztFQUMzQyxXQUFXO0VBQ1gsaUJBQWlCO0VBQ2pCLDRCQUE0QjtFQUM1QixjQUFjO0VBQ2QsVUFBVTtFQUNWLFdBQVc7RUFDWCxlQUFlO0VBQ2Ysb0JBQW9CO0VBQ3BCLFdBQVc7RUFDWCx3QkFBd0I7S0FDckIscUJBQXFCO1VBQ2hCLGdCQUFnQjtBQUMxQjs7QUFFQTtFQUNFLGFBQWE7RUFDYixpQkFBaUI7RUFDakIsS0FBSztFQUNMLE9BQU87RUFDUCxRQUFRO0VBQ1IsTUFBTTtFQUNOLG1DQUFtQztFQUNuQywyQkFBMkI7RUFDM0IsdUJBQXVCO0VBQ3ZCLG9CQUFvQjtFQUNwQixVQUFVO0FBQ1o7O0FBRUE7RUFDRSxTQUFTO0VBQ1Qsd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0UsU0FBUztFQUNULHdEQUFxTztBQUN2Tzs7QUFFQTtFQUNFLFNBQVM7QUFDWDs7QUFFQTtFQUNFLFNBQVM7QUFDWDs7QUFFQTtFQUNFLFlBQVk7RUFDWiw4Q0FBOEM7QUFDaEQ7O0FBRUE7RUFDRSxVQUFVO0VBQ1YsUUFBUTtBQUNWOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0UsOENBQThDO0FBQ2hEOztBQUVBO0VBQ0UsOENBQThDO0FBQ2hEOztBQUVBO0VBQ0UsOENBQThDO0FBQ2hEOztBQUVBO0VBQ0UsNEJBQTRCO0FBQzlCOztBQUVBO0VBQ0Usd0JBQXdCO0FBQzFCOztBQUVBO0VBQ0Usd0RBQXVWO0FBQ3pWOztBQUVBO0VBQ0Usb0JBQW9CO0VBQ3BCLHdCQUF3QjtFQUN4Qix3REFBdVY7RUFDdlYsYUFBYTtBQUNmOztBQUVBO0VBQ0Usb0JBQW9CO0VBQ3BCLHdCQUF3QjtFQUN4Qix5REFBNlQ7RUFDN1QsYUFBYTtBQUNmOztBQUVBO0VBQ0Usb0JBQW9CO0VBQ3BCLHdCQUF3QjtFQUN4Qix5REFBc1k7RUFDdFksYUFBYTtBQUNmOztBQUVBO0VBQ0UsMkJBQTJCO0VBQzNCLDZCQUE2QjtFQUM3QixpQkFBaUI7QUFDbkI7O0FBRUE7RUFDRSxzREFBc0Q7QUFDeEQ7O0FBRUE7RUFDRSxvQkFBb0I7RUFDcEIscUJBQXFCO0VBQ3JCLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLDBDQUEwQztFQUMxQyxrQkFBa0I7RUFDbEIsaUJBQWlCO0FBQ25CIiwic291cmNlc0NvbnRlbnQiOlsiLyohXG4gKiBDb3B5cmlnaHQgWmVuZGVzaywgSW5jLlxuICpcbiAqIFVzZSBvZiB0aGlzIHNvdXJjZSBjb2RlIGlzIGdvdmVybmVkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjBcbiAqIGZvdW5kIGF0IGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMC5cbiAqL1xuXG4uYy1jYWxsb3V0e1xuICBwb3NpdGlvbjpyZWxhdGl2ZTtcbiAgYm9yZGVyOjFweCBzb2xpZCAjZDhkY2RlO1xuICBib3JkZXItcmFkaXVzOjRweDtcbiAgYmFja2dyb3VuZC1jb2xvcjojZmZmO1xuICBwYWRkaW5nOjIwcHggNDBweDtcbiAgbGluZS1oZWlnaHQ6MS40Mjg1NztcbiAgY29sb3I6IzY4NzM3ZDtcbiAgZm9udC1zaXplOjE0cHg7XG59XG5cbi5jLWNhbGxvdXRfX3RpdGxle1xuICBkaXNwbGF5OmJsb2NrO1xuICBtYXJnaW46MDtcbiAgY29sb3I6IzJmMzk0MTtcbiAgZm9udC13ZWlnaHQ6NjAwO1xufVxuXG4uYy1jYWxsb3V0X19wYXJhZ3JhcGh7XG4gIG1hcmdpbjoxMHB4IDAgMDtcbn1cblxuLmMtY2FsbG91dC5pcy1ydGx7XG4gIGRpcmVjdGlvbjpydGw7XG59XG5cbi5jLWNhbGxvdXRfX2Nsb3Nle1xuICBkaXNwbGF5OmJsb2NrO1xuICBwb3NpdGlvbjphYnNvbHV0ZTtcbiAgdG9wOjRweDtcbiAgcmlnaHQ6NHB4O1xuICB0cmFuc2l0aW9uOmJhY2tncm91bmQtY29sb3IgLjFzIGVhc2UtaW4tb3V0O1xuICBib3JkZXI6bm9uZTtcbiAgYm9yZGVyLXJhZGl1czo1MCU7XG4gIGJhY2tncm91bmQtY29sb3I6dHJhbnNwYXJlbnQ7XG4gIGN1cnNvcjpwb2ludGVyO1xuICB3aWR0aDoyOHB4O1xuICBoZWlnaHQ6MjhweDtcbiAgb3ZlcmZsb3c6aGlkZGVuO1xuICB0ZXh0LWRlY29yYXRpb246bm9uZTtcbiAgZm9udC1zaXplOjA7XG4gIC13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTtcbiAgICAgLW1vei11c2VyLXNlbGVjdDpub25lO1xuICAgICAgICAgIHVzZXItc2VsZWN0Om5vbmU7XG59XG5cbi5jLWNhbGxvdXRfX2Nsb3NlOmFmdGVyLC5jLWNhbGxvdXRfX2Nsb3NlOmJlZm9yZXtcbiAgZGlzcGxheTpibG9jaztcbiAgcG9zaXRpb246YWJzb2x1dGU7XG4gIHRvcDowO1xuICByaWdodDowO1xuICBib3R0b206MDtcbiAgbGVmdDowO1xuICB0cmFuc2l0aW9uOm9wYWNpdHkgLjI1cyBlYXNlLWluLW91dDtcbiAgYmFja2dyb3VuZC1yZXBlYXQ6bm8tcmVwZWF0O1xuICBiYWNrZ3JvdW5kLXBvc2l0aW9uOjUwJTtcbiAgYmFja2dyb3VuZC1zaXplOjEycHg7XG4gIGNvbnRlbnQ6XCJcIjtcbn1cblxuLmMtY2FsbG91dF9fY2xvc2U6YmVmb3Jle1xuICBvcGFjaXR5OjE7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzEyJyBoZWlnaHQ9JzEyJyBjb2xvcj0nJTIzNjg3MzdkJyUzRSUzQ3BhdGggc3Ryb2tlPSdjdXJyZW50Q29sb3InIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgZD0nbTMgOSA2LTZtMCA2TDMgMycvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dF9fY2xvc2U6YWZ0ZXJ7XG4gIG9wYWNpdHk6MDtcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTInIGhlaWdodD0nMTInIGNvbG9yPSclMjMyZjM5NDEnJTNFJTNDcGF0aCBzdHJva2U9J2N1cnJlbnRDb2xvcicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdtMyA5IDYtNm0wIDZMMyAzJy8lM0UlM0Mvc3ZnJTNFXCIpO1xufVxuXG4uYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkOmJlZm9yZSwuYy1jYWxsb3V0X19jbG9zZS5pcy1ob3ZlcmVkOmJlZm9yZSwuYy1jYWxsb3V0X19jbG9zZTpmb2N1czpiZWZvcmUsLmMtY2FsbG91dF9fY2xvc2U6aG92ZXI6YmVmb3Jle1xuICBvcGFjaXR5OjA7XG59XG5cbi5jLWNhbGxvdXRfX2Nsb3NlLmlzLWZvY3VzZWQ6YWZ0ZXIsLmMtY2FsbG91dF9fY2xvc2UuaXMtaG92ZXJlZDphZnRlciwuYy1jYWxsb3V0X19jbG9zZTpmb2N1czphZnRlciwuYy1jYWxsb3V0X19jbG9zZTpob3ZlcjphZnRlcntcbiAgb3BhY2l0eToxO1xufVxuXG4uYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkLC5jLWNhbGxvdXRfX2Nsb3NlOmZvY3Vze1xuICBvdXRsaW5lOm5vbmU7XG4gIGJhY2tncm91bmQtY29sb3I6Y29sb3ItbW9kKCM2ODczN2QgYWxwaGEoMTUlKSk7XG59XG5cbi5jLWNhbGxvdXQuaXMtcnRsIC5jLWNhbGxvdXRfX2Nsb3Nle1xuICByaWdodDphdXRvO1xuICBsZWZ0OjRweDtcbn1cblxuLmMtY2FsbG91dC0tZXJyb3I6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6YmVmb3Jle1xuICBiYWNrZ3JvdW5kLWltYWdlOnVybChcImRhdGE6aW1hZ2Uvc3ZnK3htbDtjaGFyc2V0PXV0Zi04LCUzQ3N2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMicgaGVpZ2h0PScxMicgY29sb3I9JyUyM2Q5M2Y0YyclM0UlM0NwYXRoIHN0cm9rZT0nY3VycmVudENvbG9yJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIGQ9J20zIDkgNi02bTAgNkwzIDMnLyUzRSUzQy9zdmclM0VcIik7XG59XG5cbi5jLWNhbGxvdXQtLWVycm9yOm5vdCguYy1jYWxsb3V0LS1kaWFsb2cpIC5jLWNhbGxvdXRfX2Nsb3NlOmFmdGVye1xuICBiYWNrZ3JvdW5kLWltYWdlOnVybChcImRhdGE6aW1hZ2Uvc3ZnK3htbDtjaGFyc2V0PXV0Zi04LCUzQ3N2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMicgaGVpZ2h0PScxMicgY29sb3I9JyUyMzY4MTIxOSclM0UlM0NwYXRoIHN0cm9rZT0nY3VycmVudENvbG9yJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIGQ9J20zIDkgNi02bTAgNkwzIDMnLyUzRSUzQy9zdmclM0VcIik7XG59XG5cbi5jLWNhbGxvdXQtLXN1Y2Nlc3M6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6YmVmb3Jle1xuICBiYWNrZ3JvdW5kLWltYWdlOnVybChcImRhdGE6aW1hZ2Uvc3ZnK3htbDtjaGFyc2V0PXV0Zi04LCUzQ3N2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMicgaGVpZ2h0PScxMicgY29sb3I9JyUyMzIyOGY2NyclM0UlM0NwYXRoIHN0cm9rZT0nY3VycmVudENvbG9yJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIGQ9J20zIDkgNi02bTAgNkwzIDMnLyUzRSUzQy9zdmclM0VcIik7XG59XG5cbi5jLWNhbGxvdXQtLXN1Y2Nlc3M6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6YWZ0ZXJ7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzEyJyBoZWlnaHQ9JzEyJyBjb2xvcj0nJTIzMGIzYjI5JyUzRSUzQ3BhdGggc3Ryb2tlPSdjdXJyZW50Q29sb3InIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgZD0nbTMgOSA2LTZtMCA2TDMgMycvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZzpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZTpiZWZvcmV7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzEyJyBoZWlnaHQ9JzEyJyBjb2xvcj0nJTIzYWQ1OTE4JyUzRSUzQ3BhdGggc3Ryb2tlPSdjdXJyZW50Q29sb3InIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgZD0nbTMgOSA2LTZtMCA2TDMgMycvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZzpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZTphZnRlcntcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTInIGhlaWdodD0nMTInIGNvbG9yPSclMjM3MDM4MTUnJTNFJTNDcGF0aCBzdHJva2U9J2N1cnJlbnRDb2xvcicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdtMyA5IDYtNm0wIDZMMyAzJy8lM0UlM0Mvc3ZnJTNFXCIpO1xufVxuXG4uYy1jYWxsb3V0LS1lcnJvcjpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkLC5jLWNhbGxvdXQtLWVycm9yOm5vdCguYy1jYWxsb3V0LS1kaWFsb2cpIC5jLWNhbGxvdXRfX2Nsb3NlOmZvY3Vze1xuICBiYWNrZ3JvdW5kLWNvbG9yOmNvbG9yLW1vZCgjY2MzMzQwIGFscGhhKDE1JSkpO1xufVxuXG4uYy1jYWxsb3V0LS1zdWNjZXNzOm5vdCguYy1jYWxsb3V0LS1kaWFsb2cpIC5jLWNhbGxvdXRfX2Nsb3NlLmlzLWZvY3VzZWQsLmMtY2FsbG91dC0tc3VjY2Vzczpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZTpmb2N1c3tcbiAgYmFja2dyb3VuZC1jb2xvcjpjb2xvci1tb2QoIzAzODE1MyBhbHBoYSgxNSUpKTtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZzpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkLC5jLWNhbGxvdXQtLXdhcm5pbmc6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6Zm9jdXN7XG4gIGJhY2tncm91bmQtY29sb3I6Y29sb3ItbW9kKCNhZDU5MTggYWxwaGEoMTUlKSk7XG59XG5cbi5jLWNhbGxvdXQgLmMtY2FsbG91dF9fY2xvc2UuaXMtZm9jdXNlZDphY3RpdmUsLmMtY2FsbG91dCAuYy1jYWxsb3V0X19jbG9zZTpmb2N1czphY3RpdmV7XG4gIGJhY2tncm91bmQtY29sb3I6dHJhbnNwYXJlbnQ7XG59XG5cbi5jLWNhbGxvdXQtLXJlY2Vzc2Vke1xuICBiYWNrZ3JvdW5kLWNvbG9yOiNmOGY5Zjk7XG59XG5cbi5jLWNhbGxvdXQtLWluZm97XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzE2JyBoZWlnaHQ9JzE2JyBjb2xvcj0nJTIzNjg3MzdkJyUzRSUzQ2cgc3Ryb2tlPSdjdXJyZW50Q29sb3InJTNFJTNDY2lyY2xlIGN4PSc3LjUnIGN5PSc4LjUnIHI9JzcnIGZpbGw9J25vbmUnLyUzRSUzQ3BhdGggc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdNNy41IDEyLjVWOCcvJTNFJTNDL2clM0UlM0NjaXJjbGUgY3g9JzcuNScgY3k9JzUnIHI9JzEnIGZpbGw9J2N1cnJlbnRDb2xvcicvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dC0tZXJyb3J7XG4gIGJvcmRlci1jb2xvcjojZjViNWJhO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiNmZmYwZjE7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzE2JyBoZWlnaHQ9JzE2JyBjb2xvcj0nJTIzY2MzMzQwJyUzRSUzQ2cgZmlsbD0nbm9uZScgc3Ryb2tlPSdjdXJyZW50Q29sb3InJTNFJTNDY2lyY2xlIGN4PSc3LjUnIGN5PSc4LjUnIHI9JzcnLyUzRSUzQ3BhdGggc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdNNy41IDQuNVY5Jy8lM0UlM0MvZyUzRSUzQ2NpcmNsZSBjeD0nNy41JyBjeT0nMTInIHI9JzEnIGZpbGw9J2N1cnJlbnRDb2xvcicvJTNFJTNDL3N2ZyUzRVwiKTtcbiAgY29sb3I6IzhjMjMyYztcbn1cblxuLmMtY2FsbG91dC0tc3VjY2Vzc3tcbiAgYm9yZGVyLWNvbG9yOiNhZWNmYzI7XG4gIGJhY2tncm91bmQtY29sb3I6I2VkZjhmNDtcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTYnIGhlaWdodD0nMTYnIGNvbG9yPSclMjMwMzgxNTMnJTNFJTNDZyBmaWxsPSdub25lJyBzdHJva2U9J2N1cnJlbnRDb2xvciclM0UlM0NwYXRoIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCcgZD0nbTQgOSAyLjUgMi41IDUtNScvJTNFJTNDY2lyY2xlIGN4PSc3LjUnIGN5PSc4LjUnIHI9JzcnLyUzRSUzQy9nJTNFJTNDL3N2ZyUzRVwiKTtcbiAgY29sb3I6IzE4NjE0Njtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZ3tcbiAgYm9yZGVyLWNvbG9yOiNmZWQ2YTg7XG4gIGJhY2tncm91bmQtY29sb3I6I2ZmZjdlZDtcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTYnIGhlaWdodD0nMTYnIGNvbG9yPSclMjNhZDU5MTgnJTNFJTNDcGF0aCBmaWxsPSdub25lJyBzdHJva2U9J2N1cnJlbnRDb2xvcicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdNLjg4IDEzLjc3IDcuMDYgMS44NmMuMTktLjM2LjctLjM2Ljg5IDBsNi4xOCAxMS45MWMuMTcuMzMtLjA3LjczLS40NC43M0gxLjMyYy0uMzcgMC0uNjEtLjQtLjQ0LS43M3pNNy41IDZ2My41Jy8lM0UlM0NjaXJjbGUgY3g9JzcuNScgY3k9JzEyJyByPScxJyBmaWxsPSdjdXJyZW50Q29sb3InLyUzRSUzQy9zdmclM0VcIik7XG4gIGNvbG9yOiNhZDU5MTg7XG59XG5cbi5jLWNhbGxvdXQtLWVycm9yLC5jLWNhbGxvdXQtLWluZm8sLmMtY2FsbG91dC0tc3VjY2VzcywuYy1jYWxsb3V0LS13YXJuaW5ne1xuICBiYWNrZ3JvdW5kLXJlcGVhdDpuby1yZXBlYXQ7XG4gIGJhY2tncm91bmQtcG9zaXRpb246MjRweCAyMnB4O1xuICBwYWRkaW5nLWxlZnQ6NTBweDtcbn1cblxuLmMtY2FsbG91dC0tZGlhbG9ne1xuICBib3gtc2hhZG93OjAgMjBweCAyOHB4IDAgY29sb3ItbW9kKCMxNzQ5NGQgYWxwaGEoMTUlKSk7XG59XG5cbi5jLWNhbGxvdXQtLWRpYWxvZy5jLWNhbGxvdXQtLWVycm9yLC5jLWNhbGxvdXQtLWRpYWxvZy5jLWNhbGxvdXQtLXN1Y2Nlc3MsLmMtY2FsbG91dC0tZGlhbG9nLmMtY2FsbG91dC0td2FybmluZ3tcbiAgYm9yZGVyLWNvbG9yOiNkOGRjZGU7XG4gIGJhY2tncm91bmQtY29sb3I6I2ZmZjtcbiAgY29sb3I6IzQ5NTQ1Yztcbn1cblxuLmMtY2FsbG91dC0tZXJyb3IgLmMtY2FsbG91dF9fdGl0bGV7XG4gIGNvbG9yOiM2ODEyMTk7XG59XG5cbi5jLWNhbGxvdXQtLXN1Y2Nlc3MgLmMtY2FsbG91dF9fdGl0bGV7XG4gIGNvbG9yOiMwYjNiMjk7XG59XG5cbi5jLWNhbGxvdXQtLXdhcm5pbmcgLmMtY2FsbG91dF9fdGl0bGV7XG4gIGNvbG9yOiM3MDM4MTU7XG59XG5cbi5jLWNhbGxvdXQtLWRpYWxvZy5jLWNhbGxvdXQtLWVycm9yIC5jLWNhbGxvdXRfX3RpdGxle1xuICBjb2xvcjojY2MzMzQwO1xufVxuXG4uYy1jYWxsb3V0LS1kaWFsb2cuYy1jYWxsb3V0LS1zdWNjZXNzIC5jLWNhbGxvdXRfX3RpdGxle1xuICBjb2xvcjojMDM4MTUzO1xufVxuXG4uYy1jYWxsb3V0LS1kaWFsb2cuYy1jYWxsb3V0LS13YXJuaW5nIC5jLWNhbGxvdXRfX3RpdGxle1xuICBjb2xvcjojYWQ1OTE4O1xufVxuXG4uYy1jYWxsb3V0LS1lcnJvci5pcy1ydGwsLmMtY2FsbG91dC0taW5mby5pcy1ydGwsLmMtY2FsbG91dC0tc3VjY2Vzcy5pcy1ydGwsLmMtY2FsbG91dC0td2FybmluZy5pcy1ydGx7XG4gIGJhY2tncm91bmQtcG9zaXRpb246Y2FsYygxMDAlIC0gMjRweCkgMjJweDtcbiAgcGFkZGluZy1yaWdodDo1MHB4O1xuICBwYWRkaW5nLWxlZnQ6NDBweDtcbn1cbiJdLCJzb3VyY2VSb290IjoiIn0= */</style><style>/**
+ * Copyright Zendesk, Inc.
+ *
+ * Use of this source code is governed under the Apache License, Version 2.0
+ * found at http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+:root {
+  --zd-color-black: #000;
+  --zd-color-green-100: #edf8f4;
+  --zd-color-green-200: #d1e8df;
+  --zd-color-green-300: #aecfc2;
+  --zd-color-green-400: #5eae91;
+  --zd-color-green-500: #228f67;
+  --zd-color-green-600: #038153;
+  --zd-color-green-700: #186146;
+  --zd-color-green-800: #0b3b29;
+  --zd-color-grey-100: #f8f9f9;
+  --zd-color-grey-200: #e9ebed;
+  --zd-color-grey-300: #d8dcde;
+  --zd-color-grey-400: #c2c8cc;
+  --zd-color-grey-500: #87929d;
+  --zd-color-grey-600: #68737d;
+  --zd-color-grey-700: #49545c;
+  --zd-color-grey-800: #2f3941;
+  --zd-color-blue-100: #edf7ff;
+  --zd-color-blue-200: #cee2f2;
+  --zd-color-blue-300: #adcce4;
+  --zd-color-blue-400: #5293c7;
+  --zd-color-blue-500: #337fbd;
+  --zd-color-blue-600: #1f73b7;
+  --zd-color-blue-700: #144a75;
+  --zd-color-blue-800: #0f3554;
+  --zd-color-kale-100: #f5fcfc;
+  --zd-color-kale-200: #daeded;
+  --zd-color-kale-300: #bdd9d7;
+  --zd-color-kale-400: #90bbbb;
+  --zd-color-kale-500: #467b7c;
+  --zd-color-kale-600: #17494d;
+  --zd-color-kale-700: #03363d;
+  --zd-color-kale-800: #012b30;
+  --zd-color-red-100: #fff0f1;
+  --zd-color-red-200: #f5d5d8;
+  --zd-color-red-300: #f5b5ba;
+  --zd-color-red-400: #e35b66;
+  --zd-color-red-500: #d93f4c;
+  --zd-color-red-600: #cc3340;
+  --zd-color-red-700: #8c232c;
+  --zd-color-red-800: #681219;
+  --zd-color-yellow-100: #fff7ed;
+  --zd-color-yellow-200: #ffeedb;
+  --zd-color-yellow-300: #fed6a8;
+  --zd-color-yellow-400: #ffb057;
+  --zd-color-yellow-500: #f79a3e;
+  --zd-color-yellow-600: #ed8f1c;
+  --zd-color-yellow-700: #ad5918;
+  --zd-color-yellow-800: #703815;
+  --zd-color-white: #fff;
+  --zd-color-secondary-azure-400: #3091ec;
+  --zd-color-secondary-azure-600: #1371d6;
+  --zd-color-secondary-crimson-400: #e34f32;
+  --zd-color-secondary-crimson-600: #c72a1c;
+  --zd-color-secondary-fuschia-400: #d653c2;
+  --zd-color-secondary-fuschia-600: #a81897;
+  --zd-color-secondary-lemon-400: #ffd424;
+  --zd-color-secondary-lemon-600: #ffbb10;
+  --zd-color-secondary-lime-400: #43b324;
+  --zd-color-secondary-lime-600: #2e8200;
+  --zd-color-secondary-mint-400: #00a656;
+  --zd-color-secondary-mint-600: #058541;
+  --zd-color-secondary-orange-400: #de701d;
+  --zd-color-secondary-orange-600: #bf5000;
+  --zd-color-secondary-pink-400: #ec4d63;
+  --zd-color-secondary-pink-600: #d42054;
+  --zd-color-secondary-purple-400: #b552e2;
+  --zd-color-secondary-purple-600: #6a27b8;
+  --zd-color-secondary-royal-400: #5d7df5;
+  --zd-color-secondary-royal-600: #3353e2;
+  --zd-color-secondary-teal-400: #02a191;
+  --zd-color-secondary-teal-600: #028079;
+  --zd-color-secondary-azure-M400: #5f8dcf;
+  --zd-color-secondary-azure-M600: #3a70b2;
+  --zd-color-secondary-crimson-M400: #cc6c5b;
+  --zd-color-secondary-crimson-M600: #b24a3c;
+  --zd-color-secondary-fuschia-M400: #cf62a8;
+  --zd-color-secondary-fuschia-M600: #a8458c;
+  --zd-color-secondary-lemon-M400: #e7a500;
+  --zd-color-secondary-lemon-M600: #c38f00;
+  --zd-color-secondary-lime-M400: #519e2d;
+  --zd-color-secondary-lime-M600: #47782c;
+  --zd-color-secondary-mint-M400: #299c66;
+  --zd-color-secondary-mint-M600: #2e8057;
+  --zd-color-secondary-orange-M400: #d4772c;
+  --zd-color-secondary-orange-M600: #b35827;
+  --zd-color-secondary-pink-M400: #d57287;
+  --zd-color-secondary-pink-M600: #b23a5d;
+  --zd-color-secondary-purple-M400: #b072cc;
+  --zd-color-secondary-purple-M600: #9358b0;
+  --zd-color-secondary-royal-M400: #7986d8;
+  --zd-color-secondary-royal-M600: #4b61c3;
+  --zd-color-secondary-teal-M400: #2d9e8f;
+  --zd-color-secondary-teal-M600: #3c7873;
+  --zd-color-chat-orange: #f79a3e;
+  --zd-color-connect-red: #ff6224;
+  --zd-color-explore-blue: #30aabc;
+  --zd-color-gather-pink: #f6c8be;
+  --zd-color-guide-pink: #ff6224;
+  --zd-color-message-green: #37b8af;
+  --zd-color-sell-gold: #c38f00;
+  --zd-color-support-green: #00a656;
+  --zd-color-talk-yellow: #efc93d;
+  --zd-font-family-monospace: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+  --zd-font-family-system: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
+  --zd-font-size-xs: 10px;
+  --zd-font-size-sm: 12px;
+  --zd-font-size-md: 14px;
+  --zd-font-size-lg: 18px;
+  --zd-font-size-xl: 22px;
+  --zd-font-size-xxl: 26px;
+  --zd-font-size-xxxl: 36px;
+  --zd-font-size-sm-monospace: 11px;
+  --zd-font-size-md-monospace: 13px;
+  --zd-font-size-lg-monospace: 17px;
+  --zd-font-weight-thin: 100;
+  --zd-font-weight-extralight: 200;
+  --zd-font-weight-light: 300;
+  --zd-font-weight-regular: 400;
+  --zd-font-weight-medium: 500;
+  --zd-font-weight-semibold: 600;
+  --zd-font-weight-bold: 700;
+  --zd-font-weight-extrabold: 800;
+  --zd-font-weight-black: 900;
+  --zd-font-weight-ultralight: 200;
+  --zd-font-weight-ultrabold: 800;
+  --zd-font-weight-heavy: 900;
+  --zd-line-height-sm: 16px;
+  --zd-line-height-md: 20px;
+  --zd-line-height-lg: 24px;
+  --zd-line-height-xl: 28px;
+  --zd-line-height-xxl: 32px;
+  --zd-line-height-xxxl: 44px;
+  --zd-spacing-xxs: 4px;
+  --zd-spacing-xs: 8px;
+  --zd-spacing-sm: 12px;
+  --zd-spacing: 20px;
+  --zd-spacing-lg: 32px;
+  --zd-spacing-xl: 40px;
+  --zd-spacing-xxl: 48px;
+}
+
+.f9BqAlsIZvx7sACM4xRFqwHmcyIhbjt6 {
+}
+
+.kzYITkxJWL_02DpPXe0gWyN2swJRVitJ {
+}
+
+.wINJoVYRvGy8raLsj56fUQ_Rtxf8SXNp {
+}
+
+.QNIPdWgxsnPIjnQQzFMoMgcPDAOOsPrm {
+}
+
+._HdHwJNOTFG9Mij4WmL1AlvKwno7GrCd {
+  background-color: #f8f9f9;
+}
+
+.yXw8lmZs7Tg0Y73sa9aaAZs1ahSKzGnp {
+  background-color: transparent !important;
+  padding: 0;
+}
+
+.yXw8lmZs7Tg0Y73sa9aaAZs1ahSKzGnp.h4cMXsHyKKZf7DHHkpaaFwuvtZd3B4HJ {
+  outline: 1px solid #2f3941;
+  outline: 1px solid var(--zd-color-grey-800);
+}
+
+.yXw8lmZs7Tg0Y73sa9aaAZs1ahSKzGnp:focus-visible {
+  outline: 1px solid #2f3941;
+  outline: 1px solid var(--zd-color-grey-800);
+}
+
+.QN1ves1hk0MUeUx70asdhg7VPFdkXeNa {
+}
+
+.XJXUPzr7Dx0szbQn8wH5AZY581GZ1SmI {
+}
+
+.sPA0enxuGX2pj2jkRfN0ZArNVD80pacY {
+}
+
+/* Reset styles for links within notifications */
+
+.qQF1ABBg7opWaOeLFI1g1Ax8igXoLRdR a {
+  -webkit-animation: none 0s ease 0s 1 normal none running;
+          animation: none 0s ease 0s 1 normal none running;
+  -webkit-backface-visibility: visible;
+          backface-visibility: visible;
+  background: transparent none repeat 0 0 / auto auto padding-box border-box scroll;
+  border: medium none currentColor;
+  border-collapse: separate;
+  -o-border-image: none;
+     border-image: none;
+  border-radius: 0;
+  border-spacing: 0;
+  bottom: auto;
+  box-shadow: none;
+  box-sizing: content-box;
+  caption-side: top;
+  clear: none;
+  clip: auto;
+  color: #000;
+  -webkit-columns: auto;
+     -moz-columns: auto;
+          columns: auto;
+  -webkit-column-count: auto;
+     -moz-column-count: auto;
+          column-count: auto;
+  -webkit-column-fill: balance;
+     -moz-column-fill: balance;
+          column-fill: balance;
+  grid-column-gap: normal;
+  -webkit-column-gap: normal;
+     -moz-column-gap: normal;
+          column-gap: normal;
+  -webkit-column-rule: medium none currentColor;
+     -moz-column-rule: medium none currentColor;
+          column-rule: medium none currentColor;
+  -webkit-column-span: 1;
+     -moz-column-span: 1;
+          column-span: 1;
+  -webkit-column-width: auto;
+     -moz-column-width: auto;
+          column-width: auto;
+  content: normal;
+  counter-increment: none;
+  counter-reset: none;
+  cursor: auto;
+  direction: ltr;
+  display: inline;
+  empty-cells: show;
+  float: none;
+  font-family: serif;
+  font-size: medium;
+  font-style: normal;
+  -webkit-font-feature-settings: normal;
+          font-feature-settings: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: normal;
+  height: auto;
+  -webkit-hyphens: none;
+          hyphens: none;
+  left: auto;
+  letter-spacing: normal;
+  list-style: disc outside none;
+  margin: 0;
+  max-height: none;
+  max-width: none;
+  min-height: 0;
+  min-width: 0;
+  opacity: 1;
+  orphans: 2;
+  outline: medium none invert;
+  overflow: visible;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding: 0;
+  page-break-after: auto;
+  page-break-before: auto;
+  page-break-inside: auto;
+  -webkit-perspective: none;
+          perspective: none;
+  -webkit-perspective-origin: 50% 50%;
+          perspective-origin: 50% 50%;
+  position: static;
+  right: auto;
+  -moz-tab-size: 8;
+    -o-tab-size: 8;
+       tab-size: 8;
+  table-layout: auto;
+  text-align: left;
+  -moz-text-align-last: auto;
+       text-align-last: auto;
+  text-decoration: none;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: none;
+  top: auto;
+  -webkit-transform: none;
+          transform: none;
+  -webkit-transform-origin: 50% 50% 0;
+          transform-origin: 50% 50% 0;
+  -webkit-transform-style: flat;
+          transform-style: flat;
+  transition: none 0s ease 0s;
+  unicode-bidi: normal;
+  vertical-align: baseline;
+  visibility: visible;
+  white-space: normal;
+  widows: 2;
+  width: auto;
+  word-spacing: normal;
+  z-index: auto;
+  all: initial;
+  font-size: inherit;
+  font-family: inherit;
+  color: #0072ef;
+  cursor: pointer;
+}
+
+.qQF1ABBg7opWaOeLFI1g1Ax8igXoLRdR a:hover,
+.qQF1ABBg7opWaOeLFI1g1Ax8igXoLRdR a:focus {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL25vZGVfbW9kdWxlcy9AemVuZGVza2dhcmRlbi9jc3MtdmFyaWFibGVzL2Rpc3QvaW5kZXguY3NzIiwid2VicGFjazovLy4vdWkvY29tcG9uZW50cy9Ob3RpZmljYXRpb24vaW5kZXguY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7OztFQUtFOztBQUVGO0VBQ0Usc0JBQXNCO0VBQ3RCLDZCQUE2QjtFQUM3Qiw2QkFBNkI7RUFDN0IsNkJBQTZCO0VBQzdCLDZCQUE2QjtFQUM3Qiw2QkFBNkI7RUFDN0IsNkJBQTZCO0VBQzdCLDZCQUE2QjtFQUM3Qiw2QkFBNkI7RUFDN0IsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsMkJBQTJCO0VBQzNCLDJCQUEyQjtFQUMzQiwyQkFBMkI7RUFDM0IsMkJBQTJCO0VBQzNCLDJCQUEyQjtFQUMzQiwyQkFBMkI7RUFDM0IsMkJBQTJCO0VBQzNCLDJCQUEyQjtFQUMzQiw4QkFBOEI7RUFDOUIsOEJBQThCO0VBQzlCLDhCQUE4QjtFQUM5Qiw4QkFBOEI7RUFDOUIsOEJBQThCO0VBQzlCLDhCQUE4QjtFQUM5Qiw4QkFBOEI7RUFDOUIsOEJBQThCO0VBQzlCLHNCQUFzQjtFQUN0Qix1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHlDQUF5QztFQUN6Qyx5Q0FBeUM7RUFDekMseUNBQXlDO0VBQ3pDLHlDQUF5QztFQUN6Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHNDQUFzQztFQUN0QyxzQ0FBc0M7RUFDdEMsc0NBQXNDO0VBQ3RDLHNDQUFzQztFQUN0Qyx3Q0FBd0M7RUFDeEMsd0NBQXdDO0VBQ3hDLHNDQUFzQztFQUN0QyxzQ0FBc0M7RUFDdEMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHNDQUFzQztFQUN0QyxzQ0FBc0M7RUFDdEMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4QywwQ0FBMEM7RUFDMUMsMENBQTBDO0VBQzFDLDBDQUEwQztFQUMxQywwQ0FBMEM7RUFDMUMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHVDQUF1QztFQUN2Qyx1Q0FBdUM7RUFDdkMseUNBQXlDO0VBQ3pDLHlDQUF5QztFQUN6Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHlDQUF5QztFQUN6Qyx5Q0FBeUM7RUFDekMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLCtCQUErQjtFQUMvQiwrQkFBK0I7RUFDL0IsZ0NBQWdDO0VBQ2hDLCtCQUErQjtFQUMvQiw4QkFBOEI7RUFDOUIsaUNBQWlDO0VBQ2pDLDZCQUE2QjtFQUM3QixpQ0FBaUM7RUFDakMsK0JBQStCO0VBQy9CLGtHQUFrRztFQUNsRywwTkFBOEo7RUFDOUosdUJBQXVCO0VBQ3ZCLHVCQUF1QjtFQUN2Qix1QkFBdUI7RUFDdkIsdUJBQXVCO0VBQ3ZCLHVCQUF1QjtFQUN2Qix3QkFBd0I7RUFDeEIseUJBQXlCO0VBQ3pCLGlDQUFpQztFQUNqQyxpQ0FBaUM7RUFDakMsaUNBQWlDO0VBQ2pDLDBCQUEwQjtFQUMxQixnQ0FBZ0M7RUFDaEMsMkJBQTJCO0VBQzNCLDZCQUE2QjtFQUM3Qiw0QkFBNEI7RUFDNUIsOEJBQThCO0VBQzlCLDBCQUEwQjtFQUMxQiwrQkFBK0I7RUFDL0IsMkJBQTJCO0VBQzNCLGdDQUFnQztFQUNoQywrQkFBK0I7RUFDL0IsMkJBQTJCO0VBQzNCLHlCQUF5QjtFQUN6Qix5QkFBeUI7RUFDekIseUJBQXlCO0VBQ3pCLHlCQUF5QjtFQUN6QiwwQkFBMEI7RUFDMUIsMkJBQTJCO0VBQzNCLHFCQUFxQjtFQUNyQixvQkFBb0I7RUFDcEIscUJBQXFCO0VBQ3JCLGtCQUFrQjtFQUNsQixxQkFBcUI7RUFDckIscUJBQXFCO0VBQ3JCLHNCQUFzQjtBQUN4Qjs7QUNsSkE7QUFFQTs7QUFFQTtBQUVBOztBQUVBO0FBRUE7O0FBRUE7QUFFQTs7QUFFQTtFQUVFLHlCQUF5QjtBQUMzQjs7QUFFQTtFQUNFLHdDQUF3QztFQUV4QyxVQUFVO0FBQ1o7O0FBRUE7RUFDRSwwQkFBMkM7RUFBM0MsMkNBQTJDO0FBQzdDOztBQUZBO0VBQ0UsMEJBQTJDO0VBQTNDLDJDQUEyQztBQUM3Qzs7QUFFQTtBQUVBOztBQUVBO0FBRUE7O0FBRUE7QUFFQTs7QUFFQSxnREFBZ0Q7O0FBQ2hEO0VBQ0Usd0RBQVk7VUFBWixnREFBWTtFQUFaLG9DQUFZO1VBQVosNEJBQVk7RUFBWixpRkFBWTtFQUFaLGdDQUFZO0VBQVoseUJBQVk7RUFBWixxQkFBWTtLQUFaLGtCQUFZO0VBQVosZ0JBQVk7RUFBWixpQkFBWTtFQUFaLFlBQVk7RUFBWixnQkFBWTtFQUFaLHVCQUFZO0VBQVosaUJBQVk7RUFBWixXQUFZO0VBQVosVUFBWTtFQUFaLFdBQVk7RUFBWixxQkFBWTtLQUFaLGtCQUFZO1VBQVosYUFBWTtFQUFaLDBCQUFZO0tBQVosdUJBQVk7VUFBWixrQkFBWTtFQUFaLDRCQUFZO0tBQVoseUJBQVk7VUFBWixvQkFBWTtFQUFaLHVCQUFZO0VBQVosMEJBQVk7S0FBWix1QkFBWTtVQUFaLGtCQUFZO0VBQVosNkNBQVk7S0FBWiwwQ0FBWTtVQUFaLHFDQUFZO0VBQVosc0JBQVk7S0FBWixtQkFBWTtVQUFaLGNBQVk7RUFBWiwwQkFBWTtLQUFaLHVCQUFZO1VBQVosa0JBQVk7RUFBWixlQUFZO0VBQVosdUJBQVk7RUFBWixtQkFBWTtFQUFaLFlBQVk7RUFBWixjQUFZO0VBQVosZUFBWTtFQUFaLGlCQUFZO0VBQVosV0FBWTtFQUFaLGtCQUFZO0VBQVosaUJBQVk7RUFBWixrQkFBWTtFQUFaLHFDQUFZO1VBQVosNkJBQVk7RUFBWixvQkFBWTtFQUFaLG1CQUFZO0VBQVosb0JBQVk7RUFBWixtQkFBWTtFQUFaLFlBQVk7RUFBWixxQkFBWTtVQUFaLGFBQVk7RUFBWixVQUFZO0VBQVosc0JBQVk7RUFBWiw2QkFBWTtFQUFaLFNBQVk7RUFBWixnQkFBWTtFQUFaLGVBQVk7RUFBWixhQUFZO0VBQVosWUFBWTtFQUFaLFVBQVk7RUFBWixVQUFZO0VBQVosMkJBQVk7RUFBWixpQkFBWTtFQUFaLG1CQUFZO0VBQVosbUJBQVk7RUFBWixVQUFZO0VBQVosc0JBQVk7RUFBWix1QkFBWTtFQUFaLHVCQUFZO0VBQVoseUJBQVk7VUFBWixpQkFBWTtFQUFaLG1DQUFZO1VBQVosMkJBQVk7RUFBWixnQkFBWTtFQUFaLFdBQVk7RUFBWixnQkFBWTtJQUFaLGNBQVk7T0FBWixXQUFZO0VBQVosa0JBQVk7RUFBWixnQkFBWTtFQUFaLDBCQUFZO09BQVoscUJBQVk7RUFBWixxQkFBWTtFQUFaLGNBQVk7RUFBWixpQkFBWTtFQUFaLG9CQUFZO0VBQVosU0FBWTtFQUFaLHVCQUFZO1VBQVosZUFBWTtFQUFaLG1DQUFZO1VBQVosMkJBQVk7RUFBWiw2QkFBWTtVQUFaLHFCQUFZO0VBQVosMkJBQVk7RUFBWixvQkFBWTtFQUFaLHdCQUFZO0VBQVosbUJBQVk7RUFBWixtQkFBWTtFQUFaLFNBQVk7RUFBWixXQUFZO0VBQVosb0JBQVk7RUFBWixhQUFZO0VBQVosWUFBWTtFQUNaLGtCQUFrQjtFQUNsQixvQkFBb0I7RUFDcEIsY0FBYztFQUNkLGVBQWU7QUFDakI7O0FBQ0E7O0VBRUUsMEJBQTBCO0FBQzVCIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBDb3B5cmlnaHQgWmVuZGVzaywgSW5jLlxuICpcbiAqIFVzZSBvZiB0aGlzIHNvdXJjZSBjb2RlIGlzIGdvdmVybmVkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjBcbiAqIGZvdW5kIGF0IGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMC5cbiAqL1xuXG46cm9vdCB7XG4gIC0temQtY29sb3ItYmxhY2s6ICMwMDA7XG4gIC0temQtY29sb3ItZ3JlZW4tMTAwOiAjZWRmOGY0O1xuICAtLXpkLWNvbG9yLWdyZWVuLTIwMDogI2QxZThkZjtcbiAgLS16ZC1jb2xvci1ncmVlbi0zMDA6ICNhZWNmYzI7XG4gIC0temQtY29sb3ItZ3JlZW4tNDAwOiAjNWVhZTkxO1xuICAtLXpkLWNvbG9yLWdyZWVuLTUwMDogIzIyOGY2NztcbiAgLS16ZC1jb2xvci1ncmVlbi02MDA6ICMwMzgxNTM7XG4gIC0temQtY29sb3ItZ3JlZW4tNzAwOiAjMTg2MTQ2O1xuICAtLXpkLWNvbG9yLWdyZWVuLTgwMDogIzBiM2IyOTtcbiAgLS16ZC1jb2xvci1ncmV5LTEwMDogI2Y4ZjlmOTtcbiAgLS16ZC1jb2xvci1ncmV5LTIwMDogI2U5ZWJlZDtcbiAgLS16ZC1jb2xvci1ncmV5LTMwMDogI2Q4ZGNkZTtcbiAgLS16ZC1jb2xvci1ncmV5LTQwMDogI2MyYzhjYztcbiAgLS16ZC1jb2xvci1ncmV5LTUwMDogIzg3OTI5ZDtcbiAgLS16ZC1jb2xvci1ncmV5LTYwMDogIzY4NzM3ZDtcbiAgLS16ZC1jb2xvci1ncmV5LTcwMDogIzQ5NTQ1YztcbiAgLS16ZC1jb2xvci1ncmV5LTgwMDogIzJmMzk0MTtcbiAgLS16ZC1jb2xvci1ibHVlLTEwMDogI2VkZjdmZjtcbiAgLS16ZC1jb2xvci1ibHVlLTIwMDogI2NlZTJmMjtcbiAgLS16ZC1jb2xvci1ibHVlLTMwMDogI2FkY2NlNDtcbiAgLS16ZC1jb2xvci1ibHVlLTQwMDogIzUyOTNjNztcbiAgLS16ZC1jb2xvci1ibHVlLTUwMDogIzMzN2ZiZDtcbiAgLS16ZC1jb2xvci1ibHVlLTYwMDogIzFmNzNiNztcbiAgLS16ZC1jb2xvci1ibHVlLTcwMDogIzE0NGE3NTtcbiAgLS16ZC1jb2xvci1ibHVlLTgwMDogIzBmMzU1NDtcbiAgLS16ZC1jb2xvci1rYWxlLTEwMDogI2Y1ZmNmYztcbiAgLS16ZC1jb2xvci1rYWxlLTIwMDogI2RhZWRlZDtcbiAgLS16ZC1jb2xvci1rYWxlLTMwMDogI2JkZDlkNztcbiAgLS16ZC1jb2xvci1rYWxlLTQwMDogIzkwYmJiYjtcbiAgLS16ZC1jb2xvci1rYWxlLTUwMDogIzQ2N2I3YztcbiAgLS16ZC1jb2xvci1rYWxlLTYwMDogIzE3NDk0ZDtcbiAgLS16ZC1jb2xvci1rYWxlLTcwMDogIzAzMzYzZDtcbiAgLS16ZC1jb2xvci1rYWxlLTgwMDogIzAxMmIzMDtcbiAgLS16ZC1jb2xvci1yZWQtMTAwOiAjZmZmMGYxO1xuICAtLXpkLWNvbG9yLXJlZC0yMDA6ICNmNWQ1ZDg7XG4gIC0temQtY29sb3ItcmVkLTMwMDogI2Y1YjViYTtcbiAgLS16ZC1jb2xvci1yZWQtNDAwOiAjZTM1YjY2O1xuICAtLXpkLWNvbG9yLXJlZC01MDA6ICNkOTNmNGM7XG4gIC0temQtY29sb3ItcmVkLTYwMDogI2NjMzM0MDtcbiAgLS16ZC1jb2xvci1yZWQtNzAwOiAjOGMyMzJjO1xuICAtLXpkLWNvbG9yLXJlZC04MDA6ICM2ODEyMTk7XG4gIC0temQtY29sb3IteWVsbG93LTEwMDogI2ZmZjdlZDtcbiAgLS16ZC1jb2xvci15ZWxsb3ctMjAwOiAjZmZlZWRiO1xuICAtLXpkLWNvbG9yLXllbGxvdy0zMDA6ICNmZWQ2YTg7XG4gIC0temQtY29sb3IteWVsbG93LTQwMDogI2ZmYjA1NztcbiAgLS16ZC1jb2xvci15ZWxsb3ctNTAwOiAjZjc5YTNlO1xuICAtLXpkLWNvbG9yLXllbGxvdy02MDA6ICNlZDhmMWM7XG4gIC0temQtY29sb3IteWVsbG93LTcwMDogI2FkNTkxODtcbiAgLS16ZC1jb2xvci15ZWxsb3ctODAwOiAjNzAzODE1O1xuICAtLXpkLWNvbG9yLXdoaXRlOiAjZmZmO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1henVyZS00MDA6ICMzMDkxZWM7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWF6dXJlLTYwMDogIzEzNzFkNjtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktY3JpbXNvbi00MDA6ICNlMzRmMzI7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWNyaW1zb24tNjAwOiAjYzcyYTFjO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1mdXNjaGlhLTQwMDogI2Q2NTNjMjtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktZnVzY2hpYS02MDA6ICNhODE4OTc7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWxlbW9uLTQwMDogI2ZmZDQyNDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbGVtb24tNjAwOiAjZmZiYjEwO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1saW1lLTQwMDogIzQzYjMyNDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbGltZS02MDA6ICMyZTgyMDA7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LW1pbnQtNDAwOiAjMDBhNjU2O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1taW50LTYwMDogIzA1ODU0MTtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktb3JhbmdlLTQwMDogI2RlNzAxZDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktb3JhbmdlLTYwMDogI2JmNTAwMDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktcGluay00MDA6ICNlYzRkNjM7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXBpbmstNjAwOiAjZDQyMDU0O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1wdXJwbGUtNDAwOiAjYjU1MmUyO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1wdXJwbGUtNjAwOiAjNmEyN2I4O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1yb3lhbC00MDA6ICM1ZDdkZjU7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXJveWFsLTYwMDogIzMzNTNlMjtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktdGVhbC00MDA6ICMwMmExOTE7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXRlYWwtNjAwOiAjMDI4MDc5O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1henVyZS1NNDAwOiAjNWY4ZGNmO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1henVyZS1NNjAwOiAjM2E3MGIyO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1jcmltc29uLU00MDA6ICNjYzZjNWI7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWNyaW1zb24tTTYwMDogI2IyNGEzYztcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktZnVzY2hpYS1NNDAwOiAjY2Y2MmE4O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1mdXNjaGlhLU02MDA6ICNhODQ1OGM7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWxlbW9uLU00MDA6ICNlN2E1MDA7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWxlbW9uLU02MDA6ICNjMzhmMDA7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWxpbWUtTTQwMDogIzUxOWUyZDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbGltZS1NNjAwOiAjNDc3ODJjO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1taW50LU00MDA6ICMyOTljNjY7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LW1pbnQtTTYwMDogIzJlODA1NztcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktb3JhbmdlLU00MDA6ICNkNDc3MmM7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LW9yYW5nZS1NNjAwOiAjYjM1ODI3O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1waW5rLU00MDA6ICNkNTcyODc7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXBpbmstTTYwMDogI2IyM2E1ZDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktcHVycGxlLU00MDA6ICNiMDcyY2M7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXB1cnBsZS1NNjAwOiAjOTM1OGIwO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1yb3lhbC1NNDAwOiAjNzk4NmQ4O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1yb3lhbC1NNjAwOiAjNGI2MWMzO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS10ZWFsLU00MDA6ICMyZDllOGY7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXRlYWwtTTYwMDogIzNjNzg3MztcbiAgLS16ZC1jb2xvci1jaGF0LW9yYW5nZTogI2Y3OWEzZTtcbiAgLS16ZC1jb2xvci1jb25uZWN0LXJlZDogI2ZmNjIyNDtcbiAgLS16ZC1jb2xvci1leHBsb3JlLWJsdWU6ICMzMGFhYmM7XG4gIC0temQtY29sb3ItZ2F0aGVyLXBpbms6ICNmNmM4YmU7XG4gIC0temQtY29sb3ItZ3VpZGUtcGluazogI2ZmNjIyNDtcbiAgLS16ZC1jb2xvci1tZXNzYWdlLWdyZWVuOiAjMzdiOGFmO1xuICAtLXpkLWNvbG9yLXNlbGwtZ29sZDogI2MzOGYwMDtcbiAgLS16ZC1jb2xvci1zdXBwb3J0LWdyZWVuOiAjMDBhNjU2O1xuICAtLXpkLWNvbG9yLXRhbGsteWVsbG93OiAjZWZjOTNkO1xuICAtLXpkLWZvbnQtZmFtaWx5LW1vbm9zcGFjZTogU0ZNb25vLVJlZ3VsYXIsIENvbnNvbGFzLCAnTGliZXJhdGlvbiBNb25vJywgTWVubG8sIENvdXJpZXIsIG1vbm9zcGFjZTtcbiAgLS16ZC1mb250LWZhbWlseS1zeXN0ZW06IHN5c3RlbS11aSwgLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCAnU2Vnb2UgVUknLCBSb2JvdG8sIE94eWdlbi1TYW5zLCBVYnVudHUsIENhbnRhcmVsbCwgJ0hlbHZldGljYSBOZXVlJywgQXJpYWwsIHNhbnMtc2VyaWY7XG4gIC0temQtZm9udC1zaXplLXhzOiAxMHB4O1xuICAtLXpkLWZvbnQtc2l6ZS1zbTogMTJweDtcbiAgLS16ZC1mb250LXNpemUtbWQ6IDE0cHg7XG4gIC0temQtZm9udC1zaXplLWxnOiAxOHB4O1xuICAtLXpkLWZvbnQtc2l6ZS14bDogMjJweDtcbiAgLS16ZC1mb250LXNpemUteHhsOiAyNnB4O1xuICAtLXpkLWZvbnQtc2l6ZS14eHhsOiAzNnB4O1xuICAtLXpkLWZvbnQtc2l6ZS1zbS1tb25vc3BhY2U6IDExcHg7XG4gIC0temQtZm9udC1zaXplLW1kLW1vbm9zcGFjZTogMTNweDtcbiAgLS16ZC1mb250LXNpemUtbGctbW9ub3NwYWNlOiAxN3B4O1xuICAtLXpkLWZvbnQtd2VpZ2h0LXRoaW46IDEwMDtcbiAgLS16ZC1mb250LXdlaWdodC1leHRyYWxpZ2h0OiAyMDA7XG4gIC0temQtZm9udC13ZWlnaHQtbGlnaHQ6IDMwMDtcbiAgLS16ZC1mb250LXdlaWdodC1yZWd1bGFyOiA0MDA7XG4gIC0temQtZm9udC13ZWlnaHQtbWVkaXVtOiA1MDA7XG4gIC0temQtZm9udC13ZWlnaHQtc2VtaWJvbGQ6IDYwMDtcbiAgLS16ZC1mb250LXdlaWdodC1ib2xkOiA3MDA7XG4gIC0temQtZm9udC13ZWlnaHQtZXh0cmFib2xkOiA4MDA7XG4gIC0temQtZm9udC13ZWlnaHQtYmxhY2s6IDkwMDtcbiAgLS16ZC1mb250LXdlaWdodC11bHRyYWxpZ2h0OiAyMDA7XG4gIC0temQtZm9udC13ZWlnaHQtdWx0cmFib2xkOiA4MDA7XG4gIC0temQtZm9udC13ZWlnaHQtaGVhdnk6IDkwMDtcbiAgLS16ZC1saW5lLWhlaWdodC1zbTogMTZweDtcbiAgLS16ZC1saW5lLWhlaWdodC1tZDogMjBweDtcbiAgLS16ZC1saW5lLWhlaWdodC1sZzogMjRweDtcbiAgLS16ZC1saW5lLWhlaWdodC14bDogMjhweDtcbiAgLS16ZC1saW5lLWhlaWdodC14eGw6IDMycHg7XG4gIC0temQtbGluZS1oZWlnaHQteHh4bDogNDRweDtcbiAgLS16ZC1zcGFjaW5nLXh4czogNHB4O1xuICAtLXpkLXNwYWNpbmcteHM6IDhweDtcbiAgLS16ZC1zcGFjaW5nLXNtOiAxMnB4O1xuICAtLXpkLXNwYWNpbmc6IDIwcHg7XG4gIC0temQtc3BhY2luZy1sZzogMzJweDtcbiAgLS16ZC1zcGFjaW5nLXhsOiA0MHB4O1xuICAtLXpkLXNwYWNpbmcteHhsOiA0OHB4O1xufVxuIiwiQGltcG9ydCBcIkB6ZW5kZXNrZ2FyZGVuL2Nzcy12YXJpYWJsZXNcIjtcblxuLmRlZmF1bHQge1xuICBjb21wb3NlczogYy1jYWxsb3V0IGZyb20gXCJ+QHplbmRlc2tnYXJkZW4vY3NzLWNhbGxvdXRzL2Rpc3QvaW5kZXguY3NzXCI7XG59XG5cbi5zdWNjZXNzIHtcbiAgY29tcG9zZXM6IGMtY2FsbG91dCBjLWNhbGxvdXQtLXN1Y2Nlc3MgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbn1cblxuLndhcm5pbmcge1xuICBjb21wb3NlczogYy1jYWxsb3V0IGMtY2FsbG91dC0td2FybmluZyBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xufVxuXG4uZXJyb3Ige1xuICBjb21wb3NlczogYy1jYWxsb3V0IGMtY2FsbG91dC0tZXJyb3IgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbn1cblxuLmluZm8ge1xuICBjb21wb3NlczogYy1jYWxsb3V0IGMtY2FsbG91dC0taW5mbyBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjZjhmOWY5O1xufVxuXG4ucmVtb3ZlIHtcbiAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQgIWltcG9ydGFudDtcbiAgY29tcG9zZXM6IGMtY2FsbG91dF9fY2xvc2UgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbiAgcGFkZGluZzogMDtcbn1cblxuLnJlbW92ZTpmb2N1cy12aXNpYmxlIHtcbiAgb3V0bGluZTogMXB4IHNvbGlkIHZhcigtLXpkLWNvbG9yLWdyZXktODAwKTtcbn1cblxuLnRpdGxlIHtcbiAgY29tcG9zZXM6IGMtY2FsbG91dF9fdGl0bGUgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbn1cblxuLnJ0bCB7XG4gIGNvbXBvc2VzOiBpcy1ydGwgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbn1cblxuLmZsb2F0aW5nIHtcbiAgY29tcG9zZXM6IGMtY2FsbG91dC0tZGlhbG9nIGZyb20gXCJ+QHplbmRlc2tnYXJkZW4vY3NzLWNhbGxvdXRzL2Rpc3QvaW5kZXguY3NzXCI7XG59XG5cbi8qIFJlc2V0IHN0eWxlcyBmb3IgbGlua3Mgd2l0aGluIG5vdGlmaWNhdGlvbnMgKi9cbi5ub3RpZmljYXRpb24gYSB7XG4gIGFsbDogaW5pdGlhbDtcbiAgZm9udC1zaXplOiBpbmhlcml0O1xuICBmb250LWZhbWlseTogaW5oZXJpdDtcbiAgY29sb3I6ICMwMDcyZWY7XG4gIGN1cnNvcjogcG9pbnRlcjtcbn1cbi5ub3RpZmljYXRpb24gYTpob3Zlcixcbi5ub3RpZmljYXRpb24gYTpmb2N1cyB7XG4gIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lO1xufVxuIl0sInNvdXJjZVJvb3QiOiIifQ== */</style><style>.gG1SKx_8sRWXWUqBql1Ygd7tnyV_z43E {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  width: 360px;
+  z-index: 2147483647;
+}
+
+[dir="rtl"] .gG1SKx_8sRWXWUqBql1Ygd7tnyV_z43E {
+  right: 0;
+  left: 16px;
+}
+
+.gG1SKx_8sRWXWUqBql1Ygd7tnyV_z43E > * {
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3VpL2NvbXBvbmVudHMvTm90aWZpY2F0aW9ucy9zdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZUFBZTtFQUNmLFNBQVM7RUFDVCxXQUFXO0VBQ1gsWUFBWTtFQUNaLG1CQUFtQjtBQUNyQjs7QUFFQTtFQUNFLFFBQVE7RUFDUixVQUFVO0FBQ1o7O0FBRUE7RUFDRSxtQkFBbUI7QUFDckIiLCJzb3VyY2VzQ29udGVudCI6WyIubm90aWZpY2F0aW9ucyB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgdG9wOiAxNnB4O1xuICByaWdodDogMTZweDtcbiAgd2lkdGg6IDM2MHB4O1xuICB6LWluZGV4OiAyMTQ3NDgzNjQ3O1xufVxuXG5bZGlyPVwicnRsXCJdIC5ub3RpZmljYXRpb25zIHtcbiAgcmlnaHQ6IDA7XG4gIGxlZnQ6IDE2cHg7XG59XG5cbi5ub3RpZmljYXRpb25zID4gKiB7XG4gIG1hcmdpbi1ib3R0b206IDEwcHg7XG59Il0sInNvdXJjZVJvb3QiOiIifQ== */</style><style>.NjHrlmSUIMtSlY7gtg7w7dtpuhz62MEa {
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3VpL2phdmFzY3JpcHRzL2VuZHVzZXIvbW9kdWxlcy9zZXR1cE5vdGlmaWNhdGlvbnMvaW5kZXguY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBRUEiLCJzb3VyY2VzQ29udGVudCI6WyIubm90aWZpY2F0aW9uQm9keSB7XG4gIGNvbXBvc2VzOiBjLWNhbGxvdXRfX3BhcmFncmFwaCBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xufVxuIl0sInNvdXJjZVJvb3QiOiIifQ== */</style><script src="https://cdn-apac.onetrust.com/scripttemplates/6.28.0/otBannerSdk.js" async="" type="text/javascript"></script><style id="onetrust-style">#onetrust-banner-sdk{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}#onetrust-banner-sdk .onetrust-vendors-list-handler{cursor:pointer;color:#1f96db;font-size:inherit;font-weight:bold;text-decoration:none;margin-left:5px}#onetrust-banner-sdk .onetrust-vendors-list-handler:hover{color:#1f96db}#onetrust-banner-sdk:focus{outline:2px solid #000;outline-offset:-2px}#onetrust-banner-sdk a:focus{outline:2px solid #000}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{outline-offset:1px}#onetrust-banner-sdk .ot-close-icon,#onetrust-pc-sdk .ot-close-icon,#ot-sync-ntfy .ot-close-icon{background-image:url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMzQ4LjMzM3B4IiBoZWlnaHQ9IjM0OC4zMzNweCIgdmlld0JveD0iMCAwIDM0OC4zMzMgMzQ4LjMzNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzQ4LjMzMyAzNDguMzM0OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PHBhdGggZmlsbD0iIzU2NTY1NiIgZD0iTTMzNi41NTksNjguNjExTDIzMS4wMTYsMTc0LjE2NWwxMDUuNTQzLDEwNS41NDljMTUuNjk5LDE1LjcwNSwxNS42OTksNDEuMTQ1LDAsNTYuODVjLTcuODQ0LDcuODQ0LTE4LjEyOCwxMS43NjktMjguNDA3LDExLjc2OWMtMTAuMjk2LDAtMjAuNTgxLTMuOTE5LTI4LjQxOS0xMS43NjlMMTc0LjE2NywyMzEuMDAzTDY4LjYwOSwzMzYuNTYzYy03Ljg0Myw3Ljg0NC0xOC4xMjgsMTEuNzY5LTI4LjQxNiwxMS43NjljLTEwLjI4NSwwLTIwLjU2My0zLjkxOS0yOC40MTMtMTEuNzY5Yy0xNS42OTktMTUuNjk4LTE1LjY5OS00MS4xMzksMC01Ni44NWwxMDUuNTQtMTA1LjU0OUwxMS43NzQsNjguNjExYy0xNS42OTktMTUuNjk5LTE1LjY5OS00MS4xNDUsMC01Ni44NDRjMTUuNjk2LTE1LjY4Nyw0MS4xMjctMTUuNjg3LDU2LjgyOSwwbDEwNS41NjMsMTA1LjU1NEwyNzkuNzIxLDExLjc2N2MxNS43MDUtMTUuNjg3LDQxLjEzOS0xNS42ODcsNTYuODMyLDBDMzUyLjI1OCwyNy40NjYsMzUyLjI1OCw1Mi45MTIsMzM2LjU1OSw2OC42MTF6Ii8+PC9nPjwvc3ZnPg==");background-size:contain;background-repeat:no-repeat;background-position:center;height:12px;width:12px}#onetrust-banner-sdk .powered-by-logo,#onetrust-banner-sdk .ot-pc-footer-logo a,#onetrust-pc-sdk .powered-by-logo,#onetrust-pc-sdk .ot-pc-footer-logo a,#ot-sync-ntfy .powered-by-logo,#ot-sync-ntfy .ot-pc-footer-logo a{background-size:contain;background-repeat:no-repeat;background-position:center;height:25px;width:152px;display:block}#onetrust-banner-sdk h3 *,#onetrust-banner-sdk h4 *,#onetrust-banner-sdk h6 *,#onetrust-banner-sdk button *,#onetrust-banner-sdk a[data-parent-id] *,#onetrust-pc-sdk h3 *,#onetrust-pc-sdk h4 *,#onetrust-pc-sdk h6 *,#onetrust-pc-sdk button *,#onetrust-pc-sdk a[data-parent-id] *,#ot-sync-ntfy h3 *,#ot-sync-ntfy h4 *,#ot-sync-ntfy h6 *,#ot-sync-ntfy button *,#ot-sync-ntfy a[data-parent-id] *{font-size:inherit;font-weight:inherit;color:inherit}#onetrust-banner-sdk .ot-hide,#onetrust-pc-sdk .ot-hide,#ot-sync-ntfy .ot-hide{display:none !important}#onetrust-pc-sdk .ot-sdk-row .ot-sdk-column{padding:0}#onetrust-pc-sdk .ot-sdk-container{padding-right:0}#onetrust-pc-sdk .ot-sdk-row{flex-direction:initial;width:100%}#onetrust-pc-sdk [type="checkbox"]:checked,#onetrust-pc-sdk [type="checkbox"]:not(:checked){pointer-events:initial}#onetrust-pc-sdk [type="checkbox"]:disabled+label::before,#onetrust-pc-sdk [type="checkbox"]:disabled+label:after,#onetrust-pc-sdk [type="checkbox"]:disabled+label{pointer-events:none;opacity:0.7}#onetrust-pc-sdk #vendor-list-content{transform:translate3d(0, 0, 0)}#onetrust-pc-sdk li input[type="checkbox"]{z-index:1}#onetrust-pc-sdk li .ot-checkbox label{z-index:2}#onetrust-pc-sdk li .ot-checkbox input[type="checkbox"]{height:auto;width:auto}#onetrust-pc-sdk li .host-title a,#onetrust-pc-sdk li .ot-host-name a,#onetrust-pc-sdk li .accordion-text,#onetrust-pc-sdk li .ot-acc-txt{z-index:2;position:relative}#onetrust-pc-sdk input{margin:3px 0.1ex}#onetrust-pc-sdk .pc-logo,#onetrust-pc-sdk .ot-pc-logo{height:60px;width:180px;background-position:center;background-size:contain;background-repeat:no-repeat}#onetrust-pc-sdk .screen-reader-only,#onetrust-pc-sdk .ot-scrn-rdr,.ot-sdk-cookie-policy .screen-reader-only,.ot-sdk-cookie-policy .ot-scrn-rdr{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}#onetrust-pc-sdk.ot-fade-in,.onetrust-pc-dark-filter.ot-fade-in,#onetrust-banner-sdk.ot-fade-in{animation-name:onetrust-fade-in;animation-duration:400ms;animation-timing-function:ease-in-out}#onetrust-pc-sdk.ot-hide{display:none !important}.onetrust-pc-dark-filter.ot-hide{display:none !important}#ot-sdk-btn.ot-sdk-show-settings,#ot-sdk-btn.optanon-show-settings{color:#68b631;border:1px solid #68b631;height:auto;white-space:normal;word-wrap:break-word;padding:0.8em 2em;font-size:0.8em;line-height:1.2;cursor:pointer;-moz-transition:0.1s ease;-o-transition:0.1s ease;-webkit-transition:1s ease;transition:0.1s ease}#ot-sdk-btn.ot-sdk-show-settings:hover,#ot-sdk-btn.optanon-show-settings:hover{color:#fff;background-color:#68b631}.onetrust-pc-dark-filter{background:rgba(0,0,0,0.5);z-index:2147483646;width:100%;height:100%;overflow:hidden;position:fixed;top:0;bottom:0;left:0}@keyframes onetrust-fade-in{0%{opacity:0}100%{opacity:1}}.ot-cookie-label{text-decoration:underline}@media only screen and (min-width: 426px) and (max-width: 896px) and (orientation: landscape){#onetrust-pc-sdk p{font-size:0.75em}}#onetrust-banner-sdk .banner-option-input:focus+label{outline:1px solid #000;outline-style:auto}.category-vendors-list-handler+a:focus,.category-vendors-list-handler+a:focus-visible{outline:2px solid #000}
+#onetrust-banner-sdk,#onetrust-pc-sdk,#ot-sdk-cookie-policy,#ot-sync-ntfy{font-size:16px}#onetrust-banner-sdk *,#onetrust-banner-sdk ::after,#onetrust-banner-sdk ::before,#onetrust-pc-sdk *,#onetrust-pc-sdk ::after,#onetrust-pc-sdk ::before,#ot-sdk-cookie-policy *,#ot-sdk-cookie-policy ::after,#ot-sdk-cookie-policy ::before,#ot-sync-ntfy *,#ot-sync-ntfy ::after,#ot-sync-ntfy ::before{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}#onetrust-banner-sdk div,#onetrust-banner-sdk span,#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-banner-sdk p,#onetrust-banner-sdk img,#onetrust-banner-sdk svg,#onetrust-banner-sdk button,#onetrust-banner-sdk section,#onetrust-banner-sdk a,#onetrust-banner-sdk label,#onetrust-banner-sdk input,#onetrust-banner-sdk ul,#onetrust-banner-sdk li,#onetrust-banner-sdk nav,#onetrust-banner-sdk table,#onetrust-banner-sdk thead,#onetrust-banner-sdk tr,#onetrust-banner-sdk td,#onetrust-banner-sdk tbody,#onetrust-banner-sdk .ot-main-content,#onetrust-banner-sdk .ot-toggle,#onetrust-banner-sdk #ot-content,#onetrust-banner-sdk #ot-pc-content,#onetrust-banner-sdk .checkbox,#onetrust-pc-sdk div,#onetrust-pc-sdk span,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#onetrust-pc-sdk p,#onetrust-pc-sdk img,#onetrust-pc-sdk svg,#onetrust-pc-sdk button,#onetrust-pc-sdk section,#onetrust-pc-sdk a,#onetrust-pc-sdk label,#onetrust-pc-sdk input,#onetrust-pc-sdk ul,#onetrust-pc-sdk li,#onetrust-pc-sdk nav,#onetrust-pc-sdk table,#onetrust-pc-sdk thead,#onetrust-pc-sdk tr,#onetrust-pc-sdk td,#onetrust-pc-sdk tbody,#onetrust-pc-sdk .ot-main-content,#onetrust-pc-sdk .ot-toggle,#onetrust-pc-sdk #ot-content,#onetrust-pc-sdk #ot-pc-content,#onetrust-pc-sdk .checkbox,#ot-sdk-cookie-policy div,#ot-sdk-cookie-policy span,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6,#ot-sdk-cookie-policy p,#ot-sdk-cookie-policy img,#ot-sdk-cookie-policy svg,#ot-sdk-cookie-policy button,#ot-sdk-cookie-policy section,#ot-sdk-cookie-policy a,#ot-sdk-cookie-policy label,#ot-sdk-cookie-policy input,#ot-sdk-cookie-policy ul,#ot-sdk-cookie-policy li,#ot-sdk-cookie-policy nav,#ot-sdk-cookie-policy table,#ot-sdk-cookie-policy thead,#ot-sdk-cookie-policy tr,#ot-sdk-cookie-policy td,#ot-sdk-cookie-policy tbody,#ot-sdk-cookie-policy .ot-main-content,#ot-sdk-cookie-policy .ot-toggle,#ot-sdk-cookie-policy #ot-content,#ot-sdk-cookie-policy #ot-pc-content,#ot-sdk-cookie-policy .checkbox,#ot-sync-ntfy div,#ot-sync-ntfy span,#ot-sync-ntfy h1,#ot-sync-ntfy h2,#ot-sync-ntfy h3,#ot-sync-ntfy h4,#ot-sync-ntfy h5,#ot-sync-ntfy h6,#ot-sync-ntfy p,#ot-sync-ntfy img,#ot-sync-ntfy svg,#ot-sync-ntfy button,#ot-sync-ntfy section,#ot-sync-ntfy a,#ot-sync-ntfy label,#ot-sync-ntfy input,#ot-sync-ntfy ul,#ot-sync-ntfy li,#ot-sync-ntfy nav,#ot-sync-ntfy table,#ot-sync-ntfy thead,#ot-sync-ntfy tr,#ot-sync-ntfy td,#ot-sync-ntfy tbody,#ot-sync-ntfy .ot-main-content,#ot-sync-ntfy .ot-toggle,#ot-sync-ntfy #ot-content,#ot-sync-ntfy #ot-pc-content,#ot-sync-ntfy .checkbox{font-family:inherit;font-weight:normal;-webkit-font-smoothing:auto;letter-spacing:normal;line-height:normal;padding:0;margin:0;height:auto;min-height:0;max-height:none;width:auto;min-width:0;max-width:none;border-radius:0;border:none;clear:none;float:none;position:static;bottom:auto;left:auto;right:auto;top:auto;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;white-space:normal;background:none;overflow:visible;vertical-align:baseline;visibility:visible;z-index:auto;box-shadow:none}#onetrust-banner-sdk label:before,#onetrust-banner-sdk label:after,#onetrust-banner-sdk .checkbox:after,#onetrust-banner-sdk .checkbox:before,#onetrust-pc-sdk label:before,#onetrust-pc-sdk label:after,#onetrust-pc-sdk .checkbox:after,#onetrust-pc-sdk .checkbox:before,#ot-sdk-cookie-policy label:before,#ot-sdk-cookie-policy label:after,#ot-sdk-cookie-policy .checkbox:after,#ot-sdk-cookie-policy .checkbox:before,#ot-sync-ntfy label:before,#ot-sync-ntfy label:after,#ot-sync-ntfy .checkbox:after,#ot-sync-ntfy .checkbox:before{content:"";content:none}
+#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{position:relative;width:100%;max-width:100%;margin:0 auto;padding:0 20px;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{width:100%;float:left;box-sizing:border-box;padding:0;display:initial}@media (min-width: 400px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:90%;padding:0}}@media (min-width: 550px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:100%}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{margin-left:4%}#onetrust-banner-sdk .ot-sdk-column:first-child,#onetrust-banner-sdk .ot-sdk-columns:first-child,#onetrust-pc-sdk .ot-sdk-column:first-child,#onetrust-pc-sdk .ot-sdk-columns:first-child,#ot-sdk-cookie-policy .ot-sdk-column:first-child,#ot-sdk-cookie-policy .ot-sdk-columns:first-child{margin-left:0}#onetrust-banner-sdk .ot-sdk-two.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-two.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-two.ot-sdk-columns{width:13.3333333333%}#onetrust-banner-sdk .ot-sdk-three.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-three.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-three.ot-sdk-columns{width:22%}#onetrust-banner-sdk .ot-sdk-four.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-four.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-four.ot-sdk-columns{width:30.6666666667%}#onetrust-banner-sdk .ot-sdk-eight.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eight.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eight.ot-sdk-columns{width:65.3333333333%}#onetrust-banner-sdk .ot-sdk-nine.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-nine.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-nine.ot-sdk-columns{width:74%}#onetrust-banner-sdk .ot-sdk-ten.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-ten.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-ten.ot-sdk-columns{width:82.6666666667%}#onetrust-banner-sdk .ot-sdk-eleven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eleven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eleven.ot-sdk-columns{width:91.3333333333%}#onetrust-banner-sdk .ot-sdk-twelve.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-twelve.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-twelve.ot-sdk-columns{width:100%;margin-left:0}}#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6{margin-top:0;font-weight:600;font-family:inherit}#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem;line-height:1.2}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem;line-height:1.25}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem;line-height:1.3}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem;line-height:1.35}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem;line-height:1.5}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem;line-height:1.6}@media (min-width: 550px){#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem}}#onetrust-banner-sdk p,#onetrust-pc-sdk p,#ot-sdk-cookie-policy p{margin:0 0 1em 0;font-family:inherit;line-height:normal}#onetrust-banner-sdk a,#onetrust-pc-sdk a,#ot-sdk-cookie-policy a{color:#565656;text-decoration:underline}#onetrust-banner-sdk a:hover,#onetrust-pc-sdk a:hover,#ot-sdk-cookie-policy a:hover{color:#565656;text-decoration:none}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button{margin-bottom:1rem;font-family:inherit}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button{display:inline-block;height:38px;padding:0 30px;color:#555;text-align:center;font-size:0.9em;font-weight:400;line-height:38px;letter-spacing:0.01em;text-decoration:none;white-space:nowrap;background-color:transparent;border-radius:2px;border:1px solid #bbb;cursor:pointer;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-button:hover,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:hover,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-pc-sdk .ot-sdk-button:hover,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:hover,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:focus,#ot-sdk-cookie-policy .ot-sdk-button:hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:focus{color:#333;border-color:#888;opacity:0.7}#onetrust-banner-sdk .ot-sdk-button:focus,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-pc-sdk .ot-sdk-button:focus,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:focus,#ot-sdk-cookie-policy .ot-sdk-button:focus,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:focus{outline:2px solid #000}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-banner-sdk button.ot-sdk-button-primary,#onetrust-banner-sdk input[type="submit"].ot-sdk-button-primary,#onetrust-banner-sdk input[type="reset"].ot-sdk-button-primary,#onetrust-banner-sdk input[type="button"].ot-sdk-button-primary,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-pc-sdk button.ot-sdk-button-primary,#onetrust-pc-sdk input[type="submit"].ot-sdk-button-primary,#onetrust-pc-sdk input[type="reset"].ot-sdk-button-primary,#onetrust-pc-sdk input[type="button"].ot-sdk-button-primary,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary,#ot-sdk-cookie-policy button.ot-sdk-button-primary,#ot-sdk-cookie-policy input[type="submit"].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type="reset"].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type="button"].ot-sdk-button-primary{color:#fff;background-color:#33c3f0;border-color:#33c3f0}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-banner-sdk button.ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type="submit"].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type="reset"].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type="button"].ot-sdk-button-primary:hover,#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-banner-sdk button.ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type="submit"].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type="reset"].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type="button"].ot-sdk-button-primary:focus,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-pc-sdk button.ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type="submit"].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type="reset"].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type="button"].ot-sdk-button-primary:hover,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-pc-sdk button.ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type="submit"].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type="reset"].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type="button"].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type="submit"].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type="reset"].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type="button"].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type="submit"].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type="reset"].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type="button"].ot-sdk-button-primary:focus{color:#fff;background-color:#1eaedb;border-color:#1eaedb}#onetrust-banner-sdk input[type="text"],#onetrust-pc-sdk input[type="text"],#ot-sdk-cookie-policy input[type="text"]{height:38px;padding:6px 10px;background-color:#fff;border:1px solid #d1d1d1;border-radius:4px;box-shadow:none;box-sizing:border-box}#onetrust-banner-sdk input[type="text"],#onetrust-pc-sdk input[type="text"],#ot-sdk-cookie-policy input[type="text"]{-webkit-appearance:none;-moz-appearance:none;appearance:none}#onetrust-banner-sdk input[type="text"]:focus,#onetrust-pc-sdk input[type="text"]:focus,#ot-sdk-cookie-policy input[type="text"]:focus{border:1px solid #000;outline:0}#onetrust-banner-sdk label,#onetrust-pc-sdk label,#ot-sdk-cookie-policy label{display:block;margin-bottom:0.5rem;font-weight:600}#onetrust-banner-sdk input[type="checkbox"],#onetrust-pc-sdk input[type="checkbox"],#ot-sdk-cookie-policy input[type="checkbox"]{display:inline}#onetrust-banner-sdk ul,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ul{list-style:circle inside}#onetrust-banner-sdk ul,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ul{padding-left:0;margin-top:0}#onetrust-banner-sdk ul ul,#onetrust-pc-sdk ul ul,#ot-sdk-cookie-policy ul ul{margin:1.5rem 0 1.5rem 3rem;font-size:90%}#onetrust-banner-sdk li,#onetrust-pc-sdk li,#ot-sdk-cookie-policy li{margin-bottom:1rem}#onetrust-banner-sdk th,#onetrust-banner-sdk td,#onetrust-pc-sdk th,#onetrust-pc-sdk td,#ot-sdk-cookie-policy th,#ot-sdk-cookie-policy td{padding:12px 15px;text-align:left;border-bottom:1px solid #e1e1e1}#onetrust-banner-sdk button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy button{margin-bottom:1rem;font-family:inherit}#onetrust-banner-sdk .ot-sdk-container:after,#onetrust-banner-sdk .ot-sdk-row:after,#onetrust-pc-sdk .ot-sdk-container:after,#onetrust-pc-sdk .ot-sdk-row:after,#ot-sdk-cookie-policy .ot-sdk-container:after,#ot-sdk-cookie-policy .ot-sdk-row:after{content:"";display:table;clear:both}#onetrust-banner-sdk .ot-sdk-row,#onetrust-pc-sdk .ot-sdk-row,#ot-sdk-cookie-policy .ot-sdk-row{margin:0;max-width:none;display:block}
+#onetrust-banner-sdk{box-shadow:0 0 18px rgba(0,0,0,.2)}#onetrust-banner-sdk.otFlat{position:fixed;z-index:2147483645;bottom:0;right:0;left:0;background-color:#fff;max-height:90%;overflow-x:hidden;overflow-y:auto}#onetrust-banner-sdk.otFlat.top{top:0px;bottom:auto}#onetrust-banner-sdk.otRelFont{font-size:1rem}#onetrust-banner-sdk>.ot-sdk-container{overflow:hidden}#onetrust-banner-sdk::-webkit-scrollbar{width:11px}#onetrust-banner-sdk::-webkit-scrollbar-thumb{border-radius:10px;background:#c1c1c1}#onetrust-banner-sdk{scrollbar-arrow-color:#c1c1c1;scrollbar-darkshadow-color:#c1c1c1;scrollbar-face-color:#c1c1c1;scrollbar-shadow-color:#c1c1c1}#onetrust-banner-sdk #onetrust-policy{margin:1.25em 0 .625em 2em;overflow:hidden}#onetrust-banner-sdk #onetrust-policy .ot-gv-list-handler{float:left;font-size:.82em;padding:0;margin-bottom:0;border:0;line-height:normal;height:auto;width:auto}#onetrust-banner-sdk #onetrust-policy-title{font-size:1.2em;line-height:1.3;margin-bottom:10px}#onetrust-banner-sdk #onetrust-policy-text{clear:both;text-align:left;font-size:.88em;line-height:1.4}#onetrust-banner-sdk #onetrust-policy-text *{font-size:inherit;line-height:inherit}#onetrust-banner-sdk #onetrust-policy-text a{font-weight:bold;margin-left:5px}#onetrust-banner-sdk #onetrust-policy-title,#onetrust-banner-sdk #onetrust-policy-text{color:dimgray;float:left}#onetrust-banner-sdk #onetrust-button-group-parent{min-height:1px;text-align:center}#onetrust-banner-sdk #onetrust-button-group{display:inline-block}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{background-color:#68b631;color:#fff;border-color:#68b631;margin-right:1em;min-width:125px;height:auto;white-space:normal;word-break:break-word;word-wrap:break-word;padding:12px 10px;line-height:1.2;font-size:.813em;font-weight:600}#onetrust-banner-sdk #onetrust-pc-btn-handler.cookie-setting-link{background-color:#fff;border:none;color:#68b631;text-decoration:underline;padding-left:0;padding-right:0}#onetrust-banner-sdk .onetrust-close-btn-ui{width:44px;height:44px;background-size:12px;border:none;position:relative;margin:auto;padding:0}#onetrust-banner-sdk .banner_logo{display:none}#onetrust-banner-sdk .ot-b-addl-desc{clear:both;float:left;display:block}#onetrust-banner-sdk #banner-options{float:left;display:table;margin-right:0;margin-left:1em;width:calc(100% - 1em)}#onetrust-banner-sdk .banner-option-input{cursor:pointer;width:auto;height:auto;border:none;padding:0;padding-right:3px;margin:0 0 10px;font-size:.82em;line-height:1.4}#onetrust-banner-sdk .banner-option-input *{pointer-events:none;font-size:inherit;line-height:inherit}#onetrust-banner-sdk .banner-option-input[aria-expanded=true]~.banner-option-details{display:block;height:auto}#onetrust-banner-sdk .banner-option-input[aria-expanded=true] .ot-arrow-container{transform:rotate(90deg)}#onetrust-banner-sdk .banner-option{margin-bottom:12px;margin-left:0;border:none;float:left;padding:0}#onetrust-banner-sdk .banner-option:first-child{padding-left:2px}#onetrust-banner-sdk .banner-option:not(:first-child){padding:0;border:none}#onetrust-banner-sdk .banner-option-header{cursor:pointer;display:inline-block}#onetrust-banner-sdk .banner-option-header :first-child{color:dimgray;font-weight:bold;float:left}#onetrust-banner-sdk .banner-option-header .ot-arrow-container{display:inline-block;border-top:6px solid transparent;border-bottom:6px solid transparent;border-left:6px solid dimgray;margin-left:10px;vertical-align:middle}#onetrust-banner-sdk .banner-option-details{display:none;font-size:.83em;line-height:1.5;padding:10px 0px 5px 10px;margin-right:10px;height:0px}#onetrust-banner-sdk .banner-option-details *{font-size:inherit;line-height:inherit;color:dimgray}#onetrust-banner-sdk .ot-arrow-container,#onetrust-banner-sdk .banner-option-details{transition:all 300ms ease-in 0s;-webkit-transition:all 300ms ease-in 0s;-moz-transition:all 300ms ease-in 0s;-o-transition:all 300ms ease-in 0s}#onetrust-banner-sdk .ot-dpd-container{float:left}#onetrust-banner-sdk .ot-dpd-title{margin-bottom:10px}#onetrust-banner-sdk .ot-dpd-title,#onetrust-banner-sdk .ot-dpd-desc{font-size:.88em;line-height:1.4;color:dimgray}#onetrust-banner-sdk .ot-dpd-title *,#onetrust-banner-sdk .ot-dpd-desc *{font-size:inherit;line-height:inherit}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-text *{margin-bottom:0}#onetrust-banner-sdk.ot-iab-2 .onetrust-vendors-list-handler{display:block;margin-left:0;margin-top:5px;clear:both;margin-bottom:0;padding:0;border:0;height:auto;width:auto}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group button{display:block}#onetrust-banner-sdk.ot-close-btn-link{padding-top:25px}#onetrust-banner-sdk.ot-close-btn-link #onetrust-close-btn-container{top:15px;transform:none;right:15px}#onetrust-banner-sdk.ot-close-btn-link #onetrust-close-btn-container button{padding:0;white-space:pre-wrap;border:none;height:auto;line-height:1.5;text-decoration:underline;font-size:.69em}#onetrust-banner-sdk #onetrust-policy-text,#onetrust-banner-sdk .ot-dpd-desc,#onetrust-banner-sdk .ot-b-addl-desc{font-size:.813em;line-height:1.5}#onetrust-banner-sdk .ot-dpd-desc{margin-bottom:10px}#onetrust-banner-sdk .ot-dpd-desc>.ot-b-addl-desc{margin-top:10px;margin-bottom:10px;font-size:1em}@media only screen and (max-width: 425px){#onetrust-banner-sdk #onetrust-close-btn-container{position:absolute;top:10px;right:10px}#onetrust-banner-sdk #onetrust-policy{margin-left:0}#onetrust-banner-sdk #onetrust-button-group{display:block}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{width:100%}#onetrust-banner-sdk .onetrust-close-btn-ui{top:auto;transform:none}#onetrust-banner-sdk #onetrust-policy-title{display:inline;float:none}#onetrust-banner-sdk #banner-options{margin:0;padding:0;width:100%}}@media only screen and (min-width: 426px)and (max-width: 896px){#onetrust-banner-sdk #onetrust-close-btn-container{position:absolute;top:0;right:0}#onetrust-banner-sdk #onetrust-policy{margin-left:1em;margin-right:1em}#onetrust-banner-sdk .onetrust-close-btn-ui{top:10px;right:10px}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-group-container{width:95%}#onetrust-banner-sdk.ot-iab-2 #onetrust-group-container{width:100%}#onetrust-banner-sdk #onetrust-button-group-parent{width:100%;position:relative;margin-left:0}#onetrust-banner-sdk #onetrust-button-group button{display:inline-block}#onetrust-banner-sdk #onetrust-button-group{margin-right:0;text-align:center}#onetrust-banner-sdk .has-reject-all-button #onetrust-pc-btn-handler{float:left}#onetrust-banner-sdk .has-reject-all-button #onetrust-reject-all-handler,#onetrust-banner-sdk .has-reject-all-button #onetrust-accept-btn-handler{float:right}#onetrust-banner-sdk .has-reject-all-button #onetrust-button-group{width:calc(100% - 2em);margin-right:0}#onetrust-banner-sdk .has-reject-all-button #onetrust-pc-btn-handler.cookie-setting-link{padding-left:0px;text-align:left}#onetrust-banner-sdk.ot-buttons-fw .ot-sdk-three button{width:100%;text-align:center}#onetrust-banner-sdk.ot-buttons-fw #onetrust-button-group-parent button{float:none}#onetrust-banner-sdk.ot-buttons-fw #onetrust-pc-btn-handler.cookie-setting-link{text-align:center}}@media only screen and (min-width: 550px){#onetrust-banner-sdk .banner-option:not(:first-child){border-left:1px solid #d8d8d8;padding-left:25px}}@media only screen and (min-width: 425px)and (max-width: 550px){#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group,#onetrust-banner-sdk.ot-iab-2 #onetrust-policy,#onetrust-banner-sdk.ot-iab-2 .banner-option{width:100%}}@media only screen and (min-width: 769px){#onetrust-banner-sdk #onetrust-button-group{margin-right:30%}#onetrust-banner-sdk #banner-options{margin-left:2em;margin-right:5em;margin-bottom:1.25em;width:calc(100% - 7em)}}@media only screen and (min-width: 897px)and (max-width: 1023px){#onetrust-banner-sdk.vertical-align-content #onetrust-button-group-parent{position:absolute;top:50%;left:75%;transform:translateY(-50%)}#onetrust-banner-sdk #onetrust-close-btn-container{top:50%;margin:auto;transform:translate(-50%, -50%);position:absolute;padding:0;right:0}#onetrust-banner-sdk #onetrust-close-btn-container button{position:relative;margin:0;right:-22px;top:2px}}@media only screen and (min-width: 1024px){#onetrust-banner-sdk #onetrust-close-btn-container{top:50%;margin:auto;transform:translate(-50%, -50%);position:absolute;right:0}#onetrust-banner-sdk #onetrust-close-btn-container button{right:-12px}#onetrust-banner-sdk #onetrust-policy{margin-left:2em}#onetrust-banner-sdk.vertical-align-content #onetrust-button-group-parent{position:absolute;top:50%;left:60%;transform:translateY(-50%)}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-title{width:50%}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-text,#onetrust-banner-sdk.ot-iab-2 :not(.ot-dpd-desc)>.ot-b-addl-desc{margin-bottom:1em;width:50%;border-right:1px solid #d8d8d8;padding-right:1rem}#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-text{margin-bottom:0;padding-bottom:1em}#onetrust-banner-sdk.ot-iab-2 :not(.ot-dpd-desc)>.ot-b-addl-desc{margin-bottom:0;padding-bottom:1em}#onetrust-banner-sdk.ot-iab-2 .ot-dpd-container{width:45%;padding-left:1rem;display:inline-block;float:none}#onetrust-banner-sdk.ot-iab-2 .ot-dpd-title{line-height:1.7}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group-parent{left:auto;right:4%;margin-left:0}#onetrust-banner-sdk.ot-iab-2 #onetrust-button-group button{display:block}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-button-group-parent{margin:auto;width:30%}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-group-container{width:60%}#onetrust-banner-sdk #onetrust-button-group{margin-right:auto}#onetrust-banner-sdk #onetrust-accept-btn-handler,#onetrust-banner-sdk #onetrust-reject-all-handler,#onetrust-banner-sdk #onetrust-pc-btn-handler{margin-top:1em}}@media only screen and (min-width: 890px){#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group-parent{padding-left:3%;padding-right:4%;margin-left:0}#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group{margin-right:0;margin-top:1.25em;width:100%}#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group button{width:100%;margin-bottom:5px;margin-top:5px}#onetrust-banner-sdk.ot-buttons-fw:not(.ot-iab-2) #onetrust-button-group button:last-of-type{margin-bottom:20px}}@media only screen and (min-width: 1280px){#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-group-container{width:55%}#onetrust-banner-sdk:not(.ot-iab-2) #onetrust-button-group-parent{width:44%;padding-left:2%;padding-right:2%}#onetrust-banner-sdk:not(.ot-iab-2).vertical-align-content #onetrust-button-group-parent{position:absolute;left:55%}}
+        #onetrust-consent-sdk #onetrust-banner-sdk {background-color: #FFFFFF;}
+            #onetrust-consent-sdk #onetrust-policy-title,
+                    #onetrust-consent-sdk #onetrust-policy-text,
+                    #onetrust-consent-sdk .ot-b-addl-desc,
+                    #onetrust-consent-sdk .ot-dpd-desc,
+                    #onetrust-consent-sdk .ot-dpd-title,
+                    #onetrust-consent-sdk #onetrust-policy-text *:not(.onetrust-vendors-list-handler),
+                    #onetrust-consent-sdk .ot-dpd-desc *:not(.onetrust-vendors-list-handler),
+                    #onetrust-consent-sdk #onetrust-banner-sdk #banner-options *,
+                    #onetrust-banner-sdk .ot-cat-header {
+                        color: #696969;
+                    }
+            #onetrust-consent-sdk #onetrust-banner-sdk .banner-option-details {
+                    background-color: #E9E9E9;}
+             #onetrust-consent-sdk #onetrust-banner-sdk a[href],
+                    #onetrust-consent-sdk #onetrust-banner-sdk a[href] font,
+                    #onetrust-consent-sdk #onetrust-banner-sdk .ot-link-btn
+                        {
+                            color: #3860BE;
+                        }#onetrust-consent-sdk #onetrust-accept-btn-handler,
+                         #onetrust-banner-sdk #onetrust-reject-all-handler {
+                            background-color: #6242FC;border-color: #6242FC;
+                color: #FFFFFF;
+            }
+            #onetrust-consent-sdk #onetrust-banner-sdk *:focus,
+            #onetrust-consent-sdk #onetrust-banner-sdk:focus {
+               outline-color: #000000;
+               outline-width: 1px;
+            }
+            #onetrust-consent-sdk #onetrust-pc-btn-handler,
+            #onetrust-consent-sdk #onetrust-pc-btn-handler.cookie-setting-link {
+                color: #5652EA; border-color: #5652EA;
+                background-color: 
+                #FFFFFF;
+            }#onetrust-banner-sdk.ot-close-btn-link .banner-close-button {color: #696969}.onetrust-button-group {
+  border-radius: 63px;
+}#onetrust-pc-sdk{position:fixed;width:730px;max-width:730px;height:610px;left:0;right:0;top:0;bottom:0;margin:auto;font-size:16px;z-index:2147483647;border-radius:2px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,0),0 7px 14px 0 rgba(50,50,93,.1)}#onetrust-pc-sdk.otRelFont{font-size:1rem}#onetrust-pc-sdk *,#onetrust-pc-sdk ::after,#onetrust-pc-sdk ::before{box-sizing:content-box}#onetrust-pc-sdk #ot-addtl-venlst .ot-arw-cntr,#onetrust-pc-sdk .ot-hide-tgl{visibility:hidden}#onetrust-pc-sdk #ot-addtl-venlst .ot-arw-cntr *,#onetrust-pc-sdk .ot-hide-tgl *{visibility:hidden}#onetrust-pc-sdk #ot-pc-content,#onetrust-pc-sdk #ot-pc-lst{height:calc(100% - 185px)}#onetrust-pc-sdk li{list-style:none}#onetrust-pc-sdk ul,#onetrust-pc-sdk li{margin:0}#onetrust-pc-sdk a{text-decoration:none}#onetrust-pc-sdk .ot-link-btn{padding:0;margin-bottom:0;border:0;font-weight:normal;line-height:normal;width:auto;height:auto}#onetrust-pc-sdk .ot-grps-cntr *::-webkit-scrollbar,#onetrust-pc-sdk .ot-pc-scrollbar::-webkit-scrollbar{width:11px}#onetrust-pc-sdk .ot-grps-cntr *::-webkit-scrollbar-thumb,#onetrust-pc-sdk .ot-pc-scrollbar::-webkit-scrollbar-thumb{border-radius:10px;background:#c1c1c1}#onetrust-pc-sdk .ot-grps-cntr *,#onetrust-pc-sdk .ot-pc-scrollbar{scrollbar-arrow-color:#c1c1c1;scrollbar-darkshadow-color:#c1c1c1;scrollbar-face-color:#c1c1c1;scrollbar-shadow-color:#c1c1c1}#onetrust-pc-sdk .ot-pc-header{height:auto;padding:10px;display:block;width:calc(100% - 20px);min-height:52px;border-bottom:1px solid #d8d8d8;position:relative}#onetrust-pc-sdk .ot-pc-logo{display:inline-block;vertical-align:middle;width:180px}#onetrust-pc-sdk .ot-pc-logo.ot-pc-logo{height:40px}#onetrust-pc-sdk .ot-title-cntr{position:relative;display:inline-block;vertical-align:middle;width:calc(100% - 190px);padding-left:10px}#onetrust-pc-sdk .ot-always-active{font-size:.813em;line-height:1.5;font-weight:700;color:#3860be}#onetrust-pc-sdk .ot-close-cntr{float:right;position:absolute;right:-9px;top:50%;transform:translateY(-50%)}#onetrust-pc-sdk #ot-pc-content{position:relative;overflow-y:auto;overflow-x:hidden}#onetrust-pc-sdk .ot-grps-cntr,#onetrust-pc-sdk .ot-grps-cntr>*{height:100%;overflow-y:auto}#onetrust-pc-sdk .category-menu-switch-handler{cursor:pointer;border-left:10px solid transparent;background-color:#f4f4f4;border-bottom:1px solid #d7d7d7;padding-top:12px;padding-right:5px;padding-bottom:12px;padding-left:12px;overflow:hidden}#onetrust-pc-sdk .category-menu-switch-handler h3{float:left;text-align:left;margin:0;color:dimgray;line-height:1.4;font-size:.875em;word-break:break-word;word-wrap:break-word}#onetrust-pc-sdk .ot-active-menu{border-left:10px solid #68b631;background-color:#fff;border-bottom:none;position:relative}#onetrust-pc-sdk .ot-active-menu h3{color:#263238;font-weight:bold}#onetrust-pc-sdk .ot-desc-cntr{word-break:break-word;word-wrap:break-word;padding-top:20px;padding-right:16px;padding-bottom:15px}#onetrust-pc-sdk .ot-grp-desc{word-break:break-word;word-wrap:break-word;text-align:left;font-size:.813em;line-height:1.5;margin:0}#onetrust-pc-sdk .ot-grp-desc *{font-size:inherit;line-height:inherit}#onetrust-pc-sdk #ot-pc-desc a{color:#3860be;cursor:pointer;font-size:1em}#onetrust-pc-sdk #ot-pc-desc a:hover{color:#1883fd}#onetrust-pc-sdk #ot-pc-desc *{font-size:inherit}#onetrust-pc-sdk #ot-pc-desc ul li{padding:10px 0px;border-bottom:1px solid #e2e2e2}#onetrust-pc-sdk .ot-btn-subcntr{float:right}#onetrust-pc-sdk .ot-close-icon{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjQ3Ljk3MSIgaGVpZ2h0PSI0Ny45NzEiIHZpZXdCb3g9IjAgMCA0Ny45NzEgNDcuOTcxIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA0Ny45NzEgNDcuOTcxOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PHBhdGggZD0iTTI4LjIyOCwyMy45ODZMNDcuMDkyLDUuMTIyYzEuMTcyLTEuMTcxLDEuMTcyLTMuMDcxLDAtNC4yNDJjLTEuMTcyLTEuMTcyLTMuMDctMS4xNzItNC4yNDIsMEwyMy45ODYsMTkuNzQ0TDUuMTIxLDAuODhjLTEuMTcyLTEuMTcyLTMuMDctMS4xNzItNC4yNDIsMGMtMS4xNzIsMS4xNzEtMS4xNzIsMy4wNzEsMCw0LjI0MmwxOC44NjUsMTguODY0TDAuODc5LDQyLjg1Yy0xLjE3MiwxLjE3MS0xLjE3MiwzLjA3MSwwLDQuMjQyQzEuNDY1LDQ3LjY3NywyLjIzMyw0Ny45NywzLDQ3Ljk3czEuNTM1LTAuMjkzLDIuMTIxLTAuODc5bDE4Ljg2NS0xOC44NjRMNDIuODUsNDcuMDkxYzAuNTg2LDAuNTg2LDEuMzU0LDAuODc5LDIuMTIxLDAuODc5czEuNTM1LTAuMjkzLDIuMTIxLTAuODc5YzEuMTcyLTEuMTcxLDEuMTcyLTMuMDcxLDAtNC4yNDJMMjguMjI4LDIzLjk4NnoiLz48L2c+PC9zdmc+");background-size:12px;background-repeat:no-repeat;background-position:center;height:44px;width:44px;display:inline-block}#onetrust-pc-sdk .ot-tgl{float:right;position:relative;z-index:1}#onetrust-pc-sdk .ot-tgl input:checked+.ot-switch .ot-switch-nob{background-color:#cddcf2}#onetrust-pc-sdk .ot-tgl input:checked+.ot-switch .ot-switch-nob:before{-webkit-transform:translateX(16px);-ms-transform:translateX(16px);transform:translateX(16px);background-color:#4285f4}#onetrust-pc-sdk .ot-tgl input:focus+.ot-switch .ot-switch-nob:before{box-shadow:0 0 1px #2196f3;outline-style:auto;outline-width:1px}#onetrust-pc-sdk .ot-switch{position:relative;display:inline-block;width:35px;height:10px;margin-bottom:0}#onetrust-pc-sdk .ot-switch-nob{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background-color:#f2f1f1;border:none;transition:all .2s ease-in 0s;-moz-transition:all .2s ease-in 0s;-o-transition:all .2s ease-in 0s;-webkit-transition:all .2s ease-in 0s;border-radius:46px}#onetrust-pc-sdk .ot-switch-nob:before{position:absolute;content:"";height:20px;width:20px;bottom:1px;background-color:#7d7d7d;-webkit-transition:.4s;border-radius:100%;top:-5px;transition:.4s}#onetrust-pc-sdk .ot-chkbox{z-index:1;position:relative}#onetrust-pc-sdk .ot-chkbox input:checked~label::before{background-color:#3860be}#onetrust-pc-sdk .ot-chkbox input+label::after{content:none;color:#fff}#onetrust-pc-sdk .ot-chkbox input:checked+label::after{content:""}#onetrust-pc-sdk .ot-chkbox input:focus+label::before{outline-style:solid;outline-width:2px;outline-style:auto}#onetrust-pc-sdk .ot-chkbox label{position:relative;height:20px;padding-left:30px;display:inline-block;cursor:pointer}#onetrust-pc-sdk .ot-chkbox label::before,#onetrust-pc-sdk .ot-chkbox label::after{position:absolute;content:"";display:inline-block;border-radius:3px}#onetrust-pc-sdk .ot-chkbox label::before{height:18px;width:18px;border:1px solid #3860be;left:0px}#onetrust-pc-sdk .ot-chkbox label::after{height:5px;width:9px;border-left:3px solid;border-bottom:3px solid;transform:rotate(-45deg);-o-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);left:4px;top:5px}#onetrust-pc-sdk .ot-label-txt{display:none}#onetrust-pc-sdk .ot-fltr-opt .ot-label-txt{display:block}#onetrust-pc-sdk .ot-chkbox input,#onetrust-pc-sdk .ot-tgl input{position:absolute;opacity:0;width:0;height:0}#onetrust-pc-sdk .ot-arw-cntr{float:right;position:relative;pointer-events:none}#onetrust-pc-sdk .ot-arw{width:16px;height:16px;margin-left:5px;color:dimgray;display:inline-block;vertical-align:middle;-webkit-transition:all 150ms ease-in 0s;-moz-transition:all 150ms ease-in 0s;-o-transition:all 150ms ease-in 0s;transition:all 150ms ease-in 0s}#onetrust-pc-sdk input:checked~.ot-acc-hdr .ot-arw,#onetrust-pc-sdk button[aria-expanded=true]~.ot-acc-hdr .ot-arw-cntr svg{transform:rotate(90deg);-o-transform:rotate(90deg);-ms-transform:rotate(90deg);-webkit-transform:rotate(90deg)}#onetrust-pc-sdk .ot-label-status{font-size:.75em;position:relative;top:2px;display:none;padding-right:5px;float:left}#onetrust-pc-sdk #ot-lst-cnt .ot-label-status{top:-6px}#onetrust-pc-sdk .ot-fltr-btns{margin-left:15px;overflow:hidden;margin-right:15px}#onetrust-pc-sdk .ot-fltr-btns button{padding:12px 30px}#onetrust-pc-sdk .ot-pc-footer{position:absolute;bottom:0px;width:100%;max-height:160px;border-top:1px solid #d8d8d8}#onetrust-pc-sdk .ot-pc-footer button{margin-top:20px;margin-bottom:20px;font-weight:600;font-size:.813em;min-height:40px;height:auto;line-height:normal;padding:10px 30px}#onetrust-pc-sdk .ot-tab-desc{margin-left:3%}#onetrust-pc-sdk .ot-grp-hdr1{display:inline-block;width:100%;margin-bottom:10px}#onetrust-pc-sdk .ot-desc-cntr h4{color:#263238;display:inline-block;vertical-align:middle;margin:0;font-weight:bold;font-size:.875em;line-height:1.3;max-width:70%}#onetrust-pc-sdk #ot-pvcy-hdr{margin-bottom:10px}#onetrust-pc-sdk .ot-vlst-cntr{overflow:hidden}#onetrust-pc-sdk .category-vendors-list-handler,#onetrust-pc-sdk .category-host-list-handler,#onetrust-pc-sdk .category-vendors-list-handler+a{display:block;float:left;color:#3860be;font-size:.813em;font-weight:400;line-height:1.1;cursor:pointer;margin:5px 0px}#onetrust-pc-sdk .category-vendors-list-handler:hover,#onetrust-pc-sdk .category-host-list-handler:hover,#onetrust-pc-sdk .category-vendors-list-handler+a:hover{color:#1883fd}#onetrust-pc-sdk .category-vendors-list-handler+a::after{content:"";height:17px;width:15px;background-repeat:no-repeat;margin-left:2px;margin-top:-1px;float:right;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 511.626 511.627'%3E%3Cg fill='%231276CE'%3E%3Cpath d='M392.857 292.354h-18.274c-2.669 0-4.859.855-6.563 2.573-1.718 1.708-2.573 3.897-2.573 6.563v91.361c0 12.563-4.47 23.315-13.415 32.262-8.945 8.945-19.701 13.414-32.264 13.414H82.224c-12.562 0-23.317-4.469-32.264-13.414-8.945-8.946-13.417-19.698-13.417-32.262V155.31c0-12.562 4.471-23.313 13.417-32.259 8.947-8.947 19.702-13.418 32.264-13.418h200.994c2.669 0 4.859-.859 6.57-2.57 1.711-1.713 2.566-3.9 2.566-6.567V82.221c0-2.662-.855-4.853-2.566-6.563-1.711-1.713-3.901-2.568-6.57-2.568H82.224c-22.648 0-42.016 8.042-58.102 24.125C8.042 113.297 0 132.665 0 155.313v237.542c0 22.647 8.042 42.018 24.123 58.095 16.086 16.084 35.454 24.13 58.102 24.13h237.543c22.647 0 42.017-8.046 58.101-24.13 16.085-16.077 24.127-35.447 24.127-58.095v-91.358c0-2.669-.856-4.859-2.574-6.57-1.713-1.718-3.903-2.573-6.565-2.573z'/%3E%3Cpath d='M506.199 41.971c-3.617-3.617-7.905-5.424-12.85-5.424H347.171c-4.948 0-9.233 1.807-12.847 5.424-3.617 3.615-5.428 7.898-5.428 12.847s1.811 9.233 5.428 12.85l50.247 50.248-186.147 186.151c-1.906 1.903-2.856 4.093-2.856 6.563 0 2.479.953 4.668 2.856 6.571l32.548 32.544c1.903 1.903 4.093 2.852 6.567 2.852s4.665-.948 6.567-2.852l186.148-186.148 50.251 50.248c3.614 3.617 7.898 5.426 12.847 5.426s9.233-1.809 12.851-5.426c3.617-3.616 5.424-7.898 5.424-12.847V54.818c-.001-4.952-1.814-9.232-5.428-12.847z'/%3E%3C/g%3E%3C/svg%3E")}#onetrust-pc-sdk .category-host-list-handler,#onetrust-pc-sdk .ot-vlst-cntr,#onetrust-pc-sdk #ot-pc-desc+.category-vendors-list-handler{margin-top:8px}#onetrust-pc-sdk .ot-grp-hdr1+.ot-vlst-cntr{margin-top:0px;margin-bottom:10px}#onetrust-pc-sdk .ot-always-active-group h3.ot-cat-header,#onetrust-pc-sdk .ot-subgrp.ot-always-active-group>h4{max-width:70%}#onetrust-pc-sdk .ot-always-active-group .ot-tgl-cntr{max-width:28%}#onetrust-pc-sdk .ot-grp-desc ul,#onetrust-pc-sdk li.ot-subgrp p ul{margin:0px;margin-left:15px;padding-bottom:8px}#onetrust-pc-sdk .ot-grp-desc ul li,#onetrust-pc-sdk li.ot-subgrp p ul li{font-size:inherit;padding-top:8px;display:list-item;list-style:disc}#onetrust-pc-sdk ul.ot-subgrps{margin:0;font-size:inherit}#onetrust-pc-sdk ul.ot-subgrps li{padding:0;border:none;position:relative}#onetrust-pc-sdk ul.ot-subgrps li h4,#onetrust-pc-sdk ul.ot-subgrps li p{font-size:.82em;line-height:1.4}#onetrust-pc-sdk ul.ot-subgrps li p{color:dimgray;clear:both;float:left;margin-top:10px;margin-bottom:0;word-break:break-word;word-wrap:break-word}#onetrust-pc-sdk ul.ot-subgrps li h4{color:#263238;font-weight:bold;margin-bottom:0;float:left;position:relative;top:3px}#onetrust-pc-sdk li.ot-subgrp{margin-left:30px;display:inline-block;width:calc(100% - 30px)}#onetrust-pc-sdk .ot-subgrp-tgl{float:right}#onetrust-pc-sdk .ot-subgrp-tgl.ot-always-active-subgroup{width:auto}#onetrust-pc-sdk .ot-pc-footer-logo{height:30px;width:100%;text-align:right;background:#f4f4f4;border-radius:0 0 2px 2px}#onetrust-pc-sdk .ot-pc-footer-logo a{display:inline-block;margin-top:5px;margin-right:10px}#onetrust-pc-sdk #accept-recommended-btn-handler{float:right;text-align:center}#onetrust-pc-sdk .save-preference-btn-handler{min-width:155px;background-color:#68b631;border-radius:2px;color:#fff;font-size:.9em;line-height:1.1;text-align:center;margin-left:15px;margin-right:15px}#onetrust-pc-sdk .ot-btn-subcntr button{margin-right:16px}#onetrust-pc-sdk.ot-ftr-stacked .save-preference-btn-handler,#onetrust-pc-sdk.ot-ftr-stacked .ot-btn-subcntr{max-width:40%;white-space:normal;text-align:center}#onetrust-pc-sdk.ot-ftr-stacked .ot-btn-subcntr button{margin-left:auto;margin-right:auto;min-width:60%;max-width:90%}#onetrust-pc-sdk.ot-ftr-stacked .ot-btn-subcntr button:nth-child(2){margin-top:0}#onetrust-pc-sdk.ot-ftr-stacked #accept-recommended-btn-handler{float:none}#onetrust-pc-sdk.ot-ftr-stacked .ot-btn-container{overflow:hidden}#onetrust-pc-sdk #ot-pc-title{margin:0px;overflow:hidden;position:relative;line-height:1.2;max-height:2.4em;padding-right:1em;font-size:1.37em;text-overflow:ellipsis;white-space:nowrap;display:block;max-width:90%}#onetrust-pc-sdk #ot-pc-title.ot-pc-title-shrink{max-width:70%}#onetrust-pc-sdk #ot-pc-lst{width:100%;position:relative}#onetrust-pc-sdk #ot-pc-lst .ot-acc-hdr{padding-top:17px;padding-right:15px;padding-bottom:17px;padding-left:20px;display:inline-block;width:calc(100% - 35px);vertical-align:middle}#onetrust-pc-sdk #ot-pc-lst .ot-acc-txt{padding-top:6px;padding-right:15px;padding-bottom:10px;padding-left:20px}#onetrust-pc-sdk .ot-lst-cntr{height:100%}#onetrust-pc-sdk #ot-pc-hdr{padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:20px;display:inline-block;width:calc(100% - 50px);height:20px;border-bottom:1px solid #d8d8d8}#onetrust-pc-sdk #ot-pc-hdr input{height:32px;width:100%;border-radius:50px;font-size:.8em;padding-right:35px;padding-left:15px;float:left}#onetrust-pc-sdk #ot-pc-hdr input::placeholder{color:#d4d4d4;font-style:italic}#onetrust-pc-sdk #ot-lst-cnt{height:calc(100% - 86px);padding-left:30px;padding-right:27px;padding-top:20px;margin-top:8px;margin-right:3px;margin-bottom:4px;margin-left:0;overflow-x:hidden;overflow-y:auto;transform:translate3d(0, 0, 0)}#onetrust-pc-sdk #ot-back-arw{height:12px;width:12px}#onetrust-pc-sdk #ot-lst-title{display:inline-block;font-size:1em}#onetrust-pc-sdk #ot-lst-title h3{color:dimgray;font-weight:bold;margin-left:10px;display:inline-block;font-size:1em}#onetrust-pc-sdk #ot-lst-title h3 *{font-size:inherit}#onetrust-pc-sdk .ot-lst-subhdr{float:right;position:relative;bottom:6px}#onetrust-pc-sdk #ot-search-cntr{display:inline-block;vertical-align:middle;position:relative;width:300px}#onetrust-pc-sdk #ot-search-cntr svg{position:absolute;right:0px;width:30px;height:30px;font-size:1em;line-height:1;top:2px}#onetrust-pc-sdk #ot-fltr-cntr{display:inline-block;position:relative;margin-left:20px;vertical-align:middle;font-size:0}#onetrust-pc-sdk #filter-btn-handler{background-color:#3860be;border-radius:17px;-moz-transition:.1s ease;-o-transition:.1s ease;-webkit-transition:1s ease;transition:.1s ease;width:32px;height:32px;padding:0;margin:0;position:relative}#onetrust-pc-sdk #filter-btn-handler svg{cursor:pointer;width:15px;height:15px;position:absolute;left:50%;top:50%;transform:translate(-50%, -50%);padding-top:5px}#onetrust-pc-sdk #filter-btn-handler path{fill:#fff}#onetrust-pc-sdk #ot-sel-blk{min-width:200px;min-height:30px;padding-left:20px}#onetrust-pc-sdk #ot-selall-vencntr,#onetrust-pc-sdk #ot-selall-adtlvencntr{float:left;height:100%}#onetrust-pc-sdk #ot-selall-vencntr label,#onetrust-pc-sdk #ot-selall-adtlvencntr label{height:100%;padding-left:0}#onetrust-pc-sdk #ot-selall-hostcntr{width:21px;height:21px;position:relative;left:20px}#onetrust-pc-sdk #ot-selall-vencntr.line-through label::after,#onetrust-pc-sdk #ot-selall-adtlvencntr.line-through label::after,#onetrust-pc-sdk #ot-selall-licntr.line-through label::after,#onetrust-pc-sdk #ot-selall-hostcntr.line-through label::after,#onetrust-pc-sdk #ot-selall-gnvencntr.line-through label::after{height:auto;border-left:0;left:5px;top:10.5px;transform:none;-o-transform:none;-ms-transform:none;-webkit-transform:none}#onetrust-pc-sdk .ot-ven-name,#onetrust-pc-sdk .ot-host-name{color:#2c3643;font-weight:bold;font-size:.813em;line-height:1.2;margin:0;height:auto;text-align:left;word-break:break-word;word-wrap:break-word}#onetrust-pc-sdk .ot-ven-name *,#onetrust-pc-sdk .ot-host-name *{font-size:inherit}#onetrust-pc-sdk .ot-host-desc{font-size:.69em;line-height:1.4;margin-top:5px;margin-bottom:5px;color:dimgray}#onetrust-pc-sdk .ot-host-name>a{text-decoration:underline;position:relative;z-index:2;margin-bottom:5px;font-weight:bold}#onetrust-pc-sdk .ot-host-hdr{float:left;width:calc(100% - 50px);pointer-events:none;position:relative;z-index:1}#onetrust-pc-sdk .ot-host-hdr .ot-host-name{pointer-events:none}#onetrust-pc-sdk .ot-host-hdr a{pointer-events:initial}#onetrust-pc-sdk .ot-host-hdr .ot-host-name~a{margin-top:5px;font-size:.813em;text-decoration:underline}#onetrust-pc-sdk .ot-ven-hdr{width:88%;float:right}#onetrust-pc-sdk input:focus+.ot-acc-hdr{outline:#000 solid 1px !important}#onetrust-pc-sdk #ot-selall-hostcntr input[type=checkbox],#onetrust-pc-sdk #ot-selall-vencntr input[type=checkbox],#onetrust-pc-sdk #ot-selall-adtlvencntr input[type=checkbox]{position:absolute}#onetrust-pc-sdk .ot-host-item .ot-chkbox{float:left}#onetrust-pc-sdk.ot-addtl-vendors #ot-lst-cnt:not(.ot-host-cnt) .ot-sel-all-hdr{right:38px}#onetrust-pc-sdk.ot-addtl-vendors #ot-lst-cnt:not(.ot-host-cnt) #ot-sel-blk{background-color:#f9f9fc;border:1px solid #e2e2e2;width:auto;padding-bottom:5px;padding-top:5px}#onetrust-pc-sdk.ot-addtl-vendors #ot-lst-cnt:not(.ot-host-cnt) .ot-sel-all-chkbox{right:2px;width:auto}#onetrust-pc-sdk #ot-pc-lst .ot-acc-cntr{position:relative;border-left:1px solid #e2e2e2;border-right:1px solid #e2e2e2;border-bottom:1px solid #e2e2e2}#onetrust-pc-sdk #ot-pc-lst .ot-acc-cntr input{z-index:1}#onetrust-pc-sdk #ot-pc-lst .ot-acc-cntr>.ot-acc-hdr{background:#f9f9fc;padding-top:10px;padding-bottom:10px;background-color:#f9f9fc}#onetrust-pc-sdk #ot-pc-lst .ot-acc-cntr>.ot-acc-hdr input{z-index:2}#onetrust-pc-sdk #ot-pc-lst .ot-acc-cntr>input[type=checkbox]:checked~.ot-acc-hdr{border-bottom:1px solid #e2e2e2}#onetrust-pc-sdk #ot-pc-lst .ot-acc-cntr .ot-addtl-venbox{display:none}#onetrust-pc-sdk #ot-addtl-venlst .ot-tgl-cntr{margin-right:13px}#onetrust-pc-sdk .ot-vensec-title{font-size:.813em;display:inline-block}#onetrust-pc-sdk .ot-ven-item>button:focus,#onetrust-pc-sdk .ot-host-item>button:focus,#onetrust-pc-sdk .ot-acc-cntr>button:focus{outline:#000 solid 2px}#onetrust-pc-sdk .ot-ven-item>button,#onetrust-pc-sdk .ot-host-item>button,#onetrust-pc-sdk .ot-acc-cntr>button{position:absolute;cursor:pointer;width:100%;height:100%;border:0;opacity:0;margin:0;top:0;left:0}#onetrust-pc-sdk .ot-ven-item>button~.ot-acc-hdr,#onetrust-pc-sdk .ot-host-item>button~.ot-acc-hdr,#onetrust-pc-sdk .ot-acc-cntr>button~.ot-acc-hdr{cursor:pointer}#onetrust-pc-sdk .ot-ven-item>button[aria-expanded=false]~.ot-acc-txt,#onetrust-pc-sdk .ot-host-item>button[aria-expanded=false]~.ot-acc-txt,#onetrust-pc-sdk .ot-acc-cntr>button[aria-expanded=false]~.ot-acc-txt{margin-top:0;max-height:0;opacity:0;overflow:hidden;width:100%;transition:.25s ease-out;display:none}#onetrust-pc-sdk .ot-ven-item>button[aria-expanded=true]~.ot-acc-txt,#onetrust-pc-sdk .ot-host-item>button[aria-expanded=true]~.ot-acc-txt,#onetrust-pc-sdk .ot-acc-cntr>button[aria-expanded=true]~.ot-acc-txt{transition:.1s ease-in;display:block}#onetrust-pc-sdk .ot-ven-item ul{list-style:none inside;font-size:100%;margin:0}#onetrust-pc-sdk .ot-ven-item ul li{margin:0 !important;padding:0;border:none !important}#onetrust-pc-sdk .ot-hide-acc>button{pointer-events:none}#onetrust-pc-sdk .ot-hide-acc .ot-arw-cntr>*{visibility:hidden}#onetrust-pc-sdk #ot-ven-lst,#onetrust-pc-sdk #ot-host-lst,#onetrust-pc-sdk #ot-addtl-venlst,#onetrust-pc-sdk #ot-gn-venlst{width:100%}#onetrust-pc-sdk #ot-ven-lst li,#onetrust-pc-sdk #ot-host-lst li,#onetrust-pc-sdk #ot-addtl-venlst li,#onetrust-pc-sdk #ot-gn-venlst li{border:1px solid #d7d7d7;border-radius:2px;position:relative;margin-top:10px}#onetrust-pc-sdk #ot-gn-venlst li.ot-host-info{padding:.5rem;overflow-y:hidden}#onetrust-pc-sdk #ot-ven-lst .ot-tgl-cntr{width:65%}#onetrust-pc-sdk #ot-host-lst .ot-tgl-cntr{width:65%;float:left}#onetrust-pc-sdk label{margin-bottom:0}#onetrust-pc-sdk .ot-host-notice{float:right}#onetrust-pc-sdk .ot-ven-link,#onetrust-pc-sdk .ot-host-expand{color:dimgray;font-size:.75em;line-height:.9;display:inline-block}#onetrust-pc-sdk .ot-ven-link *,#onetrust-pc-sdk .ot-host-expand *{font-size:inherit}#onetrust-pc-sdk .ot-ven-link{position:relative;z-index:2}#onetrust-pc-sdk .ot-ven-link:hover{text-decoration:underline}#onetrust-pc-sdk .ot-ven-dets{border-radius:2px;background-color:#f8f8f8}#onetrust-pc-sdk .ot-ven-dets li:first-child p:first-child{border-top:none}#onetrust-pc-sdk .ot-ven-dets .ot-ven-disc:not(:first-child){border-top:1px solid #e9e9e9}#onetrust-pc-sdk .ot-ven-dets .ot-ven-disc:nth-child(n+3) p{display:inline-block}#onetrust-pc-sdk .ot-ven-dets .ot-ven-disc:nth-child(n+3) p:nth-of-type(odd){width:30%}#onetrust-pc-sdk .ot-ven-dets .ot-ven-disc:nth-child(n+3) p:nth-of-type(even){width:50%;word-break:break-word;word-wrap:break-word}#onetrust-pc-sdk .ot-ven-dets .ot-ven-disc p,#onetrust-pc-sdk .ot-ven-dets .ot-ven-disc h4{padding-top:5px;padding-bottom:5px;display:block}#onetrust-pc-sdk .ot-ven-dets .ot-ven-disc h4{display:inline-block}#onetrust-pc-sdk .ot-ven-dets p,#onetrust-pc-sdk .ot-ven-dets h4,#onetrust-pc-sdk .ot-ven-dets span{font-size:.69em;text-align:left;vertical-align:middle;word-break:break-word;word-wrap:break-word;margin:0;padding-bottom:10px;padding-left:15px;color:#2e3644}#onetrust-pc-sdk .ot-ven-dets h4{padding-top:5px}#onetrust-pc-sdk .ot-ven-dets span{color:dimgray;padding:0;vertical-align:baseline}#onetrust-pc-sdk .ot-ven-dets .ot-ven-pur h4{border-top:1px solid #e9e9e9;border-bottom:1px solid #e9e9e9;padding-bottom:5px;margin-bottom:5px;font-weight:bold}#onetrust-pc-sdk .ot-host-opt{display:inline-block;width:100%;margin:0;font-size:inherit}#onetrust-pc-sdk .ot-host-opt li>div div{font-size:.81em;padding:5px 0}#onetrust-pc-sdk .ot-host-opt li>div div:nth-child(1){width:30%;float:left}#onetrust-pc-sdk .ot-host-opt li>div div:nth-child(2){width:70%;float:left;word-break:break-word;word-wrap:break-word}#onetrust-pc-sdk #ot-host-lst li.ot-host-info{border:none;font-size:.8em;color:dimgray;float:left;text-align:left;padding:10px;margin-bottom:10px;width:calc(100% - 10px);background-color:#f8f8f8}#onetrust-pc-sdk #ot-host-lst li.ot-host-info a{color:dimgray}#onetrust-pc-sdk #ot-host-lst li.ot-host-info>div{overflow:auto}#onetrust-pc-sdk #no-results{text-align:center;margin-top:30px}#onetrust-pc-sdk #no-results p{font-size:1em;color:#2e3644;word-break:break-word;word-wrap:break-word}#onetrust-pc-sdk #no-results p span{font-weight:bold}#onetrust-pc-sdk .ot-tgl-cntr{display:inline-block;vertical-align:middle}#onetrust-pc-sdk .ot-arw-cntr,#onetrust-pc-sdk .ot-tgl-cntr{float:right}#onetrust-pc-sdk .ot-desc-cntr{padding-top:0px;margin-top:20px;padding-right:0px;border-radius:3px;overflow:hidden;padding-bottom:10px}#onetrust-pc-sdk .ot-desc-cntr:focus,#onetrust-pc-sdk .ot-desc-cntr:active,#onetrust-pc-sdk .ot-desc-cntr:focus-visible{outline:2px solid #101010;border-radius:2px}#onetrust-pc-sdk .ot-leg-border-color{border:1px solid #e9e9e9}#onetrust-pc-sdk .ot-leg-border-color .ot-subgrp-cntr{border-top:1px solid #e9e9e9;padding-bottom:10px}#onetrust-pc-sdk .ot-category-desc{padding-bottom:10px}#onetrust-pc-sdk .ot-grp-hdr1{padding-left:10px;width:calc(100% - 20px);padding-top:10px;margin-bottom:0px;padding-bottom:8px}#onetrust-pc-sdk .ot-subgrp-cntr{padding-top:10px}#onetrust-pc-sdk .ot-desc-cntr>*:not(.ot-grp-hdr1){padding-left:10px;padding-right:10px}#onetrust-pc-sdk .ot-pli-hdr{overflow:hidden;padding-top:7.5px;padding-bottom:7.5px;background-color:#f8f8f8;border:none;border-bottom:1px solid #e9e9e9}#onetrust-pc-sdk .ot-pli-hdr span:first-child{text-align:left;max-width:80px;padding-right:5px}#onetrust-pc-sdk .ot-pli-hdr span:last-child{padding-right:20px;text-align:center}#onetrust-pc-sdk .ot-li-title{float:right;font-size:.813em}#onetrust-pc-sdk .ot-desc-cntr .ot-tgl-cntr:first-of-type,#onetrust-pc-sdk .ot-cat-header+.ot-tgl{padding-left:7px;padding-right:7px}#onetrust-pc-sdk .ot-always-active-group .ot-grp-hdr1 .ot-tgl-cntr:first-of-type{padding-left:0px}#onetrust-pc-sdk .ot-cat-header,#onetrust-pc-sdk .ot-subgrp h4{max-width:calc(100% - 133px)}#onetrust-pc-sdk #ot-lst-cnt #ot-sel-blk{width:100%;display:inline-block;padding:0}#onetrust-pc-sdk .ot-sel-all{display:inline-block;width:100%}#onetrust-pc-sdk .ot-sel-all-hdr,#onetrust-pc-sdk .ot-sel-all-chkbox{width:100%;float:right;position:relative}#onetrust-pc-sdk .ot-sel-all-chkbox{z-index:1}#onetrust-pc-sdk :not(.ot-hosts-ui) .ot-sel-all-hdr,#onetrust-pc-sdk :not(.ot-hosts-ui) .ot-sel-all-chkbox{right:23px;width:calc(100% - 23px)}#onetrust-pc-sdk .ot-consent-hdr,#onetrust-pc-sdk .ot-li-hdr{float:right;font-size:.813em;position:relative;line-height:normal;text-align:center;word-break:break-word;word-wrap:break-word}#onetrust-pc-sdk .ot-hosts-ui .ot-consent-hdr{float:left;position:relative;left:5px}#onetrust-pc-sdk .ot-li-hdr{max-width:100px;margin-right:10px}#onetrust-pc-sdk .ot-consent-hdr{max-width:55px}#onetrust-pc-sdk .ot-ven-ctgl{margin-left:10px}#onetrust-pc-sdk .ot-ven-litgl{margin-right:55px}#onetrust-pc-sdk .ot-ven-litgl.ot-ven-litgl-only{margin-right:86px}#onetrust-pc-sdk .ot-ven-ctgl,#onetrust-pc-sdk .ot-ven-litgl,#onetrust-pc-sdk .ot-ven-gvctgl{float:left}#onetrust-pc-sdk .ot-ven-ctgl label,#onetrust-pc-sdk .ot-ven-litgl label,#onetrust-pc-sdk .ot-ven-gvctgl label{width:22px;padding:0}#onetrust-pc-sdk #ot-selall-licntr{display:block;width:21px;height:21px;position:relative;float:right;right:80px}#onetrust-pc-sdk #ot-selall-licntr input{position:absolute}#onetrust-pc-sdk #ot-selall-vencntr,#onetrust-pc-sdk #ot-selall-adtlvencntr,#onetrust-pc-sdk #ot-selall-gnvencntr{float:right;width:21px;height:21px;position:relative;right:15px}#onetrust-pc-sdk #ot-ven-lst .ot-tgl-cntr{float:right;width:auto}#onetrust-pc-sdk .ot-ven-hdr{float:left;width:60%}#onetrust-pc-sdk #vdr-lst-dsc{font-size:.812em;line-height:1.5;padding:10px 15px 5px 15px}#onetrust-pc-sdk #ot-anchor{border:12px solid transparent;display:none;position:absolute;z-index:2147483647;top:40px;right:35px;transform:rotate(45deg);-o-transform:rotate(45deg);-ms-transform:rotate(45deg);-webkit-transform:rotate(45deg);background-color:#fff;-webkit-box-shadow:-3px -3px 5px -2px #c7c5c7;-moz-box-shadow:-3px -3px 5px -2px #c7c5c7;box-shadow:-3px -3px 5px -2px #c7c5c7}#onetrust-pc-sdk #ot-fltr-modal{width:300px;position:absolute;z-index:2147483646;top:46px;height:90%;max-height:350px;display:none;-moz-transition:.2s ease;-o-transition:.2s ease;-webkit-transition:2s ease;transition:.2s ease;opacity:1;right:0}#onetrust-pc-sdk #ot-fltr-modal button{max-width:200px;line-height:1;word-break:break-word;white-space:normal;height:auto;font-weight:bold}#onetrust-pc-sdk #ot-fltr-cnt{background-color:#fff;margin:5px;border-radius:3px;height:100%;margin-right:10px;padding-right:10px;-webkit-box-shadow:0px 0px 12px 2px #c7c5c7;-moz-box-shadow:0px 0px 12px 2px #c7c5c7;box-shadow:0px 0px 12px 2px #c7c5c7}#onetrust-pc-sdk .ot-fltr-scrlcnt{overflow-y:auto;overflow-x:hidden;clear:both;max-height:calc(100% - 60px)}#onetrust-pc-sdk .ot-fltr-opt{margin-bottom:25px;margin-left:15px;clear:both}#onetrust-pc-sdk .ot-fltr-opt label{height:auto}#onetrust-pc-sdk .ot-fltr-opt span{cursor:pointer;color:dimgray;font-size:.8em;line-height:1.1;font-weight:normal}#onetrust-pc-sdk #clear-filters-handler{float:right;margin-top:15px;margin-bottom:10px;text-decoration:none;color:#3860be;font-size:.9em;border:none;padding:1px}#onetrust-pc-sdk #clear-filters-handler:hover{color:#1883fd}#onetrust-pc-sdk #clear-filters-handler:focus{outline:#000 solid 1px}#onetrust-pc-sdk #filter-apply-handler{margin-right:10px}#onetrust-pc-sdk .ot-grp-desc+.ot-leg-btn-container{margin-top:0}#onetrust-pc-sdk .ot-leg-btn-container{display:inline-block;width:100%;margin-top:10px}#onetrust-pc-sdk .ot-leg-btn-container button{height:auto;padding:6.5px 8px;margin-bottom:0;line-height:normal;letter-spacing:0}#onetrust-pc-sdk .ot-leg-btn-container svg{display:none;height:14px;width:14px;padding-right:5px;vertical-align:sub}#onetrust-pc-sdk .ot-active-leg-btn{cursor:default;pointer-events:none}#onetrust-pc-sdk .ot-active-leg-btn svg{display:inline-block}#onetrust-pc-sdk .ot-remove-objection-handler{border:none;text-decoration:underline;padding:0;font-size:.82em;font-weight:600;line-height:1.4;padding-left:10px}#onetrust-pc-sdk .ot-obj-leg-btn-handler span{font-weight:bold;text-align:center;font-size:.91em;line-height:1.5}#onetrust-pc-sdk.ot-close-btn-link #close-pc-btn-handler{border:none;height:auto;line-height:1.5;text-decoration:underline;font-size:.69em;background:none;width:auto}#onetrust-pc-sdk.ot-close-btn-link .ot-close-cntr{right:5px;top:5px;transform:none}#onetrust-pc-sdk .ot-grps-cntr{overflow-y:hidden}#onetrust-pc-sdk.otPcTab[dir=rtl] input~.ot-acc-hdr .ot-arw,#onetrust-pc-sdk.otPcTab[dir=rtl] #ot-back-arw{transform:rotate(180deg);-o-transform:rotate(180deg);-ms-transform:rotate(180deg);-webkit-transform:rotate(180deg)}#onetrust-pc-sdk.otPcTab[dir=rtl] input:checked~.ot-acc-hdr .ot-arw{transform:rotate(270deg);-o-transform:rotate(270deg);-ms-transform:rotate(270deg);-webkit-transform:rotate(270deg)}#onetrust-pc-sdk.otPcTab[dir=rtl] #ot-search-cntr svg{right:15px}#onetrust-pc-sdk.otPcTab[dir=rtl] .ot-chkbox label::after{transform:rotate(45deg);-webkit-transform:rotate(45deg);-o-transform:rotate(45deg);-ms-transform:rotate(45deg);border-left:0;border-right:3px solid}#onetrust-pc-sdk #close-pc-btn-handler.ot-close-icon{padding:0;background-color:transparent;border:none;margin:0}@media(max-width: 767px){#onetrust-pc-sdk{width:100%;border:none}#onetrust-pc-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container{padding:0;margin:0}#onetrust-pc-sdk #ot-pc-title{margin-left:10px;max-width:60%}#onetrust-pc-sdk .ot-desc-cntr{margin:0;padding-top:20px;padding-right:20px;padding-bottom:15px;padding-left:20px;position:relative;left:auto}#onetrust-pc-sdk .ot-desc-cntr{margin-top:20px;margin-left:20px;padding:0;padding-bottom:10px}#onetrust-pc-sdk .ot-grps-cntr{max-height:none;overflow:hidden}#onetrust-pc-sdk #accept-recommended-btn-handler{float:none}}@media(min-width: 768px){#onetrust-pc-sdk.ot-tgl-with-label .ot-label-status{display:inline}#onetrust-pc-sdk.ot-tgl-with-label #ot-pc-lst .ot-label-status{display:none}#onetrust-pc-sdk.ot-tgl-with-label.ot-leg-opt-out .ot-pli-hdr{padding-right:8%}#onetrust-pc-sdk.ot-tgl-with-label .ot-cat-header{max-width:60%}#onetrust-pc-sdk.ot-tgl-with-label .ot-subgrp h4{max-width:58%}#onetrust-pc-sdk.ot-tgl-with-label .ot-desc-cntr .ot-tgl-cntr:first-of-type,#onetrust-pc-sdk.ot-tgl-with-label .ot-cat-header+.ot-tgl{padding-left:15px}}@media(max-width: 640px){#onetrust-pc-sdk{height:100%}#onetrust-pc-sdk .ot-pc-header{padding:10px;width:calc(100% - 20px)}#onetrust-pc-sdk #ot-pc-content{overflow:auto}#onetrust-pc-sdk .ot-sdk-row .ot-sdk-columns{width:100%}#onetrust-pc-sdk .ot-desc-cntr{margin:0;overflow:hidden}#onetrust-pc-sdk .ot-desc-cntr{margin-left:10px;width:calc(100% - 15px);margin-top:5px;margin-bottom:5px}#onetrust-pc-sdk .ot-ven-hdr{max-width:80%}#onetrust-pc-sdk #ot-lst-cnt{width:calc(100% - 18px);padding-top:13px;padding-right:5px;padding-left:10px}#onetrust-pc-sdk .ot-grps-cntr{width:100%}#onetrust-pc-sdk .ot-pc-footer{max-height:300px}#onetrust-pc-sdk #ot-pc-content,#onetrust-pc-sdk #ot-pc-lst{height:calc(100% - 322px)}#onetrust-pc-sdk.ot-close-btn-link #close-pc-btn-handler{position:fixed;top:10px;right:15px}#onetrust-pc-sdk.ot-close-btn-link .ot-pc-header{padding-top:25px}#onetrust-pc-sdk.ot-close-btn-link #ot-pc-title{max-width:100%}}@media(max-width: 640px)and (orientation: portrait){#onetrust-pc-sdk #ot-pc-hdr{height:70px;padding:15px 0;width:100%}#onetrust-pc-sdk .ot-lst-subhdr{width:calc(100% - 15px);float:none;bottom:auto;display:inline-block;padding-top:8px;padding-left:15px}#onetrust-pc-sdk .ot-btn-subcntr{float:none}#onetrust-pc-sdk #ot-search-cntr{display:inline-block;width:calc(100% - 55px);position:relative}#onetrust-pc-sdk #ot-anchor{top:75px;right:30px}#onetrust-pc-sdk #ot-fltr-modal{top:81px}#onetrust-pc-sdk #ot-fltr-cntr{float:right;right:15px}#onetrust-pc-sdk #ot-lst-title{padding-left:15px}#onetrust-pc-sdk .ot-lst-cntr{overflow-y:scroll}#onetrust-pc-sdk #ot-lst-cnt{height:auto;overflow:hidden}#onetrust-pc-sdk .save-preference-btn-handler,#onetrust-pc-sdk #accept-recommended-btn-handler,#onetrust-pc-sdk .ot-pc-refuse-all-handler{width:calc(100% - 33px)}#onetrust-pc-sdk.ot-ftr-stacked .save-preference-btn-handler,#onetrust-pc-sdk.ot-ftr-stacked .ot-btn-subcntr{max-width:none}#onetrust-pc-sdk.ot-ftr-stacked .ot-pc-footer button{margin:15px}#onetrust-pc-sdk.ot-ftr-stacked .ot-btn-subcntr button{min-width:none;max-width:none}#onetrust-pc-sdk.ot-ftr-stacked .ot-btn-subcntr button:nth-child(2){margin-top:15px}#onetrust-pc-sdk.ot-ftr-stacked .ot-btn-container button:not(:last-child){margin-bottom:0}}@media(max-width: 425px){#onetrust-pc-sdk #ot-pc-lst .ot-acc-txt{padding-top:6px;padding-bottom:10px}#onetrust-pc-sdk #ot-pc-lst .ot-host-notice{float:left;margin-left:30px}#onetrust-pc-sdk #ot-pc-lst .ot-arw-cntr{float:none;display:inline}#onetrust-pc-sdk #ot-pc-lst .ot-ven-hdr{float:left;width:100%;max-width:85%}#onetrust-pc-sdk.ot-addtl-vendors #ot-pc-lst .ot-acc-cntr .ot-arw-cntr:first-of-type{float:right}#onetrust-pc-sdk #ot-pc-title{max-width:100%}#onetrust-pc-sdk .ot-subgrp-cntr li.ot-subgrp{margin-left:10px;width:calc(100% - 10px)}#onetrust-pc-sdk #ot-ven-lst .ot-tgl-cntr{width:auto;float:right}#onetrust-pc-sdk #ot-ven-lst .ot-arw-cntr{float:right}#onetrust-pc-sdk .ot-ven-hdr{max-width:47%}#onetrust-pc-sdk .ot-always-active-group .ot-tgl-cntr:first-of-type{max-width:none;padding-left:20px}}@media only screen and (max-height: 425px)and (max-width: 896px)and (orientation: landscape){#onetrust-pc-sdk{height:100%;width:100%;max-width:none}#onetrust-pc-sdk .ot-always-active-group .ot-tgl-cntr{max-width:none}#onetrust-pc-sdk .ot-pc-header{padding:10px;width:calc(100% - 20px)}#onetrust-pc-sdk .ot-lst-cntr{overflow-y:scroll}#onetrust-pc-sdk #ot-lst-cnt{height:auto;overflow:hidden}#onetrust-pc-sdk #accept-recommended-btn-handler{float:right}#onetrust-pc-sdk .save-preference-btn-handler,#onetrust-pc-sdk #accept-recommended-btn-handler,#onetrust-pc-sdk .ot-pc-refuse-all-handler{width:auto}#onetrust-pc-sdk #ot-pc-content,#onetrust-pc-sdk #ot-pc-lst{height:calc(100% - 155px)}#onetrust-pc-sdk.ot-shw-fltr .ot-lst-cntr{overflow:hidden}#onetrust-pc-sdk.ot-shw-fltr #ot-pc-lst{position:static}#onetrust-pc-sdk.ot-shw-fltr #ot-fltr-modal{top:0;width:100%;height:100%;max-height:none}#onetrust-pc-sdk.ot-shw-fltr #ot-fltr-modal>div{margin:0;box-sizing:initial;height:100%;max-height:none}#onetrust-pc-sdk.ot-shw-fltr #clear-filters-handler{padding-right:20px}#onetrust-pc-sdk.ot-shw-fltr #ot-anchor{display:none !important}#onetrust-pc-sdk .ot-pc-footer button{margin:10px}}@media(max-width: 425px),(max-width: 896px)and (max-height: 425px)and (orientation: landscape){#onetrust-pc-sdk .ot-pc-header{padding-right:20px}#onetrust-pc-sdk .ot-pc-logo{margin-left:0px;margin-top:5px;width:150px}#onetrust-pc-sdk .ot-close-icon{width:44px;height:44px;background-size:12px}#onetrust-pc-sdk .ot-grp-hdr1{float:right;margin-left:10px;width:auto}#onetrust-pc-sdk .ot-grp-hdr1{margin-left:0px;padding-right:10px}#onetrust-pc-sdk #ot-pvcy-hdr,#onetrust-pc-sdk .ot-grp-hdr1 .ot-cat-header{display:none}#onetrust-pc-sdk .ot-grp-hdr1+.ot-vlst-cntr{padding-top:10px}}@media only screen and (max-height: 610px){#onetrust-pc-sdk{max-height:100%}}
+            #onetrust-consent-sdk #onetrust-pc-sdk,
+                #onetrust-consent-sdk #ot-search-cntr,
+                #onetrust-consent-sdk #onetrust-pc-sdk .ot-switch.ot-toggle,
+                #onetrust-consent-sdk #onetrust-pc-sdk ot-grp-hdr1 .checkbox,
+                #onetrust-consent-sdk #onetrust-pc-sdk #ot-pc-title:after
+                ,#onetrust-consent-sdk #onetrust-pc-sdk #ot-sel-blk,
+                        #onetrust-consent-sdk #onetrust-pc-sdk #ot-fltr-cnt,
+                        #onetrust-consent-sdk #onetrust-pc-sdk #ot-anchor {
+                    background-color: #FFFFFF;
+                }
+               
+            #onetrust-consent-sdk #onetrust-pc-sdk h3,
+                #onetrust-consent-sdk #onetrust-pc-sdk h4,
+                #onetrust-consent-sdk #onetrust-pc-sdk h5,
+                #onetrust-consent-sdk #onetrust-pc-sdk h6,
+                #onetrust-consent-sdk #onetrust-pc-sdk p,
+                #onetrust-consent-sdk #onetrust-pc-sdk #ot-ven-lst .ot-ven-opts p,
+                #onetrust-consent-sdk #onetrust-pc-sdk #ot-pc-desc,
+                #onetrust-consent-sdk #onetrust-pc-sdk #ot-pc-title,
+                #onetrust-consent-sdk #onetrust-pc-sdk .ot-li-title,
+                #onetrust-consent-sdk #onetrust-pc-sdk .ot-sel-all-hdr span,
+                #onetrust-consent-sdk #onetrust-pc-sdk #ot-host-lst .ot-host-info,
+                #onetrust-consent-sdk #onetrust-pc-sdk #ot-fltr-modal #modal-header,
+                #onetrust-consent-sdk #onetrust-pc-sdk .ot-checkbox label span,
+                #onetrust-consent-sdk #onetrust-pc-sdk #ot-pc-lst #ot-sel-blk p,
+                #onetrust-consent-sdk #onetrust-pc-sdk #ot-pc-lst #ot-lst-title h3,
+                #onetrust-consent-sdk #onetrust-pc-sdk #ot-pc-lst .back-btn-handler p,
+                #onetrust-consent-sdk #onetrust-pc-sdk #ot-pc-lst .ot-ven-name,
+                #onetrust-consent-sdk #onetrust-pc-sdk #ot-pc-lst #ot-ven-lst .consent-category,
+                #onetrust-consent-sdk #onetrust-pc-sdk .ot-leg-btn-container .ot-inactive-leg-btn,
+                #onetrust-consent-sdk #onetrust-pc-sdk .ot-label-status,
+                #onetrust-consent-sdk #onetrust-pc-sdk .ot-chkbox label span,
+                #onetrust-consent-sdk #onetrust-pc-sdk #clear-filters-handler 
+                {
+                    color: #696969;
+                }
+             #onetrust-consent-sdk #onetrust-pc-sdk .privacy-notice-link,
+                    #onetrust-consent-sdk #onetrust-pc-sdk .category-vendors-list-handler,
+                    #onetrust-consent-sdk #onetrust-pc-sdk .category-vendors-list-handler + a,
+                    #onetrust-consent-sdk #onetrust-pc-sdk .category-host-list-handler,
+                    #onetrust-consent-sdk #onetrust-pc-sdk .ot-ven-link,
+                    #onetrust-consent-sdk #onetrust-pc-sdk #ot-host-lst .ot-host-name a,
+                    #onetrust-consent-sdk #onetrust-pc-sdk #ot-host-lst .ot-acc-hdr .ot-host-expand,
+                    #onetrust-consent-sdk #onetrust-pc-sdk #ot-host-lst .ot-host-info a
+                    {
+                        color: #6242FC;
+                    }
+            #onetrust-consent-sdk #onetrust-pc-sdk .category-vendors-list-handler:hover { opacity: .7;}
+            #onetrust-consent-sdk #onetrust-pc-sdk .ot-acc-grpcntr.ot-acc-txt,
+            #onetrust-consent-sdk #onetrust-pc-sdk .ot-acc-txt .ot-subgrp-tgl .ot-switch.ot-toggle
+             {
+                background-color: #F8F8F8;
+            }
+             #onetrust-consent-sdk #onetrust-pc-sdk #ot-host-lst .ot-host-info,
+                    #onetrust-consent-sdk #onetrust-pc-sdk .ot-acc-txt .ot-ven-dets
+                            {
+                                background-color: #F8F8F8;
+                            }
+        #onetrust-consent-sdk #onetrust-pc-sdk 
+            button:not(#clear-filters-handler):not(.ot-close-icon):not(#filter-btn-handler):not(.ot-remove-objection-handler):not(.ot-obj-leg-btn-handler):not([aria-expanded]):not(.ot-link-btn),
+            #onetrust-consent-sdk #onetrust-pc-sdk .ot-leg-btn-container .ot-active-leg-btn {
+                background-color: #6242FC;border-color: #6242FC;
+                color: #FFFFFF;
+            }
+            #onetrust-consent-sdk #onetrust-pc-sdk .ot-active-menu {
+                border-color: #6242FC;
+            }
+            
+            #onetrust-consent-sdk #onetrust-pc-sdk .ot-leg-btn-container .ot-remove-objection-handler{
+                background-color: transparent;
+                border: 1px solid transparent;
+            }
+            #onetrust-consent-sdk #onetrust-pc-sdk .ot-leg-btn-container .ot-inactive-leg-btn {
+                background-color: #FFFFFF;
+                color: #78808E; border-color: #78808E;
+            }
+            
+            #onetrust-consent-sdk #onetrust-pc-sdk .ot-tgl input:focus + .ot-switch, .ot-switch .ot-switch-nob, .ot-switch .ot-switch-nob:before,
+            #onetrust-pc-sdk .ot-checkbox input[type="checkbox"]:focus + label::before,
+            #onetrust-pc-sdk .ot-chkbox input[type="checkbox"]:focus + label::before {
+                outline-color: #000000;
+                outline-width: 1px;
+            }
+            #onetrust-pc-sdk .ot-host-item > button:focus, #onetrust-pc-sdk .ot-ven-item > button:focus {
+                border: 1px solid #000000;
+            }
+            #onetrust-consent-sdk #onetrust-pc-sdk *:focus,
+            #onetrust-consent-sdk #onetrust-pc-sdk .ot-vlst-cntr > a:focus {
+               outline: 1px solid #000000;
+            }#onetrust-consent-sdk #onetrust-pc-sdk .category-menu-switch-handler {
+                    background-color: #F4F4F4
+                }#onetrust-consent-sdk #onetrust-pc-sdk .ot-active-menu {
+                    background-color: #FFFFFF
+                }.ot-sdk-cookie-policy{font-family:inherit;font-size:16px}.ot-sdk-cookie-policy.otRelFont{font-size:1rem}.ot-sdk-cookie-policy h3,.ot-sdk-cookie-policy h4,.ot-sdk-cookie-policy h6,.ot-sdk-cookie-policy p,.ot-sdk-cookie-policy li,.ot-sdk-cookie-policy a,.ot-sdk-cookie-policy th,.ot-sdk-cookie-policy #cookie-policy-description,.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group,.ot-sdk-cookie-policy #cookie-policy-title{color:dimgray}.ot-sdk-cookie-policy #cookie-policy-description{margin-bottom:1em}.ot-sdk-cookie-policy h4{font-size:1.2em}.ot-sdk-cookie-policy h6{font-size:1em;margin-top:2em}.ot-sdk-cookie-policy th{min-width:75px}.ot-sdk-cookie-policy a,.ot-sdk-cookie-policy a:hover{background:#fff}.ot-sdk-cookie-policy thead{background-color:#f6f6f4;font-weight:bold}.ot-sdk-cookie-policy .ot-mobile-border{display:none}.ot-sdk-cookie-policy section{margin-bottom:2em}.ot-sdk-cookie-policy table{border-collapse:inherit}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy{font-family:inherit;font-size:1rem}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h6,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy p,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-title{color:dimgray}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description{margin-bottom:1em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup{margin-left:1.5em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group-desc,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-table-header,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy span,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td{font-size:.9em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td span,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td a{font-size:inherit}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group{font-size:1em;margin-bottom:.6em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-title{margin-bottom:1.2em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy>section{margin-bottom:1em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th{min-width:75px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a:hover{background:#fff}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead{background-color:#f6f6f4;font-weight:bold}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-mobile-border{display:none}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy section{margin-bottom:2em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup ul li{list-style:disc;margin-left:1.5em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup ul li h4{display:inline-block}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table{border-collapse:inherit;margin:auto;border:1px solid #d7d7d7;border-radius:5px;border-spacing:initial;width:100%;overflow:hidden}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table td{border-bottom:1px solid #d7d7d7;border-right:1px solid #d7d7d7}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td{border-bottom:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr th:last-child,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr td:last-child{border-right:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-host,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-cookies-type{width:25%}.ot-sdk-cookie-policy[dir=rtl]{text-align:left}#ot-sdk-cookie-policy h3{font-size:1.5em}@media only screen and (max-width: 530px){.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) table,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) thead,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tbody,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) th,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr{display:block}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) thead tr{position:absolute;top:-9999px;left:-9999px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr{margin:0 0 1em 0}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr:nth-child(odd),.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr:nth-child(odd) a{background:#f6f6f4}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td{border:none;border-bottom:1px solid #eee;position:relative;padding-left:50%}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td:before{position:absolute;height:100%;left:6px;width:40%;padding-right:10px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) .ot-mobile-border{display:inline-block;background-color:#e4e4e4;position:absolute;height:100%;top:0;left:45%;width:2px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td:before{content:attr(data-label);font-weight:bold}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) li{word-break:break-word;word-wrap:break-word}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table{overflow:hidden}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table td{border:none;border-bottom:1px solid #d7d7d7}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tbody,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tr{display:block}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-host,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-cookies-type{width:auto}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tr{margin:0 0 1em 0}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td:before{height:100%;width:40%;padding-right:10px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td:before{content:attr(data-label);font-weight:bold}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li{word-break:break-word;word-wrap:break-word}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead tr{position:absolute;top:-9999px;left:-9999px;z-index:-9999}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td{border-bottom:1px solid #d7d7d7;border-right:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td:last-child{border-bottom:0px}}
+                
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h5,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h6,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy p,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy span,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description {
+                        color: #696969;
+                    }
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th {
+                        color: #696969;
+                    }
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group {
+                        color: #696969;
+                    }
+                    
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-title {
+                            color: #696969;
+                        }
+                    
+            
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table th {
+                            background-color: #F8F8F8;
+                        }
+                    
+            </style></head>
+<body class=""><div></div>
+  
+  
+
+  <a class="skip-navigation" tabindex="1" href="#main-content">Skip to main content</a>
+
+<header class="header">
+
+  <script>
+function myFunction() {
+  var x = document.getElementById("alert");
+    var y = document.getElementById("button");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>  
+  
+<!-- Start of codapaymentske Zendesk Widget script -->
+<!-- <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=f14144f9-8b14-4b3f-b6c7-8bcd982913ae"> </script> -->
+<!-- <script>
+zE('webWidget', 'setLocale', 'en');
+zE('webWidget:on', 'chat:departmentStatus', function(dept) {
+  if (dept.name === 'Coda Payments Support Kenya' && dept.status === 'online') {
+    console.log(dept.name + ' is ' + dept.status);      //optional logging
+    zE('webWidget', 'updateSettings', {
+      webWidget: {
+        chat: {
+          departments: {
+            enabled: [''],
+            select: 'Coda Payments Support Kenya'
+          },
+          suppress: false
+        }
+      }
+    });
+  } else if (dept.name === 'Coda Payments Support Kenya' && dept.status !== 'online') {
+    console.log(dept.name + ' is ' + dept.status);      //optional logging
+    zE('webWidget', 'updateSettings', {
+      webWidget: {
+        chat: {
+          suppress: true
+        }
+      }
+    });
+  }
+});
+ window.zESettings = {
+    webWidget: {
+      contactForm: {
+        title: {
+          '*': 'Welcome to Codashop Kenya 😄'
+        },
+        ticketForms: [
+          {
+            id: 6517069109391,
+            fields: [
+              {
+                id: 'description',
+                hint: {
+ 					'*': ' ' 
+                }
+              }
+            ]
+          }
+        ]
+      }  
+    },
+       chat: {
+        prechatForm: {
+          greeting: {
+            '*': 'Welcome to Codashop Kenya 😄'
+            }
+        }
+      } 
+  };   
+</script> -->
+<!-- End of codapaymentske Zendesk Widget script -->
+
+<script type="text/javascript">
+  zE(function() {
+    zE.setHelpCenterSuggestions({ search: 'coda' });
+  });
+</script>    
+  <script>
+window.addEventListener('resize', function() {
+         if (window.innerWidth <= 450) {
+                 var x = document.getElementById("desk-table");
+            var y = document.getElementById("phone-table");
+            x.style.display = "none";
+            y.style.display = "table-cell";
+            
+         } else {
+                 var x = document.getElementById("desk-table");
+            var y = document.getElementById("phone-table");
+            x.style.display = "table-cell";
+            y.style.display = "none";
+         }
+         }, true);
+         
+         function loadMode() {
+            if (window.innerWidth <= 450) {
+                  var x = document.getElementById("desk-table");
+                  var y = document.getElementById("phone-table");
+                  x.style.display = "none";
+                  y.style.display = "table-cell";
+
+              } else {
+                  var x = document.getElementById("desk-table");
+                  var y = document.getElementById("phone-table");
+                  x.style.display = "table-cell";
+                  y.style.display = "none";
+
+              }
+                    }
+</script> 
+  
+  <script>
+function myFunction() {
+  var x = document.getElementById("alert");
+    var y = document.getElementById("button");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>  
+  
+  <div class="logo">
+    <a href="https://www.codashop.com/en-ke/">
+      <img src="//theme.zdassets.com/theme_assets/10201709/16c989eba925221c5d1a5f0abb1304748ec5ae63.png" alt="Codashop Kenya Help Center home page">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <button class="menu-button" aria-controls="user-nav" aria-expanded="false" aria-label="Toggle navigation menu">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-menu">
+        <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13"></path>
+      </svg>
+    </button>
+    <nav class="user-nav" id="user-nav">
+      
+      <a class="submit-a-request" href="/hc/en-us/requests/new">Submit a request</a>
+    </nav>
+
+  </div>
+</header>
+
+
+  <main role="main">
+    <!-- OneTrust Cookies Consent Notice start for www.codashop.com -->
+<script src="https://cdn-apac.onetrust.com/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="93f01470-ab10-46a6-b6a9-4740eee702b9"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for www.codashop.com -->
+
+
+<h1 class="visibility-hidden">Codashop Kenya</h1>
+<!-- <button onclick="myFunction()" id='button'>-</button>
+    <div id="alert"><center><strong>
+                                   📢There might be a technical glitch with our email updates reaching you. Please click <a href="https://ke.support.codashop.com/hc/en-us/requests" target="_blank">here</a> to check your ticket's latest update. 📢 
+                                     </strong></center></div> -->
+
+
+
+<section id="main-content" class="section hero">
+  <div class="hero-inner">
+    <h2 class="visibility-hidden">Search</h2>
+    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" focusable="false" viewBox="0 0 12 12" class="search-icon" aria-hidden="true">
+      <circle cx="4.5" cy="4.5" r="4" fill="none" stroke="currentColor"></circle>
+      <path stroke="currentColor" stroke-linecap="round" d="M11 11L7.5 7.5"></path>
+    </svg>
+    <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓" autocomplete="off"><input type="search" name="query" id="query" placeholder="Search" autocomplete="off" aria-label="Search"></form>
+  </div>
+</section>
+
+<section class="custop">
+<center>
+<div class="cpfontburst">
+Contact Customer Support
+</div>
+</center>
+
+<center>
+		<table style="width: 100%; display:table-cell; column-gap: 40px;" id="desk-table">
+			<tbody>
+				<tr>
+					<td style="padding-right:33px"><center>
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+							<p><a href="https://ke.support.codashop.com/hc/en-us/requests/new"><img src="https://theme.zdassets.com/theme_assets/10201709/8bcfddca3c243f177f36c1d6fcb20b5f54501139.svg" onload="loadMode()" width="70px" height="70px"></a>
+</p>
+</div>
+<div class="flip-card-back">
+							<p><a href="https://ke.support.codashop.com/hc/en-us/requests/new"><img src="https://theme.zdassets.com/theme_assets/10201709/8bcfddca3c243f177f36c1d6fcb20b5f54501139.svg" width="70px" height="70px"></a>
+</p>
+</div>
+</div>
+</div>
+<br>
+<br>
+<br>
+							<p><a href="https://ke.support.codashop.com/hc/en-us/requests/new">Send us a message
+</a><br>and we'll get back to you<br>in 24 hours or less
+</p>
+</center></td>
+
+<!-- 					<center><td style="padding-right:33px"><center>
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+							<p><a href="https://m.me/Codashop.KE" target="_blank"><img src="https://theme.zdassets.com/theme_assets/10201709/fdaf8768f9154d30a0f122aac1033dd59a42eb41.svg" width="70px" height="70px"></a>
+</p>
+</div>
+<div class="flip-card-back">
+							<p><a href="https://m.me/Codashop.KE" target="_blank"><img src="https://theme.zdassets.com/theme_assets/10201709/fdaf8768f9154d30a0f122aac1033dd59a42eb41.svg" width="70px" height="70px"></a>
+</p>
+</div>
+</div>
+</div>
+<br>
+<br>
+<br>
+							<p><a href="https://m.me/Codashop.KE" target="_blank">direct<br>message</a> via Facebook</p>
+							<br>
+						</center></td> -->
+          
+<!-- 					<td><center>
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+							<p><a href="javascript:void(zE('webWidget', 'open'))"><img src="https://theme.zdassets.com/theme_assets/10201709/111a617722a2d75b8b05bc768d62aafebee5c3e3.svg" width="70px" height="70px"></a>
+</p>
+</div>
+<div class="flip-card-back">
+							<p><a href="javascript:void(zE('webWidget', 'open'))"><img src="https://theme.zdassets.com/theme_assets/10201709/111a617722a2d75b8b05bc768d62aafebee5c3e3.svg" width="70px" height="70px"></a>
+</p>
+</div>
+</div>
+</div>
+<br>
+<br>
+<br>
+							<p><a href="javascript:void(zE('webWidget', 'open'))">Live chat</a> with us!</p>
+     <br><br>
+						</center></td>           -->
+          
+				</tr>
+			</tbody>
+		</table>
+</center>
+
+<br>
+<center>
+		<table style="width: 100%; display: none; column-gap: 40px;" id="phone-table">
+			<tbody>
+				<tr>
+					<td><center>
+
+							<p><a href="https://ke.support.codashop.com/hc/en-us/requests/new"><img src="https://theme.zdassets.com/theme_assets/10201709/8bcfddca3c243f177f36c1d6fcb20b5f54501139.svg" onload="loadMode()" width="30%" height="30%"></a>
+</p>
+							<p><a href="https://ke.support.codashop.com/hc/en-us/requests/new">Send us a message</a><br>and we'll get back to you<br>in 24 hours or less</p>
+      
+						</center></td>
+        </tr>
+<!-- 				<tr>
+					<td><center>
+
+							<p><a href="javascript:void(zE('webWidget', 'open'))"><img src="https://theme.zdassets.com/theme_assets/10201709/111a617722a2d75b8b05bc768d62aafebee5c3e3.svg" width="30%" height="30%"></a>
+</p>
+            
+							<p><a href="javascript:void(zE('webWidget', 'open'))">Live chat</a> with us!</p>
+     <br><br>
+            
+						</center></td>
+        </tr>
+				<tr>
+					<td><center>
+
+							<p><a href="https://m.me/Codashop.KE" target="_blank"><img src="https://theme.zdassets.com/theme_assets/10201709/fdaf8768f9154d30a0f122aac1033dd59a42eb41.svg" width="30%" height="30%"></a>
+</p>
+							<p><a href="https://m.me/Codashop.KE" target="_blank">direct<br>message</a> via Facebook</p>
+
+						</center></td>
+				</tr> -->
+        
+			</tbody>
+		</table>
+</center>
+
+<br>
+	</section>
+<br>
+
+<div class="container">
+  <section class="section knowledge-base">
+    <h2 class="visibility-hidden">Categories</h2>
+    <section class="categories blocks">
+      <ul class="blocks-list">
+        
+          
+            
+              <li class="blocks-item">
+                <a href="/hc/en-us/sections/6527547539471-Payment-and-Purchase-Issues" class="blocks-item-link">
+                  <span class="blocks-item-title">
+                    Payment and Purchase Issues
+                  </span>
+                  <span class="blocks-item-description"></span>
+                </a>
+              </li>
+            
+              <li class="blocks-item">
+                <a href="/hc/en-us/sections/6527555025167-Tutorials" class="blocks-item-link">
+                  <span class="blocks-item-title">
+                    Tutorials
+                  </span>
+                  <span class="blocks-item-description"></span>
+                </a>
+              </li>
+            
+              <li class="blocks-item">
+                <a href="/hc/en-us/sections/6527554936975-Service-Announcements" class="blocks-item-link">
+                  <span class="blocks-item-title">
+                    Service Announcements
+                  </span>
+                  <span class="blocks-item-description"></span>
+                </a>
+              </li>
+            
+          
+        
+      </ul>
+      
+    </section>
+
+<!--     
+  </section> -->
+
+<!--    -->
+
+  <section class="section home-section activity">
+    
+  </section>
+</section></div>
+
+
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <a href="http://www.codapayments.com/terms-conditions/terms-conditions"><b>Terms &amp; Conditions</b></a>
+
+    <div class="footer-language-selector">
+      
+    </div>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.799adce4dfbb87d2bed1.js"></script>
+  <script src="https://codapayment.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="6516560907663" data-return-to="https://ke.support.codashop.com/hc/en-us" data-theme="hc" data-locale="en-us" data-auth-origin="6516560907663,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"codapayment","environment":"production","name":"Codashop"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":null,"shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"front_page_viewed","data":"BAh7BjoKX21ldGF7DDoPYWNjb3VudF9pZGkDbaqbOhNoZWxwX2NlbnRlcl9pZGwrCA9YNn7tBToNYnJhbmRfaWRsKwiPTUxB7QU6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY6BkVUOgtsb2NhbGVJIgplbi11cwY7C1Q6GmFub255bW91c190cmFja2luZ19pZDA=--e156eec2bf37a8768560414bf07ada6b40441e6c","url":"https://ke.support.codashop.com/hc/activity"},"current_record_id":null,"current_record_url":null,"current_record_title":null,"search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":6516560907663,"account_id":10201709,"name":"Codashop Kenya","active":true,"deleted_at":null,"created_at":"2023-03-04T04:55:58Z","updated_at":"2023-08-29T02:28:37Z","route_id":12486257,"signature_template":"Regards,\r\nYour friends from Codashop 😊\r\n\r\nFind our News \u0026 Promotion [here] (https://news.codashop.com/). Need Help? Please visit our [Help Center](https://ke.support.codashop.com/hc/en-ke).\r\n"},"current_brand_url":"https://codapaymentske.zendesk.com","current_host_mapping":"ke.support.codashop.com","current_path":null,"authentication_domain":"https://codapayment.zendesk.com","show_autocomplete_breadcrumbs":false,"user_info_changing_enabled":false,"has_user_profiles_enabled":true,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://ke.support.codashop.com/hc/en-us","arrange_content_url":"https://ke.support.codashop.com/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://ke.support.codashop.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://codapayment.zendesk.com/knowledge/user_segments?brand_id=6516560907663","has_gather":true,"has_ckeditor":false,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"has_suppress_request_email_modal":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fcodapayment.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://codapayment.zendesk.com/knowledge/arrange?brand_id=6516560907663","article_verification_url":"https://codapayment.zendesk.com/knowledge/verification?brand_id=6516560907663","has_article_verification":true,"guide_language_settings_url":"https://ke.support.codashop.com/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://codapayment.zendesk.com/knowledge/import_articles?brand_id=6516560907663","content_tags_url":"https://codapayment.zendesk.com/knowledge/content_tags?brand_id=6516560907663","community_badges_url":"https://codapayment.zendesk.com/knowledge/community_badges?brand_id=6516560907663","community_settings_url":"https://codapayment.zendesk.com/knowledge/community_settings?brand_id=6516560907663","gather_plan_state":"subscribed","search_settings_url":"https://codapayment.zendesk.com/knowledge/search_settings?brand_id=6516560907663","has_multibrand_search_in_plan":true,"has_search_settings_in_plan":true,"theming_api_version":2,"theming_settings":{"brand_color":"rgba(40, 0, 49, 1)","brand_text_color":"#FFFFFF","text_color":"rgba(40, 0, 49, 1)","link_color":"rgba(255, 127, 152, 1)","hover_link_color":"rgba(40, 0, 49, 1)","visited_link_color":"rgba(98, 66, 252, 1)","background_color":"rgba(234, 232, 247, 1)","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"//theme.zdassets.com/theme_assets/10201709/16c989eba925221c5d1a5f0abb1304748ec5ae63.png","show_brand_name":true,"favicon":"//theme.zdassets.com/theme_assets/10201709/ee24536cbe47319489ed30bcc011b59db5810471.png","homepage_background_image":"//theme.zdassets.com/theme_assets/10201709/7c8727563e2ab6010a769d98cc5280c309baa309.jpg","community_background_image":"//theme.zdassets.com/theme_assets/10201709/7c8727563e2ab6010a769d98cc5280c309baa309.jpg","community_image":"//theme.zdassets.com/theme_assets/10201709/7c8727563e2ab6010a769d98cc5280c309baa309.jpg","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":false,"show_articles_in_section":true,"show_article_author":true,"show_article_comments":false,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":true,"show_follow_section":true,"show_follow_post":true,"show_post_sharing":true,"show_follow_topic":true,"request_list_beta":false},"has_pci_credit_card_custom_field":true,"current_brand_id":6516560907663,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_docs_importer":false,"user_preferred_locale":"en-us","has_end_user_session_renewal":true,"has_reload_page_after_changing_password":true,"has_user_session_cookie_enabled":false,"has_end_user_2fa":true,"has_custom_statuses_enabled":true,"version":"v24053"};
+</script>
+
+  
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-89defb6d643be18c0a20fcda5b571e6d.js"></script>
+  <script type="text/javascript" src="//p15.zdassets.com/hc/theming_assets/10201709/6516560907663/script.js?digest=8394272014351"></script>
+  
+<script>(function(){var js = "window['__CF$cv$params']={r:'848572d5dba89a9c',t:'MTcwNTczNDExMi4wMTQwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><iframe style="position: absolute; top: 0px; left: 0px; border: medium none; visibility: hidden;" width="1" height="1"></iframe>
+<div id="onetrust-consent-sdk"><div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div><div id="onetrust-pc-sdk" class="otPcTab ot-hide ot-fade-in ot-sdk-not-webkit otRelFont" role="alertdialog" aria-modal="true" aria-label="Privacy Preference Center" lang="en"><!-- pc header --><div class="ot-pc-header" role="presentation"><!-- Header logo --><div class="ot-pc-logo" role="img" aria-label="Company Logo" style="background-image: url(&quot;https://cdn-apac.onetrust.com/logos/dfd5ad19-eda3-46a4-bdcb-3069fa6de87a/67d31a0a-3a8b-4205-94f7-ef99b572d94c/b161c17e-2356-4efe-a163-a9b9f50866aa/codashop-logo-new-2x.png&quot;);
+                    background-position: left;"></div><div class="ot-title-cntr"><h2 id="ot-pc-title">Privacy Preference Center</h2><div class="ot-close-cntr"><button id="close-pc-btn-handler" class="ot-close-icon" aria-label="Close"></button></div></div></div><!-- content --><!-- Groups / Sub groups with cookies --><div id="ot-pc-content" class="ot-pc-scrollbar ot-sdk-row"><div class="ot-sdk-container ot-grps-cntr ot-sdk-column"><div class="ot-sdk-four ot-sdk-columns ot-tab-list" aria-label="Cookie Categories"><ul class="ot-cat-grp" role="tablist"><li class="ot-abt-tab" role="presentation"><!-- About Privacy container --><div class="ot-active-menu category-menu-switch-handler" role="tab" tabindex="0" aria-selected="true" aria-controls="ot-tab-desc"><h3 id="ot-pvcy-txt">Your Privacy</h3></div></li><li class="ot-cat-item ot-always-active-group" role="presentation" data-optanongroupid="C0001"><div class="category-menu-switch-handler" role="tab" tabindex="-1" aria-selected="false" aria-controls="ot-desc-id-C0001"><h3 id="ot-header-id-C0001">Strictly Necessary Cookies</h3></div></li><li class="ot-cat-item" role="presentation" data-optanongroupid="C0002"><div class="category-menu-switch-handler" role="tab" tabindex="-1" aria-selected="false" aria-controls="ot-desc-id-C0002"><h3 id="ot-header-id-C0002">Performance Cookies</h3></div></li><li class="ot-cat-item" role="presentation" data-optanongroupid="C0003"><div class="category-menu-switch-handler" role="tab" tabindex="-1" aria-selected="false" aria-controls="ot-desc-id-C0003"><h3 id="ot-header-id-C0003">Functional Cookies</h3></div></li><li class="ot-cat-item" role="presentation" data-optanongroupid="C0004"><div class="category-menu-switch-handler" role="tab" tabindex="-1" aria-selected="false" aria-controls="ot-desc-id-C0004"><h3 id="ot-header-id-C0004">Targeting Cookies</h3></div></li><li class="ot-cat-item" role="presentation" data-optanongroupid="C0009"><div class="category-menu-switch-handler" role="tab" tabindex="-1" aria-selected="false" aria-controls="ot-desc-id-C0009"><h3 id="ot-header-id-C0009">Codashop Cookies</h3></div></li></ul></div><div class="ot-tab-desc ot-sdk-eight ot-sdk-columns"><div class="ot-desc-cntr" id="ot-tab-desc" tabindex="0" role="tabpanel" aria-labelledby="ot-pvcy-hdr"><h4 id="ot-pvcy-hdr">Your Privacy</h4><p id="ot-pc-desc" class="ot-grp-desc">When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+                <br><a href="https://www.codapayments.com/policy/cookies-policy" class="privacy-notice-link" rel="noopener" target="_blank" aria-label="More information about your privacy, opens in a new tab">More information</a></p></div><div class="ot-desc-cntr ot-hide ot-always-active-group" role="tabpanel" tabindex="0" id="ot-desc-id-C0001"><div class="ot-grp-hdr1"><h4 class="ot-cat-header">Strictly Necessary Cookies</h4><div class="ot-tgl-cntr"><div class="ot-always-active">Always Active</div></div></div><p class="ot-grp-desc ot-category-desc">These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div><div class="ot-desc-cntr ot-hide" role="tabpanel" tabindex="0" id="ot-desc-id-C0002"><div class="ot-grp-hdr1"><h4 class="ot-cat-header">Performance Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0002" id="ot-group-id-C0002" aria-checked="false" role="switch" class="category-switch-handler" data-optanongroupid="C0002" aria-labelledby="ot-header-id-C0002"> <label class="ot-switch" for="ot-group-id-C0002"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Performance Cookies</span></label> </div><div class="ot-tgl-cntr"></div></div><p class="ot-grp-desc ot-category-desc">These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div><div class="ot-desc-cntr ot-hide" role="tabpanel" tabindex="0" id="ot-desc-id-C0003"><div class="ot-grp-hdr1"><h4 class="ot-cat-header">Functional Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0003" id="ot-group-id-C0003" aria-checked="false" role="switch" class="category-switch-handler" data-optanongroupid="C0003" aria-labelledby="ot-header-id-C0003"> <label class="ot-switch" for="ot-group-id-C0003"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Functional Cookies</span></label> </div><div class="ot-tgl-cntr"></div></div><p class="ot-grp-desc ot-category-desc">These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p></div><div class="ot-desc-cntr ot-hide" role="tabpanel" tabindex="0" id="ot-desc-id-C0004"><div class="ot-grp-hdr1"><h4 class="ot-cat-header">Targeting Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0004" id="ot-group-id-C0004" aria-checked="false" role="switch" class="category-switch-handler" data-optanongroupid="C0004" aria-labelledby="ot-header-id-C0004"> <label class="ot-switch" for="ot-group-id-C0004"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Targeting Cookies</span></label> </div><div class="ot-tgl-cntr"></div></div><p class="ot-grp-desc ot-category-desc">These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div><div class="ot-desc-cntr ot-hide" role="tabpanel" tabindex="0" id="ot-desc-id-C0009"><div class="ot-grp-hdr1"><h4 class="ot-cat-header">Codashop Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0009" id="ot-group-id-C0009" aria-checked="false" role="switch" class="category-switch-handler" data-optanongroupid="C0009" aria-labelledby="ot-header-id-C0009"> <label class="ot-switch" for="ot-group-id-C0009"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Codashop Cookies</span></label> </div><div class="ot-tgl-cntr"></div></div><p class="ot-grp-desc ot-category-desc">Codashop Cookies are custom cookies used to optimize user experience and site functionality. Without these the user may still visit Codashop, but not all site features may work as intended.</p></div></div></div></div><!-- Vendors / Hosts --><section id="ot-pc-lst" class="ot-hide ot-enbl-chr"><div class="ot-lst-cntr ot-pc-scrollbar"><div id="ot-pc-hdr"><div id="ot-lst-title"><button class="ot-link-btn back-btn-handler" aria-label="Back"><svg id="ot-back-arw" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.531 444.531" xml:space="preserve"><title>Back Button</title><g><path fill="#656565" d="M213.13,222.409L351.88,83.653c7.05-7.043,10.567-15.657,10.567-25.841c0-10.183-3.518-18.793-10.567-25.835
+                  l-21.409-21.416C323.432,3.521,314.817,0,304.637,0s-18.791,3.521-25.841,10.561L92.649,196.425
+                  c-7.044,7.043-10.566,15.656-10.566,25.841s3.521,18.791,10.566,25.837l186.146,185.864c7.05,7.043,15.66,10.564,25.841,10.564
+                  s18.795-3.521,25.834-10.564l21.409-21.412c7.05-7.039,10.567-15.604,10.567-25.697c0-10.085-3.518-18.746-10.567-25.978
+                  L213.13,222.409z"></path></g></svg></button><h3>Back</h3></div><div class="ot-lst-subhdr"><div id="ot-search-cntr"><p role="status" class="ot-scrn-rdr"></p><label for="vendor-search-handler" class="ot-scrn-rdr">Vendor Search</label> <input id="vendor-search-handler" aria-label="Vendor Search" type="text" placeholder="Search..." name="vendor-search-handler"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 -30 110 110" aria-hidden="true"><path fill="#2e3644" d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23
+              s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92
+              c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17
+              s-17-7.626-17-17S14.61,6,23.984,6z"></path></svg></div><div id="ot-fltr-cntr"><button id="filter-btn-handler" aria-label="Filter" aria-haspopup="true"><svg role="presentation" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 402.577 402.577" xml:space="preserve"><title>Filter Button</title><g><path fill="#2c3643" d="M400.858,11.427c-3.241-7.421-8.85-11.132-16.854-11.136H18.564c-7.993,0-13.61,3.715-16.846,11.136
+                            c-3.234,7.801-1.903,14.467,3.999,19.985l140.757,140.753v138.755c0,4.955,1.809,9.232,5.424,12.854l73.085,73.083
+                            c3.429,3.614,7.71,5.428,12.851,5.428c2.282,0,4.66-0.479,7.135-1.43c7.426-3.238,11.14-8.851,11.14-16.845V172.166L396.861,31.413
+                            C402.765,25.895,404.093,19.231,400.858,11.427z"></path></g></svg></button></div></div></div><section id="ot-lst-cnt" class="ot-pc-scrollbar"><div class="ot-sdk-row"><div class="ot-sdk-column"><div id="ot-sel-blk"><div class="ot-sel-all"><div class="ot-sel-all-hdr"><span class="ot-consent-hdr">Consent</span> <span class="ot-li-hdr">Leg.Interest</span></div><div class="ot-sel-all-chkbox"><div class="ot-chkbox" id="ot-selall-hostcntr"><input id="select-all-hosts-groups-handler" type="checkbox" aria-checked="false"> <label for="select-all-hosts-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-vencntr"><input id="select-all-vendor-groups-handler" type="checkbox" aria-checked="false"> <label for="select-all-vendor-groups-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div><div class="ot-chkbox" id="ot-selall-licntr"><input id="select-all-vendor-leg-handler" type="checkbox" aria-checked="false"> <label for="select-all-vendor-leg-handler"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div></div></div></div></section></div><div id="ot-anchor"></div><section id="ot-fltr-modal"><div id="ot-fltr-cnt"><button id="clear-filters-handler">Clear</button><div class="ot-fltr-scrlcnt ot-pc-scrollbar"><div class="ot-fltr-opts"><div class="ot-fltr-opt"><div class="ot-chkbox"><input id="chkbox-id" type="checkbox" aria-checked="false" class="category-filter-handler"> <label for="chkbox-id"><span class="ot-label-txt">checkbox label</span></label> <span class="ot-label-status">label</span></div></div></div><div class="ot-fltr-btns"><button id="filter-apply-handler">Apply</button> <button id="filter-cancel-handler">Cancel</button></div></div></div></section></section><!-- Footer buttons and logo --><div class="ot-pc-footer"><div class="ot-btn-container"><button class="save-preference-btn-handler onetrust-close-btn-handler">Confirm My Choices</button><div class="ot-btn-subcntr"><button class="ot-pc-refuse-all-handler">Reject All</button> <button id="accept-recommended-btn-handler">Allow All</button></div></div><div class="ot-pc-footer-logo"><a href="https://www.onetrust.com/products/cookie-consent/" target="_blank" rel="noopener noreferrer" style="background-image: url(&quot;https://cdn-apac.onetrust.com/logos/static/poweredBy_ot_logo.svg&quot;);" aria-label="Powered by OneTrust Opens in a new Tab"></a></div></div><!-- Cookie subgroup container --><!-- Vendor list link --><!-- Cookie lost link --><!-- Toggle HTML element --><!-- Checkbox HTML --><!-- Arrow SVG element --><!-- Accordion basic element --><span class="ot-scrn-rdr" aria-atomic="true" aria-live="polite"></span><iframe class="ot-text-resize" title="onetrust-text-resize" style="position: absolute; top: -50000px; width: 100em;" aria-hidden="true"></iframe></div><div id="onetrust-banner-sdk" class="otFlat otRelFont bottom ot-close-btn-link vertical-align-content" tabindex="0"><div role="alertdialog" aria-describedby="onetrust-policy-text" aria-label="Your Cookie Settings"><div class="ot-sdk-container"><div class="ot-sdk-row"><div id="onetrust-group-container" class="ot-sdk-eight ot-sdk-columns"><div class="banner_logo"></div><div id="onetrust-policy"><h3 id="onetrust-policy-title">Your Cookie Settings</h3><p id="onetrust-policy-text">By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. <a href="https://www.codapayments.com/policy/cookies-policy" aria-label="More information about your privacy">View our Cookies Policy</a></p></div></div><div id="onetrust-button-group-parent" class="ot-sdk-three ot-sdk-columns"><div id="onetrust-button-group"><button id="onetrust-pc-btn-handler" class="cookie-setting-link">Cookie settings</button>  <button id="onetrust-accept-btn-handler">Accept All Cookies</button></div></div></div></div><!-- Close Button --><div id="onetrust-close-btn-container"><button class="onetrust-close-btn-handler banner-close-button ot-close-link">Continue without Accepting</button></div><!-- Close Button END--></div></div></div></body></html>

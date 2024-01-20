@@ -1,0 +1,482 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="oppo游戏中心,oppo游戏,oppo游戏商店,oppo游戏官网下载,oppo游戏官网,oppo游戏平台,oppo官方游戏,oppo游戏下载,oppo游戏中心下载,oppo游戏官网下载,oppo游戏商店,oppo商店游戏下载">
+    <meta name="description" content="OPPO游戏中心是OPPO手机上的游戏下载工具，为玩家提供最新最热最好玩的手机游戏，集游戏推荐、资讯攻略、社交互动于一体">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <script type="text/javascript">
+        if(location.host=='app.cdo.oppomobile.com'){
+            document.write('<meta name="validateKey" content="bikqikdiqpgyncinwml50oo4wmbb85ho">');
+            document.write('<meta name="validateContent" content="642950ad908a6467d352c427436f1826617dd3849836a5937ea51a97073bc9ba617bc5f1b4443dcdbead3e611eb3d2eb9bb27ebfc37dc1248de52b64fbaa72694557c489012ef3bc88052af6dce5b9de27096a545308b6da">');
+        }else{
+            document.write('<meta name="validateKey" content="dirwg6205v8kgkn6kjt151tsss2pof27">');
+            document.write('<meta name="validateContent" content="642950ad908a6467f2bc87d611b7e36f26262dc7ecc4dba2a7904f8be2dd10091741fd4c1674a33421857af5a4fde0dd80a60535aa1148a4bfa307ec992252992b1a54de9c973d0eae79d36deab65472a8b3ed957e375eb36c146010b821b7f649ca78a5a79001e7ba903a7e3498b2e245a112a0d51c3763464fe309b63dc95cbe107f1b26976a57f3fbc07eea398063c0963f4efa41e528df91f567996ee347028b6dc2a9d107eaf834b1e73a9f1ba0">');
+        }
+    </script><meta name="validateKey" content="bikqikdiqpgyncinwml50oo4wmbb85ho"><meta name="validateContent" content="642950ad908a6467d352c427436f1826617dd3849836a5937ea51a97073bc9ba617bc5f1b4443dcdbead3e611eb3d2eb9bb27ebfc37dc1248de52b64fbaa72694557c489012ef3bc88052af6dce5b9de27096a545308b6da">
+    <title>精选手游</title>
+    <link rel="stylesheet" href="/static/css/newgame-e238236572.css">
+<script>function __heytapBrowserAuthCheck__(category, method, params, flag, callId) {
+    var _id = !!callId ? callId : '';
+    // flag的定义 true-新版sdk调内核方法; false-兼容旧版downLoad方法
+    if (flag) {
+      window.securityCheck && window.securityCheck.invoke && window.securityCheck.invoke(category, method, params, _id);
+    } else {
+      window.securityCheck && window.securityCheck.invoke && window.securityCheck.invoke(category, method, params.join('@@'), '');
+    }
+  }</script></head>
+<body>
+<div class="wrapper">
+    <div class="header game-search">
+      <img src="/static/images/game10.png" class="logo" title="OPPO游戏中心" alt="OPPO游戏中心">
+      <span class="logo-text">精选手游</span>
+        <div class="input-box">
+            <input type="text" class="search" readonly="">
+            <p class="note"><span>搜索游戏</span></p>
+        </div>
+    </div>
+    <div class="top-tabs">
+        <div class="tab-wrap">
+            <div class="tab cur"><span>精选</span></div>
+            <div class="tab" discover="1" first="1"><span>发现</span></div>
+        </div>
+        <div class="border-bottom"></div>
+    </div>
+	<div id="contentBox">
+	    <div id="cardWrap"></div>
+        <div id="discover" style="display: none;"></div>
+	</div>
+</div>
+
+<div class="wx-tip">
+    <img src="/static/images/wxtip.png" class="msg">
+</div>
+
+<div class="mask loading">
+    <div class="loading-box"><div class="loading-icon"></div></div>
+</div>
+
+<!--S 新模板-->
+<script type="html/template" id="container104">
+    <div class="new-card type-104" cardtype="104" cardkey="{{key}}">
+        <div class="two-title action" action="{{actionParam}}">
+            <div class="main">{{title}}</div>
+            <div class="sub">{{desc}}</div>
+            <div class="more"></div>
+        </div>
+        <ul class="flex4"></ul>
+    </div>
+</script>
+<script type="html/template" id="container107">
+    <div class="new-card type-107" cardtype="107" cardkey="{{key}}">
+        <div class="top-img action" action="{{action}}"><img src="{{img}}"></div>
+        <ul class="flex4"></ul>
+    </div>
+</script>
+<script type="html/template" id="container109">
+    <div class="new-card type-139" cardtype="139" cardkey="{{key}}">
+        <div class="app-list-box">
+            <ul></ul>
+        </div>
+    </div>
+</script>
+<script type="html/template" id="container110">
+    <div class="new-card type-110" cardtype="110" cardkey="{{key}}">
+        <div class="app-list-box top-box top">
+            <div class="title">
+                <span>{{title}}</span>
+            </div>
+            <ul></ul>
+        </div>
+    </div>
+</script>
+<script type="html/template" id="container118">
+    <div class="new-card type-118" cardtype="118" cardkey="{{key}}">
+        <div class="title action" action="{{actionParam}}">
+            <span>{{title}}</span>
+            <div class="more"></div>
+        </div>
+        <ul class="flex4"></ul>
+    </div>
+</script>
+<script type="html/template" id="verticalLi">
+    <li pkg="{{pkg}}" class="unknown" ver="{{version}}">
+        <div class="detail"></div>
+        <div class="view">
+            <div class="img-wrap"></div>
+            <img class="pic" src="{{img}}">
+        </div>
+        <div class="info">
+            <h3>{{name}}</h3>
+            <p class="size-wrap">
+                <span class="star-wrap"><span class="star" grade="{{grade}}"></span></span>
+                <span class="size">{{size}}</span>
+            </p>
+            <p class="describe">{{desc}}</p>
+        </div>
+        <input class="down-btn" type="button" value="安装">
+    </li>
+</script>
+<script type="html/template" id="horizontalLi">
+    <li pkg="{{pkg}}" class="unknown" ver="{{version}}">
+        <div class="app-icon">
+            <div class="img-wrap"></div>
+            <img class="pic" src="{{img}}">
+        </div>
+        <div class="app-name">{{name}}</div>
+        <div class="app-desc">{{dlCount}}</div>
+        <div class="btn-wrap"><input type="button" class="down-btn" value="安装"></div>
+    </li>
+</script>
+<!--E 新模板-->
+
+<!--发现tab-->
+<script type="html/template" id="container114">
+    <div class="new-card type-114" cardkey="{{key}}">
+        <div class="p16">
+            <div class="title">
+                <span>{{title}}</span>
+            </div>
+        </div>
+        <div class="p16 gradient-114">
+            <div class="top-img action" action="{{firstAction}}">
+                <img src="{{bannerImage}}">
+                <div class="img-desc">{{firstText}}</div>
+            </div>
+            <div class="bbs">
+                <div class="bbs-item action" action="{{secondAction}}">{{secondText}}</div>
+                <div class="bbs-item action mt12" action="{{thirdAction}}">{{thirdText}}</div>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="html/template" id="container176">
+    <div class="new-card type-176" cardkey="{{key}}">
+        <img class="big-size" src="{{bannerImage}}">
+        <div class="content-box action" action="{{action}}">
+            <div class="title">{{title}}</div>
+            <div class="app-box pkg" pkg="{{pkg}}">
+                <img src="{{appIcon}}" class="app-icon">
+                <div class="name">{{appName}}</div>
+                <div class="desc">{{appDesc}}</div>
+                <input class="btn {{btnClass}} unknown" pkg="{{pkg}}" ver="{{version}}" value="安装" type="button">
+            </div>
+        </div>
+    </div>
+</script>
+<script type="html/template" id="container197">
+    <div class="new-card type-197" cardkey="{{key}}">
+        <div class="content-box">
+            <div class="title p16">{{title}}</div>
+            <ul class="p16"></ul>
+        </div>
+    </div>
+</script>
+<script type="html/template" id="tplItem197">
+    <li pkg="{{pkg}}" ver="{{version}}"><img class="user pkg" comment="1" src="{{userIcon}}" onerror="userIconError(this)">
+        <div class="name">{{userName}}</div>
+        <div class="row-star">
+            <span class="star-wrap"><span class="star user-grade" grade="{{userGrade}}"></span></span>
+        </div>
+        <img class="icon pkg" src="{{appIcon}}">
+        <div class="point">{{appGrade}}</div>
+        <div class="text pkg" comment="1"><span class="green">#{{appName}}#</span>{{word}}</div>
+    </li>
+</script>
+<!--发现tab-->
+<!--预约-->
+<script type="html/template" id="container2010">
+    <div class="new-card type-2010" cardkey="{{key}}">
+        <div class="title action" action="{{bannerAction}}">
+            <span>{{title}}</span>
+            <div class="more"></div>
+        </div>
+        <div class="top-img action" action="{{bannerAction}}">
+            <img src="{{bannerImage}}">
+        </div>
+        <div class="app-list-box top-box top">
+            <ul>
+                <li pkg="{{pkg}}" version="{{version}}">
+                    <div class="detail"></div>
+                    <div class="view">
+                        <img class="pic" src="{{appIcon}}">
+                    </div>
+                    <div class="info">
+                        <h3>{{appName}}</h3>
+                        <p class="size-wrap">
+                            <span class="game-type">{{appType}}</span>
+                            <span class="game-date">{{appDate}}</span>
+                        </p>
+                        <p class="describe">{{bookingCount}}人已预约</p>
+                    </div>
+                    <input class="appointment-btn" type="button" value="预约">
+                </li>
+            </ul>
+        </div>
+    </div>
+</script>
+<script type="html/template" id="container5008">
+    <div class="new-card type-5008" cardkey="{{key}}">
+        <div class="app-list-box top-box top">
+            <ul>
+                <li pkg="{{pkg}}" version="{{version}}">
+                    <div class="detail"></div>
+                    <div class="view">
+                        <img class="pic" src="{{appIcon}}">
+                    </div>
+                    <div class="info">
+                        <h3>{{appName}}</h3>
+                        <p class="size-wrap">
+                            <span class="game-type">{{appType}}</span>
+                            <span class="game-date">{{appDate}}</span>
+                        </p>
+                        <p class="describe">{{bookingCount}}人已预约</p>
+                    </div>
+                    <input class="appointment-btn" type="button" value="预约">
+                </li>
+            </ul>
+        </div>
+        <div class="four-img-list">
+            <img class="four-img-item" src="{{preview1}}">
+            <img class="four-img-item" src="{{preview2}}">
+            <img class="four-img-item" src="{{preview3}}">
+            <img class="four-img-item" src="{{preview4}}">
+        </div>
+        <div class="posts"></div>
+    </div>
+</script>
+<script type="html/template" id="tplItem5008">
+    <div class="post-item {{className}} action" action="{{action}}"><div class="label"></div>{{text}}</div>
+</script>
+<script type="html/template" id="container5011">
+<div class="new-card type-5011" cardkey="{{key}}">
+    <div class="title action" action="{{action}}">
+        <span>{{title}}</span>
+        <div class="more"></div>
+    </div>
+    <div class="app-list-box top-box">
+        <ul></ul>
+    </div>
+</div>
+</script>
+<script type="html/template" id="tplItem5011">
+    <li pkg="{{pkg}}" version="{{version}}">
+        <div class="detail"></div>
+        <div class="view">
+            <img class="pic" src="{{img}}">
+        </div>
+        <div class="info">
+            <h3>{{name}}</h3>
+            <p class="size-wrap">
+                <span class="game-type">{{appType}}</span>
+                <span class="game-date">{{appDate}}</span>
+            </p>
+            <p class="describe">{{bookingCount}}人已预约</p>
+        </div>
+        <input class="appointment-btn" type="button" value="预约">
+    </li>
+</script>
+<script type="html/template" id="container155">
+    <div class="new-card type-155" cardkey="{{key}}">
+        <div class="title action" action="{{action}}">
+            <span>{{title}}</span>
+            <div class="more"></div>
+        </div>
+        <ul class="flex4"></ul>
+    </div>
+</script>
+<script type="html/template" id="tplItem155">
+    <li pkg="{{pkg}}">
+        <div class="app-icon"><img class="pic" src="{{img}}"></div>
+        <div class="app-name">{{name}}</div>
+        <div class="app-desc">{{appType}}</div>
+        <div class="btn-wrap"><input type="button" class="appointment-btn" value="预约"></div>
+    </li>
+</script>
+<script type="html/template" id="container196">
+    <div class="new-card type-196" cardkey="{{key}}">
+        <div class="title action" action="{{action}}">
+            <span>{{title}}</span>
+            <div class="more"></div>
+        </div>
+        <div class="video-wrap">
+            <video poster="{{poster}}" class="video" src="{{video}}" webkit-playsinline="true" disable-video-auto-fullscreen="true"></video>
+            <div class="play-icon-wrap trans-center">
+                <img src="/static/images/play.png" class="play-icon">
+            </div>
+        </div>
+        <div class="app-list-box top-box">
+            <ul>
+                <li pkg="{{pkg}}" version="{{version}}">
+                    <div class="detail"></div>
+                    <div class="view">
+                        <img class="pic" src="{{appIcon}}">
+                    </div>
+                    <div class="info">
+                        <h3>{{appName}}</h3>
+                        <p class="size-wrap">
+                            <span class="game-type">{{appType}}</span>
+                            <span class="game-date">{{appDate}}</span>
+                        </p>
+                        <p class="describe">{{bookingCount}}人已预约</p>
+                    </div>
+                    <input class="appointment-btn" type="button" value="预约">
+                </li>
+            </ul>
+        </div>
+    </div>
+</script>
+<script type="html/template" id="container5017">
+    <div class="new-card type-5017" cardkey="{{key}}">
+        <div class="title action" action="{{action}}">
+            <span>{{title}}</span>
+            <div class="more"></div>
+        </div>
+        <div class="video-wrap">
+            <video poster="{{poster}}" class="video" src="{{video}}" webkit-playsinline="true" disable-video-auto-fullscreen="true"></video>
+            <div class="play-icon-wrap trans-center">
+                <img src="/static/images/play.png" class="play-icon">
+            </div>
+        </div>
+        <div class="app-list-box top-box">
+            <ul>
+                <li pkg="{{pkg}}" card="" version="{{version}}">
+                    <div class="detail"></div>
+                    <div class="view">
+                        <img class="pic" src="{{appIcon}}">
+                    </div>
+                    <div class="info">
+                        <h3>{{appName}}</h3>
+                        <p class="size-wrap">
+                            <span class="game-type">{{dlCount}}</span>
+                        </p>
+                        <p class="describe">{{appDesc}}</p>
+                    </div>
+                    <input class="down-btn" type="button" value="安装">
+                </li>
+            </ul>
+        </div>
+    </div>
+</script>
+<script type="html/template" id="container177">
+    <div class="new-card type-177" cardkey="{{key}}">
+        <img class="big-size" src="{{bannerImage}}">
+        <div class="content-box action" action="{{action}}">
+            <div class="title">{{title}}</div>
+            <div class="app-box pkg" pkg="{{pkg}}">
+                <img class="app-icon" src="{{appIcon}}">
+                <div class="name">{{appName}}</div>
+                <div class="desc">{{bookingCount}}人已预约</div>
+                <div class="appointment-btn">预约</div>
+            </div>
+        </div>
+    </div>
+</script>
+<!--预约-->
+<!--10月新增-->
+<script type="html/template" id="container173">
+    <div class="new-card type-173" cardkey="{{key}}">
+        <div class="p16">
+            <div class="title action" action="{{action}}">
+                <span>{{title}}</span>
+                <div class="more"></div>
+            </div>
+        </div>
+        <ul class="ul-173"></ul>
+    </div>
+</script>
+<script type="html/template" id="tplItem173">
+    <li class="li-173 unknown" pkg="{{pkg}}">
+        <div class="app-icon"><img class="pic" src="{{img}}">
+        </div>
+        <div class="app-name">{{name}}</div>
+        <div class="app-desc">{{desc}}</div>
+        <div class="btn-wrap"><input type="button" class="down-btn" value="安装" apk="{{apkUrl}}"></div>
+    </li>
+</script>
+<script type="html/template" id="container451">
+    <div class="new-card type-451" cardkey="{{key}}">
+        <div class="img-451 action" action="{{action}}"><img class="img" src="{{img}}"></div>
+        <div class="text ellipsis">{{title}}</div>
+        <div class="comment-info">
+            <img class="avatar" src="{{avatar}}">
+            <div class="username ellipsis">{{nickName}}</div>
+            <div class="comment">{{comment}}</div>
+            <div class="like">{{like}}</div>
+        </div>
+    </div>
+</script>
+
+<script type="html/template" id="container452">
+    <div class="new-card type-452" cardkey="{{key}}">
+        <div class="p16">
+            <div class="title action" action="{{action}}">
+                <span>{{title}}</span>
+                <div class="more"></div>
+            </div>
+        </div>
+        <div class="list-452"></div>
+    </div>
+</script>
+<script type="html/template" id="tplItem452">
+    <div class="item-452">
+        <div class="img-452 action" action="{{action}}"><img class="img" src="{{img}}"></div>
+        <div class="border">
+            <div class="text ellipsis">{{title}}</div>
+            <div class="comment-info">
+                <img class="avatar" src="{{avatar}}" onerror="userIconError(this)">
+                <div class="username ellipsis">{{nickName}}</div>
+                <div class="comment">{{comment}}</div>
+                <div class="like">{{like}}</div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="html/template" id="container453">
+    <div class="new-card type-453" cardkey="{{key}}">
+        <ul></ul>
+    </div>
+</script>
+<script type="html/template" id="tplItem453">
+    <li class="item-453 action" action={{action}}>
+        <div class="img-453"><img class="img" src="{{img}}"></div>
+        <div class="text ellipsis">{{title}}</div>
+        <div class="comment-info">
+            <img class="avatar" src="{{avatar}}" onerror="userIconError(this)">
+            <div class="username ellipsis">{{nickName}}</div>
+            <div class="comment">{{comment}}</div>
+            <div class="like">{{like}}</div>
+        </div>
+    </li>
+</script>
+<!--10月新增-->
+<!--12新增-->
+<script type="html/template" id="container186">
+    <div class="new-card type-186" cardkey="{{key}}">
+        <div class="p16">
+            <div class="title action">
+                <span>{{title}}</span>
+                <div class="more"></div>
+            </div>
+        </div>
+        <ul class="ul-186"></ul>
+    </div>
+</script>
+<script type="html/template" id="tplItem186">
+    <li class="li-186 action" action="{{action}}"><img class="img" src="{{img}}"></li>
+</script>
+
+<script type="html/template" id="container187">
+    <div class="new-card type-187" cardkey="{{key}}">
+        <div class="item action" action="{{action0}}"><img class="img" src="{{img0}}"></div>
+        <div class="space"></div>
+        <div class="item action" action="{{action1}}"><img class="img" src="{{img1}}"></div>
+    </div>
+</script>
+<!--12新增-->
+
+<script src="/static/js/jquery.js"></script>
+<script src="https://static-common.heytapdownload.com/oreport/oreport-1.1.0.min.js"></script>
+<script src="https://static-cpc.heytapimage.com/userfiles/uploads/jslib/heytapBrowserApiIn.js"></script>
+<script src="/static/js/newgame-dac11d5bab.js"></script>
+
+</body></html>

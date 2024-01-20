@@ -1,0 +1,211 @@
+<html><head>
+	<title>J.Crew / J.Crew Factory</title>
+	<style>
+		body {
+			background-color: #f1f1f1;
+			padding: 0;
+			margin: 0;
+			justify-content: center;
+		}
+
+		.error-page {
+			width: 100%;
+			margin: 0 auto;
+		}
+
+		.error-page--content {
+			position: relative;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			margin: 50px auto 0;
+			text-align: center;
+			font-family: soleil, Helvetica, Arial, sans-serif;
+			background-repeat: no-repeat;
+			background-position: top;
+			background-size: contain;
+			width: 100%;
+			padding-top: 89%;
+		}
+
+		.error-page__header {
+			width: 100%;
+			display: flex;
+		}
+		
+		.logo-container {
+			width: 100%;
+			border: 0 solid green;
+			margin-bottom: 10%;
+		
+		}
+
+		.error-page .logo {
+			display: inline-block;
+			margin: 0 5px;
+			background-repeat: no-repeat;
+			width: 40%;
+			vertical-align: top;
+		}
+
+		.error-page .logo img {
+			width: 100%;
+		}
+
+		.error-page .jcrew-logo {
+			flex: 5;
+			width: 44%;
+		}
+
+		.error-page .factory-logo {
+			flex: 4;
+		}
+
+		.error-page--copy {
+			position: absolute;
+			padding: 0 15%;
+			bottom: 43%;
+			transform: translateY(50%);
+			width: 100%;
+		}
+
+		.error-page h1 {
+			margin: 0 0 12px 0;
+			padding: 0;
+			font-size: 32px;
+			font-weight: 500;
+			font-family: freight-big-pro;
+			line-height: 100%;
+		}
+
+		.error-page p {
+			margin: 0;
+			font-size: 14px;
+		}
+
+		.error-page--error {
+			text-align: center;
+			display: block;
+			color: #949494;
+			font-size: 13px;
+			line-height: 20px;
+			margin-top: 24px;
+		}
+
+		@media screen and (min-width:768px) {
+
+		    body {
+			    background-color: #f1f1f1;
+		    }
+
+
+			.error-page {
+				max-width: 1400px;
+			}
+
+			.error-page--content {
+				margin: 0 auto;
+				padding-top: 55%;
+				max-width: 1400px;
+			}
+			
+			.error-page .logo {
+				display: inline-block;
+				margin: 0 24px;
+				background-repeat: no-repeat;
+				width: 30%;
+				vertical-align: top;
+			}
+
+			.error-page .logo img {
+				width: 100%;
+			}
+
+			.error-page .jcrew-logo {
+				flex: 5;
+				width: 34%;
+			}
+
+			.error-page h1 {
+				font-size: 48px;
+			}
+
+			.error-page p {
+				font-size: 16px;
+			}
+
+			.error-page--copy {
+				width: 65%;
+				top: 45%;
+				bottom: unset;
+				margin: 0;
+				padding: 0;
+				transform: translateY(-50%);
+			}
+		}
+
+		@media screen and (min-width:1028px) {
+			.error-page h1 {
+				font-size: 64px;
+			}
+		}
+	</style>
+	<link rel="stylesheet" href="https://use.typekit.net/fkr4pjw.css" media="all">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<script src="https://www.jcrew.com/ns/static_assets/s_code.js"></script>
+
+</head>
+
+<body>
+	<div class="error-page">
+		<div class="error-page--content">
+			<div class="error-page--copy">
+			  <div class="logo-container">
+				<div class="logo jcrew-logo">
+        			<img src="https://www.jcrew.com/brand_creative/interface/logo_jc2021_grey.png?imformat=generic">
+      			</div>
+      			<div class="logo factory-logo">
+        			<img src="https://www.jcrew.com/brand_creative/interface/logo_fac2020.png?imformat=generic">
+      			</div>
+      		  </div>
+				<h1>Thank you for your patience...</h1>
+				<p>We seem to be experiencing some technical difficulties right now. Please try clearing your browser’s cache and cookies, and check back with us in a little while to get shopping.</p>
+				<!-- <h1>Hmmmm.<br/>Let&rsquo;s try this again.</h1>
+				<p>
+					It seems something went wrong&hellip;<br/>
+					Just <a href="/">click here</a> to go back.
+				</p> -->
+				<div class="error-page--error">503 Service Unavailable</div>
+			</div>
+		</div>
+	</div>
+
+
+<script>
+	var errorCode = "503"
+	const errorMessage = "Service Unavailable"
+
+	const channel = 'Error Page'
+	const siteDown = 'Site Down'
+
+	window.s.pageName = `${channel}: ${errorCode}`
+	window.s.prop4 = channel
+	window.s.prop10 = siteDown
+	window.s.prop11 = channel
+	window.s.channel = channel
+	window.s.eVar29 = siteDown
+	window.s.events = 'event245'
+
+	if (window.s && window.s.t) {
+		try {
+			window.s.t()
+		} catch (e) {
+			console.log('Error with s_code.js')
+			console.log(e)
+		}
+	}
+
+</script>
+
+
+</body></html>

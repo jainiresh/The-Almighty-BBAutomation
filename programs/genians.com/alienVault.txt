@@ -1,0 +1,10 @@
+docs.genians.com
+genians.com
+invoice.genians.com
+status.genians.com
+status.my.genians.com
+status-region.my.genians.com
+status-service.genians.com
+status-web.genians.com
+survey.genians.com
+www.genians.com

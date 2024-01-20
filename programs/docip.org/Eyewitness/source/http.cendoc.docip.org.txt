@@ -1,0 +1,334 @@
+<html><head>
+<title>Centre de Documentation du Docip</title>
+<meta name="Greenstone_version_number" content="2.86">
+
+  <script type="text/javascript" async="" src="http://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KXMZJR"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script type="text/javascript" src="/web/script/gsajaxapi.js"></script>
+  <script type="text/javascript" src="/web/script/docip.js"></script>
+
+  <script language="javascript" type="text/javascript">
+        
+    
+
+function updatelang () {
+  var newlang;
+  var href;
+  newlang = document.LangForm.l.options[document.LangForm.l.selectedIndex].value;
+
+ href=location.href;
+  if (href.match(/upd_(en|es|fr|ru)/)) href = href.replace(/upd_(en|es|fr|ru)/, "upd_" + newlang);
+  if (href.match(/&l=(en|es|fr|ru)/)) href = href.replace(/&l=(en|es|fr|ru)/, "&l=" + newlang);
+  else href += "&l=" + newlang;
+  location.href= href;
+}
+
+  
+    function gsdefined(val)
+    {
+       return (typeof(val) != "undefined");
+    }
+        
+    var un = "";
+    var ky = "";
+    var gsapi = new GSAjaxAPI("/cgi-bin/library.cgi","","","");
+                         
+    // http://stackoverflow.com/questions/6312993/javascript-seconds-to-time-with-format-hhmmss
+    // Call as: alert(timestamp.printTime());
+    function formatTime(timestamp) {
+      var int_timestamp    = parseInt(timestamp, 10); // don't forget the second param
+      var date = new Date(int_timestamp);
+      return date.toLocaleDateString() + " " + date.toLocaleTimeString();
+   }
+
+    function loadUserComments() {
+
+        // don't bother loading comments if we're not on a document page (in which case there's no usercommentdiv)
+        var usercommentdiv = document.getElementById("usercomments");
+        if(usercommentdiv == undefined || usercommentdiv == null) {
+        return;
+        }
+
+        // else, if we have a usercommentdiv, we would have a docid. Get toplevel section of the docid
+        var doc_id = ""; //escape("");
+        var period = doc_id.indexOf(".");
+        if(period != -1) {
+            doc_id = doc_id.substring(0, period);
+        }
+                         
+        var username_rec = {
+            metaname: "username",
+            metapos: "all"
+        };
+
+        var timestamp_rec = {
+            metaname: "usertimestamp",
+            metapos: "all"
+        };
+
+        var comment_rec = {
+            metaname: "usercomment",
+            metapos: "all"
+        };
+    
+        var doc_rec = {
+            docid: doc_id,
+            metatable: [username_rec, timestamp_rec, comment_rec]
+        };
+
+        var docArray = [doc_rec];
+        //alert(JSON.stringify(docArray));
+                         
+        var json_result_str = gsapi.getMetadataArray(docArray, "index");
+//      alert(json_result_str);
+        var result = JSON.parse(json_result_str);
+        // result contains only one docrec (result[0]), since we asked for the usercomments of one docid
+        var metatable = result[0].metatable;
+//      alert(JSON.stringify(metatable));
+
+        var i = 0;
+        var looping = true;
+        var print_heading = true;
+
+        // metatable[0] = list of usernames, metatable[1] = list of timestamps, metatable[2] = list of comments
+        // the 3 lists/arrays should be of even length. Assuming this, loop as long as there's another username
+        while(looping) {
+                var metaval_rec = metatable[0].metavals[i];
+                if(metaval_rec == undefined) {
+                    looping = false;
+                }
+                else {
+
+                    if(print_heading) {
+                         var heading=document.createElement("div");
+                         var attr=document.createAttribute("class");
+                         attr.nodeValue="usercommentheading";
+                         heading.setAttributeNode(attr);
+                         var txt=document.createTextNode("_textusercommentssection_");
+                         heading.appendChild(txt);
+                         usercommentdiv.appendChild(heading);
+
+                         print_heading = false;
+                    }
+    
+                    var username = metaval_rec.metavalue;
+                    var timestamp = metatable[1].metavals[i].metavalue;
+                    var comment = metatable[2].metavals[i].metavalue;
+    
+                    //alert("Comment: " + username + " " + timestamp + " " + comment);
+                
+                    // No need to sort by time, as the meta are already stored sorted
+                    // and hence retrieved in the right order by using the i (metapos) counter
+                    // If sorting the array of comment records, which would be by timestamp, see
+                    // https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Array/sort
+
+                     // for each usercomment, create a child div with the username, timestamp and comment
+                     displayInUserCommentList(usercommentdiv, username, timestamp, comment);
+                         
+                     i++;
+             }
+        }
+
+    }  
+
+                         
+    function displayInUserCommentList(usercommentdiv, username, timestamp, comment) {
+    
+        var divgroup=document.createElement("div");
+        var attr=document.createAttribute("class");
+        attr.nodeValue="usercomment";
+        divgroup.setAttributeNode(attr);
+  
+        var divuser=document.createElement("div");
+        var divtime=document.createElement("div");
+        var divcomment=document.createElement("div");
+
+        
+        divgroup.appendChild(divuser);
+        var txt=document.createTextNode(username);
+        divuser.appendChild(txt);
+                         
+        divgroup.appendChild(divtime);
+        txt=document.createTextNode(formatTime(timestamp)); // format timestamp for date/time display
+        divtime.appendChild(txt);
+
+        // any quotes and colons in the fields would have been protected for transmitting as JSON
+        // so decode their entity values
+        comment = comment.replace(/&quot;/gmi, '"');
+        comment = comment.replace(/&58;/gmi, ':');
+    
+        divgroup.appendChild(divcomment);
+        txt=document.createTextNode(comment);
+        divcomment.appendChild(txt);
+    
+        usercommentdiv.appendChild(divgroup);
+    
+    }  
+      
+    // http://stackoverflow.com/questions/807878/javascript-that-executes-after-page-load
+    // ensure we don't replace any other onLoad() functions, but append the loadUserComments()
+    // function to the existing onLoad handlers
+    
+    if(window.onload) {
+        var curronload = window.onload;
+        var newonload = function() {
+            curronload();
+            loadUserComments();
+        };
+        window.onload = newonload;
+    } else {
+        window.onload = loadUserComments;
+    }
+  </script>
+
+
+        
+
+
+<script language="javascript" type="text/javascript">
+
+   function appendUsernameArgs(id,addOn)
+   {
+     var a=document.getElementById(id);
+     var url = a.getAttribute("href");
+     if (url == "") {
+       url = document.location.toString();
+     }
+
+     //alert("url before = " + url);
+
+     // clear out any earlier user name/authentication values
+     url = url.replace(/(&|\\?)uan=\d{0,1}/g,"");
+     url = url.replace(/(&|\\?)un=[a-z0-9:\-]*/g,"");
+     url = url.replace(/(&|\\?)pw=[a-z0-9:\-]*/g,"");
+
+     //alert("url after = " + url);
+
+     var gwcgi = "/cgi-bin/library.cgi";
+
+     var tailUrl = url.substr(url.length-gwcgi.length);
+
+     url += (tailUrl == "/cgi-bin/library.cgi") ? "?" : "&";
+     url += addOn;
+
+     //alert("url with add on = " + url);
+
+     a.setAttribute("href",url);
+   }
+
+
+
+
+</script>
+
+
+
+  <link rel="stylesheet" href="/web/style/style.css" type="text/css" title="Greenstone Style" charset="UTF-8">
+  <link rel="stylesheet" href="/web/style/style-print.css" type="text/css" title="Printer" charset="UTF-8" media="print"> 
+   
+
+
+
+
+</head>
+
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXMZJR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KXMZJR');</script>
+<!-- End Google Tag Manager -->
+
+<div id="page">
+
+<!-- page banner (_style:pagebanner_) -->
+<div id="banner">
+<div class="pagelogo"><a href="https://www.docip.org/index.php?L=0" target="GST"><img src="/web/images/docip-logo-top-fr.png" alt="Docip logo"></a></div>
+<div class="pageinfo">
+<p class="bannerlinks"><a href="https://www.docip.org/fr" class="navlink" title="DOCIP" target="GST">DOCIP</a></p>
+</div>
+
+<div class="langltr">
+ <form name="LangForm" method="get" action="/cgi-bin/library.cgi">
+  <select name="l" onchange="updatelang();">
+
+  <option value="en">English
+  </option>
+  <option value="es">Español
+  </option>
+  <option value="fr" selected="">Français
+  </option>
+  <option value="ru">Русский
+  </option>
+
+  </select>
+ </form>
+</div>
+
+<div class="collectimage"></div>
+<div class="bannerextra">
+<div class="hometitle">
+<h1>Centre de documentation</h1>
+</div>
+</div>
+</div>
+<!-- end of page banner -->
+
+
+
+
+<div id="onlinecols">
+<h2>Notre documentation en ligne</h2>
+<table>
+<tbody><tr>
+    <td><h2><a href="/cgi-bin/library.cgi?e=p-00000-00---off-0--00-----0-10-0---0---0direct-10----4-------0-1l--10-fr-50---20-home---0--1-00-10--4----0-0-01-00-0utfZz-8-00&amp;a=p&amp;p=about&amp;c=cendocdo" target="GST">Documents principaux et juridiques, conférences et événements de formation</a></h2></td>
+    <td>La section principale de notre collection en ligne: interventions, déclarations, tutoriels, rapports, résolutions, références et bien plus encore. Tous les documents peuvent être recherchés par auteur, titre, contenu, etc.</td>
+</tr>
+<tr>
+    <td><h2><a href="/cgi-bin/library.cgi?e=p-00000-00---off-0--00-----0-10-0---0---0direct-10----4-------0-1l--10-fr-50---20-home---0--1-00-10--4----0-0-01-00-0utfZz-8-00&amp;a=p&amp;p=about&amp;c=upd_fr" target="GST">Publications du Docip</a></h2></td>
+    <td>Les publications de Docip comprennent les deux types de publications que Docip édite et publie: les Notes de Synthèse (résumés des conférences des Nations Unies sur les droits des peuples indigènes) et l'Update (un bulletin d'information sur les questions soulevées par les peuples autochtones au niveau international).</td>
+</tr>
+<tr>
+    <td><h2><a href="/cgi-bin/library.cgi?e=p-00000-00---off-0--00-----0-10-0---0---0direct-10----4-------0-1l--10-fr-50---20-home---0--1-00-10--4----0-0-01-00-0utfZz-8-00&amp;a=p&amp;p=about&amp;c=deskaheh" target="GST">Les 6 nations iroquoises à la Société des Nations</a></h2></td>
+    <td>À partir de 1922, Deskaheh, un représentant du Conseil des Six Nations, a cherché à porter à l'attention de la Société des Nations (le prédécesseur des Nations Unies) de la cause de son peuple (le Haudenosaunee). Cette collection de documents couvre la période 1922-1933.</td>
+</tr>
+</tbody></table>
+</div>
+<div id="offlinecols">
+<h2>Notre centre de documentation à Genève</h2>
+<table>
+<tbody><tr>
+    <td><h2><a href="/cgi-bin/library.cgi?e=p-00000-00---off-0--00-----0-10-0---0---0direct-10----4-------0-1l--10-fr-50---20-home---0--1-00-10--4----0-0-01-00-0utfZz-8-00&amp;a=p&amp;p=about&amp;c=monograph" target="GST">Monographies</a></h2></td>
+    <td>Il y a plus de 1000 mongraphes dans le Centre de documentation. Ils peuvent être recherchés par l'auteur, le titre et la table des matières et peuvent être consultés en personne au Centre de Documentation (sur rendez-vous) ou en ligne.</td>
+</tr>
+<tr>
+    <td><h2><a href="/cgi-bin/library.cgi?e=p-00000-00---off-0--00-----0-10-0---0---0direct-10----4-------0-1l--10-fr-50---20-home---0--1-00-10--4----0-0-01-00-0utfZz-8-00&amp;a=p&amp;p=about&amp;c=periodics" target="GST">Périodiques</a></h2></td>
+    <td>Docip possède des numéros provenant de plus de 70 revues spécialisées dont les tableaux de contenu peuvent être recherchés en ligne.</td>
+</tr>
+<tr>
+    <td><h2><a href="/cgi-bin/library.cgi?e=p-00000-00---off-0--00-----0-10-0---0---0direct-10----4-------0-1l--10-fr-50---20-home---0--1-00-10--4----0-0-01-00-0utfZz-8-00&amp;a=p&amp;p=about&amp;c=regions" target="GST">Documents par région</a></h2></td>
+    <td>Il s'agit d'une bibliographie de documents imprimés recueillis par Docip et placé dans son Centre de documentation à Genève. La bibliographie est organisée par région et sujet.</td>
+</tr>
+</tbody></table>
+</div>    
+<p>
+
+
+</p><div id="footer">
+
+<!-- page footer (_style:footer_) -->
+
+<a href="https://goo.gl/maps/PGJB9CaX2Up" target="GST"><img src="/web/images/map-footer.png" title="docip map" class="map-footer" alt="Docip map"></a>
+ <div class="docipaddress"><p>Contacter le Docip</p><p>Tél.: +41 22 740 34 33<br>Email : docip(at)docip.org<br>Adresse : 106, route de Ferney, CH-1202 Genève<br>Notre centre de documentation est ouvert au public</p></div> 
+ <div class="supportlink"><a href="https://www.docip.org/fr/docip/soutenir-le-docip/" target="GST">Soutenir les projets du Docip</a></div> 
+</div>	
+</div> <!-- id=page -->
+
+
+
+
+
+</body></html>

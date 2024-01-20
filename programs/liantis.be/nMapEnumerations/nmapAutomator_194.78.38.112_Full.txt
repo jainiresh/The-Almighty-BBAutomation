@@ -1,0 +1,46 @@
+
+[0;33mRunning a Full scan on [0m194.78.38.112
+[0m
+[0;33mNo ping detected.. Will not use ping scans!
+[0m
+[0m
+[0;32mHost is likely running Unknown OS!
+
+
+[0;32m---------------------Starting Full Scan------------------------
+[0m
+[0K
+[0K
+PORT    STATE SERVICE
+443/tcp open  https
+
+
+
+[0;33mMaking a script scan on all ports
+[0m
+[0K
+[0K
+PORT    STATE SERVICE  VERSION
+443/tcp open  ssl/http Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_ssl-date: 2023-12-16T05:26:38+00:00; -1s from scanner time.
+| ssl-cert: Subject: commonName=*.liantis.be
+| Subject Alternative Name: DNS:*.liantis.be, DNS:liantis.be
+| Not valid before: 2023-01-06T18:15:29
+|_Not valid after:  2024-02-07T18:15:28
+|_http-server-header: Microsoft-HTTPAPI/2.0
+| tls-alpn: 
+|_  http/1.1
+|_http-title: Not Found
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: -1s
+
+
+
+
+[0;32m---------------------Finished all scans------------------------
+[0m
+
+[0;33mCompleted in 0 seconds
+[0m

@@ -1,0 +1,83 @@
+<html><head>
+    <title>SMTP2GO</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;display=swap" rel="stylesheet">
+    <style type="text/css">
+      html {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+      }
+      body {
+        margin: 0;
+      }
+      main {
+        display: block;
+      }
+      a {
+        background-color: transparent;
+      }
+      img {
+        border-style: none;
+      }
+      
+      body {
+        font-family: 'Open Sans', sans-serif;
+        background: white;
+        color: #343a45;
+      }
+      main {
+        margin: 84px auto 0;
+        padding: 1em;
+        max-width: 600px;
+      }
+      figure {
+        text-align: center;
+        width: 109px;
+        margin: 0 auto 24px;
+      }
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+      h1 {
+        font-size: 30px;
+        font-weight: 600;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: -1.02px;
+        text-align: center;
+      }
+      p {
+        font-size: 17px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.59;
+        letter-spacing: -0.29px; 
+      }
+      a {
+        color: #32a0e8;
+        text-decoration: none;
+        transition: all .3s;
+      }
+      a:hover {
+        color: #343a45;  
+      }
+    </style>
+    <meta name="robots" content="noindex">
+  </head>
+  <body>
+   <main>
+    <figure><a href="https://www.smtp2go.com/"><img src="data/logo@2x.png" alt="SMTP2go"></a></figure>
+    <h1>Hi there! We’re SMTP2GO, a leader in transactional email delivery.</h1>
+    <p>You've probably found this page because you received an email from someone using our service. SMTP2GO helps ensure that important transactional emails are delivered to an inbox, instead of the spam folder.</p>
+    <p>Check out <strong>SMTP2GO</strong> to improve your email deliverability with just a few clicks.</p>
+    <p>Got questions? Contact our team at <a href="mailto:ticket@smtp2go.com">ticket@smtp2go.com</a></p>
+   </main>
+  
+
+  
+</body></html>

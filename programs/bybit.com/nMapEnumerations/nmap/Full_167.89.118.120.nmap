@@ -1,0 +1,11 @@
+# Nmap 7.93 scan initiated Wed Nov 15 00:17:12 2023 as: /usr/bin/nmap -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v --open -oN nmap/Full_167.89.118.120.nmap --system-dns --stats-every 3s 167.89.118.120
+Nmap scan report for o16789118x120.outbound-mail.sendgrid.net (167.89.118.120)
+Host is up (0.29s latency).
+Not shown: 65533 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Wed Nov 15 00:24:00 2023 -- 1 IP address (1 host up) scanned in 408.05 seconds

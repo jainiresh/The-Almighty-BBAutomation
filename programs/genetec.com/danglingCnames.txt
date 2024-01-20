@@ -1,0 +1,2 @@
+[detect-dangling-cname] [dns] [info] sip.genetec.com [sipdir.online.lync.com]
+[detect-dangling-cname] [dns] [info] staging.genetec.com [genetecstaging.ingeniuxondemand.com]

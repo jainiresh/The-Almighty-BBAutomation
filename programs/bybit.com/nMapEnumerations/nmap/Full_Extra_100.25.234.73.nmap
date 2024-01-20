@@ -1,0 +1,136 @@
+# Nmap 7.93 scan initiated Tue Nov 14 18:48:38 2023 as: /usr/bin/nmap -Pn -sCV -p80,443 --open -oN nmap/Full_Extra_100.25.234.73.nmap --system-dns --stats-every 2s 100.25.234.73
+Nmap scan report for ec2-100-25-234-73.compute-1.amazonaws.com (100.25.234.73)
+Host is up (0.24s latency).
+
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http
+|_http-title: adx.io
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 200 OK
+|     Date: Tue, 14 Nov 2023 13:18:48 GMT
+|     Content-Type: text/html
+|     Content-Length: 453
+|     Connection: close
+|     Cache-Control: no-cache, must-revalidate
+|     Expires: Sat, 26 Jul 1997 05:00:00 GMT
+|     p3p: CP="P3P is dead. More - http://www.w3.org/P3P/1.1/Overview.html; Developer who loves to look at HTTP headers? Drop Hi to tech+p3p@deltax.com :)"
+|     <html><head><title>adx.io</title></head><body>Hello! You probably found this page because one of our advertisers used us to measure/ optimize/ personalize their digital media campaign(s), and you traced a link or cookie back here to investigate. You can <a href="http://www.deltax.com/platform-privacy.html">click here</a> to read about our platform policy. Please do not hesitate to reach us at privacy@deltax.com if you have any queries.</body></html>
+|   HTTPOptions: 
+|     HTTP/1.1 200 OK
+|     Date: Tue, 14 Nov 2023 13:18:49 GMT
+|     Content-Type: text/html
+|     Content-Length: 453
+|     Connection: close
+|     Cache-Control: no-cache, must-revalidate
+|     Expires: Sat, 26 Jul 1997 05:00:00 GMT
+|     p3p: CP="P3P is dead. More - http://www.w3.org/P3P/1.1/Overview.html; Developer who loves to look at HTTP headers? Drop Hi to tech+p3p@deltax.com :)"
+|_    <html><head><title>adx.io</title></head><body>Hello! You probably found this page because one of our advertisers used us to measure/ optimize/ personalize their digital media campaign(s), and you traced a link or cookie back here to investigate. You can <a href="http://www.deltax.com/platform-privacy.html">click here</a> to read about our platform policy. Please do not hesitate to reach us at privacy@deltax.com if you have any queries.</body></html>
+443/tcp open  ssl/https
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 200 OK
+|     Date: Tue, 14 Nov 2023 13:18:55 GMT
+|     Content-Type: text/html
+|     Content-Length: 453
+|     Connection: close
+|     Cache-Control: no-cache, must-revalidate
+|     Expires: Sat, 26 Jul 1997 05:00:00 GMT
+|     p3p: CP="P3P is dead. More - http://www.w3.org/P3P/1.1/Overview.html; Developer who loves to look at HTTP headers? Drop Hi to tech+p3p@deltax.com :)"
+|     <html><head><title>adx.io</title></head><body>Hello! You probably found this page because one of our advertisers used us to measure/ optimize/ personalize their digital media campaign(s), and you traced a link or cookie back here to investigate. You can <a href="http://www.deltax.com/platform-privacy.html">click here</a> to read about our platform policy. Please do not hesitate to reach us at privacy@deltax.com if you have any queries.</body></html>
+|   HTTPOptions: 
+|     HTTP/1.1 200 OK
+|     Date: Tue, 14 Nov 2023 13:18:56 GMT
+|     Content-Type: text/html
+|     Content-Length: 453
+|     Connection: close
+|     Cache-Control: no-cache, must-revalidate
+|     Expires: Sat, 26 Jul 1997 05:00:00 GMT
+|     p3p: CP="P3P is dead. More - http://www.w3.org/P3P/1.1/Overview.html; Developer who loves to look at HTTP headers? Drop Hi to tech+p3p@deltax.com :)"
+|_    <html><head><title>adx.io</title></head><body>Hello! You probably found this page because one of our advertisers used us to measure/ optimize/ personalize their digital media campaign(s), and you traced a link or cookie back here to investigate. You can <a href="http://www.deltax.com/platform-privacy.html">click here</a> to read about our platform policy. Please do not hesitate to reach us at privacy@deltax.com if you have any queries.</body></html>
+|_http-title: adx.io
+|_ssl-date: TLS randomness does not represent time
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=path.promo
+| Subject Alternative Name: DNS:path.promo, DNS:adx.io, DNS:*.path.promo, DNS:*.adx.io
+| Not valid before: 2023-01-22T00:00:00
+|_Not valid after:  2024-02-20T23:59:59
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.93%I=7%D=11/14%Time=655373B8%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,327,"HTTP/1\.1\x20200\x20OK\r\nDate:\x20Tue,\x2014\x20Nov\x2020
+SF:23\x2013:18:48\x20GMT\r\nContent-Type:\x20text/html\r\nContent-Length:\
+SF:x20453\r\nConnection:\x20close\r\nCache-Control:\x20no-cache,\x20must-r
+SF:evalidate\r\nExpires:\x20Sat,\x2026\x20Jul\x201997\x2005:00:00\x20GMT\r
+SF:\np3p:\x20CP=\"P3P\x20is\x20dead\.\x20More\x20-\x20http://www\.w3\.org/
+SF:P3P/1\.1/Overview\.html;\x20Developer\x20who\x20loves\x20to\x20look\x20
+SF:at\x20HTTP\x20headers\?\x20Drop\x20Hi\x20to\x20tech\+p3p@deltax\.com\x2
+SF:0:\)\"\r\n\r\n<html><head><title>adx\.io</title></head><body>Hello!\x20
+SF:You\x20probably\x20found\x20this\x20page\x20because\x20one\x20of\x20our
+SF:\x20advertisers\x20used\x20us\x20to\x20measure/\x20optimize/\x20persona
+SF:lize\x20their\x20digital\x20media\x20campaign\(s\),\x20and\x20you\x20tr
+SF:aced\x20a\x20link\x20or\x20cookie\x20back\x20here\x20to\x20investigate\
+SF:.\x20You\x20can\x20<a\x20href=\"http://www\.deltax\.com/platform-privac
+SF:y\.html\">click\x20here</a>\x20to\x20read\x20about\x20our\x20platform\x
+SF:20policy\.\x20Please\x20do\x20not\x20hesitate\x20to\x20reach\x20us\x20a
+SF:t\x20privacy@deltax\.com\x20if\x20you\x20have\x20any\x20queries\.</body
+SF:></html>")%r(HTTPOptions,327,"HTTP/1\.1\x20200\x20OK\r\nDate:\x20Tue,\x
+SF:2014\x20Nov\x202023\x2013:18:49\x20GMT\r\nContent-Type:\x20text/html\r\
+SF:nContent-Length:\x20453\r\nConnection:\x20close\r\nCache-Control:\x20no
+SF:-cache,\x20must-revalidate\r\nExpires:\x20Sat,\x2026\x20Jul\x201997\x20
+SF:05:00:00\x20GMT\r\np3p:\x20CP=\"P3P\x20is\x20dead\.\x20More\x20-\x20htt
+SF:p://www\.w3\.org/P3P/1\.1/Overview\.html;\x20Developer\x20who\x20loves\
+SF:x20to\x20look\x20at\x20HTTP\x20headers\?\x20Drop\x20Hi\x20to\x20tech\+p
+SF:3p@deltax\.com\x20:\)\"\r\n\r\n<html><head><title>adx\.io</title></head
+SF:><body>Hello!\x20You\x20probably\x20found\x20this\x20page\x20because\x2
+SF:0one\x20of\x20our\x20advertisers\x20used\x20us\x20to\x20measure/\x20opt
+SF:imize/\x20personalize\x20their\x20digital\x20media\x20campaign\(s\),\x2
+SF:0and\x20you\x20traced\x20a\x20link\x20or\x20cookie\x20back\x20here\x20t
+SF:o\x20investigate\.\x20You\x20can\x20<a\x20href=\"http://www\.deltax\.co
+SF:m/platform-privacy\.html\">click\x20here</a>\x20to\x20read\x20about\x20
+SF:our\x20platform\x20policy\.\x20Please\x20do\x20not\x20hesitate\x20to\x2
+SF:0reach\x20us\x20at\x20privacy@deltax\.com\x20if\x20you\x20have\x20any\x
+SF:20queries\.</body></html>");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.93%T=SSL%I=7%D=11/14%Time=655373C0%P=x86_64-pc-linux-gn
+SF:u%r(GetRequest,327,"HTTP/1\.1\x20200\x20OK\r\nDate:\x20Tue,\x2014\x20No
+SF:v\x202023\x2013:18:55\x20GMT\r\nContent-Type:\x20text/html\r\nContent-L
+SF:ength:\x20453\r\nConnection:\x20close\r\nCache-Control:\x20no-cache,\x2
+SF:0must-revalidate\r\nExpires:\x20Sat,\x2026\x20Jul\x201997\x2005:00:00\x
+SF:20GMT\r\np3p:\x20CP=\"P3P\x20is\x20dead\.\x20More\x20-\x20http://www\.w
+SF:3\.org/P3P/1\.1/Overview\.html;\x20Developer\x20who\x20loves\x20to\x20l
+SF:ook\x20at\x20HTTP\x20headers\?\x20Drop\x20Hi\x20to\x20tech\+p3p@deltax\
+SF:.com\x20:\)\"\r\n\r\n<html><head><title>adx\.io</title></head><body>Hel
+SF:lo!\x20You\x20probably\x20found\x20this\x20page\x20because\x20one\x20of
+SF:\x20our\x20advertisers\x20used\x20us\x20to\x20measure/\x20optimize/\x20
+SF:personalize\x20their\x20digital\x20media\x20campaign\(s\),\x20and\x20yo
+SF:u\x20traced\x20a\x20link\x20or\x20cookie\x20back\x20here\x20to\x20inves
+SF:tigate\.\x20You\x20can\x20<a\x20href=\"http://www\.deltax\.com/platform
+SF:-privacy\.html\">click\x20here</a>\x20to\x20read\x20about\x20our\x20pla
+SF:tform\x20policy\.\x20Please\x20do\x20not\x20hesitate\x20to\x20reach\x20
+SF:us\x20at\x20privacy@deltax\.com\x20if\x20you\x20have\x20any\x20queries\
+SF:.</body></html>")%r(HTTPOptions,327,"HTTP/1\.1\x20200\x20OK\r\nDate:\x2
+SF:0Tue,\x2014\x20Nov\x202023\x2013:18:56\x20GMT\r\nContent-Type:\x20text/
+SF:html\r\nContent-Length:\x20453\r\nConnection:\x20close\r\nCache-Control
+SF::\x20no-cache,\x20must-revalidate\r\nExpires:\x20Sat,\x2026\x20Jul\x201
+SF:997\x2005:00:00\x20GMT\r\np3p:\x20CP=\"P3P\x20is\x20dead\.\x20More\x20-
+SF:\x20http://www\.w3\.org/P3P/1\.1/Overview\.html;\x20Developer\x20who\x2
+SF:0loves\x20to\x20look\x20at\x20HTTP\x20headers\?\x20Drop\x20Hi\x20to\x20
+SF:tech\+p3p@deltax\.com\x20:\)\"\r\n\r\n<html><head><title>adx\.io</title
+SF:></head><body>Hello!\x20You\x20probably\x20found\x20this\x20page\x20bec
+SF:ause\x20one\x20of\x20our\x20advertisers\x20used\x20us\x20to\x20measure/
+SF:\x20optimize/\x20personalize\x20their\x20digital\x20media\x20campaign\(
+SF:s\),\x20and\x20you\x20traced\x20a\x20link\x20or\x20cookie\x20back\x20he
+SF:re\x20to\x20investigate\.\x20You\x20can\x20<a\x20href=\"http://www\.del
+SF:tax\.com/platform-privacy\.html\">click\x20here</a>\x20to\x20read\x20ab
+SF:out\x20our\x20platform\x20policy\.\x20Please\x20do\x20not\x20hesitate\x
+SF:20to\x20reach\x20us\x20at\x20privacy@deltax\.com\x20if\x20you\x20have\x
+SF:20any\x20queries\.</body></html>");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Nov 14 18:49:39 2023 -- 1 IP address (1 host up) scanned in 61.16 seconds

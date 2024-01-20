@@ -1,0 +1,8 @@
+Protocol,Port,Domain,Request Status,Screenshot Path, Source Path
+http,80,app.flowfuse.com,Successful,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/screens/http.app.flowfuse.com.png,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/source/http.app.flowfuse.com.txt
+http,80,catalog.flowfuse.com,Successful,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/screens/http.catalog.flowfuse.com.png,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/source/http.catalog.flowfuse.com.txt
+http,80,community.flowfuse.com,Successful,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/screens/http.community.flowfuse.com.png,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/source/http.community.flowfuse.com.txt
+http,80,dashboard.flowfuse.com,Successful,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/screens/http.dashboard.flowfuse.com.png,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/source/http.dashboard.flowfuse.com.txt
+http,80,flowfuse.com,Successful,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/screens/http.flowfuse.com.png,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/source/http.flowfuse.com.txt
+http,80,status.flowfuse.com,Successful,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/screens/http.status.flowfuse.com.png,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/source/http.status.flowfuse.com.txt
+http,80,www.flowfuse.com,Successful,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/screens/http.flowfuse.com.png,/home/jai/Documents/automations/programs/flowfuse.com/Eyewitness/source/http.www.flowfuse.com.txt

@@ -1,0 +1,49 @@
+<html><head>
+<title>Error Page</title>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="10;url=https://factory.jcrew.com/index.jsp">
+<script>
+var s_account='jcrewfactorycom,jcrewglobalrollup';
+</script>
+<script language="JavaScript" src="/failover/general_error/factory/s_code.js"></script>
+<!-- SiteCatalyst code version: H.24.2. Copyright 1997-2012 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript"><!--
+s.pageName="General Error Page";
+s.channel="General Error Page";
+s.prop9="General Error Page";
+s.prop10="General Error Page";
+s.prop11="General Error Page";
+s.prop12="General Error Page";
+s.prop13="General Error Page";
+s.prop14="General Error Page";
+s.eVar11="General Error Page";
+s.eVar12="General Error Page";
+s.eVar13="General Error Page";
+s.eVar15="General Error Page";
+s.eVar29="General Error Page";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)
+function redirect(){
+	setTimeout("location.href = 'https://factory.jcrew.com/index.jsp';",10000);
+}
+//--></script>
+<!-- End SiteCatalyst code version: H.24.2. -->
+<style>
+#error {font:13px/22px arial; text-align:left; width:600px; margin:85px auto 120px; letter-spacing: 1px;} 
+#error img{padding:10px 20px 0 0;float:left;}
+#errorPageMessage{float:left;}
+#errorPageMessage h2 {font-size: 21px;line-height:29px;text-transform: uppercase;margin: 0 0 6px;padding: 0;letter-spacing: .15em;}
+</style>
+</head>
+<body onload="redirect()">
+<div id="error">
+	<img src="/failover/general_error/factory/error.gif"> 
+	<div id="errorPageMessage">	
+		<h2>Hmmm... It seems we are unable<br>to process your request.</h2>
+		<p>If you are not redirected to the homepage within 10 seconds,<br>
+		simply <a href="https://factory.jcrew.com/index.jsp">click here</a>. We apologize for any inconvenience.</p>
+	</div>
+</div>
+
+
+</body></html>

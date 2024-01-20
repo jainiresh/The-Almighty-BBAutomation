@@ -1,0 +1,17 @@
+api.voicespin.com
+chatspin.voicespin.com
+get.voicespin.com
+git.voicespin.com
+go.voicespin.com
+oldportal1.voicespin.com
+oldportal.voicespin.com
+otrs.voicespin.com
+pbx.voicespin.com
+portal.voicespin.com
+potal.voicespin.com
+repo.voicespin.com
+spai.voicespin.com
+t.voicespin.com
+vsfax2.voicespin.com
+vsfax.voicespin.com
+www.voicespin.com

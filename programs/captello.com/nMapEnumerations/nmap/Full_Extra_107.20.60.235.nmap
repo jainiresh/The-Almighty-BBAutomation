@@ -1,0 +1,22 @@
+# Nmap 7.93 scan initiated Sun Dec 24 23:33:31 2023 as: /usr/bin/nmap -Pn -sCV -p80,443 --open -oN nmap/Full_Extra_107.20.60.235.nmap --system-dns --stats-every 2s 107.20.60.235
+Nmap scan report for ec2-107-20-60-235.compute-1.amazonaws.com (107.20.60.235)
+Host is up (0.23s latency).
+
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     nginx 1.22.0
+|_http-title: Did not follow redirect to https://t1.captello.com/login.php
+|_http-favicon: Parallels Plesk Panel
+|_http-server-header: nginx/1.22.0
+443/tcp open  ssl/http nginx 1.22.0
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=*.captello.com
+| Subject Alternative Name: DNS:*.captello.com, DNS:captello.com
+| Not valid before: 2023-10-08T00:00:00
+|_Not valid after:  2024-11-07T23:59:59
+| http-title: Direct Login
+|_Requested resource was login.php
+|_http-server-header: nginx/1.22.0
+|_http-favicon: Parallels Plesk Panel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Dec 24 23:33:56 2023 -- 1 IP address (1 host up) scanned in 25.05 seconds

@@ -1,0 +1,199 @@
+# Nmap 7.93 scan initiated Fri Nov 24 00:02:30 2023 as: /usr/bin/nmap -Pn -sCV -p80,443 --open -oN nmap/Full_Extra_54.152.202.195.nmap --system-dns --stats-every 2s 54.152.202.195
+Nmap scan report for ec2-54-152-202-195.compute-1.amazonaws.com (54.152.202.195)
+Host is up (0.24s latency).
+
+PORT    STATE SERVICE        VERSION
+80/tcp  open  http-proxy     (bad gateway)
+|_http-title: Did not follow redirect to https://app.knowledgeowl.com/login
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 403 Forbidden
+|     date: Thu, 23 Nov 2023 18:32:40 GMT
+|     content-type: text/html
+|     content-length: 118
+|     connection: close
+|     <html>
+|     <head><title>403 Forbidden</title></head>
+|     <body>
+|     <center><h1>403 Forbidden</h1></center>
+|     </body>
+|     </html>
+|   GetRequest: 
+|     HTTP/1.1 302 Found
+|     date: Thu, 23 Nov 2023 18:32:38 GMT
+|     content-type: text/html; charset=UTF-8
+|     content-length: 0
+|     location: /app
+|     connection: close
+|   HTTPOptions: 
+|     HTTP/1.1 302 Found
+|     date: Thu, 23 Nov 2023 18:32:39 GMT
+|     content-type: text/html; charset=UTF-8
+|     content-length: 0
+|     location: /app
+|     connection: close
+|   Help, NessusTPv10, SSLSessionReq, Socks5: 
+|     HTTP/1.1 400 Bad request
+|     content-length: 90
+|     cache-control: no-cache
+|     content-type: text/html
+|     connection: close
+|     <html><body><h1>400 Bad request</h1>
+|     Your browser sent an invalid request.
+|     </body></html>
+|   RTSPRequest: 
+|     HTTP/1.1 502 Bad Gateway
+|     content-length: 107
+|     cache-control: no-cache
+|     content-type: text/html
+|     connection: close
+|     <html><body><h1>502 Bad Gateway</h1>
+|     server returned an invalid or incomplete response.
+|_    </body></html>
+|_http-open-proxy: Proxy might be redirecting requests
+443/tcp open  ssl/http-proxy (bad gateway)
+| ssl-cert: Subject: commonName=*.knowledgeowl.com/organizationName=Silly Moose LLC/stateOrProvinceName=Colorado/countryName=US
+| Subject Alternative Name: DNS:*.knowledgeowl.com, DNS:knowledgeowl.com
+| Not valid before: 2023-08-16T00:00:00
+|_Not valid after:  2024-09-15T23:59:59
+|_http-title: Did not follow redirect to https://app.knowledgeowl.com/login
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 403 Forbidden
+|     date: Thu, 23 Nov 2023 18:32:47 GMT
+|     content-type: text/html
+|     content-length: 118
+|     connection: close
+|     <html>
+|     <head><title>403 Forbidden</title></head>
+|     <body>
+|     <center><h1>403 Forbidden</h1></center>
+|     </body>
+|     </html>
+|   GetRequest: 
+|     HTTP/1.1 302 Found
+|     date: Thu, 23 Nov 2023 18:32:45 GMT
+|     content-type: text/html; charset=UTF-8
+|     content-length: 0
+|     location: /app
+|     connection: close
+|   HTTPOptions: 
+|     HTTP/1.1 302 Found
+|     date: Thu, 23 Nov 2023 18:32:46 GMT
+|     content-type: text/html; charset=UTF-8
+|     content-length: 0
+|     location: /app
+|     connection: close
+|   RTSPRequest: 
+|     HTTP/1.1 502 Bad Gateway
+|     cache-control: no-cache
+|     connection: clase
+|     content-type: text/html
+|     connection: close
+|     <!DOCTYPE html>
+|     <html>
+|     <head>
+|     <title>Bad Gateway Error</title>
+|     </head>
+|     <body>
+|     <link rel="preload" href="https://fonts.googleapis.com/css?family=Lato:400,700" as="style" onload="this.onload=null; this.rel='stylesheet'; document.body.classList.add('fontLoaded')">
+|     <style>
+|     body {
+|     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+|     body.fontLoaded {
+|     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+|     color: #1D284F;
+|   tor-versions: 
+|     HTTP/1.1 400 Bad request
+|     content-length: 90
+|     cache-control: no-cache
+|     content-type: text/html
+|     connection: close
+|     <html><body><h1>400 Bad request</h1>
+|     Your browser sent an invalid request.
+|_    </body></html>
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.93%I=7%D=11/24%Time=655F9AC6%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,99,"HTTP/1\.1\x20302\x20Found\r\ndate:\x20Thu,\x2023\x20Nov\x20
+SF:2023\x2018:32:38\x20GMT\r\ncontent-type:\x20text/html;\x20charset=UTF-8
+SF:\r\ncontent-length:\x200\r\nlocation:\x20/app\r\nconnection:\x20close\r
+SF:\n\r\n")%r(HTTPOptions,99,"HTTP/1\.1\x20302\x20Found\r\ndate:\x20Thu,\x
+SF:2023\x20Nov\x202023\x2018:32:39\x20GMT\r\ncontent-type:\x20text/html;\x
+SF:20charset=UTF-8\r\ncontent-length:\x200\r\nlocation:\x20/app\r\nconnect
+SF:ion:\x20close\r\n\r\n")%r(RTSPRequest,E1,"HTTP/1\.1\x20502\x20Bad\x20Ga
+SF:teway\r\ncontent-length:\x20107\r\ncache-control:\x20no-cache\r\nconten
+SF:t-type:\x20text/html\r\nconnection:\x20close\r\n\r\n<html><body><h1>502
+SF:\x20Bad\x20Gateway</h1>\nThe\x20server\x20returned\x20an\x20invalid\x20
+SF:or\x20incomplete\x20response\.\n</body></html>\n")%r(FourOhFourRequest,
+SF:F6,"HTTP/1\.1\x20403\x20Forbidden\r\ndate:\x20Thu,\x2023\x20Nov\x202023
+SF:\x2018:32:40\x20GMT\r\ncontent-type:\x20text/html\r\ncontent-length:\x2
+SF:0118\r\nconnection:\x20close\r\n\r\n<html>\r\n<head><title>403\x20Forbi
+SF:dden</title></head>\r\n<body>\r\n<center><h1>403\x20Forbidden</h1></cen
+SF:ter>\r\n</body>\r\n</html>\r\n")%r(Help,CF,"HTTP/1\.1\x20400\x20Bad\x20
+SF:request\r\ncontent-length:\x2090\r\ncache-control:\x20no-cache\r\nconte
+SF:nt-type:\x20text/html\r\nconnection:\x20close\r\n\r\n<html><body><h1>40
+SF:0\x20Bad\x20request</h1>\nYour\x20browser\x20sent\x20an\x20invalid\x20r
+SF:equest\.\n</body></html>\n")%r(SSLSessionReq,CF,"HTTP/1\.1\x20400\x20Ba
+SF:d\x20request\r\ncontent-length:\x2090\r\ncache-control:\x20no-cache\r\n
+SF:content-type:\x20text/html\r\nconnection:\x20close\r\n\r\n<html><body><
+SF:h1>400\x20Bad\x20request</h1>\nYour\x20browser\x20sent\x20an\x20invalid
+SF:\x20request\.\n</body></html>\n")%r(NessusTPv10,CF,"HTTP/1\.1\x20400\x2
+SF:0Bad\x20request\r\ncontent-length:\x2090\r\ncache-control:\x20no-cache\
+SF:r\ncontent-type:\x20text/html\r\nconnection:\x20close\r\n\r\n<html><bod
+SF:y><h1>400\x20Bad\x20request</h1>\nYour\x20browser\x20sent\x20an\x20inva
+SF:lid\x20request\.\n</body></html>\n")%r(Socks5,CF,"HTTP/1\.1\x20400\x20B
+SF:ad\x20request\r\ncontent-length:\x2090\r\ncache-control:\x20no-cache\r\
+SF:ncontent-type:\x20text/html\r\nconnection:\x20close\r\n\r\n<html><body>
+SF:<h1>400\x20Bad\x20request</h1>\nYour\x20browser\x20sent\x20an\x20invali
+SF:d\x20request\.\n</body></html>\n");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.93%T=SSL%I=7%D=11/24%Time=655F9ACD%P=x86_64-pc-linux-gn
+SF:u%r(GetRequest,99,"HTTP/1\.1\x20302\x20Found\r\ndate:\x20Thu,\x2023\x20
+SF:Nov\x202023\x2018:32:45\x20GMT\r\ncontent-type:\x20text/html;\x20charse
+SF:t=UTF-8\r\ncontent-length:\x200\r\nlocation:\x20/app\r\nconnection:\x20
+SF:close\r\n\r\n")%r(HTTPOptions,99,"HTTP/1\.1\x20302\x20Found\r\ndate:\x2
+SF:0Thu,\x2023\x20Nov\x202023\x2018:32:46\x20GMT\r\ncontent-type:\x20text/
+SF:html;\x20charset=UTF-8\r\ncontent-length:\x200\r\nlocation:\x20/app\r\n
+SF:connection:\x20close\r\n\r\n")%r(FourOhFourRequest,F6,"HTTP/1\.1\x20403
+SF:\x20Forbidden\r\ndate:\x20Thu,\x2023\x20Nov\x202023\x2018:32:47\x20GMT\
+SF:r\ncontent-type:\x20text/html\r\ncontent-length:\x20118\r\nconnection:\
+SF:x20close\r\n\r\n<html>\r\n<head><title>403\x20Forbidden</title></head>\
+SF:r\n<body>\r\n<center><h1>403\x20Forbidden</h1></center>\r\n</body>\r\n<
+SF:/html>\r\n")%r(tor-versions,CF,"HTTP/1\.1\x20400\x20Bad\x20request\r\nc
+SF:ontent-length:\x2090\r\ncache-control:\x20no-cache\r\ncontent-type:\x20
+SF:text/html\r\nconnection:\x20close\r\n\r\n<html><body><h1>400\x20Bad\x20
+SF:request</h1>\nYour\x20browser\x20sent\x20an\x20invalid\x20request\.\n</
+SF:body></html>\n")%r(RTSPRequest,98C,"HTTP/1\.1\x20502\x20Bad\x20Gateway\
+SF:r\ncache-control:\x20no-cache\r\nconnection:\x20clase\r\ncontent-type:\
+SF:x20text/html\r\nconnection:\x20close\r\n\r\n<!DOCTYPE\x20html>\n<html>\
+SF:n\x20\x20\x20\x20\x20\x20\x20\x20<head>\n\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20<title>Bad\x20Gateway\x20Error</title
+SF:>\n\x20\x20\x20\x20\x20\x20\x20\x20</head>\n\x20\x20\x20\x20\x20\x20\x2
+SF:0\x20<body>\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20<link\x20rel=\"preload\"\x20href=\"https://fonts\.googleapis\.com
+SF:/css\?family=Lato:400,700\"\x20as=\"style\"\x20onload=\"this\.onload=nu
+SF:ll;\x20this\.rel='stylesheet';\x20document\.body\.classList\.add\('font
+SF:Loaded'\)\">\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
+SF:x20\x20<style>\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body\x20{\n\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20'Helvetica\x20Neu
+SF:e',\x20Helvetica,\x20Arial,\x20sans-serif;\n\x20\x20\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\
+SF:n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20body\.fontLoaded\x20{\n\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
+SF:x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20'Lato',\x20'Helvetic
+SF:a\x20Neue',\x20Helvetica,\x20Arial,\x20sans-serif;\n\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20}\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20h1\x20{\n\x20\x20\x20\x20\x20\x20\x20
+SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20\x20\x20\x20color:\x20#1D284F;\n\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
+SF:x20}\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
+SF:x20\x20\x20\x20");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Nov 24 00:03:10 2023 -- 1 IP address (1 host up) scanned in 39.60 seconds

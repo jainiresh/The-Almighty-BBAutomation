@@ -1,0 +1,509 @@
+<center><html>
+        <head>
+        <title>EyeWitness Report Table of Contents</title>
+        </head>
+        <h2>Table of Contents</h2><li><a href="report.html#uncat">Uncategorized (Page 1)</a></li><li><a href="report.html#crap">Splash Pages (Page 1)</a></li><li><a href="report.html#unauth">401/403 Unauthorized (Page 1)</a></li><li><a href="report_page2.html#notfound">404 Not Found (Page 2)</a></li><li><a href="report_page2.html#badreq">Bad Request (Page 2)</a></li><li><a href="report_page2.html#badgw">Bad Gateway (Page 2)</a></li></ul><br><br><table class="table"><tr><td>Uncategorized</td><td>5</td><tr><td>Splash Pages</td><td>4</td><tr><td>401/403 Unauthorized</td><td>18</td><tr><td>404 Not Found</td><td>10</td><tr><td>Bad Request</td><td>2</td><tr><td>Bad Gateway</td><td>3</td><tr><td>Errors</td><td>84</td></tr><tr><th>Total</th><td>126</td></tr></table><br><br></center><html>
+        <head>
+        <link rel="stylesheet" href="bootstrap.min.css" type="text/css"/>
+        <title>EyeWitness Report</title>
+        <script src="jquery-1.11.3.min.js"></script>
+        <script type="text/javascript">
+        function toggleUA(id, url){
+        idi = "." + id;
+        $(idi).toggle();
+        change = document.getElementById(id);
+        if (change.innerHTML.indexOf("expand") > -1){
+            change.innerHTML = "Click to collapse User Agents for " + url;
+        }else{
+            change.innerHTML = "Click to expand User Agents for " + url;
+        }
+        }
+
+        document.onkeydown = function(event){
+            event = event || window.event;
+            switch (event.keyCode){
+                case 37:
+                    leftArrow();
+                    break;
+                case 39:
+                    rightArrow();
+                    break;
+            }
+        };
+                
+        function leftArrow(){
+            $('#previous')[0].click();
+        };
+
+        function rightArrow(){
+            $('#next')[0].click();
+        };
+
+        </script>
+        </head>
+        <body>
+        <center>
+        <center>Report Generated on 2024/01/19 at 02:06:37</center><h3>Page 1</h3><center><a href="report_page2.html" id="next"> Next Page </a></center>
+<center><br><a href="report.html"> Page 1</a><a href="report_page2.html"> Page 2</a><a href="report_page3.html"> Page 3</a><a href="report_page4.html"> Page 4</a><a href="report_page5.html"> Page 5</a><a href="report_page6.html"> Page 6</a></center>
+<h2 id="uncat">Uncategorized</h2><table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://tms.myoas.com" target="_blank">http://tms.myoas.com</a><br>
+            <b>Resolved to:</b> 129.227.29.178<br>
+<br><b> Page Title: </b>Logwire App
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:38:12 GMT
+<br><b> Content-Type:</b> text/html;charset=UTF-8
+<br><b> Transfer-Encoding:</b> chunked
+<br><b> Connection:</b> close
+<br><b> X-Content-Type-Options:</b> nosniff
+<br><b> X-XSS-Protection:</b> 1; mode=block
+<br><b> Cache-Control:</b> no-cache, no-store, max-age=0, must-revalidate
+<br><b> Pragma:</b> no-cache
+<br><b> Expires:</b> 0
+<br><b> X-Frame-Options:</b> SAMEORIGIN
+<br><b> Set-Cookie:</b> XSRF-TOKEN=125a5c5e-b722-4826-8f00-513be3275e0f; Path=/
+<br><b> Access-Control-Allow-Origin:</b> *
+<br><b> Access-Control-Allow-Credentials:</b> true
+<br><b> Access-Control-Allow-Methods:</b> POST, GET, PATCH, DELETE, PUT
+<br><b> Access-Control-Max-Age:</b> 3600
+<br><b> Access-Control-Allow-Headers:</b> Origin, X-Requested-With, Content-Type, Accept
+<br><b> vary:</b> accept-encoding
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.tms.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.sbox.myoas.com.png"
+                target="_blank"><img src="screens/http.sbox.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://commerce.myoas.com" target="_blank">http://commerce.myoas.com</a><br>
+            <b>Resolved to:</b> 119.147.98.110<br>
+<br><b> Page Title: </b>Server Running
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:36:52 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 147
+<br><b> Connection:</b> close
+<br><b> Last-Modified:</b> Fri, 22 May 2020 13:39:04 GMT
+<br><b> ETag:</b> &quot;93-5a63cc0a76e00&quot;
+<br><b> Accept-Ranges:</b> bytes
+<br><b> Content-Security-Policy:</b> upgrade-insecure-requests
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.commerce.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.commerce.myoas.com.png"
+                target="_blank"><img src="screens/http.commerce.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://mokr.myoas.com" target="_blank">http://mokr.myoas.com</a><br>
+            <b>Resolved to:</b> 119.147.98.174<br>
+<br><b> Page Title: </b>Unknown
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:37:25 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 1792
+<br><b> Connection:</b> close
+<br><b> Last-Modified:</b> Thu, 02 Nov 2023 03:33:56 GMT
+<br><b> ETag:</b> &quot;654318a4-700&quot;
+<br><b> Expires:</b> Thu, 18 Jan 2024 20:37:24 GMT
+<br><b> Cache-Control:</b> no-cache
+<br><b> Accept-Ranges:</b> bytes
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.mokr.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.sbox.myoas.com.png"
+                target="_blank"><img src="screens/http.sbox.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://pmsmobile.myoas.com" target="_blank">http://pmsmobile.myoas.com</a><br>
+            <b>Resolved to:</b> 119.147.98.174<br>
+<br><b> Page Title: </b>Unknown
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:37:35 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 557
+<br><b> Connection:</b> close
+<br><b> Last-Modified:</b> Thu, 14 Dec 2023 08:20:36 GMT
+<br><b> ETag:</b> &quot;657abad4-22d&quot;
+<br><b> Expires:</b> Thu, 18 Jan 2024 20:37:34 GMT
+<br><b> Cache-Control:</b> no-cache
+<br><b> Accept-Ranges:</b> bytes
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.pmsmobile.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.pmsmobile.myoas.com.png"
+                target="_blank"><img src="screens/http.pmsmobile.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://sbox.myoas.com" target="_blank">http://sbox.myoas.com</a><br>
+            <b>Resolved to:</b> 129.227.29.219<br>
+<br><b> Page Title: </b>Unknown
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:37:38 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 1409
+<br><b> Connection:</b> close
+<br><b> Last-Modified:</b> Sat, 09 Dec 2023 02:36:38 GMT
+<br><b> Accept-Ranges:</b> bytes
+<br><b> ETag:</b> &quot;1da2a4888ae7a81&quot;
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.sbox.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.sbox.myoas.com.png"
+                target="_blank"><img src="screens/http.sbox.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div></table><br><h2 id="crap">Splash Pages</h2><table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://fsc-app.myoas.com" target="_blank">http://fsc-app.myoas.com</a><br>
+            <b>Resolved to:</b> 119.147.98.70<br>
+<br><b> Page Title: </b>Welcome to nginx!
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:37:01 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 612
+<br><b> Last-Modified:</b> Fri, 10 Dec 2021 12:19:17 GMT
+<br><b> Connection:</b> close
+<br><b> ETag:</b> &quot;61b345c5-264&quot;
+<br><b> Accept-Ranges:</b> bytes
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.fsc-app.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.paa-websocket.myoas.com.png"
+                target="_blank"><img src="screens/http.paa-websocket.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://paa-websocket.myoas.com" target="_blank">http://paa-websocket.myoas.com</a><br>
+            <b>Resolved to:</b> 119.147.98.237<br>
+<br><b> Page Title: </b>Welcome to nginx!
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:37:34 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 612
+<br><b> Last-Modified:</b> Mon, 22 Nov 2021 09:41:16 GMT
+<br><b> Connection:</b> close
+<br><b> ETag:</b> &quot;619b65bc-264&quot;
+<br><b> Accept-Ranges:</b> bytes
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.paa-websocket.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.paa-websocket.myoas.com.png"
+                target="_blank"><img src="screens/http.paa-websocket.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://dmg-dts-api.myoas.com" target="_blank">http://dmg-dts-api.myoas.com</a><br>
+            <b>Resolved to:</b> 119.147.98.58<br>
+<br><b> Page Title: </b>Welcome to nginx!
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:36:51 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 612
+<br><b> Connection:</b> close
+<br><b> Last-Modified:</b> Fri, 15 Oct 2021 02:27:31 GMT
+<br><b> ETag:</b> &quot;6168e713-264&quot;
+<br><b> Accept-Ranges:</b> bytes
+<br><b> proxy_pass_header:</b> X-Accel-Buffering
+<br><b> proxy_buffering:</b> off
+<br><b> X-Backend-Host:</b> 0264:8106
+<br><b> X-Gateway-Host:</b> f1bdbd6110b56687a3ce037269d1448937abd6f3f56e127ebf2cc4d5f13e2ed7878ee01818014754ed53022eed414bd7
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.dmg-dts-api.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.paa-websocket.myoas.com.png"
+                target="_blank"><img src="screens/http.paa-websocket.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://cms-hth.myoas.com" target="_blank">http://cms-hth.myoas.com</a><br>
+            <b>Resolved to:</b> 119.147.98.197<br>
+<br><b> Page Title: </b>Unknown
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:36:57 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 45
+<br><b> Connection:</b> close
+<br><b> Last-Modified:</b> Mon, 11 Jun 2007 18:53:14 GMT
+<br><b> ETag:</b> &quot;2d-432a5e4a73a80&quot;
+<br><b> Accept-Ranges:</b> bytes
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.cms-hth.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.cms-hth.myoas.com.png"
+                target="_blank"><img src="screens/http.cms-hth.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div></table><br><h2 id="unauth">401/403 Unauthorized</h2><table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://countly.myoas.com" target="_blank">http://countly.myoas.com</a><br>
+            <b>Resolved to:</b> 13.232.145.160<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx/1.18.0
+<br><b> Date:</b> Thu, 18 Jan 2024 20:36:54 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 153
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.countly.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.ssl.myoas.com.png"
+                target="_blank"><img src="screens/http.ssl.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://iknow.myoas.com" target="_blank">http://iknow.myoas.com</a><br>
+            <b>Resolved to:</b> 13.232.145.160<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx/1.18.0
+<br><b> Date:</b> Thu, 18 Jan 2024 20:36:57 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 153
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.iknow.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.ssl.myoas.com.png"
+                target="_blank"><img src="screens/http.ssl.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://imapi.myoas.com" target="_blank">http://imapi.myoas.com</a><br>
+            <b>Resolved to:</b> 13.232.145.160<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx/1.18.0
+<br><b> Date:</b> Thu, 18 Jan 2024 20:37:00 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 153
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.imapi.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.ssl.myoas.com.png"
+                target="_blank"><img src="screens/http.ssl.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://imtest.myoas.com" target="_blank">http://imtest.myoas.com</a><br>
+            <b>Resolved to:</b> 125.93.80.38<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:37:00 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 146
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.imtest.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.vision.myoas.com.png"
+                target="_blank"><img src="screens/http.vision.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://imworkbench.myoas.com" target="_blank">http://imworkbench.myoas.com</a><br>
+            <b>Resolved to:</b> 13.232.145.160<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx/1.18.0
+<br><b> Date:</b> Thu, 18 Jan 2024 20:36:59 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 153
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.imworkbench.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.ssl.myoas.com.png"
+                target="_blank"><img src="screens/http.ssl.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://recruit.myoas.com" target="_blank">http://recruit.myoas.com</a><br>
+            <b>Resolved to:</b> 125.93.80.38<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:37:34 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 146
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.recruit.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.vision.myoas.com.png"
+                target="_blank"><img src="screens/http.vision.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://ssl.myoas.com" target="_blank">http://ssl.myoas.com</a><br>
+            <b>Resolved to:</b> 13.232.145.160<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx/1.18.0
+<br><b> Date:</b> Thu, 18 Jan 2024 20:37:43 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 153
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.ssl.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.ssl.myoas.com.png"
+                target="_blank"><img src="screens/http.ssl.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://t-ssov2.myoas.com" target="_blank">http://t-ssov2.myoas.com</a><br>
+            <b>Resolved to:</b> 125.93.80.38<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:38:03 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 146
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.t-ssov2.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.vision.myoas.com.png"
+                target="_blank"><img src="screens/http.vision.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://ttapi.myoas.com" target="_blank">http://ttapi.myoas.com</a><br>
+            <b>Resolved to:</b> 13.232.145.160<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx/1.18.0
+<br><b> Date:</b> Thu, 18 Jan 2024 20:38:03 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 153
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.ttapi.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.ssl.myoas.com.png"
+                target="_blank"><img src="screens/http.ssl.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://ttlogin.myoas.com" target="_blank">http://ttlogin.myoas.com</a><br>
+            <b>Resolved to:</b> 13.232.145.160<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx/1.18.0
+<br><b> Date:</b> Thu, 18 Jan 2024 20:38:03 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 153
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.ttlogin.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.ssl.myoas.com.png"
+                target="_blank"><img src="screens/http.ssl.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://ttmsg.myoas.com" target="_blank">http://ttmsg.myoas.com</a><br>
+            <b>Resolved to:</b> 13.232.145.160<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx/1.18.0
+<br><b> Date:</b> Thu, 18 Jan 2024 20:38:05 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 153
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.ttmsg.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.ssl.myoas.com.png"
+                target="_blank"><img src="screens/http.ssl.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://ttpic.myoas.com" target="_blank">http://ttpic.myoas.com</a><br>
+            <b>Resolved to:</b> 13.232.145.160<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx/1.18.0
+<br><b> Date:</b> Thu, 18 Jan 2024 20:38:05 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 153
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.ttpic.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.ssl.myoas.com.png"
+                target="_blank"><img src="screens/http.ssl.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://vision.myoas.com" target="_blank">http://vision.myoas.com</a><br>
+            <b>Resolved to:</b> 125.93.80.59<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:38:17 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 162
+<br><b> Connection:</b> close
+<br><b> X-Content-Type-Options:</b> nosniff
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.vision.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.vision.myoas.com.png"
+                target="_blank"><img src="screens/http.vision.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://apitest.myoas.com" target="_blank">http://apitest.myoas.com</a><br>
+            <b>Resolved to:</b> 125.93.80.38<br>
+<br><b> Page Title: </b>403 Forbidden
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:36:43 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 146
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.apitest.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.vision.myoas.com.png"
+                target="_blank"><img src="screens/http.vision.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://cooperation.myoas.com" target="_blank">http://cooperation.myoas.com</a><br>
+            <b>Resolved to:</b> 119.147.175.15<br>
+<br><b> Page Title: </b>Unknown
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:36:49 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 65
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.cooperation.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.cooperation.myoas.com.png"
+                target="_blank"><img src="screens/http.cooperation.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://esign.myoas.com" target="_blank">http://esign.myoas.com</a><br>
+            <b>Resolved to:</b> 119.147.175.15<br>
+<br><b> Page Title: </b>Unknown
+<br><b> Server:</b> nginx
+<br><b> Date:</b> Thu, 18 Jan 2024 20:36:53 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 59
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 403
+<br><br><a href="source/http.esign.myoas.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.esign.myoas.com.png"
+                target="_blank"><img src="screens/http.esign.myoas.com.png"
+                height="400"></a></div></td></tr></div>
+        </div></table><br>
+<center><br><a href="report.html"> Page 1</a><a href="report_page2.html"> Page 2</a><a href="report_page3.html"> Page 3</a><a href="report_page4.html"> Page 4</a><a href="report_page5.html"> Page 5</a><a href="report_page6.html"> Page 6</a></center>
+<br><h3>Page 1</h3><center><a href="report_page2.html" id="next"> Next Page </a></center></body></html>

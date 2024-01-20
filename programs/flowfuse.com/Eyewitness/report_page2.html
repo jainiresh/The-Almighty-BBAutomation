@@ -1,0 +1,80 @@
+<html>
+        <head>
+        <link rel="stylesheet" href="bootstrap.min.css" type="text/css"/>
+        <title>EyeWitness Report</title>
+        <script src="jquery-1.11.3.min.js"></script>
+        <script type="text/javascript">
+        function toggleUA(id, url){
+        idi = "." + id;
+        $(idi).toggle();
+        change = document.getElementById(id);
+        if (change.innerHTML.indexOf("expand") > -1){
+            change.innerHTML = "Click to collapse User Agents for " + url;
+        }else{
+            change.innerHTML = "Click to expand User Agents for " + url;
+        }
+        }
+
+        document.onkeydown = function(event){
+            event = event || window.event;
+            switch (event.keyCode){
+                case 37:
+                    leftArrow();
+                    break;
+                case 39:
+                    rightArrow();
+                    break;
+            }
+        };
+                
+        function leftArrow(){
+            $('#previous')[0].click();
+        };
+
+        function rightArrow(){
+            $('#next')[0].click();
+        };
+
+        </script>
+        </head>
+        <body>
+        <center>
+        <center>Report Generated on 2024/01/19 at 09:59:24</center><h3>Page 2</h3><center><a href="report.html" id="previous"> Previous Page </a></center>
+<center><br><a href="report.html"> Page 1</a><a href="report_page2.html"> Page 2</a></center>
+</table><br><h2 id="notfound">404 Not Found</h2><table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://catalog.flowfuse.com" target="_blank">http://catalog.flowfuse.com</a><br>
+            <b>Resolved to:</b> 185.199.108.153<br>
+<br><b> Page Title: </b>Page not found · GitHub Pages
+<br><b> Connection:</b> close
+<br><b> Content-Length:</b> 9379
+<br><b> Server:</b> GitHub.com
+<br><b> Content-Type:</b> text/html; charset=utf-8
+<br><b> Access-Control-Allow-Origin:</b> *
+<br><b> ETag:</b> &quot;64d39a40-24a3&quot;
+<br><b> Content-Security-Policy:</b> default-src &#x27;none&#x27;; style-src &#x27;unsafe-inline&#x27;; img-src data:; connect-src &#x27;self&#x27;
+<br><b> x-proxy-cache:</b> MISS
+<br><b> X-GitHub-Request-Id:</b> CFA2:33FD27:1063C1D:1108913:65A9FAAA
+<br><b> Accept-Ranges:</b> bytes
+<br><b> Date:</b> Fri, 19 Jan 2024 04:29:31 GMT
+<br><b> Via:</b> 1.1 varnish
+<br><b> Age:</b> 0
+<br><b> X-Served-By:</b> cache-bom4724-BOM
+<br><b> X-Cache:</b> MISS
+<br><b> X-Cache-Hits:</b> 0
+<br><b> X-Timer:</b> S1705638571.885015,VS0,VE283
+<br><b> Vary:</b> Accept-Encoding
+<br><b> X-Fastly-Request-ID:</b> d6db562af1bac9e67399b1abcb40a15dc420fc1b
+<br><b> Response Code:</b> 404
+<br><br><a href="source/http.catalog.flowfuse.com.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.catalog.flowfuse.com.png"
+                target="_blank"><img src="screens/http.catalog.flowfuse.com.png"
+                height="400"></a></div></td></tr></div>
+        </div></table><br></table><br>
+<center><br><a href="report.html"> Page 1</a><a href="report_page2.html"> Page 2</a></center>
+<br><h3>Page 2</h3><center><a href="report.html" id="previous"> Previous Page </a></center></body></html>
